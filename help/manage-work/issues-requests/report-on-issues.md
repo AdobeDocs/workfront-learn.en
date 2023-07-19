@@ -13,6 +13,8 @@ exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 ---
 # Report on issues
 
+Learn how to centralize issues by creating a report.
+
 ## Centralize issues by creating a report
 
 Many traffic and project managers create a [!UICONTROL Workfront] custom report to centralize all incoming issues. This makes it easy to track what's new and needs attention.
