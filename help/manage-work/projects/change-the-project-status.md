@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-12
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
