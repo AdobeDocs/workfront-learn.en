@@ -2,7 +2,7 @@
 title: Advanced reporting part 1
 description: Understand a review of report creation, an introduction to [!UICONTROL API explorer] and text mode, and an in depth study of text mode filters.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User

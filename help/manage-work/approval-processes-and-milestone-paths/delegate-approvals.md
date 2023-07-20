@@ -2,7 +2,7 @@
 title: Delegate tasks, issues, and approvals
 description: Learn how to delegate approvals for projects, tasks, issues, and timecards to another Workfront user. Also learn how to delegate task and issue assignments.
 activity: use
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate

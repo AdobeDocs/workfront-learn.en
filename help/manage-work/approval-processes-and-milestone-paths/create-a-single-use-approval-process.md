@@ -2,7 +2,7 @@
 title: Creating a single-use approval process
 description: Learn how to create a single-use approval process on an object in [!DNL  Workfront].
 activity: use
-feature: Work Management
+feature: Approvals
 thumbnail: 335225.jpeg
 type: Tutorial
 role: User

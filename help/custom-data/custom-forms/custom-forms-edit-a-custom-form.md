@@ -1,7 +1,7 @@
 ---
 title: Edit a Custom Form
 description: Learn how to edit the information on a custom form after it's attaching to an object.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate

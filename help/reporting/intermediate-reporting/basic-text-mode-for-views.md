@@ -2,7 +2,7 @@
 title: Understand basic text mode for views
 description: Learn what text mode is, what camel case is, and some basic "plug and play" text mode you can use in your views in Workfront.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User

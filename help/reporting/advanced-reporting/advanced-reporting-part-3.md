@@ -2,7 +2,7 @@
 title: Advanced reporting part 3
 description: Understand an in depth study of text mode groupings, calculated aggregates, and calculated groupings.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
