@@ -1,7 +1,7 @@
 ---
 title: Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS expressions
 description: Learn how to use and create the ADD expressions in a calculated field in Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -27,7 +27,7 @@ Below are a few additional ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR expressions Adob
 
 **Should have been done by**
 
-The customer wanted to know when the task should have been completed based on the Actual Start Date and the Planned Duration. The Projected Completion Date won’t work in this case because it can move if the task is late, and the Planned Completion Date doesn't help if there are delays in prior tasks. 
+The customer wanted to know when the task should have been completed based on the Actual Start Date and the Planned Duration. The Projected Completion Date won't work in this case because it can move if the task is late, and the Planned Completion Date doesn't help if there are delays in prior tasks. 
 
 The expression created was ADDDAYS({actualStartDate},{durationMinutes}/480)
 
@@ -40,7 +40,7 @@ This is why the second value slot contains (Duration/480).
 
 This example includes not only uses the ADDDAYS expression but a custom field previsouly created and saved in the custom form.
 
-The customer is capturing the date an invoice is submitted through a custom date field titled “Invoice Submission Date”. 
+The customer is capturing the date an invoice is submitted through a custom date field titled "Invoice Submission Date". 
 
 Once submitted, the invoice must be completed and filed within 30 days. To automatically produce that completion and filing date, an ADDDAYS calculated field is used along with the "Invoice Submisison Date" custom field. The expression looks like this:
 

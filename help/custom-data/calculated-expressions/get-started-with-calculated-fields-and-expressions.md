@@ -1,7 +1,7 @@
 ---
 title: Get started with calculated fields and expressions
 description: Learn how to create expressions in calculated fields to gather unique custom data about the work being done for your organization.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -53,7 +53,7 @@ Text expressions search, dissect, and combine information found in [!DNL Workfro
 
 For example, text expressions can be used to:
 
-* Show "Over $5,000" when project expenses are more than $5,000, or “Under $5,000” when expenses are below that, in a column of a project view.
+* Show "Over $5,000" when project expenses are more than $5,000, or "Under $5,000" when expenses are below that, in a column of a project view.
 
 * Give each project a unique number that includes the year the project was created, the project's  [!DNL Workfront] reference number, the project name, and the project owner's initials.
 
@@ -61,7 +61,7 @@ For example, text expressions can be used to:
 
 Text expressions can be used in a custom field to do these types of searches and combinations in Workfront.
 
-When looking at the possible text expressions, you’ll find several options.
+When looking at the possible text expressions, you'll find several options.
 
 ![Resource management setups one pager](assets/TE01.png)
 

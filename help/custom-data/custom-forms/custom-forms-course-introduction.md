@@ -1,7 +1,7 @@
 ---
 title: Custom forms Course Introduction
 description: Learn how custom forms can capture organization-specific information.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate

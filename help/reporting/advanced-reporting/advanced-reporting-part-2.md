@@ -2,7 +2,7 @@
 title: Advanced reporting part 2
 description: Understand an in depth study of text mode views, additional details about the structure of text mode, calculated custom data, and calculated columns.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User

@@ -2,7 +2,7 @@
 title: Welcome to advanced reporting
 description: Learn how to use the [!UICONTROL API Explorer] and text mode to create advanced filters, views, and groupings that go beyond the capabilities of the [!UICONTROL Reporting UI].
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -29,7 +29,7 @@ In addition to the videos you will want to download the [Advanced reporting manu
 
 Before watching these tutorials you should have a:
 
-* Good understanding of using Workfront. This means you’ve been a serious Workfront user for at least 3 to 6 months.
+* Good understanding of using Workfront. This means you've been a serious Workfront user for at least 3 to 6 months.
 * Good understanding of the objects you want to include in reports.
 * Good understanding of using custom forms, especially calculated custom fields.
 * A [!UICONTROL Plan] license type with rights to create reports and filters enabled.
@@ -43,4 +43,4 @@ The target audience for these tutorials is [!UICONTROL Plan] license users who c
 
 These tutorials are recordings of a live class given over a period of three days in February 2018. You may notice an older UI in the videos, but this will not affect the accuracy or relevancy of the content provided.
 
-You will also hear some references to getting a test drive account to practice in. Adobe Experience League does not provide test drive accounts, but don’t worry. You can practice in your production account. After all, reporting is just about viewing objects in Workfront, not about creating or deleting any objects. Except for creating the reports themselves of course. But besides the system administrator, you are the only one who can see the reports you create unless you decide to share them.
+You will also hear some references to getting a test drive account to practice in. Adobe Experience League does not provide test drive accounts, but don't worry. You can practice in your production account. After all, reporting is just about viewing objects in Workfront, not about creating or deleting any objects. Except for creating the reports themselves of course. But besides the system administrator, you are the only one who can see the reports you create unless you decide to share them.

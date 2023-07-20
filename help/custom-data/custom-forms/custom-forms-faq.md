@@ -1,7 +1,7 @@
 ---
 title: Answers to Questions about Custom Forms
 description: Get answers to common questions about custom forms.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ jira: KT-10058
 ---
 # Common questions about custom forms
 
-**Can I switch the display type of a field after I’ve created it? For example, can I change from a drop-down menu to check boxes?**
+**Can I switch the display type of a field after I've created it? For example, can I change from a drop-down menu to check boxes?**
 
 Yes. The display type can be switched to another, similar display type—text to paragraph, drop-down to checkboxes or radio buttons, etc. For more information on changing the display type, see the Create a Custom Form article.
 

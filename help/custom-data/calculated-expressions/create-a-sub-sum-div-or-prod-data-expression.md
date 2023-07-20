@@ -1,7 +1,7 @@
 ---
 title: Create a SUB, SUM, DIV, or PROD data expression
 description: Learn how to use and create the basic mathematical expressions in the a calculated field in Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -29,7 +29,7 @@ The ROUND expression takes any number and rounds it to a certain number of decim
 
 Most of the time, the ROUND data expression is used in conjunction with another data expression and when the format field is left as either Text or Number.
 
-Let’s create a calculated field to determine the difference between the number of hours planned and actually logged on a task, which will require the SUB expression and look like this: 
+Let's create a calculated field to determine the difference between the number of hours planned and actually logged on a task, which will require the SUB expression and look like this: 
 
 **SUB({workRequired},{actualWorkRequired})**
 
@@ -41,7 +41,7 @@ If the format is changed to Number when building the calculated field in the cus
 
 ![Workload balancer with utilization report](assets/round01.png)
 
-However, if the field format when creating a custom field is left as Text, the format can’t be easily changed within the view. The ROUND expression has to be used to avoid seeing numbers like this in your project:
+However, if the field format when creating a custom field is left as Text, the format can't be easily changed within the view. The ROUND expression has to be used to avoid seeing numbers like this in your project:
 
 ![Workload balancer with utilization report](assets/round02.png)
 
@@ -51,7 +51,7 @@ The ROUND expression includes the name of the expression (ROUND) and, typically,
 
 An expression would be structured like this: ROUND(data point, #)
 
-In the expression calculating the difference between planned and actual hours, use this expression —DIV(SUB({workRequired},{actualWorkRequired}),60)—as the first data point. Then make sure whatever number comes from that expression doesn’t go more than 2 places to the right of the decimal. 
+In the expression calculating the difference between planned and actual hours, use this expression —DIV(SUB({workRequired},{actualWorkRequired}),60)—as the first data point. Then make sure whatever number comes from that expression doesn't go more than 2 places to the right of the decimal. 
 
 ![Workload balancer with utilization report](assets/round03.png)
 

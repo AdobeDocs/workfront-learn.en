@@ -1,7 +1,7 @@
 ---
 title: Share custom fields
 description: Learn how to adjust the permissions on a custom field to determine whether users can manage or only view the custom field.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Intermediate, Experienced
@@ -15,7 +15,7 @@ exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 
 By default, a custom field in [!DNL Workfront] is editable by everyone who has a Plan license with rights to edit custom forms. You can limit these permissions and determine whether users can manage or only view the custom field. 
 
-By default, a new custom field has edit permissions, meaning users can see the field and edit its value. But if you don’t want it to be edited or deleted by others, change the permissions on the field.
+By default, a new custom field has edit permissions, meaning users can see the field and edit its value. But if you don't want it to be edited or deleted by others, change the permissions on the field.
 
 1. Click on **[!UICONTROL Share field]**.
 1. Change [!UICONTROL Editable System-Wide] to [!UICONTROL Make this visible system-wide] by clicking the **settings icon**.

@@ -2,7 +2,7 @@
 title: Approval Processes Course Introduction
 description: Learn how approval processes can simplify and automate the work review process.
 activity: deploy
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
