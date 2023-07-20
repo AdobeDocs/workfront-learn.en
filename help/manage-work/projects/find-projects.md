@@ -31,10 +31,6 @@ You can quickly find a recent project--and other objects--by clicking the [!UICO
 
 ![[!UICONTROL Status] field expanded in project header](assets/recents.png)
 
->[!NOTE]
->
->The following videos do not contain audio. They are a demonstration of the [!DNL Workfront] features mentioned.
-
 ## Pin a project
 
 As you're working on a project, make it easy to find by pinning it to the menu bar so you can open it with a single click.
