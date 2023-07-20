@@ -21,3 +21,7 @@ In this video, you will learn about:
 * Task constraints
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+
+>[!IMPORTANT]
+>
+>For a more complete explanation of duration types and task constraints see [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
