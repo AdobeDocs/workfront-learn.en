@@ -1,5 +1,5 @@
 ---
-title: Close the project
+title: Change the project status to complete
 description: Learn how to change the status of a project to indicate that work is complete.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-12
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 ---
-# Close the project
+# Change the project status to complete
 
 In this video you will learn:
 

@@ -114,8 +114,7 @@ feature-set: Workfront
     + [Track overall project progress](manage-work/projects/track-overall-project-progress.md)
     + [Track work progress with project metrics](manage-work/projects/track-work-progress-with-project-metrics.md)
     + [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
-    + [Close the project](manage-work/projects/change-the-project-status.md)
-     
+      
   + Tasks {#tasks}
     + [Create tasks](manage-work/tasks/how-to-create-tasks.md)
     + [Understand parent-child tasks](manage-work/tasks/understand-parent-child-tasks.md)
@@ -170,6 +169,7 @@ feature-set: Workfront
 
   + Close a project {#close-a-project}
     + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
+    + [Change the project status to complete](manage-work/projects/change-the-project-status.md)
     + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
     + [Upload assets](manage-work/close-a-project/upload-assets.md)
