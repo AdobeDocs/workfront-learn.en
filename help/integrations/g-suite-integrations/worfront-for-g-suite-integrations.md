@@ -20,3 +20,7 @@ In this video, you will learn how to:
 * Approve Workfront work from [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
+
+## Install Adobe Workfront for G Suite
+
+For instructions on how to install the latest version see: [Install Adobe Workfront for G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
