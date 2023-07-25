@@ -35,9 +35,9 @@ You can use the [!UICONTROL Search] field in the navigation bar or find it liste
 
 If you open a request from the request queue you can clcik on the project name in the breadcrumbs area.
 
-**Can I transfer the information from a request custom form to a project?**
+**Can I transfer the information from a request custom form to a project custom form?**
 
-Yes. This involves creating a custom form and selecting both [!UICONTROL Issue] and [!UICONTROL Project] object types.
+Yes. When you create a custom form select both [!UICONTROL Project] and [!UICONTROL Issue] as the object types. Attach the custom form to the request. When you convert the request to a project the custom form will automatically attach to the new project and the values contained in any fields will appear in both the request and the project custom forms.
 
 **I'm looking at a project or task report. How can I find out what request this object originated from?**
 

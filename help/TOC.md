@@ -326,7 +326,7 @@ feature-set: Workfront
 
 + Integrations {#integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}
-    + [Use Adobe Workfront plugins for Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+    + [Use Adobe Workfront plugins to integrate with Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
     + [Configuring](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
