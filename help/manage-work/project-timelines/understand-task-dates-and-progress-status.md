@@ -23,7 +23,7 @@ In this video, you will learn how to:
 
 >[!NOTE]
 >
->As stated in the video, it's important for people to change the status from **[!UICONTROL New]** to **[!UICONTROL In Progress]** when they start a task so the [!UICONTROL Actual Start Date] will be corect. But if they forget to do this when they start the task they can go back and edit the [!UICONTROL Actual Start Date] at anytime.
+>As stated in the video, it's important for people to change the status from **[!UICONTROL New]** to **[!UICONTROL In Progress]** when they start a task so the [!UICONTROL Actual Start Date] will be correct. But if they forget to do this when they start the task they can go back and edit the [!UICONTROL Actual Start Date] at anytime.
 
 
 <!---
