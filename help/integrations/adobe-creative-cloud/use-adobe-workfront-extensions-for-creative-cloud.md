@@ -1,6 +1,6 @@
 ---
-title: Use Adobe Workfront plugins for Creative Cloud
-description: Find and update the work assigned to you in Adobe Workfront without leaving the following Adobe Creative Cloud applications - Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects
+title: Use Adobe Workfront plugins to integrate with Creative Cloud
+description: Integrate Workfront with Creative Cloud to find and update the work assigned to you in Workfront without leaving the following Creative Cloud applications - Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,10 +10,13 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
+badgeIntegration: label="Integration" type="positive"
+feature-set: Workfront
+topic: Integrations
 ---
-# Use Adobe Workfront plugins for Creative Cloud
+# Use Adobe Workfront plugins to integrate with Creative Cloud
 
-Find and update the work assigned to you in Adobe Workfront without leaving the following Adobe Creative Cloud applications:
+Integrate Workfront with Creative Cloud to find and update the work assigned to you in Adobe Workfront without leaving the following Adobe Creative Cloud applications:
 
 * Photoshop
 * XD
@@ -22,7 +25,7 @@ Find and update the work assigned to you in Adobe Workfront without leaving the 
 * Premiere Pro
 * After Effects
 
-You must install the correct plugin for the Adobe Creative Cloud application you’re using:
+You must install the correct plugin for the Adobe Creative Cloud application you're using:
 
 * For Photoshop, see [Install and open Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * For XD, see [Install and open Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
