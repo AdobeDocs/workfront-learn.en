@@ -19,9 +19,9 @@ doc-type: video
 >
 >Prerequisites:
 >
->* Understand reporting elements
->* Understand reporting components
->* Create a basic view
+>* [Understand reporting elements](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Understand reporting components](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -225,16 +225,23 @@ type=iterate
 
 ![A screen image showing the Assignments and Roles view](assets/assignments-roles-and-percent-view.png)
 
-## Task - Cross project predecessors and successors
+## Task - Cross-project predecessors and successors
 
 ### Task filter (optional)
 
-**Show me all tasks that have at least one cross project predecessor**
+**Show me all tasks that have at least one cross-project predecessor or at least one cross-project successor on current projects**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Task - Show predecessor names and project predecessor is in
@@ -295,7 +302,7 @@ valueformat=HTML
 width=90
 ```
 
-### Task - Show percent complete of the cross project predecessor's project
+### Task - Show percent complete of the cross-project predecessor's project
 
 ```
 displayname=Predecessor project percent complete
@@ -309,7 +316,7 @@ valueformat=HTML
 width=150
 ```
 
-![A screen image showing the Cross project predecessors and successors view](assets/cross-project-predecessors-and-successors.png)
+![A screen image showing the cross-project predecessors and successors view](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Task - Iteration showing all of the people assigned and who assigned each one
