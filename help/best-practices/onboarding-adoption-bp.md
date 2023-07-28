@@ -158,6 +158,5 @@ Create and deploy an Adoption Survey of your users to get a better understanding
 
 Our most successful customers have developed a regular cadence for collecting feedback to understand what might be standing in the way of better adoption of the Workfront solution. Collecting feedback data will empower admins to find the right resources to help make improvements. This Guide to Adoption Surveys walks through the execution, measurement, planning, and review stages of conducting a survey of your Workfront users.
 
-<a href="assets/adoption-survey-guide.zip" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Download the Workfront Guide to Adoption Survey </span></a>
+[Download the Workfront Guide to Adoption Survey](../assets/adoption-survey.pdf)
 
