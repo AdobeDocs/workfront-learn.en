@@ -184,6 +184,7 @@ feature-set: Workfront
 
   + Intermediate projects {#intermediate-projects}
     + [Understand and manage duration types and task constraints](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+    + [Understand cross-project predecessors](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Reporting {#reporting}
