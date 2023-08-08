@@ -594,6 +594,7 @@ feature-set: Workfront
     + [Manage board columns](boards/manage-board-columns.md)
     + [Add cards to a board](boards/add-cards-to-a-board.md)
     + [Manage cards on a board](boards/manage-cards-on-a-board.md)
+    + [Customize cards on a board](boards/customize-cards-on-a-board.md)
     + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
     + [Add and edit column settings on a board](boards/add-and-edit-column-settings-on-a-board.md)
     + [Add and manage tags for cards](boards/add-and-manage-tags-for-cards.md)
