@@ -26,4 +26,4 @@ You will learn how to find these requests in the following places:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-If you want to learn how to create custom reports and put them in a dashboard, see the [Basic report creation course](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
+If you want to learn how to create custom reports and put them in a dashboard, see the [Basic report creation course](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).

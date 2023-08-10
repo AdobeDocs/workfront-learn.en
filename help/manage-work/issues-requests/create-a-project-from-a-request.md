@@ -26,13 +26,13 @@ In this video, you will learn how to:
 
 The [!UICONTROL Options] section may be hidden by the system administrator if they want you to use the defaults they have set. If the [!UICONTROL Options] section does appear, here what the options mean:
 
-**Keep the original issue and tie its resolution to this project.**
+**Keep the original issue and tie its resolution to this project**
 
 If this option is selected, the original issue will marked as resolved when the project is completed. If this option is **not** selected, the original issue will be deleted on project creation.
 
 **Allow (user's name) to have access to this project**
 
-If this option is selected, the person who made the request (or on who's behalf the request was made) will automatically be given access rights to the new project once it is created. If this option is **not** selected, they will not be given any rights.
+If this option is selected, the person who made the request (or on who's behalf the request was made) will automatically be given access rights to the new project once it is created. If this option is **not** selected, they will not be automatically given any rights.
 
 ![An image of a project screen showing conversion options](assets/conversion-options.png)
 
