@@ -132,18 +132,12 @@ feature-set: Workfront
     + [Handle Unplanned Work](manage-work/issues-requests/handle-unplanned-work.md)
     + [Make a request](manage-work/issues-requests/make-a-request.md)
     + [Find requests](manage-work/issues-requests/find-requests.md)
-    + [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
     + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
     + [Update a request](manage-work/issues-requests/update-a-request.md)
-    + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.md)
-    + [Convert issues to other work items](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+    + [Convert an issue/request to a project](manage-work/issues-requests/create-a-project-from-a-request.md)
+    + [Convert an issue/request to a task](manage-work/issues-requests/convert-issues-to-other-work-items.md)
     + [Review and approve digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Report on issues](manage-work/issues-requests/report-on-issues.md)
-
-  + Portfolios {#portfolios}
-    + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-    + [Introduction to the Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-    + [Prioritize and manage work with portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Request queues {#request-queues}
     + [Understand request queues](manage-work/request-queues/understand-request-queues.md)
@@ -151,6 +145,11 @@ feature-set: Workfront
     + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
     + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
+
+  + Portfolios {#portfolios}
+    + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Introduction to the Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
+    + [Prioritize and manage work with portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
