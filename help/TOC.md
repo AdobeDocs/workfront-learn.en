@@ -131,7 +131,7 @@ feature-set: Workfront
   + Issues/requests {#issues-requests}
     + [Handle Unplanned Work](manage-work/issues-requests/handle-unplanned-work.md)
     + [Make a request](manage-work/issues-requests/make-a-request.md)
-    + [Find requests](manage-work/issues-requests/find-requests.md)
+    + [Find and manage requests](manage-work/issues-requests/find-requests.md)
     + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
     + [Update a request](manage-work/issues-requests/update-a-request.md)
     + [Convert an issue/request to a project](manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -641,6 +641,7 @@ feature-set: Workfront
 + [What is the Kanban methodology and how does it work?](agile/what-is-the-kanban-methodology.md)
 + [Transitioning to Agile](agile/transitioning-to-agile.md)
 + [Workfront for executives](workfront-for-executives/workfront-for-executives.md)
++ [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
 
 
 
