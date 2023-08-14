@@ -1,5 +1,5 @@
 ---
-title: Find requests
+title: Find and manage requests
 description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-10
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 ---
-# Find requests
+# Find and manage requests
 
 In this video you'll learn how to find requests you're assigned to, requests you've created, and requests that you manage.
 
