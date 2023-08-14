@@ -9,6 +9,7 @@ role: User
 level: Beginner
 thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
+hidefromtoc: yes
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 ---
 # Manage requests
