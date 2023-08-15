@@ -18,3 +18,8 @@ In this video, you will:
 * Get an introduction into what you will learn from other [!DNL Workfront] for [!DNL Slack] videos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>For information on how to configure [!UICONTROL Workfront for Slack], see [Adobe Workfront for Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+
