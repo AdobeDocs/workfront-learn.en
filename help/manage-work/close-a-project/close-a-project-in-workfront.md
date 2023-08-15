@@ -14,7 +14,7 @@ doc-type: video
 ---
 # Close a project
 
-In this video, you will about:
+In this video, you will learn about:
 
 * Information to review in [!DNL Workfront] before closing a project
 * Why it's important to have updated data
