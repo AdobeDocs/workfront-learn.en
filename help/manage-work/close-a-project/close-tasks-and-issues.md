@@ -15,14 +15,8 @@ exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 
 One of the first steps in closing out a [!DNL Workfront] project is making sure all of the tasks and issues have a status of Complete, or a status that's an equivalent.
 
-Start with the task list and select a [!UICONTROL View] that displays the [!UICONTROL Percent Complete] or the [!UICONTROL Status] column or both. A quick scan down the task list lets you pinpoint which tasks haven't had a status change.
+If the [!UICONTROL Percent Complete] field in the project header shows 100% you know that all your tasks are marked as 100% complete. However, a task that is [!UICONTROL Complete - Pending Approval] will still read as 100%, so don't forget to check for those. See [Complete approvals](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) for all the tips about approvals.
 
-![Project displaying [!UICONTROL Percent Complete] column](assets/planner-fund-close-tasks-and-issues.png)
+If you have any issues that are incomplete, even those pending approval, there will be a number next to the Issues tab showing how many. If the number is zero you don't have any incomplete issues.
 
-Not every organization uses [!DNL Workfront's] issues functionality to record or resolve problems, change orders, etc., that arose during the project. But if you do, switch over to the [!UICONTROL Issues] section and make sure that all issues have been resolved.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Project displaying [!UICONTROL Percent Complete] and open issues](assets/close-tasks-and-issues.png)
