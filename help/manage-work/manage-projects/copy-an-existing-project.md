@@ -23,4 +23,4 @@ The Copy Project window lets you change the title and status, as well as clear a
 
 ![Cr](assets/copy-existing-02.png)
 
-Selecting Clear Assignments and/or setting the status to Planning prevents the copied project from sending out task assignment notifications right after copying.
+Selecting Clear Assignments or setting the status to Planning prevents the copied project from sending out task assignment notifications right after copying.

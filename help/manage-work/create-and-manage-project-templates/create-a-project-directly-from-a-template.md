@@ -25,6 +25,9 @@ The details window allows you to make changes to the settings of the new project
 >
 >In order to create a project using this method, you need access to the Templates area of Workfront. If you are unable to access templates, you can still use a template to create a project from the Projects area or when converting an issue/task. 
 
-**Pro-Tip**: If there’s a template you use frequently, make it a favorite! You’ll see the template listed in the New Project menu, in addition to it appearing under the Favorites and Recents menu in the navigation bar. 
+>[!TIP]
+>
+>If there's a template you use frequently, make it a favorite! You'll see the template listed in the New Project menu, in addition to it appearing under the Favorites menu in the navigation bar. 
+
 
 ![New project favorite templates](assets/direct-template-03.png)
