@@ -148,8 +148,8 @@ feature-set: Workfront
 
   + Portfolios {#portfolios}
     + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-    + [Introduction to the Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-    + [Prioritize and manage work with portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+    + [Understand the [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
+    + [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
