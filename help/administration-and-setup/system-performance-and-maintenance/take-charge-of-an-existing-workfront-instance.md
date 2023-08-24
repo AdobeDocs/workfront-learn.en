@@ -17,7 +17,7 @@ The wonderful thing about Workfront is that it’s so customizable. The challeng
 
 However, through our Inherited Instance Checklist, you can learn everything you need to know about your instance.  
 
-![Inherited instance checklist image](administration-and-setup/system-performance-and-maintenance/assets/wf-inherited-instance-image.png)
+![Inherited instance checklist image](assets/wf-inherited-instance-image.png)
 <br></br>
 
 In the Inherited Instance checklist, you’ll review a comprehensive set of questions, resources and links to get a clear understanding of how it’s been configured. 
