@@ -30,7 +30,7 @@ Wherever possible, we encourage you to work with others in your organization to 
 
 * To download the Blueprint, navigate to the Main Menu in your own Workfront instance and select Blueprints. Find the Blueprint titled “Inherited Instance Basics | Checklist” and click Install. Choose your production or sandbox environment and continue to configure. More information on installing and configuring Blueprints can be found [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* To download the Excel checklist, click [here](administration-and-setup/system-performance-and-maintenance/assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* To download the Excel checklist, click [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Whether you use the Blueprint or the Excel checklist, you can think of this process in 3 key phases - Discovery, Audit, and Documentation. Descriptions and ideal outcomes are listed below.
   
