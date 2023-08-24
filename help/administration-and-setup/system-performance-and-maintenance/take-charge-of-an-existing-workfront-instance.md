@@ -16,22 +16,23 @@ exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
 The wonderful thing about Workfront is that it’s so customizable. The challenging thing about Workfront is that it’s so customizable. And if you’re a new system, or group, administrator taking over an existing Workfront instance, it can be overwhelming to figure out how it was originally configured and set up. 
 
 However, through our Inherited Instance Checklist, you can learn everything you need to know about your instance.  
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Download the Inherited Instance checklist </span>
-        </a>
 
-![Inherited instance checklist image](assets/wf-inherited-instance-imagel.jpg)
+![Inherited instance checklist image](assets/wf-inherited-instance-image.png)
+<br></br>
 
-In this checklist, you’ll review a comprehensive set of questions, resources and links to get a clear understanding of how it’s been configured. 
+In the Inherited Instance checklist, you’ll review a comprehensive set of questions, resources and links to get a clear understanding of how it’s been configured. 
 
-In addition, we've outlined 3 key phases you'll go through - Discovery, Audit, and Documentation - with suggested durations. Those can be adjusted to suit your specific needs and don’t have to be done all in one sitting!  
+The checklist has been created both as a Workfront Blueprint and as a downloadable Excel spreadsheet. We recommend using the Blueprint to manage and document your work right in Workfront.   
 
-The tabs in the spreadsheet are organized by topic, rather than by timeline so you can progress through the document in the way that makes the most sense for you and your organization.  
+Both the Blueprint and the spreadsheet are organized by topic, rather than by timeline so you can progress in the way that makes the most sense for you and your organization. . The durations provided are just an example and you should adjust them to suit your specific needs. This does not have to be done all in one sitting! 
 
-Wherever possible, we encourage you to work with others in your organization to review and document these elements, and to keep this document up to date if there are any major changes. Future Admins in your instance will thank you! 
+Wherever possible, we encourage you to work with others in your organization to review and document these elements, and to keep your documentation up to date if there are any major changes. Future Admins in your instance will thank you! 
 
+* To download the Blueprint, navigate to the Main Menu in your own Workfront instance and select Blueprints. Find the Blueprint titled “Inherited Instance Basics | Checklist” and click Install. Choose your production or sandbox environment and continue to configure. More information on installing and configuring Blueprints can be found [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* To download the Excel checklist, click [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Whether you use the Blueprint or the Excel checklist, you can think of this process in 3 key phases - Discovery, Audit, and Documentation. Descriptions and ideal outcomes are listed below.
   
 <br>
 </br>
@@ -91,6 +92,7 @@ By going through each phase, and with the help of the Inherited Instance checkli
 </br>
 
 Additional information can be found below:
+* [Webinar: Tips for Taking Over an Inherited Instance](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Defining objectives for your Workfront implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Blog post: Executive Sponsorship and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Blog Post: Introduction to Adobe Workfront KPIs ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
