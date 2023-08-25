@@ -37,7 +37,7 @@ The [!UICONTROL New Proof] email also contains essential information about the p
 * The version number lets you know which version of the proof you’ll be looking at.
 * And, most importantly, the deadline appears two places in the email—right above the proof details section and in the gray bar for the workflow stage you’re part of.
 
-Once you’re ready to start your review, all you have to do is click the blue [!UICONTROL Go to proof] button and the file automatically opens into [!DNL Workfront’s] proofing viewer.
+Once you’re ready to start your review, all you have to do is click the blue [!UICONTROL Go to proof] button and the file automatically opens in the [!DNL Workfront] proofing viewer.
 
 ### Open a proof from [!UICONTROL Home]
 
