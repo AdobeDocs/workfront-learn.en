@@ -205,10 +205,6 @@ feature-set: Workfront
     + [Create dashboards](reporting/basic-reporting/create-dashboards.md)
     + [Send and share reports](reporting/basic-reporting/how-to-send-and-share-reports.md)
     + [Understand report settings](reporting/basic-reporting/report-settings.md)
-    + [Understand the calendar interface](reporting/basic-reporting/tour-of-the-interface.md)
-    + [Create a custom calendar](reporting/basic-reporting/creating-custom-calendars.md)
-    + [Understand additional calendar options](reporting/basic-reporting/additional-calendar-options.md)
-    + [Your turn to create a calendar](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
   + Intermediate reporting {#intermediate-reporting}
     + [Create filters with user-based wildcards](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -227,6 +223,12 @@ feature-set: Workfront
     + [Advanced reporting part 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
     + [Advanced reporting part 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
     + [Advanced reporting part 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+  + Calendar reports {#calendar-reports}
+    + [Understand the calendar report interface](reporting/basic-reporting/tour-of-the-interface.md)
+    + [Create a custom calendar report](reporting/basic-reporting/creating-custom-calendars.md)
+    + [Understand additional calendar report options](reporting/basic-reporting/additional-calendar-options.md)
+    + [Your turn to create a calendar report](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
   + Enhanced Analytics {#enhanced-analytics}
     + [A moment with Product about [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
