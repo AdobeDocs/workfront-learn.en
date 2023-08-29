@@ -1,5 +1,5 @@
 ---
-title: Your turn to create a calendar
+title: Your turn to create a calendar report
 description: Learn how to create a customer calendar showing your incomplete tasks and issues.
 activity: use
 team: Technical Marketing
@@ -11,26 +11,26 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 ---
-# Your turn to create a calendar
+# Your turn to create a calendar report
 
 In this activity you will get hands on experience creating your own calendar.
 
 ## Activity: Create a calendar
 
-Create a customer calendar named “My Incomplete Work”.
+Create a customer calendar named "My Incomplete Work".
 
-Include a calendar group named “Incomplete Tasks” showing all incomplete tasks assigned to you on Current projects.
+Include a calendar group named "Incomplete Tasks" showing all incomplete tasks assigned to you on Current projects.
 
 Select red as the color for these items.
 
-Include another calendar group named “Incomplete Issues” showing all incomplete issues assigned to you on Current projects. Select blue as the color for these items. 
+Include another calendar group named "Incomplete Issues" showing all incomplete issues assigned to you on Current projects. Select blue as the color for these items. 
 
 ## Answer
 
 1. Navigate to the Calendars area from the Main menu.
-1. Click the New Calendar button and Name the calendar “My Incomplete Work.”
+1. Click the New Calendar button and Name the calendar "My Incomplete Work."
 1. Under the first grouping, click Add advanced items.
-1. In the Add items to the calendar window that pops up, name the group “Incomplete Tasks.”
+1. In the Add items to the calendar window that pops up, name the group "Incomplete Tasks."
 1. Select red as the color.
 1. Change the Date Field to Planned Dates.
 1. Set the On the calendar, show field to End Date Only.
@@ -51,7 +51,7 @@ Include another calendar group named “Incomplete Issues” showing all incompl
 
 1. Create a second grouping by clicking Add to Calendar.
 1. Under this grouping, click on Add advanced items.
-1. In the Add items to the calendar window that pops up, name the group “Incomplete Issues.”
+1. In the Add items to the calendar window that pops up, name the group "Incomplete Issues."
 1. Select blue as the color.
 1. Change the Date Field to Planned Dates.
 1. Set the On the calendar, show field to End Date Only.
