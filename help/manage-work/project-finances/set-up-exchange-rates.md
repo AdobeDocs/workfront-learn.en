@@ -17,7 +17,7 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 
 Exchange rates are managed by system administrators. Additional currencies can be set up as needed for your organization.
 
-[!DNL Workfront]’s base (default) currency is the United States dollar. This is the currency that financial information will be calculated in by default, unless a different currency is specified on an individual project.
+Workfront's default base currency is the United States dollar. This is the currency that financial information will be calculated in by default. This default can be changed globally and on individual projects.
 
 ## Set up currencies and exchange rates
 
@@ -30,7 +30,7 @@ Exchange rates are managed by system administrators. Additional currencies can b
 1. Click the **[!UICONTROL Add Currency]** button.
 1. Select the country currency from the dropdown.
 1. Enter the desired exchange rate for the currency.
-1. If a currency other than the U.S. dollar should be the [!DNL Workfront] system’s base (default) currency, click the button next to the currency name.
+1. If a currency other than the U.S. dollar should be the [!DNL Workfront] system's base (default) currency, click the button next to the currency name.
 1. Click **[!UICONTROL Save]** when all currencies have been added.
 
 ![An image of adding a currency to the exchange rates list](assets/setting-up-finances-5.png)
