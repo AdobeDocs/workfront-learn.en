@@ -558,10 +558,10 @@ feature-set: Workfront
 
   + Brand Connect user {#brand-connect}  
     + [Understand [!UICONTROL Brand Connect] as a user](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+    + [Understand navigation and searching as a user](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
     + [Understand [!UICONTROL Brand Connect] notifications](workfront-dam/brand-connect-user/brand-connect-notifications.md)
     + [Understand downloading and sharing as a user](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
     + [Understand lightboxes as a user](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-    + [Understand navigation and searching as a user](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
     + [Work with assets as a user](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}
