@@ -1,6 +1,6 @@
 ---
-title: Creating a single-use approval process
-description: Learn how to create a single-use approval process on an object in [!DNL  Workfront].
+title: Create a single-use approval process
+description: Learn how to create a single-use approval process on an object in Workfront.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -18,7 +18,7 @@ In this video, you will learn how to create a single-use approval process on an 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
 
-<!---
-learn more URLS
-Approval process overview
---->
+>[!TIP]
+>
+>You can add a single use approval process to a project template.
+
