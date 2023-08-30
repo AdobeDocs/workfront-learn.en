@@ -12,7 +12,7 @@ jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 ---
-# Creating a single-use approval process
+# Create a single-use approval process
 
 In this video, you will learn how to create a single-use approval process on an object in [!DNL  Workfront].
 
