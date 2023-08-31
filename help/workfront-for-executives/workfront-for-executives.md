@@ -16,6 +16,13 @@ doc-type: video
 ---
 # Workfront for executives
 
+As an executive, Adobe Workfront can:
+
+* Keep you informed about the progress of work you're concerned about through **reports and dashboards**
+* Give you an easy way to **communicate with project stakeholders using updates**
+* Give you an easy way to **make a work request**
+* Give you an easy way to see **items awaiting your approval**
+
 ## Reports and Dashboards
 
 ### Reports
@@ -34,19 +41,26 @@ Click Dashboards from the Main menu icon in the upper-right corner to access the
 
 Leaders can access the different dashboards available to them from the left panel navigation.
 
-![An image of the Dashboards option in the main menu](assets/workfront-4-executives-2.png)
+![An image of the Dashboards page](assets/workfront-4-executives-2.png)
 
-* **All Dashboards**: Displays the dashboards that you or other users have created, and which you have permissions to at least View.
+* **All Dashboards**: Displays the dashboards that you or other users have created, and which you have permissions to at least view.
 * **My Dashboards**: Displays the dashboards that you have built.
 * **Shared Dashboards**: Displays the dashboards that have been created by other users and shared with you.
 
-With a dashboard, leaders are able to review things like “Costs, Revenues & Budgets,” for important projects and open issues their teams are dealing with. They can also see projects that are at risk, as well as a list of items that need executive approval.
+With a dashboard, leaders are able to review things like "Costs, Revenues & Budgets," for important projects and open issues their teams are dealing with. They can also see projects that are at risk, as well as a list of items that need executive approval.
 
 Reports in Workfront can help drive accountability for your employees. The key to leveraging reports is to establish a clear workflow for the way your organization is using them. Make sure everyone has a clear understanding of which reports are being used to measure success.
 
 ![Example of reports in a Dashboard in Workfront ](assets/workfront-4-executives-3.png)
 
 Example of reports in a Dashboard in Workfront 
+
+## Communicate with project stakeholders using updates
+
+Communicate with the project team within the project itself so all project communications will be easily accessible.
+
+![An image of the Updates page](assets/workfront-4-executives-4.png)
+
 
 ## Make a request
 
@@ -59,3 +73,10 @@ In this video, you will learn how to:
 * View your submitted requests
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Items awaiting your approval
+
+In [!UICONTROL Home] you can easily find items awaiting your approval.
+
+![An image of the Home page](assets/workfront-4-executives-5.png)
+
