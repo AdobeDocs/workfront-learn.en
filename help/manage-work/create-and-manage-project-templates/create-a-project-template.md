@@ -1,6 +1,6 @@
 ---
-title: Create a project template
-description: Learn to create a project template from scratch and from an existing template.
+title: Create a project template and learn about [!UICONTROL Blueprints]
+description: Learn to create a project template from scratch and from an existing template, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,11 +8,16 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 ---
-# Create a project template
+# Create a project template and learn about [!UICONTROL Blueprints]
+
+Learn to create a project template from scratch and from an existing template, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
+
+## Create a project template
 
 In this video, you will learn how to:
 
@@ -23,11 +28,11 @@ In this video, you will learn how to:
 
 ## Templates created with [!UICONTROL Blueprints] 
 
-  System administrators can use [!UICONTROL Blueprints] to help build project templates. This feature, located in the Main Menu, allows you to access pre-built, ready-to-use templates that are targeted to a department and specific maturity level. These templates give users a head start to repeatable project creation and help maintain consistency across projects similar in scope. 
+  Workfront users can use [!UICONTROL Blueprints] to help build project templates. This feature, located in the Main Menu, allows you to access pre-built, ready-to-use templates that are targeted to a department and specific maturity level. These templates give users a head start to repeatable project creation and help maintain consistency across projects similar in scope. 
 
 ![Blueprints in Main Menu](assets/pt-blueprints-01.png)
 
-As a Planner, you can browse the list of blueprints available in Workfront. You cannot apply a blueprint directly when creating a new project (such as converting a task or request into a project). A key distinction between a blueprint and a project template is that a blueprint is used to make a template, whereas a project template is used to create a project. The blueprint needs to be installed by a system administrator for the corresponding template to be created.
+Any licensed user can browse the list of blueprints available in Workfront. You cannot apply a blueprint directly when creating a new project (such as converting a task or request into a project). A key difference between a blueprint and a project template is that a blueprint is used to make a template, whereas a template is used to create a project. **The blueprint needs to be installed by a system administrator for the corresponding template to be created.**
 
 If you find a blueprint that looks interesting, you can click on **[!UICONTROL Details]** to learn more about it. 
 
