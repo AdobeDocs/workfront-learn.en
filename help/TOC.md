@@ -159,7 +159,7 @@ feature-set: Workfront
     + [Apply milestones](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
-    + [Create a project template](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+    + [Create a project template and learn about Blueprints](manage-work/create-and-manage-project-templates/create-a-project-template.md)
     + [Create a project directly from a template](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
     + [Share a project template](manage-work/create-and-manage-project-templates/share-a-project-template.md)
     + [Copy an existing project](manage-work/manage-projects/copy-an-existing-project.md)
