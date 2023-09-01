@@ -1,6 +1,6 @@
 ---
 title: Workfront for executives
-description: Learn how to access reports and dashboards, make requests, and review requests.
+description: Learn how Workfront can help you manage work in your organization.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,11 +10,13 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: yes
 hidefromtoc: yes
-jira: KT-null
+jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
 ---
 # Workfront for executives
+
+Learn how Workfront can help you manage work in your organization.
 
 As an executive, Adobe Workfront can:
 
