@@ -43,7 +43,7 @@ Nothing else is required to view the combined file. Just click [!UICONTROL Open 
 
 Sorry, combining files is not possible when Rich Media files such as videos, animations and interactive URLs are in your list.
 
-![An image of error message explaining you cannot combine video files.](assets/combine-proofs-2.png)
+![An image of error message explaining you cannot combine video files.](assets/combine-proofs-error.png)
 
 
 ## Your turn
