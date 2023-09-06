@@ -15,6 +15,12 @@ exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 
 Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.
 
+## Prerequisites
+
+1. This exercise requires a Workfront test drive. You can request one by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you're unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
+1. Fusion exercises assume you have watched the walkthrough video that corresponds to the exercise. In this case it's [Initial scenario design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
+
 ## Exercise overview
 
 Create a new project in Workfront for each row in the Project List CSV file.
@@ -42,7 +48,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
    ![Initial Scenario Design Image 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Enter the URL of your Workfront instance, then click Next.
+1. Enter the URL of **your Workfront instance**, then click Next.
 
    ![Initial Scenario Design Image 5](../12-exercises/assets/initial-scenario-design-5.png)
 
