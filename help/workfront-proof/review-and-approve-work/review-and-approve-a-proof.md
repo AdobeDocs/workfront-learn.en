@@ -14,13 +14,13 @@ doc-type: video
 ---
 # Review and approve a proof
 
-Before you start reviewing a proof, make sure you know what’s expected of you. What is your role in the proofing workflow? Review the proof, approve it, or both?
+Before you start reviewing a proof, make sure you know what's expected of you. What is your role in the proofing workflow? Review the proof, approve it, or both?
 
-As a copy editor, your focus could be reviewing the proof for grammatical errors and misspellings. Marketing and creative teams may focus on the asset’s design and making sure corporate branding is followed. Legal teams may ensure the wording of a services contract is airtight. And a project manager might make sure the content being reviewed meets the intent and goals of the project it’s associated with.
+As a copy editor, your focus could be reviewing the proof for grammatical errors and misspellings. Marketing and creative teams may focus on the asset's design and making sure corporate branding is followed. Legal teams may ensure the wording of a services contract is airtight. And a project manager might make sure the content being reviewed meets the intent and goals of the project it's associated with.
 
-You might be asked to approve the proof, too. Approving a proof means you’re saying, “this work is OK and ready to go.” Or maybe you have to say, “this work needs changes made, please send it back for revisions.”
+You might be asked to approve the proof, too. Approving a proof means you're saying, "this work is OK and ready to go." Or maybe you have to say, "this work needs changes made, please send it back for revisions."
 
-Once you know what’s expected, you can get started with reviewing a proof.
+Once you know what's expected, you can get started with reviewing a proof.
 
 ## Receive a proof to review
 
@@ -33,23 +33,23 @@ It is important to note that this proof link is unique to you. If you share the 
 The [!UICONTROL New Proof] email also contains essential information about the proof:
 
 * The name of the proof is the subject line of the email.
-* The thumbnail gives you a quick look at what you’ll be reviewing.
-* The version number lets you know which version of the proof you’ll be looking at.
-* And, most importantly, the deadline appears two places in the email—right above the proof details section and in the gray bar for the workflow stage you’re part of.
+* The thumbnail gives you a quick look at what you'll be reviewing.
+* The version number lets you know which version of the proof you'll be looking at.
+* And, most importantly, the deadline appears two places in the email—right above the proof details section and in the gray bar for the workflow stage you're part of.
 
-Once you’re ready to start your review, all you have to do is click the blue [!UICONTROL Go to proof] button and the file automatically opens in the [!DNL Workfront] proofing viewer.
+Once you're ready to start your review, all you have to do is click the blue [!UICONTROL Go to proof] button and the file automatically opens in the [!DNL Workfront] proofing viewer.
 
 ### Open a proof from [!UICONTROL Home]
 
-If you’re working in [!DNL Workfront] and have been asked to approve a proof, you’ll find an assignment in the [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home]. It’s helpful to select just [!UICONTROL Approvals] from the [!UICONTROL Filter], so you can focus on that type of work.
+If you're working in [!DNL Workfront] and have been asked to approve a proof, you'll find an assignment in the [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home]. It's helpful to select just [!UICONTROL Approvals] from the [!UICONTROL Filter], so you can focus on that type of work.
 
 ![An image of [!DNL Workfront] [!UICONTROL Home] with the [!UICONTROL Approvals] filter activated and a proof selected from the list.](assets/open-proof-from-home.png)
 
-It’s important to note that proofs show up in [!DNL Workfront] [!UICONTROL Home] only if you’re assigned to approve it. If you’ve just been asked to only review the proof, it will not show up in [!DNL Workfront] [!UICONTROL Home] when you select [!UICONTROL Approvals ]from the filter list.
+It's important to note that proofs show up in [!DNL Workfront] [!UICONTROL Home] only if you're assigned to approve it. If you've just been asked to only review the proof, it will not show up in [!DNL Workfront] [!UICONTROL Home] when you select [!UICONTROL Approvals ]from the filter list.
 
 Select the proof approval in the [!UICONTROL Work List], then click the [!UICONTROL Go to Proof] link to open it into the proofing viewer.
 
-Depending on your organization’s proof and project workflows, you may see a task assignment in [!DNL Workfront] [!UICONTROL Home] instead of a proof approval request. In this case, you’ll open the proof from the [!UICONTROL Documents] section of the task itself (see below for instructions).
+Depending on your organization's proof and project workflows, you may see a task assignment in [!DNL Workfront] [!UICONTROL Home] instead of a proof approval request. In this case, you'll open the proof from the [!UICONTROL Documents] section of the task itself (see below for instructions).
 
 You may also find proofs to review on a [!DNL Workfront] dashboard that was created specifically for your team or organization to help manage proof workflows.
 
@@ -60,15 +60,25 @@ If you normally work with projects, tasks, or issues in [!DNL Workfront], you ma
 ![An image of the [!UICONTROL Documents] section found in an [!DNL  Workfront] task with the [!UICONTROL Open Proof ]link highlighted.](assets/open-proof-from-documents.png)
 
 1. Click the name of the project, task, or issue.
-2. Click [!UICONTROL Documents] in the left panel menu of the item’s page.
+2. Click [!UICONTROL Documents] in the left panel menu of the item's page.
 3. Find the proof in the [!UICONTROL Documents] list.
 4. Click the [!UICONTROL Open Proof] link to open the proofing viewer.
+
+## How to approve a proof
+
+After you've opened a proof you will see a **Make decision** button at the top, next to **Add comment**. If you are not an approver for this proof you will not see this button.
+
+![An image of the first Make decision button.](assets/make-decision-1.png)
+
+When you are ready to make a decision click the **Make decision** button to see your decision options. Select your choice, then click the other **Make decision** button below.
+
+![An image of the second Make decision button.](assets/make-decision-2.png)
 
 ## Review and approve a proof
 
 In this video, you will learn how to:
 
-* Know what’s expected of you when reviewing a proof
+* Know what's expected of you when reviewing a proof
 * Make a comment on a proof
 * Use markup to indicate changes needed on a proof
 * Reply to a proof comment
