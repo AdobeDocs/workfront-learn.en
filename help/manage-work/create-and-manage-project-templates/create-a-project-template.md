@@ -15,7 +15,7 @@ doc-type: video
 ---
 # Create a project template and learn about [!UICONTROL Blueprints]
 
-Learn to create a project template from scratch and from an existing template, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
+Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
 
 ## Create a project template
 
