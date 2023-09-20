@@ -30,7 +30,6 @@ feature-set: Workfront
     + [Create and manage issue severities](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
     + [Customize issue types and terminology](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
     + [Configure global default issue preferences](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-    + [Configure global default project settings](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
   + Layout templates {#layout-templates}
     + [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
