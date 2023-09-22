@@ -6,6 +6,7 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.en
 index: yes
+auto-video-transcripts: true
 ---
 
 # Metadata for internal use
