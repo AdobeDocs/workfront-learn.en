@@ -565,6 +565,7 @@ feature-set: Workfront
     + [Work with assets as a user](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}
+  + [Remove, add, and rearrange widgets in Home](workfront-home/remove-add-and-rearrange-widgets.md)
   + [Find your work](workfront-home/find-your-work-in-workfront-home.md)
   + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
   + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
