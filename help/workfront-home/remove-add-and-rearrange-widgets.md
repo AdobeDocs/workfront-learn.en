@@ -15,4 +15,4 @@ thumbnail: 3424529.jpeg
 
 Learn how to remove, add, and rearrange widgets on the Home page.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on)
