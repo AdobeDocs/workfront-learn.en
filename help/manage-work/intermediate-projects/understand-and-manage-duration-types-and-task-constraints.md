@@ -11,6 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27
 jira: KT-13530
 doc-type: video
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
 ---
 # Understand and manage duration types and task constraints
 
@@ -32,5 +33,3 @@ For information on how to create a Duration types and task constraints view, see
 For details about duration types see [Task Duration and Duration Types](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
 
 For details about task constraints see [Task Constraints](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
-
-

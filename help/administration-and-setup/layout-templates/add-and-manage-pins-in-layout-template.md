@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-19
 jira: KT-13069
 thumbnail: 3418382.jpeg
-exl-id: 022a343f-f7b4-41d0-bfdd-395157a19da7
+exl-id: 82b41f3c-3b44-4e50-85fd-dbaf31dc1acb
 ---
 # Add and manage pins through a layout templates
 

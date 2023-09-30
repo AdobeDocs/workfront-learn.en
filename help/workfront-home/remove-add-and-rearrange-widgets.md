@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-25
 jira: KT-14017
 thumbnail: 3424529.jpeg
+exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 ---
-
 # Remove, add, and rearrange widgets in Home
 
 Learn how to remove, add, and rearrange widgets on the Home page.
