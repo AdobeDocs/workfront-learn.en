@@ -20,5 +20,5 @@ Learn how to remove, add, and rearrange widgets on the Home page.
 
 >[!NOTE]
 >
-> More information about each widget can be found in the [Get started with New Home in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) article.
+> To find more information about each widget, go to the [Get started with New Home in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) article.
 
