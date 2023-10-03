@@ -14,7 +14,10 @@ doc-type: video
 # Find your assigned work in [!DNL Workfront] [!UICONTROL Home]
 
 
->[!NOTE] There are currently two Workfront Home experiences. If you have the <b>new Home experience</b>, view the [Remove, add, and rearrange widgets in Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/remove-add-and-rearrange-widgets.html?lang=en) tutorial.
+
+>[!NOTE]
+>
+>There are currently two Home experiences available in Workfront. If you have the new Home experience, view the [Remove, add, and rearrange widgets in Home](help/workfront-home/review-work-in-my-updates-or-workfront-home.md) tutorial.
 
 
 In this video, you will learn how to:
