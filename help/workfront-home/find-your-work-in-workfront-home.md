@@ -17,7 +17,7 @@ doc-type: video
 
 >[!NOTE]
 >
->There are currently two Home experiences available in Workfront. If you have the new Home experience, view the [Remove, add, and rearrange widgets in Home](help/workfront-home/remove-add-and-rearrange-widgets.md) tutorial.
+>There are currently two Home experiences available in Workfront. If you have the new Home experience, view the [Remove, add, and rearrange widgets in Home](/help/workfront-home/remove-add-and-rearrange-widgets.md) tutorial.
 
 
 In this video, you will learn how to:
