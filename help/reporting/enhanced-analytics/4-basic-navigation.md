@@ -1,5 +1,5 @@
 ---
-title: Understand basic navigation in [!UICONTROL Enhanced Analytics]
+title: Understand basic navigation
 description: Learn how to navigate to the [!UICONTROL Analytics] area and see an overview of the work charts and the people charts in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 ---
-# Understand basic navigation in [!UICONTROL Enhanced Analytics]
+# Understand basic navigation
 
 To navigate to [!UICONTROL Analytics] in the new Workfront experience, use the [!UICONTROL Main Menu] button.
 

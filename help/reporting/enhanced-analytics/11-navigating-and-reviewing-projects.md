@@ -1,6 +1,6 @@
 ---
-title: Understand navigating and reviewing projects in [!UICONTROL Enhanced Analytics]
-description: Learn how to read the Flight plan chart in Workfront.
+title: Understand navigating and reviewing projects
+description: Learn how to read the Flight plan chart in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -12,7 +12,7 @@ jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 ---
-# Understand navigating and reviewing projects in [!UICONTROL Enhanced Analytics]
+# Understand navigating and reviewing projects
 
 In this video, you will learn:
 

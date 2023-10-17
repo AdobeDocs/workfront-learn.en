@@ -12,7 +12,7 @@ jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 ---
-# Understand actions in [!UICONTROL Enhanced Analytics] - hover, click and drag, and click in
+# Understand actions - hover, click and drag, and click in
 
 In this video, you will learn:
 

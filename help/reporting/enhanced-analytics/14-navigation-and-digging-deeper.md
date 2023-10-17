@@ -1,6 +1,6 @@
 ---
-title: Dig deeper into navigation in [!UICONTROL Enhanced Analytics]
-description: Learn how to quickly see how much time workers are dedicating to each project in Workfront.
+title: Dig deeper into navigation
+description: Learn how to quickly see how much time workers are dedicating to each project in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -12,7 +12,7 @@ jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 ---
-# Dig deeper into navigation in [!UICONTROL Enhanced Analytics]
+# Dig deeper into navigation
 
 In this video, you will learn:
 

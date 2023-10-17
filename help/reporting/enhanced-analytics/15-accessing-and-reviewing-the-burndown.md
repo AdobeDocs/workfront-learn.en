@@ -1,6 +1,6 @@
 ---
-title: Understand accessing and reviewing the burndown chart in [!UICONTROL Enhanced Analytics]
-description: Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in Workfront.
+title: Understand accessing and reviewing the burndown chart
+description: Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,7 +12,7 @@ jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 ---
-# Understand accessing and reviewing the burndown in [!UICONTROL Enhanced Analytics]
+# Understand accessing and reviewing the burndown
 
 In this video, you will learn:
 

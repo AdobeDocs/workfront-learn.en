@@ -12,7 +12,7 @@ jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
 ---
-# Learn the benefits of proofing in [!DNL Workfront]
+# Learn the benefits of proofing
 
 In this video, you will learn:
 

@@ -1,5 +1,5 @@
 ---
-title: Enable and Enforce Keyword Taxonomy
+title: Enable and enforce keyword taxonomy
 description: Learn how to enable and enforce the keyword taxonomy, when users can enter their own keywords, and set up search facets in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
 ---
-# Metadata and keywords: enable and enforce keyword taxonomy
+# Enable and enforce keyword taxonomy
 
 In this video, you will learn how to:
 

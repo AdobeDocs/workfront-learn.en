@@ -1,5 +1,5 @@
 ---
-title: Understand groups and users in [!UICONTROL Workfront DAM]
+title: Set up groups and users
 description: Learn how to create folders, groups, and users in [!UICONTROL Workfront DAM]. Understand the user role types and grant permissions to folders.
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 ---
-# System setup: groups and users
+# Set up groups and users
 
 In this video, you will learn how to:
 
@@ -26,11 +26,11 @@ In this video, you will learn how to:
 
 ## Groups and users review
 
-As you configure your [!UICONTROL Workfront DAM] system, it’s important to consider the roles that users and groups play in the big picture.
+As you configure your [!UICONTROL Workfront DAM] system, it's important to consider the roles that users and groups play in the big picture.
 
 Groups control access to asset folders in [!UICONTROL Workfront DAM]. Group settings also control what users can do with the assets (view, download, edit, etc.) they have permission to access.
 
-When creating groups, it’s vital to keep in mind what asset folders the members of that group will need access to in [!UICONTROL Workfront DAM].
+When creating groups, it's vital to keep in mind what asset folders the members of that group will need access to in [!UICONTROL Workfront DAM].
 
 Users are the individuals who have logins to [!UICONTROL Workfront DAM]. A user cannot access anything in [!UICONTROL Workfront DAM] unless they are assigned to a group. Users can belong to more than one group, depending on their needs.
 

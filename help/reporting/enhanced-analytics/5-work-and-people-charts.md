@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 ---
-# Understand work and people charts in [!UICONTROL Enhanced Analytics]
+# Understand work and people charts
 
 Work charts show you activity from the project and task perspective, while People charts show you activity from the perspective of a home team.
 
@@ -21,7 +21,7 @@ Select the type of Analytics charts you want to view—Work or People—from the
 
 ![An image of finding the [!UICONTROL Analytics] feature in the [!DNL Workfront Classic]](assets/section-1-1.png)
 
-When you go to the Work charts, you’ll see by default: 
+When you go to the Work charts, you'll see by default: 
 
 1. KPI statistics
 1. Flight plan

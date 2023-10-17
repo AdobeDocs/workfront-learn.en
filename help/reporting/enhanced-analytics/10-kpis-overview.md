@@ -1,5 +1,5 @@
 ---
-title: Understand KPIs in [!UICONTROL Enhanced Analytics]
+title: Understand KPIs
 description: Learn how to get value from the KPI data about what's happening in the present as well as trends from the past.
 activity: use
 feature: Reports and Dashboards
@@ -12,7 +12,7 @@ jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
 ---
-# Understand KPIs in [!UICONTROL Enhanced Analytics]
+# Understand KPIs
 
 In this video, you will learn:
 

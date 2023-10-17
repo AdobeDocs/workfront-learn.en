@@ -12,7 +12,7 @@ jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 ---
-# Understand filters in [!UICONTROL Enhanced Analytics]
+# Understand filters
 
 In this video, you will learn:
 
@@ -23,7 +23,7 @@ In this video, you will learn:
 
 >[!NOTE]
 >
->Not all custom form fields can be used as filters in [!DNL Analytics]. You’ll be able to use checkbox, drop-down menus, radio buttons, dates, text, and number fields as filters. Choose the form name first, then select the available fields.
+>Not all custom form fields can be used as filters in [!DNL Analytics]. You'll be able to use checkbox, drop-down menus, radio buttons, dates, text, and number fields as filters. Choose the form name first, then select the available fields.
 
 ## People chart filters
 
@@ -32,6 +32,6 @@ The People charts are based on home teams. They show the activity and resource c
 ## Additional considerations
 
 * In the Work charts, only the **first 50 projects** are visible. Page over to see additional groups of 50. However, the four KPIs calculate against all projects within the date range. If your project list is larger than 50 and you want to see the entire list at once, continue adding filters to get the right subset of projects.
-* Search results start appearing after you’ve typed at least **three letters** of your search term.
-* You can **add each filter only once**. For example, once you add Condition and select a specific Condition, you can’t add the Condition field again to choose another option. You have to remove the filter and add it again with all of the criteria. The exception to this is the Custom Form filter.
+* Search results start appearing after you've typed at least **three letters** of your search term.
+* You can **add each filter only once**. For example, once you add Condition and select a specific Condition, you can't add the Condition field again to choose another option. You have to remove the filter and add it again with all of the criteria. The exception to this is the Custom Form filter.
 * Remove a filter by clicking the X next to it at the top of the window.

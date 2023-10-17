@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-18
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 ---
-# Common questions about request queues
+# Answers to common questions about request queues
 
 **Why can I see a request queue, but my user cannot?**
 
