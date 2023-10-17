@@ -302,7 +302,7 @@ feature-set: Workfront
     + [Establish a vision and strategy for your org](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
     + [Create a clear objective statement](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
     + [Collaborate around enterprise and organizational goals](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-    + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+    + [Align groups and teams to the strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
   
   + Create your goals {#create-goals}
     + [[!UICONTROL Workfront Goals] Overview](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -334,7 +334,7 @@ feature-set: Workfront
     + [Use Adobe Workfront plugins to integrate with Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-    + [Configuring](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+    + [Configuring the integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
     + [Mapping metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
     + [Sending documents and linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
     + [Maintaining version history](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
