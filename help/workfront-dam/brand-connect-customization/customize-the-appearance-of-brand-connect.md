@@ -11,7 +11,7 @@ jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 ---
-# Customize the appearnce of [!UICONTROL Brand Connect]
+# Customize the appearance of [!UICONTROL Brand Connect]
 
 In this video, you will learn how to:
 
@@ -50,7 +50,7 @@ These widgets are available:
 
 ## Add a search bar
 
-If you design a custom homepage for your organization’s [!UICONTROL Brand Connect], users have to click into the [!UICONTROL Assets] area to run a search. 
+If you design a custom homepage for your organization's [!UICONTROL Brand Connect], users have to click into the [!UICONTROL Assets] area to run a search. 
 
 But system administrators can create a search bar using the HTML widget and this HTML tag:
 

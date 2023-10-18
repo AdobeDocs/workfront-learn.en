@@ -1,5 +1,5 @@
 ---
-title: How to Set Up Metadata in [!UICONTROL Workfront DAM]
+title: Set up the metadata
 description: Learn how to create a metadata schema, understand the different types of metadata, use existing metadata fields, and more in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 ---
-# Metadata and keywords: metadata setup
+# Set up the metadata
 
 In this video, you will learn how to:
 
@@ -32,13 +32,13 @@ Here are some best practices to help get you started in your metadata efforts:
 * Add usage terms for rights-managed assets to prevent misuse.
 * Add metadata to your assets as soon as you upload them.
 * Implement predefined dropdown menus for commonly used data to prevent inconsistencies.
-* Educate contributors responsible for adding metadata on your organization’s metadata strategy.
-* Communicate your metadata requirements to external vendors (for example, “Photos must be submitted with the usage terms, credit, and location metadata already added”).
+* Educate contributors responsible for adding metadata on your organization's metadata strategy.
+* Communicate your metadata requirements to external vendors (for example, "Photos must be submitted with the usage terms, credit, and location metadata already added").
 * Conduct regular audits to ensure metadata is being added properly.
 
 ## Develop a metadata strategy
 
-Look at your asset workflow when developing your organization’s metadata strategy. Your [!DNL Workfront] consultant can help you answer the following key questions:
+Look at your asset workflow when developing your organization's metadata strategy. Your [!DNL Workfront] consultant can help you answer the following key questions:
 
 * Who is responsible for adding metadata?
 * Which metadata is required? Which is optional?

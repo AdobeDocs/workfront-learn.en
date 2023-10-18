@@ -1,5 +1,5 @@
 ---
-title: Review and approve digital work using Workfront Home
+title: Review and approve digital work
 description: Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL Workfront Home].
 activity: use
 feature: Work Management
@@ -12,7 +12,7 @@ jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 ---
-# Review and approve digital work using [!DNL Workfront Home]
+# Review and approve digital work
 
 In this video, you will learn how to:
 

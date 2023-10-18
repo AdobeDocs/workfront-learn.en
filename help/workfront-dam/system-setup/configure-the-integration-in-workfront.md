@@ -1,5 +1,5 @@
 ---
-title: Configure the [!UICONTROL Workfront DAM] integration in Workfront
+title: Configure the integration in Workfront
 description: Learn how to enable the [!UICONTROL Workfront DAM] integration at the system administrator access level.
 activity: use
 team: Technical Marketing
@@ -10,9 +10,9 @@ level: Intermediate
 jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
 ---
-# Configure the [!UICONTROL Workfront DAM] integration in Workfront
+# Configure the integration in Workfront
 
-Enable the [!UICONTROL Workfront DAM] integration from Workfront’s **[!UICONTROL Setup]** area. You need to have a [!UICONTROL Workfront] system administrator access level.
+Enable the [!UICONTROL Workfront DAM] integration from Workfront's **[!UICONTROL Setup]** area. You need to have a [!UICONTROL Workfront] system administrator access level.
 
 ![A screenshot of the [!UICONTROL Cloud Providers] configuration page](assets/01-configure-the-integration-in-workfront.png)
 

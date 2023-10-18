@@ -1,5 +1,5 @@
 ---
-title: Activate a goal by aligning it to another
+title: Activate by aligning a goal to another
 description: Learn how to activate a goal in [!DNL Workfront Goals] by aligning it to another goal.
 activity: use
 team: Technical Marketing
@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
 ---
-# Activate by aligning a goal to another in [!DNL Workfront Goals]
+# Activate by aligning a goal to another
 
 When you align two goals one will become the parent goal and the other a child goal. A parent goal can have multiple child goals but a child goal can only align to one parent goal.
 

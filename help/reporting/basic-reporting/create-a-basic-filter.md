@@ -12,7 +12,9 @@ jira: kt-8857, kt-13080
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
 ---
-# Create a basic filter in the legacy filter experience
+# Create a basic filter
+
+Create a basic filter in the legacy filter experience.
 
 In this video, you will learn:
 

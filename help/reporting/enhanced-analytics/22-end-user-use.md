@@ -1,6 +1,6 @@
 ---
-title: Understand an end user use case in [!UICONTROL Enhanced Analytics]
-description: Learn how end users might use Flight plan, Burndown, and Tasks in flight charts.
+title: Understand an end user use case
+description: Learn how end users might use Flight plan, Burndown, and Tasks in flight charts, in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -12,7 +12,7 @@ jira: KT-8712
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
 ---
-# Understand an end user use case in [!UICONTROL Enhanced Analytics]
+# Understand an end user use case
 
 In this video, you will learn:
 

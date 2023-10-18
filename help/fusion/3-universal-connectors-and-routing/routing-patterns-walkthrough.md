@@ -11,7 +11,7 @@ jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
 ---
-# Routing patterns and fallbacks walkthrough
+# Routing patterns walkthrough
 
 Use the Set Variable module to send a number through multiple paths to see how filters and fallbacks behave when routing.
 

@@ -1,5 +1,5 @@
 ---
-title: Develop a [!UICONTROL Workfront DAM] Strategy
+title: Analyze and plan a [!UICONTROL Workfront DAM] strategy
 description: Learn how to analyze and plan to develop a [!UICONTROL Workfront DAM] strategy.
 activity: use
 team: Technical Marketing
@@ -10,7 +10,7 @@ level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
 ---
-# Analyze and plan to develop a [!UICONTROL Workfront DAM] strategy
+# Analyze and plan a [!UICONTROL Workfront DAM] strategy
 
 Before you begin setting up [!UICONTROL Workfront DAM] for your organization, it is critical that you establish an organizational strategy and metadata/keyword strategy.
 
@@ -19,7 +19,7 @@ Analyze your workflow processes carefully so you can achieve your [!UICONTROL DA
 [!DNL Workfront] suggests you review the following:
 
 * **Identify your goals**—Your organization needs to know what it wants to achieve with [!UICONTROL Workfront DAM] for setups to be done properly and user adoption to be successful. Look at your current processes and identify what steps are still needed and what needs to change.
-* **Folder structure**—The folder structure is how your assets in [!UICONTROL DAM] will be organized. Will your folders be organized by project, department, year, or some other categorization? Folders are how users are given access to assets, so it’s important to keep that in mind. A well-organized folder structure also can make it easier to find assets. 
+* **Folder structure**—The folder structure is how your assets in [!UICONTROL DAM] will be organized. Will your folders be organized by project, department, year, or some other categorization? Folders are how users are given access to assets, so it's important to keep that in mind. A well-organized folder structure also can make it easier to find assets. 
 * **Metadata schema**—The schema is a set of metadata fields that are utilized on assets in [!UICONTROL Workfront DAM]. These fields can include copyright, creator, and location. If you are using third-party applications to add metadata, consider how you would like these fields mapped into [!UICONTROL Workfront DAM].
 * **Keyword taxonomy**—Keywords are descriptive words about an asset. A taxonomy is a pre-defined list of terms that users can select from to add keywords to assets. A taxonomy is key to maintaining control and consistency in your keyword efforts.
 * **Workflow processes**—Another key step in successful use of [!UICONTROL Workfront DAM] is establishing workflow processes for your organization. This extends beyond just who uploads assets. Some things to consider (this list is not inclusive):
