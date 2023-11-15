@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 ---

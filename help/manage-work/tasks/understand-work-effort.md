@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 ---

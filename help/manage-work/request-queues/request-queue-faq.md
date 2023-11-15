@@ -4,7 +4,7 @@ description: Get answers to common questions about request queues in [!DNL  Work
 feature: Work Management
 type: Tutorial
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 last-substantial-update: 2023-07-18
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7

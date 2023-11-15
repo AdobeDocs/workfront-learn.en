@@ -5,7 +5,7 @@ feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-15
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c

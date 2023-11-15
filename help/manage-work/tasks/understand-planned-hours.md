@@ -6,7 +6,7 @@ feature: Work Management
 thumbnail: 335090.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c

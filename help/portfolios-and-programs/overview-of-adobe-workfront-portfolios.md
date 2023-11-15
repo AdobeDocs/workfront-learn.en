@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 last-substantial-update: 2023-08-18
 jira: KT-13837
-level: Intermediate
+level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 ---
 # Overview of portfolios

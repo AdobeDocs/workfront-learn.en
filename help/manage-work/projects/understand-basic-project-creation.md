@@ -6,7 +6,7 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
@@ -30,4 +30,4 @@ Get your [!DNL  Workfront] projects up and running quickly by using a project te
 1. Predecessors
 1. Assignments
 
-Once everything is set, change the project status to Current to take the project live. As the project progresses, you’ll want to keep track of the work getting done, problems that arise, questions that need answered, and more. Just remember ... you can find and manage all of that information in [!DNL Workfront]!
+Once everything is set, change the project status to Current to take the project live. As the project progresses, you'll want to keep track of the work getting done, problems that arise, questions that need answered, and more. Just remember ... you can find and manage all of that information in [!DNL Workfront]!

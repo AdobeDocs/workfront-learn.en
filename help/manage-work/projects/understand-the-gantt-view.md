@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-11
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec

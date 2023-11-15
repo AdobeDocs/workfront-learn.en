@@ -5,7 +5,7 @@ activity: use
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
 last-substantial-update: 2023-05-18
