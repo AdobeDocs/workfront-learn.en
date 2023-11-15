@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 ---

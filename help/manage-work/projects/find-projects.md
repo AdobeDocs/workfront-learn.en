@@ -6,7 +6,7 @@ feature: Work Management
 thumbnail: find-projects.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17

@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-05
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97

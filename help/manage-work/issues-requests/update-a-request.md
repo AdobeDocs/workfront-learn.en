@@ -5,7 +5,7 @@ activity: use
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 thumbnail: 336091.png
 jira: KT-8807
