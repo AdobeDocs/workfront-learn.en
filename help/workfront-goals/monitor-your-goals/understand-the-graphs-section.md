@@ -1,5 +1,5 @@
 ---
-title: Understand the [!UICONTROL Graphs] section
+title: Understand the graphs section
 description: Learn how to read and interpret the Goal Health chart and Goal Progress chart in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
@@ -11,7 +11,7 @@ jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
 ---
-# Understand the [!UICONTROL Graphs] section
+# Understand the graphs section
 
 ## Graphs and goal health
 

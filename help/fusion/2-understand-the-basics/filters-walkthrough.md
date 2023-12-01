@@ -11,7 +11,7 @@ jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
 ---
-# Using the mighty filter walkthrough
+# Filters walkthrough
 
 Using the "Beyond basic mapping" walkthrough exercise you created earlier, add a filter between the two modules in the modules to only create projects that have a "Red" project color in the Project List.
 

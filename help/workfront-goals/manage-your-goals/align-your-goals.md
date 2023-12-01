@@ -11,7 +11,7 @@ jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 ---
-# Goal alignment
+# Align your goals
 
 ## Align goals between individuals, teams, and the company
 

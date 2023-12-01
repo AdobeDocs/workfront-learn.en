@@ -7,13 +7,13 @@ feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 ---
 # Upload assets
 
-Before you close out a [!DNL Workfront] project, make sure that all relevant files are attached in the [!UICONTROL Documents] section. Upload these as a document or a proof, as determined by your organization’s guidelines.
+Before you close out a [!DNL Workfront] project, make sure that all relevant files are attached in the [!UICONTROL Documents] section. Upload these as a document or a proof, as determined by your organization's guidelines.
 
 You may need to upload the document or proof as a version of an existing file.
 

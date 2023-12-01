@@ -6,7 +6,7 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
 ---
@@ -17,11 +17,11 @@ The project page is filled with many features to help you manage your work. Work
 ![Project page](assets/project-page-graphic-for-planner.png)
 
 1. **Breadcrumb trail:** Navigate through the program and portfolio hierarchy behind the project.
-2. **Object type:** Showing the object type on the landing page helps you identify what you’re looking at in [!DNL Workfront]. The “project” term is customizable by your [!DNL Workfront] system administrator.
-3. **Project name:** The name of the project that you’re viewing. Click into the name to edit it.
-4. **Project header:** Standard information that’s available on all project pages.
+2. **Object type:** Showing the object type on the landing page helps you identify what you're looking at in [!DNL Workfront]. The "project" term is customizable by your [!DNL Workfront] system administrator.
+3. **Project name:** The name of the project that you're viewing. Click into the name to edit it.
+4. **Project header:** Standard information that's available on all project pages.
 5. **[!UICONTROL Percent complete]:** This updates automatically, based on the tasks completed in the project.
-6. **[!UICONTROL Project Owner]:** At most organizations, this is the project manager. This is the person responsible for managing the project in [!DNL Workfront] and ensuring it’s completed.
+6. **[!UICONTROL Project Owner]:** At most organizations, this is the project manager. This is the person responsible for managing the project in [!DNL Workfront] and ensuring it's completed.
 7. **[!UICONTROL Planned Completion Date]:** The planned completion date of the project is set by the project manager through the project timeline.
 8. **[!UICONTROL Condition]:** The [!UICONTROL Condition] is a visual representation of how the project is progressing. [!DNL Workfront] can automatically configure the [!UICONTROL Condition] based on the progress status of the tasks in the project. Or [!UICONTROL Condition] can be set manually through the project details.
 9. **[!UICONTROL Status]:** The [!UICONTROL Status] indicates where in the process the project stands: is the project still being planned, is the project in progress, or is all of the work in the project complete.

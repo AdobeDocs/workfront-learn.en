@@ -1,5 +1,5 @@
 ---
-title: Introduction to Fusion
+title: Introduction and tech strategy
 description: Learn about the power and flexibility of [!DNL Adobe Workfront Fusion], and how to get started using your own Fusion instance.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
 ---
-# Introduction to Fusion
+# Introduction and tech strategy
 
 Learn about the power and flexibility of [!DNL Adobe Workfront Fusion], and how to get started using your own Fusion instance.
 

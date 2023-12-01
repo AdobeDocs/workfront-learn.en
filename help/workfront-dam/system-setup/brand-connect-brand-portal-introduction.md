@@ -1,5 +1,5 @@
 ---
-title: Navigate the Brand Portal in [!UICONTROL Workfront DAM]
+title: Understand Brand Portal
 description: Learn how to access the Brand Portal in [!UICONTROL Workfront DAM], create folders, set expiration dates on individual assets, and edit asset settings.
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 ---
-# Brand Connect: Brand Portal introduction and folder creation
+# Understand Brand Portal
 
 In this video, you will learn how to:
 

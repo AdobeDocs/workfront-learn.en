@@ -6,7 +6,7 @@ feature: Work Management
 thumbnail: 335210.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31
 jira: KT-8950

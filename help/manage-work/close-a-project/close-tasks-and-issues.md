@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-08-16
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0

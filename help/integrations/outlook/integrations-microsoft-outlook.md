@@ -1,5 +1,5 @@
 ---
-title: Install the [!UICONTROL Microsoft Outlook Add-in]
+title: Install the [!UICONTROL Microsoft Outlook] add-in
 description: Learn how to install the [!UICONTROL Microsoft Outlook Add-in]
 activity: use
 feature: Workfront Integrations and Apps
@@ -11,7 +11,7 @@ jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 ---
-# Install the Microsoft Outlook Add-in
+# Install the Microsoft Outlook add-in
 
 In this video, you will learn how to:
 

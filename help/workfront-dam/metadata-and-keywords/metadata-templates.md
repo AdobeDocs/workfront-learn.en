@@ -1,5 +1,5 @@
 ---
-title: Set Up Metadata Templates in [!UICONTROL Workfront DAM]
+title: Set up a metadata template
 description: Learn how to save time with metadata templates, set up a metadata template, and apply a template to a folder in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
 ---
-# Metadata and keywords: metadata templates
+# Set up a metadata template
 
 In this video, you will learn how to:
 

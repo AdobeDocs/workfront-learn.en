@@ -11,7 +11,7 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 ---
-# What is [!UICONTROL Brand Connect]
+# What is [!UICONTROL Brand Connect]?
 
 [!UICONTROL Brand Connect] is the part of [!UICONTROL Workfront DAM] that your end-users will access to find and download approved company assets. These users are often internal users who have requested assets or are looking for something like a company logo.
 
@@ -19,7 +19,7 @@ doc-type: video
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Customize the appearance of your organization’s [!UICONTROL Brand Portal] to help users find what they need quickly and to ensure the latest assets are easily available.
+Customize the appearance of your organization's [!UICONTROL Brand Portal] to help users find what they need quickly and to ensure the latest assets are easily available.
 
 In this video, you will:
 

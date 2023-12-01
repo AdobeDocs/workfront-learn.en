@@ -1,5 +1,5 @@
 ---
-title: How to Customize [!UICONTROL Workfront DAM]
+title: Customize [!UICONTROL Workfront DAM]
 description: Learn how to customize [!UICONTROL Workfront DAM] by creating watermarks, customizing the [!UICONTROL DAM] login window, branding the interface, and more.
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
 ---
-# System setup: Customize [!UICONTROL Workfront DAM]
+# Customize [!UICONTROL Workfront DAM]
 
 In this video, you will learn how to:
 

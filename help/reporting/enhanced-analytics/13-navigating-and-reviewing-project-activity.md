@@ -1,6 +1,6 @@
 ---
-title: Understand navigating and reviewing project activity in [!UICONTROL Enhanced Analytics]
-description: Learn how to compare projects based on users logged in, task status changes, and tasks completed in Workfront.
+title: Understand navigating and reviewing project activity
+description: Learn how to compare projects based on users logged in, task status changes, and tasks completed in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -12,7 +12,7 @@ jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 ---
-# Understand navigating and reviewing project activity in [!UICONTROL Enhanced Analytics]
+# Understand navigating and reviewing project activity
 
 In this video, you will learn:
 

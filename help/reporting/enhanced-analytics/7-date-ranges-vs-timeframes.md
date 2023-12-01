@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 ---
-# Understand date ranges and timeframes in [!UICONTROL Enhanced Analytics]
+# Understand date ranges and timeframes
 
 When viewing the [!DNL Enhanced analytics] charts, date ranges are specified using the calendar widget. Timeframes are created within a chart when you click and drag to define a specific region, so you can zoom in and get a more detailed look at the information during that timeframe.
 
@@ -21,7 +21,7 @@ Just click on any date in the calendar to indicate one date in your range, then 
 
 ![An image of selecting a date range using the calendar widget](assets/section-1-3.png)
  
-The charts in [!DNL Analytics] show data for the last 60 days and the next 15 days by default. You can select a new date range and apply it to all of the charts while you’re using [!DNL Analytics].
+The charts in [!DNL Analytics] show data for the last 60 days and the next 15 days by default. You can select a new date range and apply it to all of the charts while you're using [!DNL Analytics].
 
 When you refresh the page, navigate away, or log out/in of Workfront, the date range is reset to the default.
 

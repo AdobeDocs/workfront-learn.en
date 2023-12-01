@@ -154,8 +154,8 @@ feature-set: Workfront
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
     + [Attach and edit existing approval processes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
     + [Delegate tasks, issues, and approvals](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-    + [View milestones](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
     + [Apply milestones](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+    + [View milestones](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
     + [Create a project template and learn about Blueprints](manage-work/create-and-manage-project-templates/create-a-project-template.md)
@@ -195,7 +195,7 @@ feature-set: Workfront
     + [Understand reporting components](reporting/basic-reporting/reporting-components.md)
     + [Create a basic grouping](reporting/basic-reporting/create-a-basic-grouping.md)
     + [Create a basic view](reporting/basic-reporting/create-a-basic-view.md)
-    + [Add basic conditional formatting](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+    + [Add basic conditional formatting to a view](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
     + [Create a basic filter](reporting/basic-reporting/create-a-basic-filter.md)
     + [Create a basic filter activity](reporting/basic-reporting/create-a-basic-filter-activity.md)
     + [Create a simple report](reporting/basic-reporting/create-a-simple-report.md)
@@ -302,7 +302,7 @@ feature-set: Workfront
     + [Establish a vision and strategy for your org](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
     + [Create a clear objective statement](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
     + [Collaborate around enterprise and organizational goals](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-    + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+    + [Align groups and teams to the strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
   
   + Create your goals {#create-goals}
     + [[!UICONTROL Workfront Goals] Overview](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -334,10 +334,10 @@ feature-set: Workfront
     + [Use Adobe Workfront plugins to integrate with Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-    + [Configuring](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+    + [Configuring the integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
     + [Mapping metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
     + [Sending documents and linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-    + [Version history](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+    + [Maintaining version history](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
   + G Suite {#g-suite-integrations}
     + [Enhance your workflow with the G Suite Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -390,7 +390,7 @@ feature-set: Workfront
     + [Common routing patterns](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
     + [Routing patterns walkthrough](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
     + [Set-it and get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
-    + [Get/set variables walkthrough](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+    + [Get/Set variables walkthrough](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
   + Iteration and aggregation {#iteration-and-aggregation}
     + [Introduction to iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -459,7 +459,7 @@ feature-set: Workfront
     + [Aggregation](fusion/12-exercises/aggregation.md)
     + [Advanced aggregation](fusion/12-exercises/advanced-aggregation.md)
     + [Execution history](fusion/12-exercises/execution-history.md)
-    + [Exploring runs, cycles, and bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+    + [Exploring runs cycles and bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
     + [Switch function](fusion/12-exercises/switch-function.md)
     + [Switch module](fusion/12-exercises/switch-module.md)
     + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -487,8 +487,8 @@ feature-set: Workfront
     + [Settings for proof users](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
   + Upload proofs {#upload-proofs}
-    + [What is a proof version?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-    + [Who uploads the proof versions?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+    + [What is a proof version](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+    + [Who uploads the proof versions](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
     + [Convert a document to a proof](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
     + [View and compare proof versions](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
     + [Upload a proof version](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -538,7 +538,7 @@ feature-set: Workfront
     + [Set up the metadata](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
   + Brand Connect customization {#brand-connect-customization}
-    + [What is [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+    + [What is [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
     + [Establish system settings in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
     + [Add custom pages in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
     + [Create brand guidelines in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

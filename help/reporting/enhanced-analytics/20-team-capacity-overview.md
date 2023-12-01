@@ -1,6 +1,6 @@
 ---
-title: Understand team capacity in [!UICONTROL Enhanced Analytics]
-description: Learn how the Team capacity chart shows when a home team was over-allocated or under-allocated.
+title: Understand team capacity
+description: Learn how the Team capacity chart in [!UICONTROL Enhanced Analytics] shows when a home team was over-allocated or under-allocated.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 ---
-# Understand team capacity in [!UICONTROL Enhanced Analytics]
+# Understand team capacity
 
 The Team capacity chart shows when a home team was over-allocated or under-allocated. The chart displays the volume of work assigned to the home team on a given day and assigns a darker blue color when they are approaching burnout or aren't being challenged. A lighter, more transparent color indicates the workload is more balanced.
 

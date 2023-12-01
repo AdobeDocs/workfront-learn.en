@@ -11,7 +11,7 @@ jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
 ---
-# Set and get variables walkthrough
+# Set/Get variables walkthrough
 
 Look up information about a project in Workfront and send an email with related information.
 

@@ -1,5 +1,5 @@
 ---
-title: Review Metadata and Keywords Terminology
+title: Review the metadata terminology
 description: Learn about what metadata is, which questions to ask when developing a metadata strategy, and more in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
 ---
-# Metadata and keywords: review the terminology
+# Review the metadata terminology
 
 In this video, you will learn:
 

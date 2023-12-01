@@ -1,5 +1,5 @@
 ---
-title: Define and express the objective or end goal
+title: Create a clear objective statement
 description: Learn how to create a clear objective statement, or Commander's Intent, and write strong enterprise or organizational goals.
 activity: use
 feature: Workfront Goals
@@ -11,7 +11,7 @@ jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
 ---
-# Define and express the objective
+# Create a clear objective statement
 
 In this video, you will learn how to:
 

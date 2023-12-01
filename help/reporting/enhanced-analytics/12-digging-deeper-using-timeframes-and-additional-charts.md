@@ -1,6 +1,6 @@
 ---
-title: Dig deeper using timeframes and additional charts in [!UICONTROL Enhanced Analytics]
-description: Learn to drill down on a project in the Flight plan chart to make the Burndown chart and the Tasks in flight chart appear in Workfront.
+title: Dig deeper using timeframes and additional charts
+description: Learn to drill down on a project in the Flight plan chart to make the Burndown chart and the Tasks in flight chart appear in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,7 +12,7 @@ jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 ---
-# Dig deeper using timeframes and additional charts in [!UICONTROL Enhanced Analytics]
+# Dig deeper using timeframes and additional charts
 
 In this video, you will learn:
 

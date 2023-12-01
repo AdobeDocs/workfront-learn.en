@@ -1,5 +1,5 @@
 ---
-title: Metadata and Keywords in [!UICONTROL Workfront DAM]
+title: Understand metadata
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 2 Metadata and Keywords course.
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
 ---
-# Metadata and keywords: course introduction
+# Understand metadata
 
 Metadata is all of the data used to describe an asset. Metadata fields have a name, and users can edit or change the information in many of those fields. Some metadata fields are populated by the application or device the asset came from and cannot be edited.
 

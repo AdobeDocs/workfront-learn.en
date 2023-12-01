@@ -1,5 +1,5 @@
 ---
-title: Establish a vision and strategy
+title: Establish a vision and strategy for your org
 description: Learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
 activity: use
 feature: Workfront Goals
@@ -11,7 +11,7 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 ---
-# Establish a vision and strategy
+# Establish a vision and strategy for your org
 
 In this video, you will learn about:
 
@@ -31,7 +31,7 @@ A traditional cadence for a long-term/short-term planning cycle may be 12 months
 
 Consider these concepts when determining the appropriate cadence for your organization. 
 
-* In today’s business environment, internal and external factors are more volatile and change often. To address these factors strategically, reviews and adjustments of the shorter term objectives should be a minimum of every 3 months.
+* In today's business environment, internal and external factors are more volatile and change often. To address these factors strategically, reviews and adjustments of the shorter term objectives should be a minimum of every 3 months.
 
 * Each review should include time to reflect on past accomplishment and effort, and evaluate the business trajectory for the future. Ask yourself and your teams...are we still on track?
 

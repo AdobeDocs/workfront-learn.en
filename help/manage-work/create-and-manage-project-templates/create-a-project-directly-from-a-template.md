@@ -7,7 +7,7 @@ feature: Work Management
 thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 ---
