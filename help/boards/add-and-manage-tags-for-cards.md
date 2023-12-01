@@ -15,4 +15,4 @@ doc-type: video
 
 Learn what a tag is and why it's useful as well as how to create, delete, add, and remove tags.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807)
+>[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on)

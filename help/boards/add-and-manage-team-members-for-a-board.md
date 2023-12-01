@@ -15,4 +15,4 @@ doc-type: video
 
 Learn how to add and remove individuals and teams to a board so they can access board information.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808)
+>[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on)

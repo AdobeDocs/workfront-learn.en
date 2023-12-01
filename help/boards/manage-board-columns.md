@@ -15,4 +15,4 @@ doc-type: video
 
 Find out how to edit, add, rearrange, and delete columns on a board.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570)
+>[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on)

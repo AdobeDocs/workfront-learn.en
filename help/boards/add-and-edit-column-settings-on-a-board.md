@@ -15,4 +15,4 @@ doc-type: video
 
 Learn how to add and edit columns settings in a board.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332)
+>[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on)
