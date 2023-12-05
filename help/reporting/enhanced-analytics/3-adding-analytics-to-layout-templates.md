@@ -5,7 +5,7 @@ activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
 type: Tutorial
-role: User
+role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
@@ -14,11 +14,9 @@ doc-type: video
 ---
 # Add analytics to layout templates
 
-In this video, you will learn:
+In this video, you will learn how system and group administrators grant access to [!UICONTROL Analytics] in Workfront.
 
-* How system and group administrators grant access to [!UICONTROL Analytics] in the [!UICONTROL New Workfront Experience]
-* How system and group administrators grant access to [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Anyone with a Workfront license ([!UICONTROL Work], [!UICONTROL Plan], or [!UICONTROL Collaborator] in [!UICONTROL Workfront Business] plans or higher) can access [!UICONTROL Analytics] once it's added to the layout template they're assigned. However, you'll only see the projects and user information if allowed by your Workfront access level and the sharing permissions on specific projects and users.
+Anyone with a Workfront license (in [!UICONTROL Workfront Business] plans or higher) can access [!UICONTROL Analytics] once it's added to the layout template they're assigned. However, you'll only see the projects and user information if allowed by your Workfront access level and the sharing permissions on specific projects and users.
