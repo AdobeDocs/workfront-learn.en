@@ -83,6 +83,7 @@ feature-set: Workfront
     + [Share custom fields](custom-data/custom-forms/share-custom-fields.md)
     + [Edit a custom form](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
     + [Attach a custom form to an object](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+    + [Add section breaks and logics to a custom form](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
     + [Export a custom form as a PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
     
   + Calculated expressions {#calculated-expressions}
@@ -581,7 +582,7 @@ feature-set: Workfront
 + Agile {#agile}
 
   + Scrum {#scrum}
-    + [Create a Scum agile team](agile/create-a-scrum-agile-team.md)
+    + [Create a Scrum agile team](agile/create-a-scrum-agile-team.md)
     + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
     + [Grooming the backlog](agile/gooming-the-backlog.md)
     + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
