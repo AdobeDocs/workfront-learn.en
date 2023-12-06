@@ -13,17 +13,12 @@ exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 ---
 # Understand basic navigation
 
-To navigate to [!UICONTROL Analytics] in the new Workfront experience, use the [!UICONTROL Main Menu] button.
+To navigate to [!UICONTROL Analytics] in Workfront, use the [!UICONTROL Main Menu] button.
 
 ![An image of finding the [!UICONTROL Analytics] feature in the Workfront [!UICONTROL main menu]](assets/Navigate-NWE.png)
 
-Find analytics in [!DNL Workfront Classic] from the global navigation bar.
+In this video, you will see:
 
-![An image of finding the [!UICONTROL Analytics] feature in the [!DNL Workfront Classic]](assets/Navigate-Classic.png)
-
-In this video, you will learn:
-
-* How to navigate to the Analytics area
 * An overview of the work charts
 * An overview of the people charts
 
