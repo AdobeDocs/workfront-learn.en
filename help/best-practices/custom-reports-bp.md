@@ -84,7 +84,6 @@ User-based wildcards make reports more flexible, allowing report writers to crea
 
 For instructions on how to use user-based wildcards in reports see [Create filters with user-based wildcards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
 
-
 **Best practice**
 
 Create views that allow for in-line editing. 

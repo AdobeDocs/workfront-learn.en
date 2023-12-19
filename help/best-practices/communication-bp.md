@@ -63,3 +63,4 @@ If you have a lot of update threads in a project, it can be difficult to find a 
 * Entry date
 
 For step by step instructions on how to create a note report with prompts, watch the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) tutorial, then do the activity that follows.
+ 

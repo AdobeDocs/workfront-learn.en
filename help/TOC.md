@@ -36,7 +36,7 @@ feature-set: Workfront
     + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
     + [Customize terminology with layout templates](administration-and-setup/layout-templates/customize-workfront-terminology.md)
     + [Customize the [!UICONTROL Main Menu] with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-     + [Add and manage pins through a layout template](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
+    + [Add and manage pins through a layout template](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
     + [Customize Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
     + [Assign and manage access to layout templates](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
     + [Customize object areas with a layout template](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
