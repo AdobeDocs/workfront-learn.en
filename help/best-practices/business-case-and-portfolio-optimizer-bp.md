@@ -9,7 +9,7 @@ exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 ---
 # Best Practice - Business Case and Portfolio Optimizer
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -39,11 +39,13 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Use the Business Case before or at the start of your project.
 
-**Here’s why**
+**Here's why**
  
 Using a Business Case before your project starts, or even at the start of your project, allows you to truly anticipate what that project will need—resources (both human and non-human), budget, timeframe—and how to mitigate any potential risks that might occur before they happen.  
 
 It also gives you an opportunity to show stakeholders how your project contributes to department, regional, and/or company goals. 
+
+For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
 
 </br>
 </br>
@@ -52,6 +54,11 @@ It also gives you an opportunity to show stakeholders how your project contribut
  
 Estimate and adjust important project information like the cost, alignment, net value, risk, and ROI in the Business Case.
 
-**Here’s why**
+**Here's why**
 
-Making sure this information is as close to what the “real life” project will entail allows you to accurately use the score feature in the Portfolio Optimizer to determine the priority of the projects listed. The Portfolio Optimizer is a great tool to ensure your projects are prioritized efficiently and are aligned to your company’s strategy and value.
+Making sure this information is as close to what the "real life" project will entail allows you to accurately use the score feature in the Portfolio Optimizer to determine the priority of the projects listed. The Portfolio Optimizer is a great tool to ensure your projects are prioritized efficiently and are aligned to your company's strategy and value.
+
+For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+For instructions on how to use the Portfolio Optimizer see [Use the Portfolio Optimizer to prioritize and manage work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+ 

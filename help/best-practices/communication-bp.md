@@ -9,7 +9,7 @@ exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 ---
 # Best Practice - Communication
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -39,7 +39,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Use your workflows to determine the notifications needed. 
 
-**Here’s why**
+**Here's why**
 
 Walking through your workflows step-by-step makes it easier to identify the points of communication and ensure the proper notifications are enabled. This primes the notifications for the way your organization is already working, preventing spam or communication breakdown.  
 
@@ -53,7 +53,7 @@ Create a Note report with prompts for users to easily search for comments/update
 
 
 
-**Here’s why**
+**Here's why**
 
 If you have a lot of update threads in a project, it can be difficult to find a specific update, especially because Ctrl/Command F will not search within the threads. A Note report makes it possible to easily scan all the updates based on your prompt options without having to open every thread. Common prompt options would be:
 
@@ -61,3 +61,6 @@ If you have a lot of update threads in a project, it can be difficult to find a 
 * Note text
 * Owner name
 * Entry date
+
+For step by step instructions on how to create a note report with prompts, watch the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) tutorial, then do the activity that follows.
+ 
