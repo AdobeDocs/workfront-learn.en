@@ -47,7 +47,7 @@ Cut down on the number of custom reports you create by leveraging filters, views
 
 Creating one-time use reports for each segment of data you want to see is time-consuming and clutters up the Workfront system. 
 
-For instructions on how to create reports with  prompts see the chapter labeled "How to set up and use report prompts" in [Understand report settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+For instructions on how to create reports with  prompts see the chapter labeled "How to set up and use report prompts" in the [Understand report settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
 
 For instructions on how to create reports with custom prompts see [Create custom prompts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 

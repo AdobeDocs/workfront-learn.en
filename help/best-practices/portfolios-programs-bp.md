@@ -43,7 +43,7 @@ When using portfolios and programs, you can use additional Workfront tools more 
 
 In addition, you can employ additional tools such as the Utilization report, which helps you understand how and where users are working, or the Portfolio Optimizer, which makes it easier to prioritize projects and align them to overall company goals and strategies.
 
-To understand how to filter a list of projects by a particular portfolio, see "Activity 1 - All projects in the Marketing portfolio" in [Create a basic filter activities](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+To understand how to filter a list of projects by a particular portfolio, see "Activity 1 - All projects in the Marketing portfolio" in [Create basic filter activities](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
 
 To understand the Utilization report see the article [Track progress, cost, and revenue with the Utilization report](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
 
