@@ -45,7 +45,7 @@ Using a Business Case before your project starts, or even at the start of your p
 
 It also gives you an opportunity to show stakeholders how your project contributes to department, regional, and/or company goals. 
 
-For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -58,7 +58,7 @@ Estimate and adjust important project information like the cost, alignment, net 
 
 Making sure this information is as close to what the "real life" project will entail allows you to accurately use the score feature in the Portfolio Optimizer to determine the priority of the projects listed. The Portfolio Optimizer is a great tool to ensure your projects are prioritized efficiently and are aligned to your company's strategy and value.
 
-For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+For instructions on how to use the Business Case see [Understand the Business Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-For instructions on how to use the Portfolio Optimizer see [Use the Portfolio Optimizer to prioritize and manage work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+For instructions on how to use the Portfolio Optimizer see [Use the Portfolio Optimizer to prioritize and manage work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
  

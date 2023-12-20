@@ -9,7 +9,7 @@ exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
 ---
 # Best Practice - Filters, Views, and Groupings
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -30,7 +30,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * Use the list controls in layout templates to hide unneeded filters, views, and groupings for commonly used objects (projects, tasks, programs, etc.). 
 
-* Share custom filters, views, and groupings relevant to your organization’s workflows and processes through the list controls on layout templates. 
+* Share custom filters, views, and groupings relevant to your organization's workflows and processes through the list controls on layout templates. 
 
 * When creating filters for project status, task status, or issue status, use the (object)>>Status Equates With field source/field name with the Equal modifier, rather than the Project>>Status field source/field name. 
 
@@ -43,9 +43,13 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Cut down on the number of custom reports you create by leveraging filters, views, and groupings on an object list to get the data you need. 
 
-**Here’s why**
+**Here's why**
 
 Creating one-time use reports for each segment of data you want to see is time-consuming and clutters up the Workfront system. 
+
+For instructions on how to create reports with  prompts see the chapter labeled "How to set up and use report prompts" in [Understand report settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+
+For instructions on how to create reports with custom prompts see [Create custom prompts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
 </br>
 </br>
@@ -54,22 +58,26 @@ Creating one-time use reports for each segment of data you want to see is time-c
 
 Use the list controls in layout templates to hide unneeded filters, views, and groupings for commonly used objects (projects, tasks, programs, etc.). 
 
-**Here’s why**
+**Here's why**
 
-Less is more. Hiding filter, view, and grouping list options that aren’t relevant to your users’ daily workflows narrows down the lists, which makes it easier for users to find what they need faster. 
+Less is more. Hiding filter, view, and grouping list options that aren't relevant to your users' daily workflows narrows down the lists, which makes it easier for users to find what they need faster. 
+
+For instructions on how to hide filters, views, or groupings with layout templates see [Customize reporting lists with layout templates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
 
 **Best practice**
 
-Share custom filters, views, and groupings relevant to your organization’s workflows and processes through the list controls on layout templates. 
+Share custom filters, views, and groupings relevant to your organization's workflows and processes through the list controls on layout templates. 
 
-**Here’s why**
+**Here's why**
 
-If you’ve created filters, views, and groupings that display information specific to users’ daily processes, it’s easy to share these through the layout templates. This ensures everyone assigned that layout template has filter, view, and grouping options relevant to their workflows. 
+If you've created filters, views, and groupings that display information specific to users' daily processes, it's easy to share these through the layout templates. This ensures everyone assigned that layout template has filter, view, and grouping options relevant to their workflows. 
 
 Customizing the information that you want visible to your users through the layout templates is also a time-saver for system and group administrators because they won't have to share each filter, view, or grouping option individually. 
+
+For instructions on how to share filters, views, or groupings with layout templates see [Customize reporting lists with layout templates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
@@ -78,8 +86,8 @@ Customizing the information that you want visible to your users through the layo
 
 When creating filters for project status, task status, or issue status, use the (object)>>Status Equates With field source/field name with the Equal modifier, rather than the Project>>Status field source/field name. 
 
-**Here’s why**
+**Here's why**
 
-By using (object)>>Equates With, you’re including all custom statuses that have that specific status assigned in the Equates With field in the status setups. Whereas setting up the filter as (object)>>Status > Equal requires that you select specific statutes for the filter. This could present a maintenance challenge if you need to account for those new statuses in various filters. Each filter would need to be opened and updated with the new status. 
+By using (object)>>Equates With, you're including all custom statuses that have that specific status assigned in the Equates With field in the status setups. Whereas setting up the filter as (object)>>Status > Equal requires that you select specific statutes for the filter. This could present a maintenance challenge if you need to account for those new statuses in various filters. Each filter would need to be opened and updated with the new status. 
 
-For example, if you want to see all current projects, you could set up your filter to read Project>>Status > Equal > Current. But if someone adds a custom status named Active and equates it to Current, that filter won’t find projects with the Active status. However, if you use the Project>>Status Equates With > Equal > Current, then the filter finds objects with either the Current or Active status because they both have Current in the Equates With field.
+For example, if you want to see all current projects, you could set up your filter to read Project>>Status > Equal > Current. But if someone adds a custom status named Active and equates it to Current, that filter won't find projects with the Active status. However, if you use the Project>>Status Equates With > Equal > Current, then the filter finds objects with either the Current or Active status because they both have Current in the Equates With field.
