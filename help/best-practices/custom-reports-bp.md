@@ -30,8 +30,6 @@ The "Why are these best practices?" area, found after the high-level list, provi
 
 * Speed up report creation by copying a similar existing report to build your new report from. 
 
-* Use the out-of-the-box reporting functionality whenever possible, in place of text mode. 
-
 * Use user-based wildcards to create dynamic reports so the user viewing the report sees information relevant to them. 
 
 * Create views that allow for in-line editing. 
@@ -82,7 +80,7 @@ User-based wildcards make reports more flexible, allowing report writers to crea
 </br>
 </br>
 
-For instructions on how to use user-based wildcards in reports see [Create filters with user-based wildcards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+For instructions on how to use user-based wildcards in reports see [Create filters with user-based wildcards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Best practice**
 

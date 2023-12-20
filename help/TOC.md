@@ -198,7 +198,7 @@ feature-set: Workfront
     + [Create a basic view](reporting/basic-reporting/create-a-basic-view.md)
     + [Add basic conditional formatting to a view](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
     + [Create a basic filter](reporting/basic-reporting/create-a-basic-filter.md)
-    + [Create a basic filter activity](reporting/basic-reporting/create-a-basic-filter-activity.md)
+    + [Create basic filter activities](reporting/basic-reporting/create-a-basic-filter-activity.md)
     + [Create a simple report](reporting/basic-reporting/create-a-simple-report.md)
     + [Create a task report](reporting/basic-reporting/create-a-task-report.md)
     + [Create reports with charts](reporting/basic-reporting/create-reports-with-charts.md)

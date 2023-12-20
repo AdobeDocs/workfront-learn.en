@@ -9,7 +9,7 @@ exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 ---
 # Best Practice - Portfolios and programs
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -37,8 +37,14 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Leverage portfolios and programs to help manage projects and reports.
 
-**Here’s why**
+**Here's why**
 
 When using portfolios and programs, you can use additional Workfront tools more efficiently. For instance, in a report, you may want to view only a set of projects that have the same objectives or are vying for the same budget. By organizing projects into a portfolio and/or program, you can easily filter those projects by that portfolio instead of several other criteria to narrow down the report. 
 
 In addition, you can employ additional tools such as the Utilization report, which helps you understand how and where users are working, or the Portfolio Optimizer, which makes it easier to prioritize projects and align them to overall company goals and strategies.
+
+To understand how to filter a list of projects by a particular portfolio, see "Activity 1 - All projects in the Marketing portfolio" in [Create a basic filter activities](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+
+To understand the Utilization report see the article [Track progress, cost, and revenue with the Utilization report](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+
+To learn about the Portfolio Optimizer see [Use the Portfolio Optimizer to prioritize and manage work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
