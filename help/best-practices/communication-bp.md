@@ -43,9 +43,9 @@ Use your workflows to determine the notifications needed.
 
 Walking through your workflows step-by-step makes it easier to identify the points of communication and ensure the proper notifications are enabled. This primes the notifications for the way your organization is already working, preventing spam or communication breakdown.  
 
-For instructions on how to set up event notifications see [Set up event notifications](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+For instructions on how to set up event notifications see [Set up event notifications](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-For instructions on how to manage event notifications see [Manage in-app and email event notifications](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+For instructions on how to manage event notifications see [Manage in-app and email event notifications](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
