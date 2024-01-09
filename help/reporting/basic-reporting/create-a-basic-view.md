@@ -128,7 +128,7 @@ Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTRO
 
 Anyone who manages project templates will appreciate seeing the active status (True or False) of each template in a list. Even better - the field is in-line editable!
 
-Create a project template view named "Project template active status" with the following columns:
+Create a project template view named "Standard+active status" with the following columns:
 
 * [!UICONTROL Name]
 * [!UICONTROL Owner]

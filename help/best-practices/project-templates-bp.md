@@ -184,6 +184,8 @@ Regularly review and update project templates.
 
 As processes and teams change, project templates should be updated. Establish a regular cadence, such as quarterly, to check and see which templates aren't being actively used. You can deactivate these, so they're still in Workfront but won't appear on template selection lists. 
 
+For instructions on how to deactivate a project template, see [Deactivate a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -239,4 +241,4 @@ When you create a template from an existing project, unless you choose the Clear
 
 All of these users will be listed as part of the project team, in the People and Scheduling sections of the project. As a result, they'll get propagated to all projects created from that template. This could cause confusion for the user because as part of the project team, they receive notifications about activity on the project, see the project in the Projects I'm On list, and gain permissions to the project and its tasks, issues and documents.
 
-
+For instructions on how to edit the project team in a project template, see [Edit the project team in a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
