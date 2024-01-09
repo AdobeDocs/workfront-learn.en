@@ -123,3 +123,29 @@ Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTRO
 1. Select the [!UICONTROL Due On] column, then click on [!UICONTROL Advanced Options].
 1. Under the [!UICONTROL Field Format] drop down select [!UICONTROL "10/17/60 3:00 AM"].
 1. Click **[!UICONTROL Save]**.
+
+## Activity 4: Create a project template active status view
+
+Anyone who manages project templates will appreciate seeing the active status (True or False) of each template in a list. Even better - the field is in-line editable!
+
+Create a project template view named "Project template active status" with the following columns:
+
+* [!UICONTROL Name]
+* [!UICONTROL Owner]
+* [!UICONTROL Duration]
+* [!UICONTROL Planned Hours]
+* [!UICONTROL Planned Cost]
+* [!UICONTROL Flags]
+* [!UICONTROL Group Name]
+* [!UICONTROL Is Active]
+
+
+## Activity 4 Answer
+
+![An image of the screen to showing a project template active status view](assets/view-activity-4.png)
+
+1. In a project template list, go to the **[!UICONTROL View]** drop-down menu and select **[!UICONTROL New View]**.
+1. Name your view "Standard+active status."
+1. Click **[!UICONTROL Add Column]**.
+1. In the [!UICONTROL Show in this column] field, type "is " then select "Is Active" under the [!UICONTROL Template] field source.
+1. Click **[!UICONTROL Save View]**.

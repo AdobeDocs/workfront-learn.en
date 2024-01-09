@@ -9,7 +9,7 @@ exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 ---
 # Best Practice - Project templates
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -50,7 +50,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * When you adjust the Schedule From option on a template, review and update the task constraints. 
 
-* Check the project team on the template and remove users who won’t be associated with the project. 
+* Check the project team on the template and remove users who won't be associated with the project. 
 
 </br>
 </br>
@@ -61,7 +61,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Use templates when creating projects.  
 
-**Here’s why**
+**Here's why**
 
 Project templates take away the guesswork for project managers (and others creating projects) as to what tasks a project should contain, how to structure the timeline, etc. Templates are the most effective way to speed up project creation. 
 
@@ -76,7 +76,7 @@ This consistency across projects results in more accurate data, which is vital w
 
 Establish a naming convention for project templates. 
 
-**Here’s why**
+**Here's why**
 
 Consistent naming makes templates easier to find. It also helps project managers and others creating projects select the right template when there are similarly named templates across multiple teams or departments. 
 
@@ -87,7 +87,7 @@ Consistent naming makes templates easier to find. It also helps project managers
 
 Establish a select group of users who can make and update project templates. 
 
-**Here’s why**
+**Here's why**
 
 Having well-built, consistent project templates is key to good work management and accurate reporting. Limit the number of users who can edit templates to avoid accidental or unapproved changes. 
 
@@ -98,9 +98,11 @@ Having well-built, consistent project templates is key to good work management a
 
 Use Project Sharing on a project template to automatically grant access to projects created using that template. 
 
-**Here’s why**
+**Here's why**
 
-Access to specific projects is granted through the project itself. If the same group of people always need access to projects created with a specific template, add them under the Project Sharing option on the template. Not only can you control access to projects as soon as they’re created, this streamlines scalability efforts if permissions need to change in the future. 
+Access to specific projects is granted through the project itself. If the same group of people always need access to projects created with a specific template, add them under the Project Sharing option on the template. Not only can you control access to projects as soon as they're created, this streamlines scalability efforts if permissions need to change in the future. 
+
+For instructions on how to share projects created using a template see the chapter labeled "How to share projects created using a template" in [Share a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
 
 **Note**: Template Sharing grants access to the template itself. A user must have at least View permissions to make projects with the template.  
 
@@ -111,13 +113,13 @@ Access to specific projects is granted through the project itself. If the same g
 
 Assign job roles or teams to tasks, not individuals.  
 
-**Here’s why**
+**Here's why**
 
-When an individual user changes positions or leaves the organization, you’ll have to manually update project templates that include that person. This takes time on part of the system or group administrators or project managers. 
+When an individual user changes positions or leaves the organization, you'll have to manually update project templates that include that person. This takes time on part of the system or group administrators or project managers. 
 
-If you use job roles or teams on templates, staffing changes won’t have a direct effect on your project templates because anyone assigned that job role or on that team could be assigned the work. This helps ensure work doesn’t slip through the cracks. Job role assignments also make assigning work to individual users easier, as Workfront can show you a list of people assigned that job role. 
+If you use job roles or teams on templates, staffing changes won't have a direct effect on your project templates because anyone assigned that job role or on that team could be assigned the work. This helps ensure work doesn't slip through the cracks. Job role assignments also make assigning work to individual users easier, as Workfront can show you a list of people assigned that job role. 
 
-In addition, job roles are used by Workfront’s resource planning tools to help you calculate needed resources and plan for future work. 
+In addition, job roles are used by Workfront's resource planning tools to help you calculate needed resources and plan for future work. 
 
 </br>
 </br>
@@ -126,7 +128,7 @@ In addition, job roles are used by Workfront’s resource planning tools to help
 
 Avoid getting too granular when creating tasks in a project template. Limit the number of tasks in a project template to the ones necessary to complete the work.  
 
-**Here’s why**
+**Here's why**
  
 Over-complicated project templates results in a bad experience for users—project managers, resource managers, team members, and more. Too many tasks makes the project timeline hard to manage, with overlapping task deadlines and multiple tasks assigned to the same job roles or individuals. 
 
@@ -138,9 +140,9 @@ Over-complicated project templates results in a bad experience for users—proje
 
 Use the task description to capture the small steps of the task, rather than breaking it down into multiple tasks.  
 
-**Here’s why**
+**Here's why**
 
-If multiple tasks in a row are assigned to the same job role/individual, that’s an indication those tasks could be combined. Having too many tasks assigned to a user may make them feel like there’s more work to complete, which can affect Workfront adoption. 
+If multiple tasks in a row are assigned to the same job role/individual, that's an indication those tasks could be combined. Having too many tasks assigned to a user may make them feel like there's more work to complete, which can affect Workfront adoption. 
 
 </br>
 </br>
@@ -149,11 +151,11 @@ If multiple tasks in a row are assigned to the same job role/individual, that’
 
 Make sure the template tasks includes task durations, planned hours, and predecessors. 
 
-**Here’s why**
+**Here's why**
 
-These three things—durations, planned hours, and predecessors—are the building blocks of the project’s timeline. These are key to knowing how long work will take and when it needs to be done. Workfront’s resource management tools durations and planned hours, plus job role assignments, to calculate resource capacity, availability, and more. 
+These three things—durations, planned hours, and predecessors—are the building blocks of the project's timeline. These are key to knowing how long work will take and when it needs to be done. Workfront's resource management tools use durations and planned hours, plus job role assignments, to calculate resource capacity, availability, and more. 
 
-If you’re unsure how to estimate durations or planned hours for the first time, work with the project team to define some initial estimates. Once you’ve used the template, meet with the project team again to determine where changes could be made to make the template more accurate. If users are logging time in Workfront, you can compare a project’s planned hours with actual hours to see where adjustments are needed. 
+If you're unsure how to estimate durations or planned hours for the first time, work with the project team to define some initial estimates. Once you've used the template, meet with the project team again to determine where changes could be made to make the template more accurate. If users are logging time in Workfront, you can compare a project's planned hours with actual hours to see where adjustments are needed. 
 
 
 </br>
@@ -163,11 +165,13 @@ If you’re unsure how to estimate durations or planned hours for the first time
 
 Pre-configure project details and attach custom forms on the template.  
 
-**Here’s why**
+**Here's why**
 
-Make sure information that is standard to all projects is filled in on the project template. Not only does this help speed up project creation, it ensures necessary information is there and that it’s consistent across projects. 
+Make sure information that is standard to all projects is filled in on the project template. Not only does this help speed up project creation, it ensures necessary information is there and that it's consistent across projects. 
 
 Attach project custom forms that match request custom forms to pull in submitted information when converting the request into a project using the template. 
+
+For instructions on how to attach a custom form to an object like a project template, see [Attach a custom form to an object](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
 
 </br>
 </br>
@@ -176,9 +180,9 @@ Attach project custom forms that match request custom forms to pull in submitted
 
 Regularly review and update project templates.  
 
-**Here’s why**
+**Here's why**
 
-As processes and teams change, project templates should be updated. Establish a regular cadence, such as quarterly, to check and see which templates aren’t being actively used. You can deactivate these, so they’re still in Workfront but won’t appear on template selection lists. 
+As processes and teams change, project templates should be updated. Establish a regular cadence, such as quarterly, to check and see which templates aren't being actively used. You can deactivate these, so they're still in Workfront but won't appear on template selection lists. 
 
 </br>
 </br>
@@ -188,9 +192,9 @@ As processes and teams change, project templates should be updated. Establish a 
 Check templates to ensure they have all needed information before you share them and others start using them.  
 
 
-**Here’s why**
+**Here's why**
 
-Because templates will be used again and again to make projects, you’ll want to make sure everything is set up properly and completely. This leads to consistency across all projects and accurate data for reporting. 
+Because templates will be used again and again to make projects, you'll want to make sure everything is set up properly and completely. This leads to consistency across all projects and accurate data for reporting. 
 
 In addition to task settings like duration and planned hours, some the things to review before sharing templates include: 
 
@@ -207,29 +211,32 @@ In addition to task settings like duration and planned hours, some the things to
 * Currency setting (if applicable) 
 * Attach standard documents 
 * Attach necessary customs forms 
-* Check the project team to make sure there aren’t extra people assigned 
+* Check the project team to make sure there aren't extra people assigned 
 
 </br>
 </br>
 
 **Best practice**
 
-When you adjust the Schedule From option on a template, review and update the task constraints.  
+When you adjust the Schedule Mode option on a template, review and update the task constraints.  
 
-**Here’s why**
+**Here's why**
 
-Mixing different task constraints on a project can cause unexpected and confusing planned date calculations. For example, when Start Date is selected for the Schedule From option, any tasks created in that project are assigned the As Soon As Possible task constraint by default. If you later switch the Schedule From option to Completion Date, then any tasks created have a As Late As Possible task constraint by default. Having an unintentional mix of tasks with each of these constraints can result in confusing planned dates in your project timeline. 
+Mixing different task constraints on a project can cause unexpected and confusing planned date calculations. For example, when Start Date is selected for the Schedule Mode option, any tasks created in that project are assigned the As Soon As Possible task constraint by default. If you later switch the Schedule Mode option to Completion Date, then any tasks created have an As Late As Possible task constraint by default. Having an unintentional mix of tasks with each of these constraints can result in confusing planned dates in your project timeline. 
 
+To better understand task contraints and how to use them, see [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 </br>
 </br>
 
 **Best practice**
 
-Check the project team on the template and remove users who won’t be working with the project.  
+Check the project team on the template and remove users who won't be working with the project.  
 
-**Here’s why**
+**Here's why**
 
-When you create a template from an existing project, it brings over the people who were assigned tasks/issues on the project. And as you’re working with your template, you may remove people who were previously assigned work or change an assignment you made yourself on the template. 
+When you create a template from an existing project, unless you choose the Clear assignments option during creation, Workfront brings over the people who were assigned tasks/issues on the project in the People section. And as you're working with your template, you may want to remove these people who were previously assigned work or change an assignment you made yourself on the template. 
 
-All of these users will be listed as part of the project team, in the People and Scheduling sections of the project. As a result, they’ll get propagated to all projects created from that template. This could cause confusion for the user because as part of the project team, they receive notifications about activity on the project, see the project in the Projects I’m On list, and gain permissions to the project and its tasks, issues and documents.
+All of these users will be listed as part of the project team, in the People and Scheduling sections of the project. As a result, they'll get propagated to all projects created from that template. This could cause confusion for the user because as part of the project team, they receive notifications about activity on the project, see the project in the Projects I'm On list, and gain permissions to the project and its tasks, issues and documents.
+
+
