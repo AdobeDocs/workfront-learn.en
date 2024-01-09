@@ -10,7 +10,6 @@ level: Beginner
 last-substantial-update: 2024-01-09
 team: Technical Marketing
 jira: KT-14749
-exl-id: 
 doc-type: video
 ---
 # Deactivate a project template
