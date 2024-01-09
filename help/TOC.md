@@ -163,6 +163,8 @@ feature-set: Workfront
     + [Create a project directly from a template](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
     + [Share a project template](manage-work/create-and-manage-project-templates/share-a-project-template.md)
     + [Copy an existing project](manage-work/manage-projects/copy-an-existing-project.md)
+    + [Deactivate a project template](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+    + [Edit the project team in a project template](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
   + Project timelines {#project-timelines}
     + [Understand project timelines](manage-work/project-timelines/understand-project-timelines.md)
