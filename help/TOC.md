@@ -80,7 +80,6 @@ feature-set: Workfront
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
     + [Create and share a custom form](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-    + [Share custom fields](custom-data/custom-forms/share-custom-fields.md)
     + [Edit a custom form](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
     + [Attach a custom form to an object](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
     + [Add section breaks and logics to a custom form](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
