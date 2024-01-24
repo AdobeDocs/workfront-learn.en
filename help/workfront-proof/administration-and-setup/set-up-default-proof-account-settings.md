@@ -9,7 +9,7 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png
 jira: KT-10236
-last-substantial-update: 2024-01-23
+last-substantial-update: 2024-01-24
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
 ---
 # Set up proof account default settings

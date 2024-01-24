@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
 jira: KT-8830
-last-substantial-update: 2024-01-23
+last-substantial-update: 2024-01-24
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
 ---

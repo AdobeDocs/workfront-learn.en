@@ -7,7 +7,7 @@ role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
-last-substantial-update: 2024-01-23
+last-substantial-update: 2024-01-24
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
 ---
 # Understand email alerts and proof notifications

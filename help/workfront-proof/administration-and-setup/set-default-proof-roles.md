@@ -9,7 +9,7 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
-last-substantial-update: 2024-01-23
+last-substantial-update: 2024-01-24
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
 ---
 # Set default proof roles
