@@ -95,7 +95,7 @@ Include prompts for the following:
 
 ## Activity 2: Create an admin team feedback report
 
-This is an issue report that displays all the issues from a feedback request queue created for system admins. You can see how to create this request queue in the **Create a system admin feedback request queue** tutorial.
+This is an issue report that displays all the issues from a feedback request queue created for system admins. You can see how to create this request queue in the [Create a system admin feedback request queue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) tutorial.
 
 This report also uses a custom form. To learn how to create a custom form, see the [Create and share a custom form](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
 
@@ -153,7 +153,8 @@ Filter on the ID of the request queue project where the feedback issues reside.
    ![An image of the screen to create issue report columns](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
-   * [!UICONTROL Primary Contact] > [!UICONTROL Name] Note: this appears with "Owner:Name" as the column label. You can change this to "Reported by" by clicking on Advanced Options and typing "Reported by" in the **Custom Column Label** field.
+   * [!UICONTROL Primary Contact] > [!UICONTROL Name] 
+      * Note: this appears with "Owner:Name" as the column label. You can change this to "Reported by" by clicking on Advanced Options and typing "Reported by" in the **Custom Column Label** field.
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
