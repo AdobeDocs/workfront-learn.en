@@ -32,6 +32,5 @@ In this video you will learn:
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 To learn how to create the **Admin team feedback report** used in the video, see the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial and look for the activity to **Create an admin team feedback report** following the video. 
-<br>
-<br>
+
 To learn how to create a custom form, see the [Create and share a custom form](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
