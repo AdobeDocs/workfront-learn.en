@@ -2,7 +2,7 @@
 title: Create a system admin feedback request queue
 description: Learn how to create a useful request queue where admins can get feedback on workflows and processes.
 feature: Work Management
-thumbnail: create-a-system-admin-feedback-request-queue.jpg
+thumbnail: 3427124.jpg
 type: Tutorial
 role: Admin
 level: Intermediate
