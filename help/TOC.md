@@ -171,7 +171,6 @@ feature-set: Workfront
     + [Track progress from the project timeline](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
   + Close a project {#close-a-project}
-    + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
     + [Change the project status to complete](manage-work/projects/change-the-project-status.md)
     + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
