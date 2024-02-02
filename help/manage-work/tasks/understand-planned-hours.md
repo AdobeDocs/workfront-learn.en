@@ -14,7 +14,7 @@ doc-type: video
 ---
 # Understand planned hours
 
-In this video, you will learn how to:
+In this video, you will learn:
 
 * What planned hours are in [!DNL  Workfront]
 * Why planned hours are important to your project
