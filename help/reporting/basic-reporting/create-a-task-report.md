@@ -21,6 +21,18 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+
+
+>[!TIP]
+>
+>Break out your spatulas and mixing bowls and get ready to try the "recipes" in our [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inside you'll find step-by-step instructions for 10 reports, ready for you to whip up in your environment today.
+><br><br>
+>We've gathered favorite reports from customers and put them together in a snackable, easily digestible, cookbook for you to take back and test out in your own Workfront kitchen.
+><br><br>
+>These 10 reports come from customers who are just like you. Spread out across industries, departments, teams, positions and all in different companies, we owe a huge thank you to the incredible customers who shared one of their favorite reports. Some reports are simple (but incredibly useful), and some are more complex to take your reporting to the next level.
+
+
+
 ## Activity 1: Create a note report with prompts
 
 Create a Note report that you can use to search for user notes (i.e., comments or updates) or system notes based on the note content, the author, entry date, project name, or audit type. Name the report "Note Search."
