@@ -26,9 +26,7 @@ In this video, you will learn:
 >[!TIP]
 >
 >Break out your spatulas and mixing bowls and get ready to try the "recipes" in our [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inside you'll find step-by-step instructions for 10 reports, ready for you to whip up in your environment today.
-><br>
 >We've gathered favorite reports from customers and put them together in a snackable, easily digestible, cookbook for you to take back and test out in your own Workfront kitchen.
-><br>
 >These 10 reports come from customers who are just like you. Spread out across industries, departments, teams, positions and all in different companies, we owe a huge thank you to the incredible customers who shared one of their favorite reports. Some reports are simple (but incredibly useful), and some are more complex to take your reporting to the next level.
 
 
