@@ -1,6 +1,6 @@
 ---
-title: Access previous versions
-description: Learn how to return to a previous version of a scenario. (Should be between 60 and 160 characters, but is 56 characters)
+title: Access previous versions exercise
+description: Learn how to return to a previous version of a [!UICONTROL Fusion] scenario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 ---
-# Access previous versions
+# Access previous versions exercise
 
 Learn how to return to a previous version of a scenario.
 

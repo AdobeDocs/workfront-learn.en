@@ -1,5 +1,5 @@
 ---
-title: Advanced aggregation
+title: Advanced aggregation exercise
 description: Call a web service to return details about multiple countries and identify population, grouped by sub-region.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 ---
-# Advanced aggregation
+# Advanced aggregation exercise
 
 Understand how to use groupings when aggregating.
 

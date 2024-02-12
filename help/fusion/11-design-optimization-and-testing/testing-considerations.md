@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Testing and launch
@@ -34,7 +35,7 @@ Your goal in testing is to make sure requirements are followed, that there is no
 Keep these guidelines in mind to ensure your testing is consistent and captures all essential elements.
 
 * Determine what test data is needed based on requirements. Typically the most effective testing is based on well-defined and documented requirements. 
-* Plan and communicate how to generate data needed to test depth, breadth, complexity, and load. Avoid “happy path” only testing. Think of all the ways users may interact with the automations and the wide range of possible data that will be processed. 
+* Plan and communicate how to generate data needed to test depth, breadth, complexity, and load. Avoid "happy path" only testing. Think of all the ways users may interact with the automations and the wide range of possible data that will be processed. 
 * Consider needed input and output data between connected systems. Verify input and output in those systems, not just in Workfront Fusion.
 
 Prioritize testing throughout the entire lifecycle of your Workfront Fusion implementation. When designing, think about how you can test whether the design decisions meet requirements. Think through how unexpected data could result in errors and add relevant error handling as you build. Plan to iterate through workable prototypes as you continually test.

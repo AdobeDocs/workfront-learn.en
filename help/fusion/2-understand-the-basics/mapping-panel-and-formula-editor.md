@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9002
 exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Mapping panel and formula editor

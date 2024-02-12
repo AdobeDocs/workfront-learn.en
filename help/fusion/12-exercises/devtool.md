@@ -1,5 +1,5 @@
 ---
-title: Dev tool
+title: Dev tool exercise
 description: Enhance your abilities to troubleshoot a scenario and ease complex configurations using the DevTool.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11057
 thumbnail: KT11057.png
+recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 ---
-# Dev tool
+# Dev tool exercise
 
 Enhance your abilities to troubleshoot a scenario and ease complex configurations using the Dev tool.
 

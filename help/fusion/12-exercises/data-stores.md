@@ -1,5 +1,5 @@
 ---
-title: Data stores
+title: Data stores exercise
 description: Learn how to synchronize company names between two systems. (Should be between 60 and 160 characters, but is 59 characters)
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 ---
-# Data stores
+# Data stores exercise
 
 Learn how to synchronize company names between two systems.
 

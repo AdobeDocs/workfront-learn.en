@@ -1,5 +1,5 @@
 ---
-title: Exploring runs, cycles, and bundles
+title: Exploring runs, cycles, and bundles exercise
 description: Understand how runs, cycles, and bundles behave using the execution history of a scenario.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11050
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 ---
-# Exploring runs, cycles, and bundles
+# Exploring runs, cycles, and bundles exercise
 
 Understand how runs, cycles, and bundles behave using the execution history of a scenario.
 

@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9014
 exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Common routing patterns

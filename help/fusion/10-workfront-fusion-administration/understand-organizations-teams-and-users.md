@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Understand organizations, teams, and users

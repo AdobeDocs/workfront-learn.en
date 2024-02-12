@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Workfront Fusion scenario optimization
 
-What is “scenario optimization” and what can you do to optimize your scenarios?
+What is "scenario optimization" and what can you do to optimize your scenarios?
 
 Scenario optimization is a practiced skill that takes time and dedication to develop. Your first attempt at building a scenario for a business outcome should not be your last. Scenarios should be iterated upon from day one until your integration is launched. Even after you launch, scenarios should be reviewed and updated throughout their lifespan to keep up with business and behavior changes.
 

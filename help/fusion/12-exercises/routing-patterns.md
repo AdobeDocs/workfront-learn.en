@@ -1,5 +1,5 @@
 ---
-title: Routing patterns
+title: Routing patterns exercise
 description: Reinforce your concept of routing and fallback routes without actually dealing with any other APIs.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 ---
-# Routing patterns
+# Routing patterns exercise
 
 Reinforce your concept of routing and fallback routes without actually dealing with any other APIs.
 

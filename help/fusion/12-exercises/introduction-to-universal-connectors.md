@@ -1,5 +1,5 @@
 ---
-title: Introduction to universal connectors
+title: Introduction to universal connectors exercise
 description: Expand your understanding of working with REST universal connectors and working with the data returned.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
+recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 ---
-# Introduction to universal connectors
+# Introduction to universal connectors exercise
 
 Expand your understanding of working with REST universal connectors and working with the data returned.
 

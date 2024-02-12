@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9054
 exl-id: d85e52cb-08d0-4a3a-8187-59e63492c1d5
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Understand data stores

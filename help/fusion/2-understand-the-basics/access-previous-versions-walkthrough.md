@@ -1,6 +1,6 @@
 ---
 title: Access previous versions walkthrough
-description: Discover how you can restore previous versions after you’ve made changes to your scenario and saved them in [!DNL Adobe Workfront Fusion].
+description: Discover how you can restore previous versions after you've made changes to your scenario and saved them in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,13 +9,14 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Access previous versions walkthrough
 
 In this video, you will:
 
-*  Discover how you can restore previous versions after you’ve made changes to your scenario and saved multiple times.
+* Discover how you can restore previous versions after you've made changes to your scenario and saved multiple times.
 
 ## Accessing previous versions walkthrough
 
@@ -27,9 +28,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 >
 >After saving your scenario, a new version is available under the three-dot menu should you need to access it in the future. Previously saved scenario versions are only available for 60 days. If you need to access previous versions beyond the 60 days for audit purposes, Workfront recommends saving a blueprint of your scenario and archiving in an agreed location.
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Access previous versions walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) exercise.
 
 ## Add to your terminology
 

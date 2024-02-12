@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Webhooks walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Webhooks walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) exercise.
 
 ## Postman setup
 

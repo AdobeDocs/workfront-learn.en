@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Introduction to iterators walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Introduction to iterators walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

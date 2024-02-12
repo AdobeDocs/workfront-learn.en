@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Data stores walkthrough
@@ -25,9 +26,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Data stores walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=en) exercise.
 
 
 ## Final note

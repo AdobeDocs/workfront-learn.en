@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Advanced aggregation walkthrough
@@ -28,9 +29,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 * `https://restcountries.com/v2/lang/es`
 * `https://restcountries.com/v2/name/{country name}`
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Advanced aggregation walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) exercise.
+
 
 ## Reinforcement of aggregation principle
 

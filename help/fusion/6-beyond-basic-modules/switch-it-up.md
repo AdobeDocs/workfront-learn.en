@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Switch it up

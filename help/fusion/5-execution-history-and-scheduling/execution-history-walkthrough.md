@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Execution history walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Execution history walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) exercise.
 
 ## Fulltext search in the history tab
 

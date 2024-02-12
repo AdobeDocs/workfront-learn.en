@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Dev tool walkthrough
@@ -22,10 +23,6 @@ Install and use the different areas in the Workfront Dev Tool to take a deeper d
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Dev tool walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) exercise.
 
 
 ## Download the Dev tool

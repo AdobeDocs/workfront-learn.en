@@ -8,15 +8,16 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 ---
 # Workfront Fusion training overview
 
-Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you’ll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts. 
+Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you'll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts. 
 
 The videos show you how to complete each walkthrough exercise, which usually results in creating a new Workfront Fusion scenario. Then you can complete the exercise in your own Workfront Fusion environment, adding to your own collection of scenarios.
 
-In some tutorials, you’ll create a new scenario from scratch. In other tutorials, you will start by making a copy of a scenario you created previously. 
+In some tutorials, you'll create a new scenario from scratch. In other tutorials, you will start by making a copy of a scenario you created previously. 
 
 >[!IMPORTANT]
 >
@@ -28,11 +29,11 @@ In some tutorials, you’ll create a new scenario from scratch. In other tutoria
 
 To complete the exercises in the Workfront Fusion learning paths, you will need a Workfront test drive. If you already have a test drive, we recommend a new one for this training.
 
-Request a practice environment by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you’re unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
+Request a practice environment by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you're unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
 
 ### Access Workfront Fusion for practice
 
-Workfront does not offer Workfront Fusion test drives. To practice as you complete the tutorials, request access to Workfront Fusion from your organization’s Workfront Fusion administrator.
+Workfront does not offer Workfront Fusion test drives. To practice as you complete the tutorials, request access to Workfront Fusion from your organization's Workfront Fusion administrator.
 
 ### Step-by-step instructions on completing the walkthrough exercises
 
@@ -42,11 +43,11 @@ There are step-by-step instructions on completing the walkthrough exercises. You
 
 Practices exercises and challenges are provided following some of the walkthrough exercises. 
 
-There are a number of different ways to solve the practices exercises. The intent is to challenge you to try to accomplish a scenario objective without having steps to follow or the “right answer” because this is what you will need to do when building a scenario at your company. 
+There are a number of different ways to solve the practices exercises. The intent is to challenge you to try to accomplish a scenario objective without having steps to follow or the "right answer" because this is what you will need to do when building a scenario at your company. 
 
 The practice exercise is related to the walkthrough activity. 
 
-The challenges are for those who want to try something that involves other concepts they’ve learned.
+The challenges are for those who want to try something that involves other concepts they've learned.
 
 ### How to get help
 

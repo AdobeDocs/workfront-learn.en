@@ -1,5 +1,5 @@
 ---
-title: Data structures
+title: Data structures exercise
 description: Transform data from a source file into a destination file. (Should be between 60 and 160 characters, but is 58 characters)
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
 ---
-# Data structures
+# Data structures exercise
 
 Transform data from a source file into a destination file.
 

@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Arrays walkthrough
