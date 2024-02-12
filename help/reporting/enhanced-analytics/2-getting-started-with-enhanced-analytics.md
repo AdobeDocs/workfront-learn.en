@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10027
+recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---
 # Get started with [!UICONTROL Enhanced Analytics]
