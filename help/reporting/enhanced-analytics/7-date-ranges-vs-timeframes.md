@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10043
+recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 ---
 # Understand date ranges and timeframes
