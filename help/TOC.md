@@ -378,50 +378,68 @@ feature-set: Workfront
 
   + Understand the basics {#understand-the-basics}
     + [Initial scenario design walkthrough](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+    + [Initial scenario design exercise](fusion/12-exercises/initial-scenario-design.md)
     + [Mapping panel and formula editor](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
     + [Mapping panel important notes](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
     + [Beyond basic mapping walkthrough](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+    + [Beyond basic mapping exercise](fusion/12-exercises/beyond-basic-mapping.md)
     + [Use filters](fusion/2-understand-the-basics/use-filters.md)
     + [Filters walkthrough](fusion/2-understand-the-basics/filters-walkthrough.md)
+    + [Filters exercise](fusion/12-exercises/filters.md)
     + [Access previous versions walkthrough](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+    + [Access previous versions exercise](fusion/12-exercises/access-previous-versions.md)
 
   + Universal connectors and routing {#universal-connectors-and-routing}
     + [Universal connectors exercise overview](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
     + [Introduction to universal connectors walkthrough](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+    + [Introduction to universal connectors exercise](fusion/12-exercises/introduction-to-universal-connectors.md)
     + [Understand routers](fusion/3-universal-connectors-and-routing/understand-routers.md)
     + [Routers walkthrough](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+    + [Routers exercise](fusion/12-exercises/routers.md)
     + [Common routing patterns](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
     + [Routing patterns walkthrough](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+    + [Routing patterns exercise](fusion/12-exercises/routing-patterns.md)
     + [Set-it and get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
     + [Get/Set variables walkthrough](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+    + [Set/Get variables exercise](fusion/12-exercises/set-get-variables.md)
 
   + Iteration and aggregation {#iteration-and-aggregation}
     + [Introduction to iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
     + [Introduction to iterators walkthrough](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+    + [Introduction to iterators exercise](fusion/12-exercises/introduction-to-iterators-exercise.md)
     + [Introduction to aggregations](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
     + [Aggregation walkthrough](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+    + [Aggregation exercise](fusion/12-exercises/aggregation.md)
     + [Advanced aggregation walkthrough](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+    + [Advanced aggregation exercise](fusion/12-exercises/advanced-aggregation.md)
 
   + Execution history and scheduling {#execution-history-and-scheduling}
     + [Introduction to execution history](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
     + [Execution history walkthrough](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+    + [Execution history exercise](fusion/12-exercises/execution-history.md)
     + [Understand scenario scheduling](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
     + [Balance runs cycles and bundles](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
     + [Runs cycles and bundles walkthrough](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+    + [Exploring runs, cycles, and bundles exercise](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
   + Beyond basic modules {#beyond-basic-modules}
     + [Become familiar with additional apps and common modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
     + [Switch it up](fusion/6-beyond-basic-modules/switch-it-up.md)
     + [Switch function walkthrough](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+    + [Switch function exercise](fusion/12-exercises/switch-function.md)
     + [Switch module walkthrough](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+    + [Switch module exercise](fusion/12-exercises/switch-module.md)
     + [Understand the webhook world](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
     + [Webhooks walkthrough](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+    + [Webhooks exercise](fusion/12-exercises/webhooks.md)
 
   + Data structures and data stores {#data-structures-and-data-stores}
     + [Understand data structures](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
     + [Data structures walkthrough](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+    + [Data structures exercise](fusion/12-exercises/data-structures.md)
     + [Understand data stores](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
     + [Data stores walkthrough](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+    + [Data stores exercise](fusion/12-exercises/data-stores.md)
 
   + Final functional bits and bobs {#final-functional-bits-and-bobs}
     + [Workfront app walkthrough](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -429,10 +447,12 @@ feature-set: Workfront
     + [Arrays walkthrough](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
     + [Understand JSON in scenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
     + [Working with JSON walkthrough](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+    + [Working with JSON exercise](fusion/12-exercises/working-with-json.md)
 
   + Troubleshooting and error handling {#troubleshooting-and-error-handling}
     + [Advanced troubleshooting with the dev tool](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
     + [Dev tool walkthrough](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+    + [Dev tool exercise](fusion/12-exercises/devtool.md)
     + [What is error handling](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
     + [Understand error handling directives](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
     + [Error handling walkthrough](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -449,27 +469,6 @@ feature-set: Workfront
     + [Accessibility and clarity](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
     + [Scenario guardrails](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
     + [Testing and launch](fusion/11-design-optimization-and-testing/testing-considerations.md)
-  + Exercises {#exercises}
-    + [Initial scenario design](fusion/12-exercises/initial-scenario-design.md)
-    + [Beyond basic mapping](fusion/12-exercises/beyond-basic-mapping.md)
-    + [Filters](fusion/12-exercises/filters.md)
-    + [Access previous versions](fusion/12-exercises/access-previous-versions.md)
-    + [Introduction to universal connectors](fusion/12-exercises/introduction-to-universal-connectors.md)
-    + [Routers](fusion/12-exercises/routers.md)
-    + [Routing patterns](fusion/12-exercises/routing-patterns.md)
-    + [Set/Get variables](fusion/12-exercises/set-get-variables.md)
-    + [Introduction to iterators](fusion/12-exercises/introduction-to-iterators-exercise.md)
-    + [Aggregation](fusion/12-exercises/aggregation.md)
-    + [Advanced aggregation](fusion/12-exercises/advanced-aggregation.md)
-    + [Execution history](fusion/12-exercises/execution-history.md)
-    + [Exploring runs cycles and bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-    + [Switch function](fusion/12-exercises/switch-function.md)
-    + [Switch module](fusion/12-exercises/switch-module.md)
-    + [Webhooks](fusion/12-exercises/webhooks.md)
-    + [Data structures](fusion/12-exercises/data-structures.md)
-    + [Data stores](fusion/12-exercises/data-stores.md)
-    + [Working with JSON](fusion/12-exercises/working-with-json.md)
-    + [Dev tool](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)

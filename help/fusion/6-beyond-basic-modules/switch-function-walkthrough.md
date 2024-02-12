@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Switch function walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Switch function walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

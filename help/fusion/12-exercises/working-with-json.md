@@ -1,5 +1,5 @@
 ---
-title: Working with JSON
+title: Working with JSON exercise
 description: Learn how to create and parse JSON within a scenario to support your design needs.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
+recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 ---
-# Working with JSON
+# Working with JSON exercise
 
 Learn how to create and parse JSON within a scenario to support your design needs.
 

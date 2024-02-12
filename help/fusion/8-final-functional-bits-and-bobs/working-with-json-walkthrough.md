@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Working with JSON walkthrough
@@ -27,9 +28,6 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Working with JSON walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

@@ -1,5 +1,5 @@
 ---
-title: Set/Get variables
+title: Set/Get variables exercise
 description: Learn how to use the Set and Get Variable modules to use the fields available in one path in a different path.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11045
 thumbnail: KT11045.png
+recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
 ---
-# Set/Get variables
+# Set/Get variables exercise
 
 Learn how to use the Set and Get Variable modules to use the fields available in one path in a different path.
 

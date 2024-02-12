@@ -8,6 +8,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
+recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
 ---
 # Accessibility and clarity
@@ -18,11 +19,11 @@ Early in the Workfront Fusion training, you learned some basic best practices fo
 
 As a general rule, a primary goal in Workfront Fusion is always to have simple scenario designs. Here are some ways to make for simple-to-interpret designs.
 
-* Make sure you are naming all modules. Right-click a module and select Rename. Module labels should be short yet understandable for what the module is performing. For example, “Create Mktg Proj w/ Ch Template.”
+* Make sure you are naming all modules. Right-click a module and select Rename. Module labels should be short yet understandable for what the module is performing. For example, "Create Mktg Proj w/ Ch Template."
 ![An image of a scenario with error handling](assets/design-optimization-and-testing-1.png)
-* Label routing paths as well. Even if a path doesn’t use a filter directly after a router, you can apply a label without filling out the filter logic. Doing this allows others to understand what bundles pass down which paths and why. To create a label for a router path with no filter, right-click the path, add a label, and save.
+* Label routing paths as well. Even if a path doesn't use a filter directly after a router, you can apply a label without filling out the filter logic. Doing this allows others to understand what bundles pass down which paths and why. To create a label for a router path with no filter, right-click the path, add a label, and save.
 ![An image of a scenario with error handling](assets/design-optimization-and-testing-2.png)
-* Add notes where applicable in a scenario if a module label or routing path label is going to be too short to clarify what’s actually happening. You can add notes whenever you want throughout your design and iteration process.
+* Add notes where applicable in a scenario if a module label or routing path label is going to be too short to clarify what's actually happening. You can add notes whenever you want throughout your design and iteration process.
 
 However, it may be easiest to read and understand if you add notes at the very end of your scenario design when you are ready to launch. Work from the end of your scenario design (the far bottom, right corner) backward. That way the notes that apply to the beginning of your scenario are at the top of the list when opening the notes panel. 
 
@@ -60,7 +61,7 @@ You can create a template in the Team Templates section. The template you create
 
 When building the template, you can include a wizard to guide people who use it to build their scenarios, changing the connections, mapped data, and other panel fields as appropriate.
 
-Check the “Use in Wizard” checkbox to add instructions that will be available when someone builds a scenario using your template. This information will appear in the Help field. To allow users to see this text when using the template, enable Use as default value.
+Check the "Use in Wizard" checkbox to add instructions that will be available when someone builds a scenario using your template. This information will appear in the Help field. To allow users to see this text when using the template, enable Use as default value.
 
 ![An image of a scenario with error handling](assets/design-optimization-and-testing-8.png)
 

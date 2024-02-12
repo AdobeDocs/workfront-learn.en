@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Introduction to universal connectors walkthrough
@@ -30,10 +31,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 Pokemon API website: `https://pokeapi.co/`
 
 URL for exercise: `https://pokeapi.co/api/v2/pokemon/{Character}`
-
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Introduction to universal connectors walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

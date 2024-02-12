@@ -1,5 +1,5 @@
 ---
-title: Initial scenario design
+title: Initial scenario design exercise
 description: Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 ---
-# Initial scenario design
+# Initial scenario design exercise
 
 Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.
 

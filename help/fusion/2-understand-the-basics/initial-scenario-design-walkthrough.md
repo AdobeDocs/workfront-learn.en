@@ -28,9 +28,6 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
-For step-by-step instructions on completing the walkthrough, go to the [Initial Scenario Design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) exercise.
-
-
 
 ## Want to learn more? We recommend the following:
 

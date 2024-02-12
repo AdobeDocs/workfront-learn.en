@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Understand the webhook world

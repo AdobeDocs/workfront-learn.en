@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Routing patterns walkthrough
@@ -22,10 +23,6 @@ Use the Set Variable module to send a number through multiple paths to see how f
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Routing patterns walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:
