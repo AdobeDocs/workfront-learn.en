@@ -3,7 +3,7 @@ title: Get started with [!UICONTROL Enhanced Analytics]
 description: Learn the most important fields to update in Workfront in order to let Enhanced analytics show you how your teams and projects are progressing in Workfront.
 activity: use
 team: Technical Marketing
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: analytics-prerequisites.png
 type: Tutorial
 role: User

@@ -1,7 +1,7 @@
 ---
 title: How to Find Work Assignments in [!UICONTROL Home]
 description: Learn how to find incoming and existing work assigned to you in [!UICONTROL  ]. Then review assignment information.
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

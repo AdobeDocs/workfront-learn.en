@@ -2,7 +2,7 @@
 title: Update a request
 description: Learn how to find the requests you've submitted and make an update on those requests in [!DNL  Workfront].
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

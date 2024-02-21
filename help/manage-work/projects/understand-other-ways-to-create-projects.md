@@ -2,7 +2,7 @@
 title: Learn four ways to create a project
 description: Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a [!DNL Microsoft Project] file.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
