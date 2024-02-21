@@ -2,7 +2,7 @@
 title: Make a request
 description: Learn how to find the [!UICONTROL Requests] area and make a request in [!DNL  Workfront]. Then learn how to view submitted and draft requests.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

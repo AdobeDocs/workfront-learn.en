@@ -2,7 +2,7 @@
 title: Get started planning a project
 description: Learn the five main components of a project, what the status signifies, how a [!UICONTROL View] can help you see relevant information, and how to set the start or due date.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
 type: Tutorial
 role: User

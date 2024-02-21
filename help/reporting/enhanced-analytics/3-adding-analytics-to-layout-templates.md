@@ -2,7 +2,7 @@
 title: Add analytics to layout templates
 description: Learn how system and group administrators grant access to Analytics.
 activity: use
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
 type: Tutorial
 role: Admin
