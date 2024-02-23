@@ -1,5 +1,5 @@
 ---
-title: Understand lightboxes in [!UICONTROL Workfront DAM]
+title: Understand lightboxes as a contributor
 description: Learn how to create and use lightboxes in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
 ---
-# Contributor: lightboxes
+# Understand lightboxes as a contributor
 
 In this video, you will learn how to:
 
@@ -25,6 +25,6 @@ In this video, you will learn how to:
 
 ## Folders vs. lightboxes
 
-Folders are used for storing and organizing assets. Access to assets is granted by folder. It’s possible there are more folders in [!UICONTROL Workfront DAM] than you see.
+Folders are used for storing and organizing assets. Access to assets is granted by folder. It's possible there are more folders in [!UICONTROL Workfront DAM] than you see.
 
 Lightboxes are a tool in [!UICONTROL Workfront DAM] you can use to gather and organize the assets you need. You can create a single lightbox for yourself or create a lightbox for each assignment you work on. You only see the lightboxes that you created, unless another user shares a lightbox with you or asks you to collaborate on a lightbox.

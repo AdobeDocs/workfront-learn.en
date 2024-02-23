@@ -2,7 +2,7 @@
 title: Find Your Projects
 description: Learn how to find your projects in [!DNL  Workfront] using pins, favorites, dashboards, and the [!UICONTROL Projects] page.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
 type: Tutorial
 role: User

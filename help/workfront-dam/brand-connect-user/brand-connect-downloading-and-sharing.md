@@ -1,5 +1,5 @@
 ---
-title: Learn how to download and share Lightboxes
+title: Understand downloading and sharing as a user
 description: Learn how to download and share lightboxes and assets in Brand Connect of [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
 ---
-# Brand Connect: How to download and share Lightboxes
+# Understand downloading and sharing as a user
 
 In this video, you will learn how to:
 

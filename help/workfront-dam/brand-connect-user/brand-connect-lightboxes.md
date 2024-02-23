@@ -1,5 +1,5 @@
 ---
-title: Lightboxes in Brand Connect Explained
+title: Understand lightboxes as a user
 description: Learn how to create, use, manage, share, and collaborate on a lighbox in Brand Connect of [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 ---
-# Brand Connect: lightboxes
+# Understand lightboxes as a user
 
 In this video, you will learn how to:
 

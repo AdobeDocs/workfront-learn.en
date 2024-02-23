@@ -1,6 +1,6 @@
 ---
-title: Find and Organize Assets in [!UICONTROL Workfront DAM]
-description: Learn how to search for assets, search within folders, streamline search results, use metadata and keywords as search filters, and more in [!UICONTROL Workfront DAM].
+title: Understand finding assets as a contributor
+description: Learn how to search for assets, search within folders, streamline search results, use metadata and keywords as search filters in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,7 +11,7 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 ---
-# Contributor: find assets
+# Understand finding assets as a contributor
 
 In this video, you will learn how to:
 
@@ -28,7 +28,7 @@ In this video, you will learn how to:
 
 A basic search looks at filenames, metadata fields, keywords, and asset content (depending on the asset type). It does not include folder name.
 
-Most search results are exact matches. An exception to this “exact match” rule is when the [!UICONTROL Workfront DAM] searches the filename field. [!UICONTROL Workfront DAM] returns partial filename matches, rather than just exact filename matches.
+Most search results are exact matches. An exception to this "exact match" rule is when the [!UICONTROL Workfront DAM] searches the filename field. [!UICONTROL Workfront DAM] returns partial filename matches, rather than just exact filename matches.
 
 ## User operators while searching
 
@@ -48,12 +48,12 @@ Use the OR operator to find assets that contain any of the search terms. For exa
 
 ### Phrase
 
-To find an exact phrase, use double quotes around the words. All words will be found together and in order. For example, “Eiffel Tower” will find those words in that exact order.
+To find an exact phrase, use double quotes around the words. All words will be found together and in order. For example, "Eiffel Tower" will find those words in that exact order.
 
 ### Negative operator
 
-If you want to exclude a word from the search results, put a minus sign (–) in front of the word. Make sure there isn’t a space between the minus sign and the word. For example, to exclude assets that have the word “tower” in the metadata, your search could be set up as Paris -tower.
+If you want to exclude a word from the search results, put a minus sign (–) in front of the word. Make sure there isn't a space between the minus sign and the word. For example, to exclude assets that have the word "tower" in the metadata, your search could be set up as Paris -tower.
 
 ### Empty field operator
 
-To find assets that have no information in a specific metadata field, enter the field you want to search in this format: ?[xxxxx]. For example, if you want to find assets that don’t have keywords assigned, enter ?[keyword] in the search field.
+To find assets that have no information in a specific metadata field, enter the field you want to search in this format: ?[xxxxx]. For example, if you want to find assets that don't have keywords assigned, enter ?[keyword] in the search field.

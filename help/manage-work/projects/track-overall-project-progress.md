@@ -3,7 +3,7 @@ title: Track overall project progress
 description: Learn how the information displayed in the project header can help you track overall project progress and health.
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
