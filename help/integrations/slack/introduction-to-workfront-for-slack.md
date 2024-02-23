@@ -2,7 +2,7 @@
 title: Understand Workfront for [!DNL Slack]
 description: Learn how to get an introduction into what you will learn from other [!DNL Workfront] for Slack videos.
 activity: use
-feature: Workfront Integrations and Apps
+feature: Workfront Integrations and Apps,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

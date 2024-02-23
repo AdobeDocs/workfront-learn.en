@@ -1,5 +1,5 @@
 ---
-title: Resource Management Setups, Workload Balancer, and Utilizat… (Titles should be no more than 60 characters)
+title: Resource mgmt setups, Workload Balancer, and utilization rpt
 description: Learn how to set up resource managers with the right access and how to view the workload balancer and utilization report.
 feature: Resource Management
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 ---
-# Resource management setups, Workload Balancer, and Utilization Report
+# Resource management setups, Workload Balancer, and utilization report
 
-[!DNL Workfront] offers data, across multiple tools in [!DNL Workfront], to help make your resource decisions easier and your processes smoother. To see what’s going on with your resources, you should make sure your managers, your users, and your projects are configured properly. These configurations are helpful even if you don’t plan on using all of [!DNL Workfront’s] resource management tools.
+[!DNL Workfront] offers data, across multiple tools in [!DNL Workfront], to help make your resource decisions easier and your processes smoother. To see what's going on with your resources, you should make sure your managers, your users, and your projects are configured properly. These configurations are helpful even if you don't plan on using all of [!DNL Workfront's] resource management tools.
 
 In this section you will learn:
 
@@ -22,7 +22,7 @@ In this section you will learn:
 
 ## Resource management setups
 
-Let’s start with making sure the right people have access to and can administer your organization’s resources. 
+Let's start with making sure the right people have access to and can administer your organization's resources. 
 
 <!Download the guide for step-by-step instructions.>
 

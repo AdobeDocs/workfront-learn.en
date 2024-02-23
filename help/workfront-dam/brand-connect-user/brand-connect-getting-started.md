@@ -11,7 +11,7 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 ---
-# Brand Connect: Understand navigation and searching as a user
+# Understand navigation and searching as a user
 
 In this video, you will learn:
 

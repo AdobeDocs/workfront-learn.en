@@ -1,5 +1,5 @@
 ---
-title: Send a File from Workfront to [!UICONTROL Workfront DAM]
+title: Send a file as a contributor
 description: Learn how to send over a completed file in [!DNL Workfront] to [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
 ---
-# Send a file from [!DNL Workfront] to [!UICONTROL Workfront DAM]
+# Send a file as a contributor
 
 When you have a completed file in [!DNL Workfront], you can send it over to [!UICONTROL Workfront DAM] with a few clicks.
 

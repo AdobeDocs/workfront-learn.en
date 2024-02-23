@@ -1,5 +1,5 @@
 ---
-title: Add a [!UICONTROL Workfront DAM] Link in Workfront
+title: Add a [!UICONTROL Workfront DAM] link
 description: Learn how to add a [!UICONTROL Workfront DAM] link in Workfront so that you can link [!UICONTROL DAM] to your project, task, or issue in Workfront.
 activity: use
 team: Technical Marketing
@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 ---
-# Add a [!UICONTROL Workfront DAM] link in [!DNL Workfront]
+# Add a [!UICONTROL Workfront DAM] link
 
 Start by setting up the connection between the two systems.
 
@@ -29,7 +29,7 @@ Now you can put a link to the [!UICONTROL Workfront DAM] item in [!DNL Workfront
     ![An image of the [!UICONTROL From Workfront DAM] option in the [!UICONTROL Add New] drop-down menu](assets/01-contributor-from-workfront-dam.png)
 1. A list of files and folders that you have access to in [!UICONTROL Workfront DAM] appears in the window.
 
-1. Find the asset you’re looking for and check the box next to it. The default view is a list, but you can switch to a thumbnail view with the icons in the top-right corner of the window.
+1. Find the asset you're looking for and check the box next to it. The default view is a list, but you can switch to a thumbnail view with the icons in the top-right corner of the window.
 
     ![An image of selected assets in a pop-up window](assets/02-contributor-select-files-in-dam.png)
 
