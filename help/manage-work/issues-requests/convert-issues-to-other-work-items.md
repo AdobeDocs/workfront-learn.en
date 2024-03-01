@@ -4,7 +4,6 @@ description: Learn how to convert an issue or request to a task.
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: 3427605.jpg
 type: Tutorial
 role: User
 level: Intermediate
