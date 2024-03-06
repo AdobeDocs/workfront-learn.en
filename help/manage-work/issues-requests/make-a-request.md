@@ -23,5 +23,7 @@ In this video, you will learn how to:
 * Make a request
 * View submitted requests
 * Find a draft of a request
+* See the last three request paths
+* Copy a request
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
