@@ -11,6 +11,7 @@ last-substantial-update: 2024-01-09
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
+exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
 ---
 # Edit the project team in a project template
 
