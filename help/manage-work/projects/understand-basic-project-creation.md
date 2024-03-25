@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
@@ -16,13 +17,14 @@ doc-type: video
 
 In this video, you will learn:
 
-* Four steps to get a project up and running
-* The definition of a project in [!DNL Workfront]
-* The three most common ways of creating a project
+ * The definition of a project in Workfront
+ * Basic steps to get a project up and running
+ * A little about tasks and issues
+ * Best practice for starting out with creating projects
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Get your [!DNL  Workfront] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
+Get your Workfront projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
 
 1. Tasks
 1. Duration
