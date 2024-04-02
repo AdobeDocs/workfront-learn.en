@@ -147,7 +147,7 @@ feature-set: Workfront
     + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
 
   + Portfolios {#portfolios}
-    + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Understand portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
     + [Understand the [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
     + [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -236,7 +236,7 @@ feature-set: Workfront
   + Enhanced Analytics {#enhanced-analytics}
     + [A moment with Product about [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
     + [Get started with [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-    + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+    + [How to access [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
     + [Understand basic navigation](reporting/enhanced-analytics/4-basic-navigation.md)
     + [Understand work and people charts](reporting/enhanced-analytics/5-work-and-people-charts.md) 
     + [Understand filters](reporting/enhanced-analytics/6-filters-overview.md)
