@@ -7,8 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2024-04-02
 jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Set up your Workfront Fusion exercise files

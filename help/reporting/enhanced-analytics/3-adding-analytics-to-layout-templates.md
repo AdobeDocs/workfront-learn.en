@@ -1,18 +1,30 @@
 ---
-title: Add analytics to layout templates
-description: Learn how system and group administrators grant access to Analytics.
+title: How to access [!UICONTROL Enhanced Analytics]
+description: Learn how system and group administrators grant access to [!UICONTROL Enhanced Analytics] via a layout template.
 activity: use
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
 type: Tutorial
 role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
+last-substantial-update: 2024-04-02
+recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
 ---
-# Add analytics to layout templates
+
+# How to access Enhanced Analytics
+
+Like most other features in Workfront, you access [!UICONTROL Enhanced Analytics] from the main menu. But [!UICONTROL Analytics] is not on the main menu by default. 
+
+![An image of the main menu ](assets/analytics-on-main-menu.png)
+
+If you don't see it there, your system or group administrator will need to add it for you. They will do that in a layout template. The video below explains how. 
+
+
+## Add analytics to layout templates
 
 In this video, you will learn how system and group administrators grant access to [!UICONTROL Analytics] in Workfront.
 

@@ -2,7 +2,7 @@
 title: Understand how [!DNL Workfront Goals] works
 description: Learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

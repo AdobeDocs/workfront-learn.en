@@ -8,7 +8,7 @@ thumbnail: 3422430.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-03
+last-substantial-update: 2024-02-13
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 ---

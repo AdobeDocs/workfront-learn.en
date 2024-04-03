@@ -3,7 +3,7 @@ title: Find and manage requests
 description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 3422686.jpg
 type: Tutorial
 role: User

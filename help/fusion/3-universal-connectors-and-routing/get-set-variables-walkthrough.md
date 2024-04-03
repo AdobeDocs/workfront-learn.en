@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Set/Get variables walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Set/Get variables walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercise.
 
 ## Your turn
 

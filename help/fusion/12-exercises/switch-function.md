@@ -1,5 +1,5 @@
 ---
-title: Switch function
+title: Switch function exercise
 description: Learn how to use the switch functionality using the Switch function.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11051
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 ---
-# Switch function
+# Switch function exercise
 
 Learn how to use the switch functionality using the Switch function.
 

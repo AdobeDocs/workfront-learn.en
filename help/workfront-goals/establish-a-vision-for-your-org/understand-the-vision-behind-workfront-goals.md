@@ -2,7 +2,7 @@
 title: Understand the vision behind [!UICONTROL Workfront Goals]
 description: Learn about [!DNL Workfront Goals] in [!DNL  Workfront] from the Product team.
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

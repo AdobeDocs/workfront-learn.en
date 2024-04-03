@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Filters walkthrough
@@ -27,9 +28,6 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Filters walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) exercise.
 
 ## Your turn
 

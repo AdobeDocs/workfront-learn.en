@@ -1,5 +1,5 @@
 ---
-title: Webhooks
+title: Webhooks exercise
 description: Learn how to create, trigger, and manage webhook-initiated scenarios.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11053
 thumbnail: KT11053.png
+recommendations: noDisplay,noCatalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
 ---
-# Webhooks
+# Webhooks exercise
 
 Learn how to create, trigger, and manage webhook-initiated scenarios.
 

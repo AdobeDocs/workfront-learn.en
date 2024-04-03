@@ -8,6 +8,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-9049
+recommendations: noDisplay,noCatalog
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 ---
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Switch module walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

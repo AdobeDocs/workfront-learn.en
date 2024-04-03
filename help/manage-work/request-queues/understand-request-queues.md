@@ -2,7 +2,7 @@
 title: Understand request queues
 description: Learn how request queues are structured in [!DNL  Workfront] and how to submit a request.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: Admin, User
 level: Intermediate

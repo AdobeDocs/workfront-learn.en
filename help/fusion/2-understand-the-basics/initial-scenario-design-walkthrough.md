@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Initial scenario design walkthrough
@@ -26,11 +27,6 @@ In this video, you will learn how to:
 * Create a basic scenario 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
-
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Initial Scenario Design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) exercise.
-
 
 
 ## Want to learn more? We recommend the following:

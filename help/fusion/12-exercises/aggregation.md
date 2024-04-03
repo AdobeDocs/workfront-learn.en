@@ -1,5 +1,5 @@
 ---
-title: Aggregation
+title: Aggregation exercise
 description: Learn to aggregate multiple bundles of information into a single value.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11047
 thumbnail: KT11047.png
+recommendations: noDisplay,noCatalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
 ---
-# Aggregation
+# Aggregation exercise
 
 Learn to aggregate multiple bundles of information into a single value.
 

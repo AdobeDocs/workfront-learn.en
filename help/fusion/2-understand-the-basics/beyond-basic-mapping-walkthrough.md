@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Beyond basic mapping walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Beyond basic mapping walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) exercise.
 
 ## Your turn
 

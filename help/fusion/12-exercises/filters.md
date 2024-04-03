@@ -1,5 +1,5 @@
 ---
-title: Filters
+title: Filters exercise
 description: Learn how to use the filter between modules to allow only certain types of bundles through.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11040
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 ---
-# Filters
+# Filters exercise
 
 Learn how to use the filter between modules to allow only certain types of bundles through.
 

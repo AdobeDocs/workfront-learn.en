@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Become familiar with additional apps and common modules

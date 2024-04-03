@@ -1,5 +1,5 @@
 ---
-title: Routers
+title: Routers exercise
 description: Understand the importance of routers and how they can be used to conditionally process different modules.
 activity: use
 team: Technical Marketing
@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
+recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 ---
-# Routers
+# Routers exercise
 
 Understand the importance of routers and how they can be used to conditionally process different modules.
 

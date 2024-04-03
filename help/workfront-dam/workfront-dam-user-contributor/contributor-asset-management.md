@@ -1,5 +1,5 @@
 ---
-title: Learn how to Manage Assets in [!UICONTROL Workfront DAM]
+title: Understand asset management as a contributor
 description: Learn how to manage assets in [!UICONTROL Workfront DAM] to improve your workflow.
 activity: use
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 ---
-# Contributor: asset management
+# Understand asset management as a contributor
 
 In this video, you will learn how to:
 
@@ -32,8 +32,8 @@ Part of your workflow may include managing multiple versions—or rounds, proofs
 
 The system allows for automatic asset version control when a file with the same name as an existing file is uploaded to the same folder. Check with your system administrator to see if this functionality has been turned on.
 
-If automatic version control is turned on, an asset will version only if it’s loaded into the folder that holds the original asset. Both assets must have the same filename. If the asset is loaded into a different folder, the asset goes in as a new file.
-If version control is not turned on, a file with the same name as an existing file uploads as a new file, regardless of which folder it’s put in. This could result in having two assets with the same name in the same folder.
+If automatic version control is turned on, an asset will version only if it's loaded into the folder that holds the original asset. Both assets must have the same filename. If the asset is loaded into a different folder, the asset goes in as a new file.
+If version control is not turned on, a file with the same name as an existing file uploads as a new file, regardless of which folder it's put in. This could result in having two assets with the same name in the same folder.
 
 You can also manually upload versions of a specific asset. Click the edit icon on the asset, then select **[!UICONTROL Upload new version]**.
 

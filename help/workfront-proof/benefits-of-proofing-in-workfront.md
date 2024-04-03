@@ -2,7 +2,7 @@
 title: Learn the benefits of proofing
 description: Learn what proofing is and the benefits of using digital proofing in [!DNL  Workfront].
 activity: use
-feature: Workfront Proof
+feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner

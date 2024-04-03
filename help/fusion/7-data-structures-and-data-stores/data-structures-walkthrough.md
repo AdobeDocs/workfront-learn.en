@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
+recommendations: noDisplay,noCatalog
 doc-type: video
 ---
 # Data structures walkthrough
@@ -23,9 +24,6 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on)
 
->[!TIP]
->
->For step-by-step instructions on completing the walkthrough, go to the [Data structures walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

@@ -2,13 +2,14 @@
 title: Learn four ways to create a project
 description: Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a [!DNL Microsoft Project] file.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+last-substantial-update: 2024-03-05
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 ---
@@ -23,20 +24,11 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Pro tips
+## More about working with tasks
 
-* The [!UICONTROL New Project from Template] window makes it easy to select the right template for your project. Scroll through the left panel to find a template, then select it to get a preview of its contents. This preview shows you how many tasks are in the template, the required job roles, and more.
-
-![[!UICONTROL New Project from Template] window](assets/planner-fund-new-project-from-template-window.png)
-
-* If there's a template you use frequently, make it a favorite! You'll see the template listed in the [!UICONTROL New Project] menu, in addition to it appearing under the [!UICONTROL Favorites and Recents] icon in the navigation bar. Just click the favorite star icon wherever you see it—on the template page, while choosing a template to create your project with, etc.
-
-![[!UICONTROL Favorite templates] list under [!UICONTROL New Project] button](assets/planner-fund-template-favorites.png)
-
-<!---
-learn more:
-create a project using a template
-create a project
-copy a project
-import a project from Microsoft Project
---->
+* [Create tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Work with tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Assign tasks from the project plan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Understand task durations](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Understand planned hours](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)

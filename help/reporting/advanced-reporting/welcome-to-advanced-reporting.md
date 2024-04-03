@@ -33,7 +33,13 @@ Before watching these tutorials you should have a:
 * Good understanding of the objects you want to include in reports.
 * Good understanding of using custom forms, especially calculated custom fields.
 * A [!UICONTROL Plan] license type with rights to create reports and filters enabled.
-* You should have taken the [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) course, the [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) course and the [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) course.
+* You should have taken these courses:
+    * [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+    * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+    * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* You should also have taken these tutorials:
+    * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
+    * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en) 
 
 ## Target audience
 

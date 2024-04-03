@@ -11,6 +11,7 @@ last-substantial-update: 2024-01-09
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
+exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 ---
 # Deactivate a project template
 

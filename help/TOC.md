@@ -109,6 +109,7 @@ feature-set: Workfront
     + [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
     + [Find projects](manage-work/projects/find-projects.md)
     + [Share a project](manage-work/projects/share-a-project.md)
+    + [Understand the project team](manage-work/projects/understand-the-project-team.md)
     + [Understand project communication](manage-work/projects/understand-project-communication.md)
     + [View project information](manage-work/projects/view-project-information.md) 
     + [Track overall project progress](manage-work/projects/track-overall-project-progress.md)
@@ -142,10 +143,11 @@ feature-set: Workfront
     + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
     + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
+    + [Create a system admin feedback request queue](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
     + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
 
   + Portfolios {#portfolios}
-    + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Understand portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
     + [Understand the [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
     + [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -170,7 +172,6 @@ feature-set: Workfront
     + [Track progress from the project timeline](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
   + Close a project {#close-a-project}
-    + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
     + [Change the project status to complete](manage-work/projects/change-the-project-status.md)
     + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
@@ -201,6 +202,7 @@ feature-set: Workfront
     + [Create basic filter activities](reporting/basic-reporting/create-a-basic-filter-activity.md)
     + [Create a simple report](reporting/basic-reporting/create-a-simple-report.md)
     + [Create a task report](reporting/basic-reporting/create-a-task-report.md)
+    + [Copy a report](reporting/basic-reporting/copy-a-report.md)
     + [Create reports with charts](reporting/basic-reporting/create-reports-with-charts.md)
     + [Create a matrix report](reporting/basic-reporting/create-a-matrix-report.md)
     + [Create dashboards](reporting/basic-reporting/create-dashboards.md)
@@ -234,7 +236,7 @@ feature-set: Workfront
   + Enhanced Analytics {#enhanced-analytics}
     + [A moment with Product about [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
     + [Get started with [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-    + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+    + [How to access [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
     + [Understand basic navigation](reporting/enhanced-analytics/4-basic-navigation.md)
     + [Understand work and people charts](reporting/enhanced-analytics/5-work-and-people-charts.md) 
     + [Understand filters](reporting/enhanced-analytics/6-filters-overview.md)
@@ -261,7 +263,7 @@ feature-set: Workfront
     + [Resource management maturity](manage-resources/resource-management/resource-management-maturity.md)
     + [Resource management settings for projects](manage-resources/resource-management/settings-for-projects.md)
     + [Resource management settings for users](manage-resources/resource-management/settings-for-users.md)
-    + [Resource management setups, Workload Balancer, and Utilization Report](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+    + [Resource mgmt setups, Workload Balancer, and utilization rpt](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
   + Workload Balancer {#workload-balancer}
     + [Find the Workload Balancer](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -376,50 +378,68 @@ feature-set: Workfront
 
   + Understand the basics {#understand-the-basics}
     + [Initial scenario design walkthrough](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+    + [Initial scenario design exercise](fusion/12-exercises/initial-scenario-design.md)
     + [Mapping panel and formula editor](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
     + [Mapping panel important notes](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
     + [Beyond basic mapping walkthrough](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+    + [Beyond basic mapping exercise](fusion/12-exercises/beyond-basic-mapping.md)
     + [Use filters](fusion/2-understand-the-basics/use-filters.md)
     + [Filters walkthrough](fusion/2-understand-the-basics/filters-walkthrough.md)
+    + [Filters exercise](fusion/12-exercises/filters.md)
     + [Access previous versions walkthrough](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+    + [Access previous versions exercise](fusion/12-exercises/access-previous-versions.md)
 
   + Universal connectors and routing {#universal-connectors-and-routing}
     + [Universal connectors exercise overview](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
     + [Introduction to universal connectors walkthrough](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+    + [Introduction to universal connectors exercise](fusion/12-exercises/introduction-to-universal-connectors.md)
     + [Understand routers](fusion/3-universal-connectors-and-routing/understand-routers.md)
     + [Routers walkthrough](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+    + [Routers exercise](fusion/12-exercises/routers.md)
     + [Common routing patterns](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
     + [Routing patterns walkthrough](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+    + [Routing patterns exercise](fusion/12-exercises/routing-patterns.md)
     + [Set-it and get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
     + [Get/Set variables walkthrough](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+    + [Set/Get variables exercise](fusion/12-exercises/set-get-variables.md)
 
   + Iteration and aggregation {#iteration-and-aggregation}
     + [Introduction to iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
     + [Introduction to iterators walkthrough](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+    + [Introduction to iterators exercise](fusion/12-exercises/introduction-to-iterators-exercise.md)
     + [Introduction to aggregations](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
     + [Aggregation walkthrough](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+    + [Aggregation exercise](fusion/12-exercises/aggregation.md)
     + [Advanced aggregation walkthrough](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+    + [Advanced aggregation exercise](fusion/12-exercises/advanced-aggregation.md)
 
   + Execution history and scheduling {#execution-history-and-scheduling}
     + [Introduction to execution history](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
     + [Execution history walkthrough](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+    + [Execution history exercise](fusion/12-exercises/execution-history.md)
     + [Understand scenario scheduling](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
     + [Balance runs cycles and bundles](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
     + [Runs cycles and bundles walkthrough](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+    + [Exploring runs, cycles, and bundles exercise](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
   + Beyond basic modules {#beyond-basic-modules}
     + [Become familiar with additional apps and common modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
     + [Switch it up](fusion/6-beyond-basic-modules/switch-it-up.md)
     + [Switch function walkthrough](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+    + [Switch function exercise](fusion/12-exercises/switch-function.md)
     + [Switch module walkthrough](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+    + [Switch module exercise](fusion/12-exercises/switch-module.md)
     + [Understand the webhook world](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
     + [Webhooks walkthrough](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+    + [Webhooks exercise](fusion/12-exercises/webhooks.md)
 
   + Data structures and data stores {#data-structures-and-data-stores}
     + [Understand data structures](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
     + [Data structures walkthrough](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+    + [Data structures exercise](fusion/12-exercises/data-structures.md)
     + [Understand data stores](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
     + [Data stores walkthrough](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+    + [Data stores exercise](fusion/12-exercises/data-stores.md)
 
   + Final functional bits and bobs {#final-functional-bits-and-bobs}
     + [Workfront app walkthrough](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -427,10 +447,12 @@ feature-set: Workfront
     + [Arrays walkthrough](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
     + [Understand JSON in scenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
     + [Working with JSON walkthrough](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+    + [Working with JSON exercise](fusion/12-exercises/working-with-json.md)
 
   + Troubleshooting and error handling {#troubleshooting-and-error-handling}
     + [Advanced troubleshooting with the dev tool](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
     + [Dev tool walkthrough](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+    + [Dev tool exercise](fusion/12-exercises/devtool.md)
     + [What is error handling](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
     + [Understand error handling directives](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
     + [Error handling walkthrough](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -447,27 +469,6 @@ feature-set: Workfront
     + [Accessibility and clarity](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
     + [Scenario guardrails](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
     + [Testing and launch](fusion/11-design-optimization-and-testing/testing-considerations.md)
-  + Exercises {#exercises}
-    + [Initial scenario design](fusion/12-exercises/initial-scenario-design.md)
-    + [Beyond basic mapping](fusion/12-exercises/beyond-basic-mapping.md)
-    + [Filters](fusion/12-exercises/filters.md)
-    + [Access previous versions](fusion/12-exercises/access-previous-versions.md)
-    + [Introduction to universal connectors](fusion/12-exercises/introduction-to-universal-connectors.md)
-    + [Routers](fusion/12-exercises/routers.md)
-    + [Routing patterns](fusion/12-exercises/routing-patterns.md)
-    + [Set/Get variables](fusion/12-exercises/set-get-variables.md)
-    + [Introduction to iterators](fusion/12-exercises/introduction-to-iterators-exercise.md)
-    + [Aggregation](fusion/12-exercises/aggregation.md)
-    + [Advanced aggregation](fusion/12-exercises/advanced-aggregation.md)
-    + [Execution history](fusion/12-exercises/execution-history.md)
-    + [Exploring runs cycles and bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-    + [Switch function](fusion/12-exercises/switch-function.md)
-    + [Switch module](fusion/12-exercises/switch-module.md)
-    + [Webhooks](fusion/12-exercises/webhooks.md)
-    + [Data structures](fusion/12-exercises/data-structures.md)
-    + [Data stores](fusion/12-exercises/data-stores.md)
-    + [Working with JSON](fusion/12-exercises/working-with-json.md)
-    + [Dev tool](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)
@@ -551,7 +552,7 @@ feature-set: Workfront
     + [Understand asset management as a contributor](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
     + [Understand finding assets as a contributor](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
     + [Understand lightboxes as a contributor](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-    + [Understand metadata and keyword best practices as a contributor](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+    + [Understand metadata and keyword best practices](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
     + [Work with assets as a contributor](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
     + [Send a file as a contributor](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
     + [Publish assets as a contributor](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -628,10 +629,10 @@ feature-set: Workfront
   + [Scenario Planner](best-practices/scenario-planner-bp.md)
   + [Schedules](best-practices/schedules-bp.md)
   + [Statuses](best-practices/statuses-bp.md)
-  + [System peformance and maintenance](best-practices/system-performance-maintenance-bp.md)
+  + [System performance and maintenance](best-practices/system-performance-maintenance-bp.md)
   + [Text mode reporting](best-practices/test-mode-reporting-bp.md)
   + [Timeline planning and management](best-practices/timeline-planning-management-bp.md)
-  + [Timesheets and loggin time](best-practices/timesheets-logging-time-bp.md)
+  + [Timesheets and logging time](best-practices/timesheets-logging-time-bp.md)
   + [Utilization](best-practices/utilization-bp.md)
   + [Workfront Goals](best-practices/workfront-goals-bp.md)
   + [Workload Balancer](best-practices/workload-balancer-bp.md)
