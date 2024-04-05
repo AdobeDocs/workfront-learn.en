@@ -7,6 +7,7 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
@@ -39,10 +40,10 @@ The project page is filled with many features to help you manage your work. Work
 8. **[!UICONTROL Condition]:** The [!UICONTROL Condition] is a visual representation of how the project is progressing. [!DNL Workfront] can automatically configure the [!UICONTROL Condition] based on the progress status of the tasks in the project. Or [!UICONTROL Condition] can be set manually through the project details.
 9. **[!UICONTROL Status]:** The [!UICONTROL Status] indicates where in the process the project stands: is the project still being planned, is the project in progress, or is all of the work in the project complete.
 10. **[!UICONTROL New Task]:** Click to create a new task in the project. The task generates at the bottom of the list.
-11. **[!UICONTROL Export]:** Export the project plan to a PDF, spreadsheet, or tab delimited file.
+11. **[!UICONTROL Export]:** Export the task list or selected tasks to a PDF, spreadsheet, or tab delimited file.
 12. **Left panel menu:** Navigate to different information about the project with the left panel. Click the icon to collapse the panel if you need a bit more space on your screen. Drag and drop the icons so the order helps you work efficiently. The options you see are set by your [!DNL Workfront] system administrator.
 13. **Task list:** The task list shows all the tasks that make up your project plan. The information visible about each task is determined by the view selected.
-14. **Summary panel:** Click the icon to toggle open or closed the summary panel, which provides a quick look into information about the selected task.
+14. **Summary panel:** The summary panel provides a quick look into information about the selected task. Click the icon to open or close.
 
 <!---
 learn more:
