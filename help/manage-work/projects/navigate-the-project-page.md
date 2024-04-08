@@ -28,7 +28,7 @@ In this video, you will learn:
 
 The project page is filled with many features to help you manage your work. Work with your system administrator if there is an option you need but don't see in your instance of [!DNL Workfront]. Here are a few of the main project page features to make note of.
 
-![Project page](assets/project-page-graphic-for-planner.png)
+![Screenshot of project page](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Breadcrumb trail:** Navigate through the program and portfolio hierarchy behind the project.
 2. **Object type:** Showing the object type on the landing page helps you identify what you're looking at in [!DNL Workfront]. The "project" term is customizable by your [!DNL Workfront] system administrator.
@@ -44,10 +44,5 @@ The project page is filled with many features to help you manage your work. Work
 12. **Left panel menu:** Navigate to different information about the project with the left panel. Click the icon to collapse the panel if you need a bit more space on your screen. Drag and drop the icons so the order helps you work efficiently. The options you see are set by your [!DNL Workfront] system administrator.
 13. **Task list:** The task list shows all the tasks that make up your project plan. The information visible about each task is determined by the view selected.
 14. **Summary panel:** The summary panel provides a quick look into information about the selected task. Click the icon to open or close.
+15. **Add More Tasks** Click here to add another task to the bottom of the task list using inline edit.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
