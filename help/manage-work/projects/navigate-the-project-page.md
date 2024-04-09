@@ -46,3 +46,4 @@ The project page is filled with many features to help you manage your work. Work
 14. **Summary panel:** The summary panel provides a quick look into information about the selected task. Click the icon to open or close.
 15. **Add More Tasks** Click here to add another task to the bottom of the task list using inline edit.
 
+
