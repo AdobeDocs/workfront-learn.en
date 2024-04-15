@@ -9,6 +9,7 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-07
+recommendations: noDisplay,noCatalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
@@ -20,3 +21,10 @@ In this video you will learn:
 * What the project team can be used for and how to maintain it
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
+
+## Recommended tutorials on this topic
+
+* [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects](manage-work/projects/find-projects.md)
+* [Share a project](manage-work/projects/share-a-project.md)
+* [Understand project communication](manage-work/projects/understand-project-communication.md)

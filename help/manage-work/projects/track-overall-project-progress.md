@@ -8,6 +8,7 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 ---
@@ -32,7 +33,13 @@ The project [!UICONTROL Condition] is referred to as the "health of the project 
 >Whether the project condition is set automatically by [!DNL Workfront] or manually by someone with manage rights to the project is controlled by the [!UICONTROL Condition Type] setting in the [!UICONTROL Overview] section of the [!UICONTROL Project Details] page.
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Recommended tutorials on this topic
+
+* [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
+* [Track work progress with project metrics](manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
+* [Understand the [!UICONTROL Board] view](manage-work/projects/understand-the-board-view.md)

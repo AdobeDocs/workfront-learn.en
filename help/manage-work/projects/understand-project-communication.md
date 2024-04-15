@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-05
+recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 ---
@@ -29,3 +30,10 @@ In this video you will learn how to communicate with all project stakeholders us
 >To create the Note Search report shown in the video, see the activity in the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial.
 >
 >To add the Note Search report to your project panel, see the activity in the [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) tutorial.
+
+## Recommended tutorials on this topic
+
+* [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects](manage-work/projects/find-projects.md)
+* [Share a project](manage-work/projects/share-a-project.md)
+* [Understand the project team](manage-work/projects/understand-the-project-team.md)
