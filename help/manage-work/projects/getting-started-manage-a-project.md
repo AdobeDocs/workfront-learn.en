@@ -45,6 +45,7 @@ Project management knowledge areas
 9 best practices for effective project management
 10 work management problems and how to solve them
 --->
+
 ## Recommended tutorials on this topic
 
 * [Take a project live](manage-work/projects/take-a-project-live.md)
