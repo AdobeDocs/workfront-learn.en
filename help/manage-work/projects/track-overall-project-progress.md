@@ -39,7 +39,7 @@ Overview of project condition and condition type
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
-* [Track work progress with project metrics](manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
-* [Understand the [!UICONTROL Board] view](manage-work/projects/understand-the-board-view.md)
+* [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Track work progress with project metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Understand the [!UICONTROL Gantt] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Understand the [!UICONTROL Board] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

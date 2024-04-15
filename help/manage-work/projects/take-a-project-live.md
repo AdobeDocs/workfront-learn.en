@@ -23,6 +23,6 @@ In this video, you will learn how to:
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](manage-work/projects/find-projects.md)
-* [Share a project](manage-work/projects/share-a-project.md) 
+* [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Share a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md) 

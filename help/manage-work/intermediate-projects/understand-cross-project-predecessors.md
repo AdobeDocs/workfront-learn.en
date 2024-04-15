@@ -15,16 +15,12 @@ exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
 ---
 # Understand cross-project predecessors
 
->[!IMPORTANT]
->
->Prerequisites:
+Cross project predecessors are an easy way to establish dependencies between tasks in different projects. For example, a construction company may have a project called **Build Access Road to Summerhill Housing Development**, and another project called **Build Model Home in Summerhill**. By making the first task in **Build Model Home** have a cross project predecessor of the last task in **Build Access Road**, you're making sure the access road is in place before you start building the home. Because the tasks are linked, if the **Build Access Road** project slips, the **Build Model Home** planned start date will automatically slip accordingly.
+
+>[!PREREQUISITES]
 >
 >* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Or you're already comfortable using predecessors in your projects
-
->[!NOTE]
->
->Cross project predecessors are an easy way to establish dependencies between tasks in different projects. For example, a construction company may have a project called **Build Access Road to Summerhill Housing Development**, and another project called **Build Model Home in Summerhill**. By making the first task in **Build Model Home** have a cross project predecessor of the last task in **Build Access Road**, you're making sure the access road is in place before you start building the home. Because the tasks are linked, if the **Build Access Road** project slips, the **Build Model Home** planned start date will automatically slip accordingly.
 
 
 In this video you will learn:

@@ -48,8 +48,8 @@ Project management knowledge areas
 
 ## Recommended tutorials on this topic
 
-* [Take a project live](manage-work/projects/take-a-project-live.md)
-* [Find projects](manage-work/projects/find-projects.md)
-* [Share a project](manage-work/projects/share-a-project.md)
-* [Understand the project team](manage-work/projects/understand-the-project-team.md)
-* [Understand project communication](manage-work/projects/understand-project-communication.md)
+* [Take a project live](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [Find projects](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Share a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Understand the project team](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Understand project communication](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
