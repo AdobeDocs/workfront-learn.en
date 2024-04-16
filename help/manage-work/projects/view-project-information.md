@@ -8,6 +8,7 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 ---
@@ -27,10 +28,9 @@ When you're on the [!UICONTROL Tasks] section of a project, utilize [!UICONTROL 
 
 Many [!DNL Workfront] customers create custom views that expose custom form information and other fields relevant to the work being done.
 
-## Learn how to create custom filters, view and groupings
+## Recommended tutorials on this topic
 
-[Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+* [Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+* [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+* [Create a basic grouping](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
-[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
-
-[Create a basic grouping](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)

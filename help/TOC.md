@@ -101,9 +101,9 @@ feature-set: Workfront
 + Manage work {#manage-work}
   + Projects {#projects}
     + [Understand basic project creation](manage-work/projects/understand-basic-project-creation.md)
+    + [Navigate the project page](manage-work/projects/navigate-the-project-page.md)
     + [Learn four ways to create a project](manage-work/projects/understand-other-ways-to-create-projects.md)
     + [Fill in the project details](manage-work/projects/fill-in-the-project-details.md)
-    + [Navigate the project page](manage-work/projects/navigate-the-project-page.md)
     + [Get started planning a project](manage-work/projects/getting-started-plan-a-project.md)
     + [Take a project live](manage-work/projects/take-a-project-live.md)
     + [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)

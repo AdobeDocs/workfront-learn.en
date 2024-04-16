@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
@@ -44,3 +45,11 @@ Project management knowledge areas
 9 best practices for effective project management
 10 work management problems and how to solve them
 --->
+
+## Recommended tutorials on this topic
+
+* [Take a project live](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [Find projects](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Share a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Understand the project team](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Understand project communication](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)

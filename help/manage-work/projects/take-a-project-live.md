@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
@@ -19,3 +20,9 @@ In this video, you will learn how to:
 * Take your project live using the project status
 
 >[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)
+
+## Recommended tutorials on this topic
+
+* [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Share a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md) 

@@ -8,6 +8,7 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---
@@ -121,3 +122,10 @@ Don't worry … you don't have to fill out every field and checkbox in the proje
    For example, there are people who might have access to the project but shouldn't see the financial information. So you can turn off the View Finance option for them.
 
    The access settings can be set in the template.
+
+## Recommended tutorials on this topic
+
+* [Understand basic project creation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Navigate the project page](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Learn four ways to create a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Get started planning a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

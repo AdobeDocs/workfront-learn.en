@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
@@ -25,6 +26,10 @@ You can export the entire project metrics dashboard as a .png file with the [!UI
 
 ![Exported project metrics page](assets/planner-fund-metrics-export.png)
 
-<!---
-Overview of project metrics
---->
+## Recommended tutorials on this topic
+
+* [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Track overall project progress](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [Track work progress with project metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Understand the [!UICONTROL Gantt] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Understand the [!UICONTROL Board] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
