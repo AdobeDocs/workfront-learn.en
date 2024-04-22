@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
@@ -35,7 +36,7 @@ But no matter how you manage a project, you'll want to:
 * Communicate with your stakeholders.
 * Celebrate the wins along the way.
 
-Ultimately, your main job is to drive the project toward successful completion. [!DNL Workfront] can help you monitor the work being done through the project timeline; filters, views, and groupings; updates; reports ... and more.
+Ultimately, your main job is to drive the project toward successful completion. Adobe Workfront can help you monitor the work being done through the project timeline; filters, views, and groupings; updates; reports ... and more.
 
 <!---
 learn more urls
