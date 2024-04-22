@@ -1,6 +1,6 @@
 ---
 title: Get started managing a project
-description: Learn what your role is as a project manager and what to look at when monitoring project work.
+description: Learn how to monitor project progress, drill down to see task details, and how to communicate with stakeholders.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -18,8 +18,9 @@ doc-type: video
 
 In this video, you will learn:
 
-* What to look at when monitoring project work
-* What your role is as a project manager
+* How to monitor project progress
+* How to drill down to see task details
+* How to communicate with stakeholders
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
