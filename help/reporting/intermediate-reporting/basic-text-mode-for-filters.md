@@ -14,13 +14,12 @@ doc-type: video
 ---
 # Understand basic text mode for filters
 
->[!IMPORTANT]
->
->Prerequisites:
+>[!PREREQUISITES]
 >
 >* [Understand reporting elements](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
 >* [Understand reporting components](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
 >* [Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)
+
 
 >[!TIP]
 >

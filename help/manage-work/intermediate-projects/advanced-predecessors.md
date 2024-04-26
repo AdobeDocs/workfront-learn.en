@@ -15,12 +15,12 @@ exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
 ---
 # Advanced predecessors
 
->[!IMPORTANT]
->
->Prerequisites:
+
+>[!PREREQUISITES]
 >
 >* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Or you're already comfortable using predecessors in your projects
+
 
 In this video you will learn about:
 
