@@ -15,13 +15,12 @@ exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
 ---
 # Create a system admin feedback request queue
 
->[!IMPORTANT]
->
->Prerequisites:
+>[!PREREQUISITES]
 >
 >* [Create a request queue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
 >* [Create a request flow](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Or you're already comfortable with creating a request queue that uses a routing rule and a custom form.
+
 
 In this video you will learn:
 
