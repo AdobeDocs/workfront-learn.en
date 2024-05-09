@@ -1,6 +1,6 @@
 ---
 title: Take a project live
-description: Learn how to take your [!DNL  Workfront] project live using the project status.
+description: Learn how to take your Adobe Workfront project live using the project status.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
