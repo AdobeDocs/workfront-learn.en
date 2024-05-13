@@ -33,6 +33,7 @@ Creating a predecessor relationship on the task list
 Overview of lag types
 Overview of task dependency types
 --->
+
 ## Recommended tutorials on this topic
 
 * [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
