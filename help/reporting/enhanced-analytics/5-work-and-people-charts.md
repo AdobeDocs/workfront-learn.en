@@ -41,5 +41,4 @@ The Burndown and the Tasks in flight charts appear when you drill down into the 
 People charts consist of:
 
 1. Activity by team
-1. Resource capacity
 1. Team activity

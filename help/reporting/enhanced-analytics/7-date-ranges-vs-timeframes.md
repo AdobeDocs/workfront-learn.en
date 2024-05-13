@@ -36,4 +36,4 @@ When you refresh the page, navigate away, or log out of Workfront, the timeframe
 
 >[!NOTE]
 >
->You cannot use this timeframe option with the Project treemap and Resource capacity charts.
+>You cannot use this timeframe option with the Project treemap chart.

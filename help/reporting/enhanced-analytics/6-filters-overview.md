@@ -29,7 +29,7 @@ In this video, you will learn:
 
 ## People chart filters
 
-The People charts are based on home teams. They show the activity and resource capacity of as many teams as you select in your filter. 
+The People charts are based on home teams. They show the activity of as many teams as you select in your filter. 
 
 ## Additional considerations
 
