@@ -646,6 +646,6 @@ feature-set: Workfront
 + [Transitioning to Agile](agile/transitioning-to-agile.md)
 + [Workfront for executives](workfront-for-executives/workfront-for-executives.md)
 + [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
-
++ [Understand the resource capacity chart](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
 
