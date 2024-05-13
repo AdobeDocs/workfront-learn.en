@@ -252,7 +252,6 @@ feature-set: Workfront
     + [Review the tasks in flight](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
     + [Take action by making updates](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
     + [Understand the activity by team chart](reporting/enhanced-analytics/18-activity-by-team-chart.md)
-    + [Understand the resource capacity chart](reporting/enhanced-analytics/19-resource-capacity-chart.md)
     + [Understand team capacity](reporting/enhanced-analytics/20-team-capacity-overview.md)
     + [Understand a KPI comparisons use case](reporting/enhanced-analytics/21-kpi-comparisons.md)
     + [Understand an end user use case](reporting/enhanced-analytics/22-end-user-use.md)

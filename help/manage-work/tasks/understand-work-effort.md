@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 ---
 # Understand [!UICONTROL Work Effort]
@@ -24,3 +25,8 @@ That way, if you plan on using any of Workfront's resource management tools, the
 ![Project task list with [!UICONTROL Work Effort] column](assets/planner-fund-work-effort.png)
 
 For more information on [!UICONTROL Work Effort], see the [Work Effort overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) article.
+
+## Recommended tutorials on this topic
+
+* [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Understand planned hours](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

@@ -31,7 +31,6 @@ Clicking into certain portions of a chart reveals additional charts or a breakdo
 * **Project activity**—Click on the project name to expand the chart and see the project activity by user.
 * **Project treemap**—Click on a project box to pull up the Burndown and Tasks in flight charts.
 * **Activity by team**—Click the team name to expand the chart so you can see activity by user.
-* **Resource capacity**—Click the team name to see the Team capacity chart.
 
 ## What does a darker and lighter shade mean when it comes to team activity?
 

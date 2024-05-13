@@ -36,7 +36,7 @@ On the chart, you can see:
 
 1. Click on the [!UICONTROL People] tab in the left panel.
 1. Use the [!UICONTROL Filter] to choose one or more Home teams to examine.
-1. You will see the team capacity chart appear below the [!UICONTROL Resource capacity] chart.
+1. You will see the team capacity chart appear.
 
 ## How to use the chart
 
