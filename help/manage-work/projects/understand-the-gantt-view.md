@@ -26,7 +26,7 @@ You can learn more online with the article, [Get started with the Gantt chart](h
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Track overall project progress](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Track work progress with project metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Understand the [!UICONTROL Board] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
+* [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)

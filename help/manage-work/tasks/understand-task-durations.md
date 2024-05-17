@@ -26,7 +26,7 @@ In this video, you will learn:
 
 ## Recommended tutorials on this topic
 
-* [Learn to sequence tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [Understand planned hours](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Understand Work Effort](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
+* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
 

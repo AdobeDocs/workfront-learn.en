@@ -125,7 +125,7 @@ Don't worry … you don't have to fill out every field and checkbox in the proje
 
 ## Recommended tutorials on this topic
 
-* [Understand basic project creation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Navigate the project page](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Learn four ways to create a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Get started planning a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
+* [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Get started planning a project](/help/manage-work/projects/getting-started-plan-a-project.md)

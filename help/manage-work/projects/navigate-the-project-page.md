@@ -49,7 +49,7 @@ The project page is filled with many features to help you manage your work. Work
 
 ## Recommended tutorials on this topic
 
-* [Understand basic project creation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Learn four ways to create a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Fill in the project details](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
 

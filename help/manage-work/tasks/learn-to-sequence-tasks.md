@@ -36,7 +36,6 @@ Overview of task dependency types
 
 ## Recommended tutorials on this topic
 
-* [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [Understand planned hours](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Understand Work Effort](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
-
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
+* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
