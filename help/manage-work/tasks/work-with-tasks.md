@@ -25,6 +25,6 @@ In this video, you will learn:
 
 ## Recommended tutorials on this topic
 
-* [Understand parent-child tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)

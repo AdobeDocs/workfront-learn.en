@@ -26,9 +26,10 @@ In this video, you will learn:
 
 ## Recommended tutorials on this topic
 
-* [Create tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
-* [Work with tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
-* [Assign tasks from the project plan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
-* [Understand task durations](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
-* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
-* [Understand planned hours](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
+* [Create tasks](manage-work/tasks/how-to-create-tasks.md)
+* [Work with tasks](manage-work/tasks/work-with-tasks.md)
+* [Assign tasks from the project plan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Understand task durations](manage-work/tasks/understand-task-durations.md)
+* [Learn to sequence tasks](manage-work/tasks/learn-to-sequence-tasks.md)
+* [Understand planned hours](manage-work/tasks/understand-planned-hours.md)
+* [Understand [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)

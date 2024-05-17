@@ -28,5 +28,6 @@ For more information on [!UICONTROL Work Effort], see the [Work Effort overview]
 
 ## Recommended tutorials on this topic
 
-* [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [Understand planned hours](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
+

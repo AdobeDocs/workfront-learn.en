@@ -23,7 +23,7 @@ In this video, you will learn:
 
 ## Recommended tutorials on this topic
 
-* [Create tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
-* [Work with tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

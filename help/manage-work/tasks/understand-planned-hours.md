@@ -32,7 +32,7 @@ Planned hours overview
 
 ## Recommended tutorials on this topic
 
-* [Learn to sequence tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [Understand Work Effort](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
 

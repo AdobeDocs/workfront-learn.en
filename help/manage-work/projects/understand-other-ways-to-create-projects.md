@@ -27,7 +27,7 @@ In this video, you will learn how to:
 
 ## Recommended tutorials on this topic
 
-* [Understand basic project creation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Navigate the project page](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Fill in the project details](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
+* [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
 

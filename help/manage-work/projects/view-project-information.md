@@ -25,7 +25,7 @@ In this video, you will learn how to use Filters, Views and Groupings to view:
 
 ## Recommended tutorials on this topic
 
-* [Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
-* [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
-* [Create a basic grouping](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+* [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
+* [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Create a basic grouping](/help/reporting/basic-reporting/create-a-basic-grouping.md)
 
