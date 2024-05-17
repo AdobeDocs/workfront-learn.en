@@ -26,10 +26,10 @@ In this video, you will learn:
 
 ## Recommended tutorials on this topic
 
-* [Create tasks](manage-work/tasks/how-to-create-tasks.md)
-* [Work with tasks](manage-work/tasks/work-with-tasks.md)
-* [Assign tasks from the project plan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Understand task durations](manage-work/tasks/understand-task-durations.md)
-* [Learn to sequence tasks](manage-work/tasks/learn-to-sequence-tasks.md)
-* [Understand planned hours](manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
+* [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
+* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
