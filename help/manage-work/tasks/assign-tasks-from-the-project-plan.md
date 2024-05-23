@@ -1,6 +1,6 @@
 ---
 title: Assign tasks from the project plan
-description: Learn how to assign a user to a task using inline editing in a [!DNL  Workfront] project.
+description: Learn how to assign tasks in an Adobe Workfront project using inline edit, bulk edit, job roles, and teams.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
@@ -15,9 +16,13 @@ doc-type: video
 ---
 # Assign tasks from the project plan
 
-In this video, you will learn how to:
+In this video, you will learn:
 
-* Assign a user to a task using inline editing
+* How to assign a task using inline edit
+* How to assign multiple tasks to the same person
+* Understand the value of job roles when assigning tasks
+* Understand the value of project templates when assigning tasks
+* Understand the value of assigning tasks to teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
