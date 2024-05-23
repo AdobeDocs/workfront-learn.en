@@ -16,10 +16,10 @@ doc-type: video
 ---
 # Assign tasks from the project plan
 
-In this video, you will learn:
+In this video, you will:
 
-* How to assign a task using inline edit
-* How to assign multiple tasks to the same person
+* Learn how to assign a task using inline edit
+* Learn how to assign multiple tasks to the same person
 * Understand the value of job roles when assigning tasks
 * Understand the value of project templates when assigning tasks
 * Understand the value of assigning tasks to teams
