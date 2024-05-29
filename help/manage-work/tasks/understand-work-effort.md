@@ -9,13 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
-last-substantial-update: 2023-05-28
+last-substantial-update: 2023-05-29
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 ---
 # Understand [!UICONTROL Work Effort]
 
-In this video you will learn:
+In this video, you will learn:
 
 * What Work Effort is and how it can help you manage projects
 * How to use Work Effort
