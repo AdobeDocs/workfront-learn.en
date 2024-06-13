@@ -1,6 +1,6 @@
 ---
 title: Understand planned hours
-description: Learn what planned hours are in [!DNL  Workfront], why planned hours are important to your project, and how to add planned hours to tasks.
+description: Learn what planned hours are, why planned hours are important to your project, and how to add planned hours to tasks.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg

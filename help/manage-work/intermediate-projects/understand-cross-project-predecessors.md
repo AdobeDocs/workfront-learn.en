@@ -23,7 +23,7 @@ Cross project predecessors are an easy way to establish dependencies between tas
 >* Or you're already comfortable using predecessors in your projects
 
 
-In this video you will learn:
+In this video, you will learn:
 
 * What a cross-project predecessor is and how it can be useful
 * How to create a cross-project predecessor

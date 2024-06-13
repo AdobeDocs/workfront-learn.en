@@ -15,7 +15,7 @@ exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 ---
 # Understand project communication
 
-In this video you will learn how to communicate with all project stakeholders using:
+In this video, you will learn how to communicate with all project stakeholders using:
 
 * Good project planning
 * Updates
