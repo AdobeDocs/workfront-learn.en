@@ -21,7 +21,7 @@ A calendar report is a dynamic report that displays work and time off in a calen
 * Issues
 * Time Off
 
-In this video you will learn how to:
+In this video, you will learn how to:
 
 * Create a new calendar
 * Create a calendar grouping

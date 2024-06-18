@@ -13,7 +13,7 @@ exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 ---
 # Create tasks
 
-In this video you will learn:
+In this video, you will learn:
 
 * The long way to create a task in a Workfront project
 * A few handy shortcuts for creating tasks

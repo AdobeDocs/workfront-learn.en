@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2023-06-10
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -17,10 +18,11 @@ doc-type: video
 
 In this video, you will learn:
 
-* What a predecessor is in [!DNL  Workfront]
-* How predecessors sequence tasks in a project
+* What a predecessor is in Workfront
 * How to use durations and predecessors to create a timeline
-* How to change or enter predecessors
+* How predecessors sequence tasks in a project
+* How setting a task start date will affect the task constraint
+* How to enter predecessors
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

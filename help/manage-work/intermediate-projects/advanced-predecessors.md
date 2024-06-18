@@ -22,7 +22,7 @@ exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
 >* Or you're already comfortable using predecessors in your projects
 
 
-In this video you will learn about:
+In this video, you will learn about:
 
 * Task dependencies
 * Lag types

@@ -15,7 +15,7 @@ exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 ---
 # Understand the [!UICONTROL Board] view
 
-In this video you will learn:
+In this video, you will learn:
 
 * Where to find the [!UICONTROL Board] view
 * How to use the [!UICONTROL Board] view

@@ -22,7 +22,7 @@ exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
 >* Or you're already comfortable with creating a request queue that uses a routing rule and a custom form.
 
 
-In this video you will learn:
+In this video, you will learn:
 
 * Why you should create a system admin feedback request queue
 * How to create a system admin feedback request queue

@@ -15,7 +15,7 @@ exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
 ---
 # Edit the project team in a project template
 
-In this video you will learn:
+In this video, you will learn:
 
 * How to avoid unintentionally including **non** project team members in a template project team.
 * How to edit the template project team.

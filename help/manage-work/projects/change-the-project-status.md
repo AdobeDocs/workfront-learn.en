@@ -14,7 +14,7 @@ exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 ---
 # Change the project status to complete
 
-In this video you will learn:
+In this video, you will learn:
 
 * How to change the project status to [!UICONTROL Complete]
 * Why to change the project status to [!UICONTROL Complete]

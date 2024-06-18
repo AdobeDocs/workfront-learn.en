@@ -15,7 +15,7 @@ exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 ---
 # Deactivate a project template
 
-In this video you will learn:
+In this video, you will learn:
 
 * How to share a project template granting rights to activate and deactivate it.
 * How to activate and deactivate a project template.

@@ -15,7 +15,7 @@ exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
 ---
 # Copy a report
 
-In this video you will learn:
+In this video, you will learn:
 
 * How to quickly create a new report by copying and editing a similar report
 

@@ -15,7 +15,7 @@ exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 ---
 # Understand the [!UICONTROL Gantt] view
 
-In this video you will learn how to use:
+In this video, you will learn how to use:
 
 * The project Gantt chart
 * The task Gantt chart
