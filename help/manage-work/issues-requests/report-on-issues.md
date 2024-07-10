@@ -8,6 +8,7 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 ---
@@ -37,7 +38,10 @@ A project or task report can display this information using the [!UICONTROL Conv
 
 ![An image of issue reporting information.](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->For instructions on how to create a view see [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
+## Recommended tutorials on this topic
+
+* [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Create a simple report](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
 
