@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28
+recommendations: noDisplay,noCatalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 ---
@@ -21,4 +22,8 @@ In this video, you will learn how to convert an issue or request to a task.
 >
 >You cannot add issues to the project timeline, since they represent "unplanned work." The project timeline is for "planned work," meaning tasks.
 
+## Recommended tutorials on this topic
+
+* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
 
