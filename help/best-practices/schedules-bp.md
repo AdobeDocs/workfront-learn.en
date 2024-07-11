@@ -9,7 +9,7 @@ exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 ---
 # Best Practice - Schedules
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -30,7 +30,10 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * The total working hours in each working day on the schedule should be equal to the number of hours in a day that is specified in the global project preferences. 
 
-* Add a reminder to the Adobe Workfront system administrator’s calendar to update Schedules at a set time each year. 
+* Add a reminder to the Adobe Workfront system administrator's calendar to update Schedules at a set time each year. 
+
+
+For instructions on how to create and manage schudules, see the [Create and manage schedules](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutorial.
 
 </br>
 </br>
@@ -43,9 +46,9 @@ Limit the number of schedules you create in Adobe Workfront.
 
   
 
-**Here’s why**
+**Here's why**
 
-Don’t create dozens of schedules for different groups, teams, or individuals. Fewer schedules means less maintenance by the system or group administrators. 
+Don't create dozens of schedules for different groups, teams, or individuals. Fewer schedules means less maintenance by the system or group administrators. 
 
  
 
@@ -55,7 +58,7 @@ Separate schedules might be needed when:
 
 * You have part-time workers who work less than 40 hours per week. 
 
-* Workers don’t work the standard 8 hours a day, Monday-Friday, such as weekend workers or those who work four 10-hour days. 
+* Workers don't work the standard 8 hours a day, Monday-Friday, such as weekend workers or those who work four 10-hour days. 
 
 </br>
 </br>
@@ -66,11 +69,11 @@ The total working hours in each working day on the schedule should be equal to t
 
 
 
-**Here’s why**
+**Here's why**
 
-If the total working hours don’t match, this can result in seemingly incorrect date and time calculations in your project timeline and reports. 
+If the total working hours don't match, this can result in seemingly incorrect date and time calculations in your project timeline and reports. 
 
-For example, if the system preference is eight hours in a day and the schedule assigned to a project has only seven working hours a day, you’ll notice that a task with a one-day duration takes more than one day to complete, because it’s trying to fit in the eight hours. 
+For example, if the system preference is eight hours in a day and the schedule assigned to a project has only seven working hours a day, you'll notice that a task with a one-day duration takes more than one day to complete, because it's trying to fit in the eight hours. 
 
 **Note**: The system global project settings are done in Setup > Project Preferences > Timeline Calculations > Typical hours per work day.
 
@@ -80,8 +83,8 @@ For example, if the system preference is eight hours in a day and the schedule a
 
 **Best practice**
 
-Add a reminder to the Adobe Workfront system administrator’s calendar to update Schedules at a set time each year. 
+Add a reminder to the Adobe Workfront system administrator's calendar to update Schedules at a set time each year. 
 
-**Here’s why**
+**Here's why**
 
-Update the schedules in your Workfront instance with national holidays, company holidays, and other days users won’t be working. Do this at a set time each year, either at the end of the year or when holiday schedules are released by human resources, so project timelines, resource planning, etc., reflect accurate user availability.
+Update the schedules in your Workfront instance with national holidays, company holidays, and other days users won't be working. Do this at a set time each year, either at the end of the year or when holiday schedules are released by human resources, so project timelines, resource planning, etc., reflect accurate user availability.
