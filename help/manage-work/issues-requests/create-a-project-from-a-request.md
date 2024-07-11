@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 ---
@@ -52,3 +53,9 @@ If you include a custom form in a project template it will automatically be assi
 To increase the efficiency of your work and make it easier to convert issues in a fast-paced environment, you have the ability to convert an issue to a task or a project from any issue list in a project, report, or dashboard. Just select an issue and then click on the 3-dot menu that appears.
 
 ![An image of a project screen showing issue conversion options](assets/convert-from-a-list.png)
+
+## Recommended tutorials on this topic
+
+* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

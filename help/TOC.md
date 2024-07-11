@@ -135,7 +135,6 @@ feature-set: Workfront
     + [Update a request](manage-work/issues-requests/update-a-request.md)
     + [Convert an issue/request to a project](manage-work/issues-requests/create-a-project-from-a-request.md)
     + [Convert an issue/request to a task](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-    + [Review and approve digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Report on issues](manage-work/issues-requests/report-on-issues.md)
 
   + Request queues {#request-queues}
@@ -154,6 +153,7 @@ feature-set: Workfront
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
     + [Attach and edit existing approval processes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+    + [Review and approve digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Delegate tasks, issues, and approvals](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
     + [Apply milestones](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
     + [View milestones](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
