@@ -9,6 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 ---
@@ -28,6 +29,11 @@ In this video, you will learn how to:
 >
 >Documents, proofs, and work items (projects, tasks and issues) that require approvals can be found in projects and custom reports in addition to [!DNL Workfront Home].
 
+## Recommended tutorials on this topic
+
+* [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Attach and edit existing approval processes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---
