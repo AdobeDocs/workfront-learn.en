@@ -30,15 +30,15 @@ Use the Set Variable module to send a number through multiple paths to see how f
 
 1. Add another module and choose the Router module. For both paths, choose the Increment function tool and click OK without making any changes for each.
 
-   + For the first path, create a filter, name it "Less than 100," and set the condition to [My Number] Less than 100.
+   + For the first path, create a filter, name it "Less than 100?" and set the condition to [My Number] Less than 100.
 
-   + For the second path, create a filter, name it "Less than 1000," and set the condition to [My Number] Less than 1000. Make sure you use the Numeric operator for both.
+   + For the second path, create a filter, name it "Less than 1000?" and set the condition to [My Number] Less than 1000. Make sure you use the Numeric operator for both.
 
    ![Routing patterns Image 3](../12-exercises/assets/routing-patterns-walkthrough-3.png)
 
    ![Routing patterns Image 4](../12-exercises/assets/routing-patterns-walkthrough-4.png)
 
-1. Click Run once and watch the bundle pass down the "Less than 100" path.
+1. Click Run once and watch the bundle pass down the "Less than 100" and "Less than 1000" path.
 1. Then change the Set Variable module field to 950 and Run once again. Watch it run down the second path.
 1. Click the router and add one more path. Add the Increment function tool module. For the filter, click "The fallback route" checkbox. Notice how the arrow pointing to that path changes to a caret, indicating it's the fallback route.
 
