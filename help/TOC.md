@@ -139,8 +139,8 @@ feature-set: Workfront
 
   + Request queues {#request-queues}
     + [Understand request queues](manage-work/request-queues/understand-request-queues.md)
-    + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
     + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
+    + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
     + [Create a system admin feedback request queue](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
     + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
