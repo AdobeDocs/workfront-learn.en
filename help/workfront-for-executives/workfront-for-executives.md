@@ -9,7 +9,6 @@ level: Beginner
 team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: yes
-hidefromtoc: yes
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
