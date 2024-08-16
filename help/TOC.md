@@ -140,7 +140,7 @@ feature-set: Workfront
   + Request queues {#request-queues}
     + [Understand request queues](manage-work/request-queues/understand-request-queues.md)
     + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
-    + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+    + [Understand settings for a request flow](manage-work/request-queues/understand-settings-for-a-flow-request.md)
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
     + [Create a system admin feedback request queue](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
     + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
@@ -636,7 +636,8 @@ feature-set: Workfront
   + [Workfront Goals](best-practices/workfront-goals-bp.md)
   + [Workload Balancer](best-practices/workload-balancer-bp.md)
 
-
++ Workfront for executives {#workfront-for-executives}
+  + [Workfront for executives](workfront-for-executives/workfront-for-executives.md)
 
 
  
@@ -644,7 +645,6 @@ feature-set: Workfront
 + [What is the Scrum methodology and how does it work?](agile/what-is-the-scrum-methodology.md)
 + [What is the Kanban methodology and how does it work?](agile/what-is-the-kanban-methodology.md)
 + [Transitioning to Agile](agile/transitioning-to-agile.md)
-+ [Workfront for executives](workfront-for-executives/workfront-for-executives.md)
 + [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
 + [Understand the resource capacity chart](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
