@@ -9,6 +9,9 @@ activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-08-20
 jira: KT-14120
+mini-toc-levels: 1
+recommendations: noDisplay,noCatalog
+index: y
 ---
 
 # Intermediate level projects overview
