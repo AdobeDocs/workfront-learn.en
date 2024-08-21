@@ -32,7 +32,7 @@ See other user landing pages to get ideas.
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="Find and create layout templates" src="./assets/ltemp_01.png"/>
+      <img alt="Find and create layout templates" src="/help/assets/ltemp_01.png"/>
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Find and create layout templates</strong></a>
@@ -43,7 +43,7 @@ See other user landing pages to get ideas.
     </td>
    <td>
       <a href="/help/manage-work/issues-requests/make-a-request.md">
-      <img alt="Make a request" src="./assets/nrequest_01.png"/>
+      <img alt="Make a request" src="/help/assets/nrequest_01.png"/>
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Make a request</strong></a>
@@ -54,7 +54,7 @@ See other user landing pages to get ideas.
 
    <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="Create a simple report" src="./assets/sreport_01.png"/>
+      <img alt="Create a simple report" src="/help/assets/sreport_01.png"/>
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Create a simple report</strong></a>
