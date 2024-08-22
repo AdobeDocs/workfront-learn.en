@@ -1,8 +1,5 @@
 ---
 user-guide-description: Workfront tutorials
-role: User
-level: Beginner
-feature-set: Workfront
 ---
 
 # Workfront tutorials {#tutorials-workfront}
