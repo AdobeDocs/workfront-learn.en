@@ -11,7 +11,8 @@ index: y
 # Intermediate level projects overview {#intermediate-level-projects}
 
 + [Intermediate level projects overview](overview.md)
-+ [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints)
-+ [Understand cross-project predecessors](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)
-+ [Advanced predecessors](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/advanced-predecessors)
++ Intermediate level projects {#intermediate-level-projects}
+  + [Understand and manage duration types and task constraints](understand-and-manage-duration-types-and-task-constraints.md)
+  + [Understand cross-project predecessors](understand-cross-project-predecessors.md)
+  + [Advanced predecessors](advanced-predecessors.md)
 
