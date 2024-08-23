@@ -31,8 +31,8 @@ System or group administrators who want to set up finances in Workfront.
 
 ## Tutorials
 
-* [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [Set up expense types](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)
+* [Understand performance metrics](understand-performance-metrics.md)
+* [Set up task revenue & cost defaults](set-up-task-revenue-and-cost-defaults.md)
+* [Set up exchange rates](set-up-exchange-rates.md)
+* [Set up expense types](set-up-expense-types.md)
+* [Understand financial access](understand-financial-access.md)

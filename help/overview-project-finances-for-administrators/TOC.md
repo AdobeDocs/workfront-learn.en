@@ -11,10 +11,11 @@ index: y
 # Project finances for administrators overview {#project-finances-for-administrators}
 
 + [Project finances for administrators overview](overview.md)
-+ [Understand performance metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [Set up task revenue & cost defaults](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Set up exchange rates](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Set up expense types](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Understand financial access](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Project finances for administrators {#project-finances-for-administrators}
+  + [Understand performance metrics](understand-performance-metrics.md)
+  + [Set up task revenue & cost defaults](set-up-task-revenue-and-cost-defaults.md)
+  + [Set up exchange rates](set-up-exchange-rates.md)
+  + [Set up expense types](set-up-expense-types.md)
+  + [Understand financial access](understand-financial-access.md)
 
 
