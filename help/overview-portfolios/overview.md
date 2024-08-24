@@ -30,6 +30,6 @@ Standard license users who will manage projects in portfolios.
 
 ## Tutorials
 
-* [Understand portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-* [Understand the [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-* [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+* [Understand portfolios](overview-of-adobe-workfront-portfolios.md)
+* [Understand the [!UICONTROL Business Case]](introduction-to-the-business-case.md)
+* [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](prioritize-and-manage-work-with-portfolios.md)

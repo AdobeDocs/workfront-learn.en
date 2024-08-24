@@ -32,5 +32,5 @@ The tutorial below will help you learn what text mode is, what camel case is, an
 
 ## Tutorial
 
-[Understand basic text mode for groupings](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+[Understand basic text mode for groupings](basic-text-mode-for-groupings.md)
 

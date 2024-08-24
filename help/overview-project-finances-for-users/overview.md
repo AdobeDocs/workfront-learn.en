@@ -32,6 +32,6 @@ Users who want to track finances in Workfront.
 
 ## Tutorials
 
-* [Update and review finances](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
-* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Update and review finances](update-and-review-finances.md)
+* [Find financial information](find-financial-information.md)
+* [Understand multiple billing rates](multiple-billing-rates.md)
