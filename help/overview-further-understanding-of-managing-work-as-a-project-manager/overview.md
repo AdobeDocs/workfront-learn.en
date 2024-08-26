@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23
+last-substantial-update: 2024-08-26
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
@@ -34,47 +34,47 @@ Standard license users who will create or manage projects.
 
 ### Project templates
 
-* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Create a project template and learn about Blueprints](create-a-project-template.md)
+* [Create a project directly from a template](create-a-project-directly-from-a-template.md)
+* [Share a project template](share-a-project-template.md)
 * [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Deactivate a project template](deactivate-a-project-template.md)
+* [Edit the project team in a project template](edit-the-project-team-in-a-project-template.md)
 
 
 ### How to create and use approval processes
 
-* [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Attach and edit existing approval processes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
-* [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-* [Understand updates and notifications](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
-* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Create a single-use approval process](create-a-single-use-approval-process.md)
+* [Understand group-specific approval processes](group-specific-approval-processes.md)
+* [Attach and edit existing approval processes](attach-and-edit-existing-approval-processes.md)
+* [Review and approve digital work](review-and-approve-digital-work.md)
+* [Understand updates and notifications](understand-updates-and-notifications.md)
+* [Delegate tasks, issues, and approvals](delegate-approvals.md)
 
 
 ### How to create and use milestones
 
-* [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Apply milestones](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-* [View milestones](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Create milestones](creating-milestones.md)
+* [Apply milestones](apply-milestones.md)
+* [View milestones](view-milestones.md)
 
 
 ### How to work with issues
 
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Make a request](/help/manage-work/issues-requests/make-a-request.md)
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Manage issue assignments](/help/manage-work/issues-requests/manage-issue-assignments.md)
-* [Update a request](/help/manage-work/issues-requests/update-a-request.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Report on issues](/help/manage-work/issues-requests/report-on-issues.md)
+* [Handle Unplanned Work](handle-unplanned-work.md)
+* [Make a request](make-a-request.md)
+* [Find and manage requests](find-requests.md)
+* [Manage issue assignments](manage-issue-assignments.md)
+* [Update a request](update-a-request.md)
+* [Convert an issue/request to a project](create-a-project-from-a-request.md)
+* [Convert an issue/request to a task](convert-issues-to-other-work-items.md)
+* [Report on issues](report-on-issues.md)
 
 
 ### Project timelines
 
-* [Understand project timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Track progress from the project timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Understand project timelines](understand-project-timelines.md)
+* [Understand date types and progress status](understand-task-dates-and-progress-status.md)
+* [Track progress from the project timeline](track-work-progress-from-the-project-timeline.md)
 
 

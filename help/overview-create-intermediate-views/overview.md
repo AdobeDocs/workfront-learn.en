@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23
+last-substantial-update: 2024-08-26
 jira: KT-11400
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
@@ -32,5 +32,5 @@ The tutorial below will help you learn what text mode is, what camel case is, an
 
 ## Tutorial
 
-[Understand basic text mode for views](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+[Understand basic text mode for views](basic-text-mode-for-views.md)
 
