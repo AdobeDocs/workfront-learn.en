@@ -9,7 +9,7 @@ index: y
 ---
 
 
-# Further understanding of managing work as a project manager overview {#create-intermediate-views}
+# Further understanding of managing work as a project manager overview {#further-understanding-of-managing-work-as-a-project-manager}
 
 + [Further understanding of managing work as a project manager overview](overview.md)
 + Further understanding of managing work as a project manager {#further-understanding-of-managing-work-as-a-project-manager}
@@ -17,7 +17,7 @@ index: y
     + [Create a project template and learn about Blueprints](create-a-project-template.md)
     + [Create a project directly from a template](create-a-project-directly-from-a-template.md)
     + [Share a project template](share-a-project-template.md)
-    + [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+    + [Copy an existing project](copy-an-existing-project.md)
     + [Deactivate a project template](deactivate-a-project-template.md)
     + [Edit the project team in a project template](edit-the-project-team-in-a-project-template.md)
 
