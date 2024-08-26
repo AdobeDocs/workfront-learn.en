@@ -1,7 +1,7 @@
 ---
 user-guide-title: Create intermediate groupings overview
 user-guide-description: Learn what text mode is, what camel case is, and how to use some basic "plug and play" text mode code blocks to create groupings that go beyond the capabilities of the standard builder.
-breadcrumb-title: Portfolios overview
+breadcrumb-title: Create intermediate groupings overview
 solution: Workfront
 sub-product: Work Management
 index: y

@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: yes
 ---
 # Copy an existing project
 
@@ -22,5 +22,6 @@ Navigate to the project you want to copy and click the 3-dot menu next to the pr
 The Copy Project window lets you change the title and status, as well as clear a variety of data associated with the project—options like assignments, documents, and custom data.
 
 ![Copy project options](assets/copy-existing-02.png)
+
 
 Selecting Clear Assignments or setting the status to Planning prevents the copied project from sending out task assignment notifications right after copying.

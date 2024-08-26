@@ -1,7 +1,7 @@
 ---
 user-guide-title: Project finances for users overview
 user-guide-description: Learn how to prioritize current and proposed projects based on their cost, value, risk, and alignment to your organizations goals.
-breadcrumb-title: Portfolios overview
+breadcrumb-title: Project finances for users overview
 solution: Workfront
 sub-product: Work Management
 index: y
