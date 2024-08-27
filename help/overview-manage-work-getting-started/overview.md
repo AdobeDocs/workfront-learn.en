@@ -1,5 +1,5 @@
 ---
-title: Get Started with Workfront for project managers overview
+title: Manage work - getting started
 description: Start your Workfront journey by learning to create and plan projects. Workfront recommends you keep things simple.
 feature: Work Management
 type: Tutorial
@@ -14,7 +14,7 @@ recommendations: noDisplay,noCatalog
 index: y
 ---
 
-# Get Started with Workfront for project managers overview {#overview}
+# Manage work - getting started {#overview}
 
 Start your Workfront journey by learning to create and plan projects. Workfront recommends you keep things simple.
 
@@ -52,4 +52,29 @@ Standard license users who will create or manage projects.
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
 * [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
 * [Take a project live](/help/manage-work/projects/take-a-project-live.md)
+
+### Manage a project
+
+* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects](/help/manage-work/projects/find-projects.md)
+* [Share a project](/help/manage-work/projects/share-a-project.md)
+* [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
+* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
+* [View project information](/help/manage-work/projects/view-project-information.md) 
+* [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
+* [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Understand the [!UICONTROL Gantt] view](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)
+
+
+### Close a project
+
+* [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
+* [Close tasks and issues](/help/manage-work/close-a-project/close-tasks-and-issues.md)
+* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Update and review finances](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Close a project activity](/help/manage-work/close-a-project/close-a-project-activity.md)
 

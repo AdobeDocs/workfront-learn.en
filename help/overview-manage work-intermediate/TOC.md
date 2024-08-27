@@ -1,5 +1,5 @@
 ---
-user-guide-title: Further understanding of managing work as a project manager overview
+user-guide-title: Manage work - intermediate
 user-guide-description: Once you've learned the basics of creating, planning and managing projects, there are a few more things you should know to get the most out of Workfront.  
 feature: Work Management
 breadcrumb-title: Further understanding of managing work as a project manager overview
@@ -9,10 +9,10 @@ index: y
 ---
 
 
-# Further understanding of managing work as a project manager overview {#further-understanding-of-managing-work-as-a-project-manager}
+# Manage work - intermediate {#manage-work-intermediate}
 
-+ [Further understanding of managing work as a project manager overview](overview.md)
-+ Further understanding of managing work as a project manager {#further-understanding-of-managing-work-as-a-project-manager}
++ [Manage work - intermediate](overview.md)
++ Manage work - intermediate {#manage-work-intermediate}
   + Project templates {#project-templates}
     + [Create a project template and learn about Blueprints](create-a-project-template.md)
     + [Create a project directly from a template](create-a-project-directly-from-a-template.md)
@@ -49,4 +49,7 @@ index: y
     + [Understand date types and progress status](understand-task-dates-and-progress-status.md)
     + [Track progress from the project timeline](track-work-progress-from-the-project-timeline.md)
 
-
+  + Digging deeper {#digging-deeper}
+    + [Understand and manage duration types and task constraints](understand-and-manage-duration-types-and-task-constraints.md)
+    + [Understand cross-project predecessors](understand-cross-project-predecessors.md)
+    + [Advanced predecessors](advanced-predecessors.md)

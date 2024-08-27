@@ -8,7 +8,7 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-08-23
-jira: KT-
+jira: KT-10265
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
@@ -16,12 +16,11 @@ index: y
 
 # Basic reporting elements overview {#overview}
 
-Now 
+Now
 
 >[!PREREQUISITES]
 >
 >* Basic understanding of using Workfront
-
 
 ## Target audience
 
@@ -34,21 +33,18 @@ Now
 
 * [Understand reporting elements](/help/reporting/basic-reporting/reporting-elements.md)
 * [Understand reporting components](/help/reporting/basic-reporting/reporting-components.md)
-* [Create a basic grouping](/help/reporting/basic-reporting/create-a-basic-grouping.md)
-* [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
-* [Add basic conditional formatting to a view](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
-* [Create a basic filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
-* [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
-
 
 ### Create a basic grouping
 
-
+* [Create a basic grouping](/help/reporting/basic-reporting/create-a-basic-grouping.md)
 
 ### Create a basic view
 
-
+* [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Add basic conditional formatting to a view](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
 
 ### Create a basic filter
 
+* [Create a basic filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
+* [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
 
