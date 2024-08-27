@@ -27,6 +27,7 @@ user-guide-description: Workfront tutorials
     + [Create and manage issue severities](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
     + [Customize issue types and terminology](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
     + [Configure global default issue preferences](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+    + [Create and manage business rules](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
   + Layout templates {#layout-templates}
     + [What are layout templates?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
