@@ -67,6 +67,7 @@ Learn how to create milestone paths, apply the milestones to tasks, and view mil
 * [Apply milestones](apply-milestones.md) - Learn how to a apply milestone path to a project and associate key tasks as milestone steps within the project.
 * [View milestones](view-milestones.md) - Learn how to view milestones in an Adobe Workfront project, plus use the milestone view in the project area.
 
+
 ## How to work with issues
 
 Learn how to handle unplanned work with issues, convert issues to other work items, manage issue assignments and report on issues.
@@ -80,13 +81,6 @@ Learn how to handle unplanned work with issues, convert issues to other work ite
 * [Convert an issue/request to a task](convert-issues-to-other-work-items.md) - Learn how to convert an issue to a task.
 * [Report on issues](report-on-issues.md) - Learn how to create an issue report showing resolving objects and a project report showing converted issue information.
 
-## Project timelines
-
-Learn how to schedule projects and track their progress.
-
-* [Understand project timelines](understand-project-timelines.md) - Learn how to schedule projects from a start or a completion date. Then learn how duration, predecessors, and task constraints affect the project plan.
-* [Understand date types and progress status](understand-task-dates-and-progress-status.md) - Learn how to select a view to compare Workfront's different date types, and how to use progress status field.
-* [Track progress from the project timeline](track-work-progress-from-the-project-timeline.md) - Learn how to track the progress of work from the project timeline using percent complete, status, assignments, and task constraints.
 
 ## Digging deeper
 
