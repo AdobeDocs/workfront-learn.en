@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10137
-exl-id: fd977963-c8fe-4200-b46e-3de46373f400
+hide: yes
 ---
 # Update and review finances
 
@@ -38,7 +38,7 @@ A glance at the [!UICONTROL Finance] information in the [!UICONTROL Project Deta
 
 ![Finances section of [!UICONTROL Project Details] window on a project](assets/finance-section-project-details.png)
 
-Most of the financial information in the [!UICONTROL Project Details] is set up during the creation of the project, and the numbers you see here are based on that information. So as you’re closing a project, there really isn’t anything you need to update or add in the financial details.
+Most of the financial information in the [!UICONTROL Project Details] is set up during the creation of the project, and the numbers you see here are based on that information. So as you're closing a project, there really isn't anything you need to update or add in the financial details.
 
 <!---
 learn more urls

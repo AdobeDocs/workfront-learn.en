@@ -31,12 +31,12 @@ Standard license users who want to create custom reports or dashboards.
 
 ## Tutorials
 
-  * [Create a simple report](create-a-simple-report.md)
-  * [Create a task report](create-a-task-report.md)
-  * [Copy a report](copy-a-report.md)
-  * [Create reports with charts](create-reports-with-charts.md)
-  * [Create a matrix report](create-a-matrix-report.md)
-  * [Create dashboards](create-dashboards.md)
-  * [Send and share reports](how-to-send-and-share-reports.md)
-  * [Understand report settings](report-settings.md)
+* [Create a simple report](create-a-simple-report.md)
+* [Create a task report](create-a-task-report.md)
+* [Copy a report](copy-a-report.md)
+* [Create reports with charts](create-reports-with-charts.md)
+* [Create a matrix report](create-a-matrix-report.md)
+* [Create dashboards](create-dashboards.md)
+* [Send and share reports](how-to-send-and-share-reports.md)
+* [Understand report settings](report-settings.md)
 
