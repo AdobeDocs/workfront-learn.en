@@ -30,7 +30,8 @@ index: y
     + [Learn to sequence tasks](learn-to-sequence-tasks.md)
     + [Understand planned hours](understand-planned-hours.md)
     + [Understand project timelines](understand-project-timelines.md)
-    + [Understand date types and progress status](understand-task-dates-and-progress-status.md)    + [Understand [!UICONTROL Work Effort]](understand-work-effort.md)
+    + [Understand date types and progress status](understand-task-dates-and-progress-status.md)    
+    + [Understand [!UICONTROL Work Effort]](understand-work-effort.md)
     + [Take a project live](take-a-project-live.md)
 
   + Manage a project {#manage-a-project}
