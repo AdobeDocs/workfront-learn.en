@@ -37,7 +37,6 @@ Learn what a project is in Adobe Workfront, how to get it up and running, and th
 * [Fill in the project details](fill-in-the-project-details.md) - Learn the project details fields Adobe Workfront recommends you fill in when creating a project.
 * [Navigate the project page](navigate-the-project-page.md) - Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history.
 
-
 ## Plan a project
 
 Learn how to set up a project timeline, identify the work that needs to be done, make assignments, and start your project.
@@ -70,7 +69,6 @@ Learn how to track project work and communicate with stakeholders.
 * [Track progress from the project timeline](track-work-progress-from-the-project-timeline.md) - Learn how to track the progress of work from the project timeline using percent complete, status, assignments, and task constraints.
 * [Understand the [!UICONTROL Gantt] view](understand-the-gantt-view.md) - Learn how to use the project [!UICONTROL Gantt] chart and the task [!UICONTROL Gantt] chart.
 * [Understand the [!UICONTROL Board] view](understand-the-board-view.md) - Learn where to find the Board view and how to use it.
-
 
 ## Close a project
 

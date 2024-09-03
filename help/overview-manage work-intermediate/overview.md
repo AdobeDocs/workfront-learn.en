@@ -46,7 +46,6 @@ Learn how to create and use project templates.
 * [Deactivate a project template](deactivate-a-project-template.md) - Learn how to activate and deactivate a project template.
 * [Edit the project team in a project template](edit-the-project-team-in-a-project-template.md) - Learn how to avoid unintentionally including **non** project team members in a template project team, and how to edit the template project team.
 
-
 ## How to create and use approval processes
 
 Learn how to create approval processes, attach them to workflows, review digital work, and delegate approvals.
@@ -58,7 +57,6 @@ Learn how to create approval processes, attach them to workflows, review digital
 * [Understand updates and notifications](understand-updates-and-notifications.md) - Learn how to make updates on approval requests and find your notifications.
 * [Delegate tasks, issues, and approvals](delegate-approvals.md) - Learn how to delegate approvals for projects, tasks, issues, and timecards to another Adobe Workfront user.
 
-
 ## How to create and use milestones
 
 Learn how to create milestone paths, apply the milestones to tasks, and view milestone reports.
@@ -66,7 +64,6 @@ Learn how to create milestone paths, apply the milestones to tasks, and view mil
 * [Create milestones](creating-milestones.md) - Learn what milestone paths are, how to create milestone paths, and how to add milestone steps to a project.
 * [Apply milestones](apply-milestones.md) - Learn how to a apply milestone path to a project and associate key tasks as milestone steps within the project.
 * [View milestones](view-milestones.md) - Learn how to view milestones in an Adobe Workfront project, plus use the milestone view in the project area.
-
 
 ## How to work with issues
 
@@ -80,7 +77,6 @@ Learn how to handle unplanned work with issues, convert issues to other work ite
 * [Convert an issue/request to a project](create-a-project-from-a-request.md) - Learn how to initiate the conversion from request to project and select the appropriate project template.
 * [Convert an issue/request to a task](convert-issues-to-other-work-items.md) - Learn how to convert an issue to a task.
 * [Report on issues](report-on-issues.md) - Learn how to create an issue report showing resolving objects and a project report showing converted issue information.
-
 
 ## Digging deeper
 

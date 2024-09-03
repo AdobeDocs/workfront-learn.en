@@ -8,7 +8,6 @@ sub-product: Work Management
 index: y
 ---
 
-
 # Manage work - getting started {#manage-work-getting-started}
 
 + [Manage work - getting started](overview.md)
