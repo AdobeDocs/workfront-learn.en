@@ -579,6 +579,12 @@ user-guide-description: Workfront tutorials
     
 + Agile {#agile}
 
+  + Introduction to Agile work management {#intro-to-agile}
+    + [Benefits of using Agile](/help/agile/benefits-of-using-agile.md)
+    + [What is the Scrum methodology and how does it work?](/help/agile/what-is-the-scrum-methodology.md)
+    + [What is the Kanban methodology and how does it work?](/help/agile/what-is-the-kanban-methodology.md)
+    + [Transitioning to Agile](/help/agile/transitioning-to-agile.md)
+
   + Scrum {#scrum}
     + [Create a Scrum agile team](/help/agile/create-a-scrum-agile-team.md)
     + [Manage work as a Scrum team](/help/agile/manage-work-scrum-team.md)
@@ -639,10 +645,7 @@ user-guide-description: Workfront tutorials
 
 
  
-+ [Benefits of using Agile](/help/agile/benefits-of-using-agile.md)
-+ [What is the Scrum methodology and how does it work?](/help/agile/what-is-the-scrum-methodology.md)
-+ [What is the Kanban methodology and how does it work?](/help/agile/what-is-the-kanban-methodology.md)
-+ [Transitioning to Agile](/help/agile/transitioning-to-agile.md)
+
 + [Manage requests](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Understand the resource capacity chart](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
