@@ -7,7 +7,6 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: yes
-hidefromtoc: yes
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 ---
 # What is the Scrum methodology and how does it work?
@@ -16,7 +15,7 @@ The Scrum methdology encompases the flexibility model but differs from other met
 
 ## Scrum team overview
 
-When you’re deciding whether or not to switch to Scrum, you’ll need to look at the structure of your teams to see if they can easily transfer to the new methodology. A Scrum team has three types of members: a product owner, a scrum master, and team members. 
+When you're deciding whether or not to switch to Scrum, you'll need to look at the structure of your teams to see if they can easily transfer to the new methodology. A Scrum team has three types of members: a product owner, a scrum master, and team members. 
 
 ![Scrum team members](assets/scrumteammembers-01.png)
 
@@ -37,7 +36,7 @@ A team is usually cross functional and has members with lots of different job ro
 
 ## Working as a Scrum team 
 
-Once you’ve assembled these key players, they will follow a new style of workflow for getting their work done and delivering a product to the customer. Again, in comparison to traditional or waterfall methodology, they will no longer follow a linear process of coming up with a plan for a final product, then going through the steps or phases needed to deliver that product. Instead, Scrum teams first build a backlog.  
+Once you've assembled these key players, they will follow a new style of workflow for getting their work done and delivering a product to the customer. Again, in comparison to traditional or waterfall methodology, they will no longer follow a linear process of coming up with a plan for a final product, then going through the steps or phases needed to deliver that product. Instead, Scrum teams first build a backlog.  
 
  
 
@@ -60,13 +59,13 @@ Once they have created their major stories, they need to groom their backlog. As
 
 ### Iteration planning 
 
-After the backlog is groomed and prioritized, it’s time to plan the iteration. (Many organizations use the word “sprint” and “iteration” interchangeably.) The team decides on which stories to complete based off of stories that are considered ready to go. The team makes assignments and decides on the duration of the iteration. 
+After the backlog is groomed and prioritized, it's time to plan the iteration. (Many organizations use the word "sprint" and "iteration" interchangeably.) The team decides on which stories to complete based off of stories that are considered ready to go. The team makes assignments and decides on the duration of the iteration. 
 
  
 
 ### Executing the iteration 
 
-Now, it’s time to execute the iteration. Team members begin to do their work like a traditional team would, but they now incorporate a quick, daily meeting called a stand-up meeting. 
+Now, it's time to execute the iteration. Team members begin to do their work like a traditional team would, but they now incorporate a quick, daily meeting called a stand-up meeting. 
 
 Members of the team will literally stand-up for this short meeting and answer three questions:  
 
@@ -81,7 +80,7 @@ These meetings keep everyone on the same page and moving forward quickly.
 
 ## Using a burndown chart and storyboard to track progress 
 
-As a team answers the three primary questions in their standups, it’s important that they monitor and track their progress toward the iteration completion. Doing so allows them to determine if they are moving quickly enough through their stories to deliver all features on time at the end of the iteration. There are two components to do this in the Scrum process.  
+As a team answers the three primary questions in their standups, it's important that they monitor and track their progress toward the iteration completion. Doing so allows them to determine if they are moving quickly enough through their stories to deliver all features on time at the end of the iteration. There are two components to do this in the Scrum process.  
 
 
 ### Storyboard 

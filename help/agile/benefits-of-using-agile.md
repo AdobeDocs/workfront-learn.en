@@ -7,7 +7,6 @@ level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
 hide: yes
-hidefromtoc: yes
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 ---
 # Benefits of using Agile
@@ -18,9 +17,9 @@ As the name suggests, the Agile methodology allows teams to be better equipped t
 
 ![Agile work stream](assets/agile-work-stream.png)
 
-## Transparency into a team’s work 
+## Transparency into a team's work 
 
-Agile teams use daily meetings called “stand-ups” to make sure the team is staying focused on the prioritized list of features or products to develop. No longer do they experience the confusion of not knowing what everyone else on their team is working on. They keep regular tabs on what the team has accomplished from the day before, any issues/roadblocks they may have that need to be addressed, and what they plan to work on that day. 
+Agile teams use daily meetings called "stand-ups" to make sure the team is staying focused on the prioritized list of features or products to develop. No longer do they experience the confusion of not knowing what everyone else on their team is working on. They keep regular tabs on what the team has accomplished from the day before, any issues/roadblocks they may have that need to be addressed, and what they plan to work on that day. 
 
  
 
