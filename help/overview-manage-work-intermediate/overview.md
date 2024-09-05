@@ -1,6 +1,6 @@
 ---
 title: Manage work - intermediate
-description: Once you've learned the basics of creating, planning and managing projects, there are a few more things you should know to get the most out of Workfront.  
+description: Once you've learned the basics of creating, planning and managing projects, there are a few more things you should know to get the most out of Workfront.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,8 +12,8 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
+exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
 ---
-
 # Manage work - intermediate {#overview}
 
 Once you've learned the basics of creating, planning and managing projects, there are a few more things you should know to get the most out of Workfront. 

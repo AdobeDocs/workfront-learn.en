@@ -1,5 +1,5 @@
 ---
-title: Project finances for administrators 
+title: Project finances for administrators
 description: Learn how to establish system-wide financial settings to ensure consistency in billing and reporting across your organization.
 feature: Work Management
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
+exl-id: 97e5f13f-61f8-4ba8-95f9-f064050d5593
 ---
-
 # Project finances for administrators 
 
 Learn how to establish system-wide financial settings to ensure consistency in billing and reporting across your organization.

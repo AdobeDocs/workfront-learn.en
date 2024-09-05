@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8948
 hide: yes
 doc-type: video
+exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
 ---
 # Find financial information
 

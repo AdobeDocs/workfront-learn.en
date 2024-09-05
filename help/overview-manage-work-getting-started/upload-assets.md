@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: yes
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 ---
 # Upload assets
 

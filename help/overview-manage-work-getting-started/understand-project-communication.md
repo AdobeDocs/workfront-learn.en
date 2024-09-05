@@ -12,6 +12,7 @@ last-substantial-update: 2023-05-05
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 hide: yes
+exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
 ---
 # Understand project communication
 
@@ -37,4 +38,3 @@ In this video, you will learn how to communicate with all project stakeholders u
 * [Find projects](/help/manage-work/projects/find-projects.md)
 * [Share a project](/help/manage-work/projects/share-a-project.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
-

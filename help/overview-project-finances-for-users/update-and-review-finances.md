@@ -10,6 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: yes
+exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
 ---
 # Update and review finances
 

@@ -13,6 +13,7 @@ last-substantial-update: 2024-06-03
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
 ---
 # Understand task durations
 
@@ -30,4 +31,3 @@ In this video, you will learn:
 * [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
 * [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-

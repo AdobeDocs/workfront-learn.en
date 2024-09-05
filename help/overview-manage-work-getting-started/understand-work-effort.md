@@ -12,6 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29
 recommendations: noDisplay,noCatalog
 hide: yes
+exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
 ---
 # Understand [!UICONTROL Work Effort]
 

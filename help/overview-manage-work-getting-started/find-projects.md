@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-15115
 hide: yes
 doc-type: video
+exl-id: 2cacf2b4-dc43-4a3b-bf39-90bfd46b10ad
 ---
 # Find projects
 

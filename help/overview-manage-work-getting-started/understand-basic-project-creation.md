@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8768
 hide: yes
 doc-type: video
+exl-id: 2c7792da-8742-4952-afa6-4b1a15989a56
 ---
 # Understand basic project creation
 
@@ -30,4 +31,3 @@ In this video, you will learn:
 * [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
 * [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
-

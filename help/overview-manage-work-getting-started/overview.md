@@ -12,8 +12,8 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
+exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
 ---
-
 # Manage work - getting started {#overview}
 
 Start your Workfront journey by learning to create and plan projects. Workfront recommends you keep things simple.

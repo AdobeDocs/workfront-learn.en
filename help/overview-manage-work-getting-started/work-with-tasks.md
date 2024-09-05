@@ -12,6 +12,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 hide: yes
 doc-type: video
+exl-id: 81b6fc1f-2988-4eac-8dc5-be52358724ba
 ---
 # Work with tasks
 

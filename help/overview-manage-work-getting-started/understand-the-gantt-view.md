@@ -12,6 +12,7 @@ last-substantial-update: 2023-05-11
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 hide: yes
+exl-id: dd1d0a8d-3093-4e46-ac0d-20ae79fee8a4
 ---
 # Understand the [!UICONTROL Gantt] view
 

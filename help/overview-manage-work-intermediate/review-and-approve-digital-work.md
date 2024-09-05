@@ -12,6 +12,7 @@ jira: KT-8808
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
 ---
 # Review and approve digital work
 

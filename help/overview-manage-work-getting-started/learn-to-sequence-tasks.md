@@ -13,6 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
 ---
 # Learn to sequence tasks
 

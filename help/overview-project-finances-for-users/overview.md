@@ -1,5 +1,5 @@
 ---
-title: Project finances for users 
+title: Project finances for users
 description: Learn how to track financial information for projects, set cost and revenue types, and override billing rates.
 feature: Work Management
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
+exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
 ---
-
 # Project finances for users overview
 
 Learn how to track financial information for projects, set cost and revenue types, and override billing rates. This tutorial is designed for users who will be tracking the financial data related to a project.

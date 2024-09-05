@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 last-substantial-update: 2024-03-05
 hide: yes
 doc-type: video
+exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
 ---
 # Learn four ways to create a project
 
@@ -30,4 +31,3 @@ In this video, you will learn how to:
 * [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
 * [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
-

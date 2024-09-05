@@ -11,6 +11,7 @@ thumbnail: 335109.png
 jira: KT-8809
 hide: yes
 doc-type: video
+exl-id: 8b1d17e9-30f2-40cc-accf-599e3cc8f5e9
 ---
 # Understand updates and notifications
 

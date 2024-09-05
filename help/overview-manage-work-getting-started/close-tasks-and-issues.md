@@ -11,6 +11,7 @@ level: Beginner
 last-substantial-update: 2023-08-16
 jira: KT-10133
 hide: yes
+exl-id: fa7faa52-b551-49da-a52f-212e70a687c9
 ---
 # Close tasks and issues
 

@@ -11,6 +11,7 @@ last-substantial-update: 2024-02-28
 recommendations: noDisplay,noCatalog
 jira: KT-10069
 hide: yes
+exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
 ---
 # Convert an issue/request to a task
 
@@ -27,4 +28,3 @@ In this video, you will learn how to convert an issue or request to a task.
 * [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
 * [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-

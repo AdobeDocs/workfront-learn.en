@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-14781
 doc-type: video
 hide: yes
+exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
 ---
 # Understand the project team
 

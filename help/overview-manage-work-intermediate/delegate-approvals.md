@@ -11,6 +11,7 @@ thumbnail: 336094.png
 jira: KT-8810
 hide: yes
 doc-type: video
+exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
 ---
 # Delegate tasks, issues, and approvals
 

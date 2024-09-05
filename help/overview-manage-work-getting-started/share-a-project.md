@@ -12,6 +12,7 @@ last-substantial-update: 2023-07-21
 recommendations: noDisplay,noCatalog
 jira: KT-10148
 hide: yes
+exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
 ---
 # Share a project
 
@@ -31,4 +32,3 @@ In this video, you will learn:
 * [Find projects](/help/manage-work/projects/find-projects.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
 * [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
-

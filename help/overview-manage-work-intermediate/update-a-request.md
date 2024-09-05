@@ -13,6 +13,7 @@ jira: KT-8807
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: 9bdd107f-0d4e-4ff3-9731-7c8bb5383c41
 ---
 # Update a request
 

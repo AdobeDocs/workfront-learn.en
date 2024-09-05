@@ -12,6 +12,7 @@ last-substantial-update: 2024-05-01
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 hide: yes
+exl-id: 688e6c46-df3e-48e7-a949-d627c529e97c
 ---
 # View project information
 
@@ -28,4 +29,3 @@ In this video, you will learn how to use Filters, Views and Groupings to view:
 * [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
 * [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Create a basic grouping](/help/reporting/basic-reporting/create-a-basic-grouping.md)
-

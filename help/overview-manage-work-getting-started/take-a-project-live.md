@@ -12,6 +12,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8780
 hide: yes
 doc-type: video
+exl-id: c2ed640c-b32f-4c1e-892c-fb54796a101e
 ---
 # Take a project live
 

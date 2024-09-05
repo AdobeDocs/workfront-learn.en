@@ -12,6 +12,7 @@ last-substantial-update: 2024-02-13
 recommendations: noDisplay,noCatalog
 jira: KT-13743
 hide: yes
+exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
 ---
 # Understand the [!UICONTROL Board] view
 

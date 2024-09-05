@@ -10,6 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10065
 hide: yes
+exl-id: a7dbd937-0caa-4eb6-bb5d-bff6705e2972
 ---
 # Understand performance metrics
 

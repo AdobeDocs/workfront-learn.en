@@ -12,6 +12,7 @@ last-substantial-update: 2023-08-10
 recommendations: noDisplay,noCatalog
 jira: KT-10143
 hide: yes
+exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
 ---
 # Find and manage requests
 
@@ -36,4 +37,3 @@ If you want to learn how to create custom reports and put them in a dashboard, s
 * [Update a request](/help/manage-work/issues-requests/update-a-request.md)
 * [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-

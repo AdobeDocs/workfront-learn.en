@@ -9,6 +9,7 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 hide: yes
+exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
 ---
 # Understand group-specific approval processes
 
@@ -29,4 +30,3 @@ The [!UICONTROL All groups] option is not available to group administrators.
 When a specific group is selected, only the statuses available for that group show up in the [!UICONTROL "Start Approval Process when the status is set to"] menu.
 
 ![[!UICONTROL Edit Approval Process] window with status field highlighted](assets/admin-fund-approval-processes-3.png)
-

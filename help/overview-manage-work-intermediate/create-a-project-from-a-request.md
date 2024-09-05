@@ -12,6 +12,7 @@ jira: KT-9723
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: 04b1640a-f259-4c4d-8134-f15b9f944441
 ---
 # Convert an issue/request to a project
 
@@ -29,4 +30,3 @@ In this video, you will learn how to:
 * [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
 * [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 * [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-

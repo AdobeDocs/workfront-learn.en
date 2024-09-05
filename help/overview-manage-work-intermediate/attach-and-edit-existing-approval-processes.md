@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8963
 hide: yes
 doc-type: video
+exl-id: 6a1a682c-4437-4c1b-8373-5f4d07bb9c28
 ---
 # Attach and edit existing approval processes
 

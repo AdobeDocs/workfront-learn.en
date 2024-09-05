@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 hide: yes
 doc-type: video
+exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
 ---
 # Create a single-use approval process
 
@@ -31,4 +32,3 @@ In this video, you will learn how to create a single-use approval process on an 
 >You can set up a single use approval on projects and issues in the same way as described for tasks in the video.
 >
 >If you want to set up automatic issue approvals, these can only be done using a global issue approval process and applied in a queue topic. See [Create a Request Queue](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) for information on how to do this.
-

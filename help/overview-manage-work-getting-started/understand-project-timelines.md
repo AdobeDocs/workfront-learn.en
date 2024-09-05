@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8953
 hide: yes
 doc-type: video
+exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
 ---
 # Understand project timelines
 

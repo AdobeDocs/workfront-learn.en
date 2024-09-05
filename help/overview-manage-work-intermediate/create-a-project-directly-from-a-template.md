@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10156
 hide: yes
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
 ---
 # Create a project directly from a template
 

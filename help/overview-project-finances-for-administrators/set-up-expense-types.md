@@ -10,6 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10064
 hide: yes
+exl-id: 30f5bb50-5c53-4199-a558-fad07e71ef84
 ---
 # Set up expense types
 

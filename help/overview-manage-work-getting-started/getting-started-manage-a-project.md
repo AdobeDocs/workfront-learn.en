@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 hide: yes
 doc-type: video
+exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
 ---
 # Get started managing a project
 

@@ -13,6 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8771
 hide: yes
 doc-type: video
+exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
 ---
 # Navigate the project page
 
@@ -52,4 +53,3 @@ The project page is filled with many features to help you manage your work. Work
 * [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
-

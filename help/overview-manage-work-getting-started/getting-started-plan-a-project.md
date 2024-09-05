@@ -12,6 +12,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 hide: yes
 doc-type: video
+exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
 ---
 # Get started planning a project
 

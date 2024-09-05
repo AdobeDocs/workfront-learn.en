@@ -13,6 +13,7 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 hide: yes
 doc-type: video
+exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
 ---
 # Assign tasks from the project plan
 
@@ -41,4 +42,3 @@ Modify multiple user assignments in a task list
 * [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
 * [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-

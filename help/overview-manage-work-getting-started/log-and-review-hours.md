@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 hide: yes
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
 ---
 # Log and review hours
 

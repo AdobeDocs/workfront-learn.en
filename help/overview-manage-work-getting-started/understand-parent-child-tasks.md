@@ -12,6 +12,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8774
 hide: yes
 doc-type: video
+exl-id: d4e4a273-f712-4104-8c6b-ab7d29175451
 ---
 # Understand parent-child tasks
 
@@ -26,4 +27,3 @@ In this video, you will learn:
 * [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
 * [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-

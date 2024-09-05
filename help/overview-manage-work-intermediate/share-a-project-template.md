@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8951
 hide: yes
 doc-type: video
+exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
 ---
 # Share a project template
 

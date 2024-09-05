@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-null
 hide: yes
+exl-id: 2b2dd0e4-1eb8-48d9-b5a2-0fee50b94f07
 ---
 # Close a project activity
 

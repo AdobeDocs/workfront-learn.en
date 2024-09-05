@@ -12,6 +12,7 @@ last-substantial-update: 2024-07-24
 recommendations: noDisplay,noCatalog
 jira: KT-10072
 hide: yes
+exl-id: baee5681-8bf5-4f69-8f5f-e8b1a50724f6
 ---
 # Report on issues
 
@@ -29,4 +30,3 @@ In this video, you will learn how to create:
 * [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Create a simple report](/help/reporting/basic-reporting/create-a-simple-report.md)
 * [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-
