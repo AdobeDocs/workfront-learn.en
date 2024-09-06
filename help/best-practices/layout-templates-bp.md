@@ -105,3 +105,4 @@ Create as few layout templates as possible.
 **Here’s why**
 
 When making layout templates, try to make them in a way that will satisfy the needs of most people on a team, in a group, assigned the same job role, etc., as possible. Fewer layout templates means less maintenance needed by system and group administrators.
+
