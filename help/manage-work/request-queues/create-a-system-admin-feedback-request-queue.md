@@ -9,6 +9,7 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
@@ -33,3 +34,7 @@ In this video, you will learn:
 To learn how to create the **Admin team feedback report** used in the video, see the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial and look for the activity to **Create an admin team feedback report** following the video. 
 
 To learn how to create a custom form, see the [Create and share a custom form](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
+
+## Recommended tutorials on this topic
+
+* [Answers to common questions about request queues](/help/manage-work/request-queues/request-queue-faq.md)
