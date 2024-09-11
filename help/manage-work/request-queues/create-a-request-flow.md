@@ -25,7 +25,7 @@ In this video, you will learn how to configure queue topics, topic groups, and r
 
 >[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
- ## Recommended tutorials on this topic
+## Recommended tutorials on this topic
 
 * [Create a system admin feedback request queue](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
 * [Answers to common questions about request queues](/help/manage-work/request-queues/request-queue-faq.md)
