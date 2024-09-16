@@ -30,9 +30,9 @@ Yes. You can convert issues into tasks or projects depending on what is needed.
 
 These tutorials will show you how:
 
-* [Convert an issue/request to a project](help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 
-* [Convert an issue/request to a task](help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 
 **Where do I find a request queue to make edits?**
 
