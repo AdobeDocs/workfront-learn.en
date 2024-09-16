@@ -44,6 +44,10 @@ If you open a request from the request queue you can click on the project name i
 
 Yes. When you create a custom form select both [!UICONTROL Project] and [!UICONTROL Issue] as the object types. You can also edit a project custom form to include the issue object type and vice versa. 
 
+![Image showing how to select 2 object types when creating a custom form](assets/faq-image-1.png)
+
+![Image showing how to select 2 object types when editing a custom form](assets/faq-image-2.png)
+
 Attach the custom form to the request. When you convert the request to a project the custom form will automatically attach to the new project and the values contained in any fields will appear in both the request and the project custom forms.
 
 **I'm looking at a project or task report. How can I find out what request this object originated from?**
