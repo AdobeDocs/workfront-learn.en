@@ -12,7 +12,6 @@ last-substantial-update: 2024-09-23
 jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-last-substantial-update: 2023-12-05
 ---
 # Create and share a custom form
 
