@@ -6,7 +6,6 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
-hide: yes
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 ---
 # What is the Scrum methodology and how does it work?

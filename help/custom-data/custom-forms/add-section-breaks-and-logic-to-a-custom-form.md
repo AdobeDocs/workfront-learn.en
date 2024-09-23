@@ -7,7 +7,7 @@ role: Leader, Data Architect, Data Engineer, Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 0
-last-substantial-update: 2023-12-05
+last-substantial-update: 2024-09-23
 jira: KT-14099
 thumbnail: 3425935.jpeg
 exl-id: e9563b1d-e0e4-4d48-97b1-57f154df4ae2

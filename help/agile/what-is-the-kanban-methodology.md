@@ -6,7 +6,6 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
-hide: yes
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 ---
 # What is the Kanban methodology and how does it work?

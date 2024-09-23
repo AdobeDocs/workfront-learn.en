@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+last-substantial-update: 2024-09-23
 thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93

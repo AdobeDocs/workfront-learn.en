@@ -6,7 +6,6 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
-hide: yes
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 ---
 # Benefits of using Agile
