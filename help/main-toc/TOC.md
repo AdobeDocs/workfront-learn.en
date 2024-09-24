@@ -149,7 +149,7 @@ user-guide-description: Workfront tutorials
     + [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+    + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
     + [Attach and edit existing approval processes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
     + [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
