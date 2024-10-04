@@ -33,7 +33,6 @@ In this video, you will learn how to:
 ## Recommended tutorials on this topic
 
 * [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Attach and edit existing approval processes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 

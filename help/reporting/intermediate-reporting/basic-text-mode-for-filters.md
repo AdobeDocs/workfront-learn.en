@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
@@ -40,6 +41,11 @@ In this video, you will learn:
 ## Task - Filter out tasks where I've marked "Done with my part"
 
 The following text mode will exclude tasks where a user has marked "Done with My Part." All you have to do is create a task filter, add any filter rules you want, then switch to text mode and paste the code below after any text mode you see in the filter.
+
+
+>[!WARNING]
+>
+> This is not intended for use in Calendar filters.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -79,6 +85,10 @@ predecessorsMM:projectID_Mod=ne
 ## Task - Show me all tasks I assigned to others
 
 Create a task report with whatever filters you want, then go to the Filter tab and click on Switch to Text Mode. Add this code to whatever is already there:
+
+>[!WARNING]
+> 
+> This is not intended for use in Calendar filters.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
