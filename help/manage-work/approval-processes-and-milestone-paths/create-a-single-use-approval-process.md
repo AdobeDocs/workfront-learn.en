@@ -48,7 +48,6 @@ You may need to edit the issue approval process to make sure **[!UICONTROL Previ
 ## Recommended tutorials on this topic
 
 * [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Attach and edit existing approval processes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
 
