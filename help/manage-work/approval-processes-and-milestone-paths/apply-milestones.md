@@ -1,6 +1,6 @@
 ---
 title: Apply milestones
-description: Learn how to apply milestone paths to an [!DNL  Workfront] project and associate key tasks as milestone steps within the project.
+description: Learn how to apply milestone paths to a project and associate key tasks as milestone steps within the project.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,6 +9,7 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20
+recommendations: noDisplay,noCatalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
@@ -25,5 +26,10 @@ In this video, you will learn how to:
 
 >[!TIP]
 >
->For information on how to create a Milestone view, see the Milestone view activity in [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>For information on how to create a Milestone view, see the Milestone view activity in [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md).
 
+## Recommended tutorials on this topic
+
+* [View milestones](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Milestone view activity in Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
