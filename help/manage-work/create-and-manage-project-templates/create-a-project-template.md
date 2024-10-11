@@ -8,7 +8,8 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-08-31
+last-substantial-update: 2024-10-11
+recommendations: noDisplay,noCatalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
@@ -47,3 +48,11 @@ If the blueprint was installed, you can click on **[!UICONTROL See details]** to
 ![Details about the installation of a blueprint](assets/pt-blueprints-04.png)
 
 If the blueprint has not yet been installed you can request it from your system administrator.
+
+## Recommended tutorials on this topic
+
+* [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

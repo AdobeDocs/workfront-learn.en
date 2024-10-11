@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09
+recommendations: noDisplay,noCatalog
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
@@ -21,3 +22,9 @@ In this video, you will learn:
 * How to edit the template project team.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+
+## Recommended tutorials on this topic
+
+* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
