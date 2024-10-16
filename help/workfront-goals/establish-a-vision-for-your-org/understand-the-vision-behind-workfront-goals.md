@@ -2,7 +2,7 @@
 title: Understand the vision behind [!UICONTROL Workfront Goals]
 description: Learn about [!DNL Workfront Goals] in [!DNL  Workfront] from the Product team.
 activity: use
-feature: Workfront Goals,Get Started with Workfront
+feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
@@ -13,8 +13,4 @@ doc-type: video
 ---
 # Understand the vision behind Workfront Goals
 
-In this video, you will learn about:
-
-* [!DNL Workfront Goals] in [!DNL  Workfront]
-
->[!VIDEO](https://video.tv.adobe.com/v/335181/?quality=12&learn=on)
+This video has been removed. Please go to [Understand how Workfront Goals works](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md) to begin.

@@ -295,7 +295,6 @@ user-guide-description: Workfront tutorials
 
 + Workfront Goals {#workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
-    + [Understand the vision behind Workfront Goals](/help/workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
     + [Understand how Workfront Goals works](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
     + [Understand how Workfront Goals fits in your work cycle](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
     + [Establish a vision and strategy for your org](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
