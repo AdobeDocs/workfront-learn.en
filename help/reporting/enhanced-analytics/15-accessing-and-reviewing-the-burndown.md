@@ -1,6 +1,6 @@
 ---
 title: Understand accessing and reviewing the burndown chart
-description: Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!UICONTROL Enhanced Analytics].
+description: Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png

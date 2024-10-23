@@ -1,6 +1,6 @@
 ---
 title: Understand navigating and reviewing project activity
-description: Learn how to compare projects based on users logged in, task status changes, and tasks completed in [!UICONTROL Enhanced Analytics].
+description: Learn how to compare projects based on users logged in, task status changes, and tasks completed in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png

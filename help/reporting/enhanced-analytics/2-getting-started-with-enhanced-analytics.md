@@ -1,5 +1,5 @@
 ---
-title: Get started with [!UICONTROL Enhanced Analytics]
+title: Get started with [!UICONTROL Enhanced analytics]
 description: Learn the most important fields to update in Workfront in order to let Enhanced analytics show you how your teams and projects are progressing in Workfront.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---
-# Get started with [!UICONTROL Enhanced Analytics]
+# Get started with [!UICONTROL Enhanced analytics]
 
 Enhanced analytics can show you how your teams and projects are progressing in Workfront, and what happened in past projects that you might be able to learn from to help plan future projects.
 

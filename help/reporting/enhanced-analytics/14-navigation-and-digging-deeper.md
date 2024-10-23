@@ -1,6 +1,6 @@
 ---
 title: Dig deeper into navigation
-description: Learn how to quickly see how much time workers are dedicating to each project in [!UICONTROL Enhanced Analytics].
+description: Learn how to quickly see how much time workers are dedicating to each project in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
