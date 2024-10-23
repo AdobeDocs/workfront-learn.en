@@ -1,6 +1,6 @@
 ---
 title: Understand actions - hover, click and drag, and click in
-description: Learn how to get more information by hovering over a chart, creating a timeframe on a chart, and making additional charts appear, all in [!UICONTROL Enhanced Analytics].
+description: Learn how to get more information by hovering over a chart, creating a timeframe on a chart, and making additional charts appear, all in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png

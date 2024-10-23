@@ -1,6 +1,6 @@
 ---
 title: Understand consulting guidance
-description: Learn how to make recommendations to help your organization operate more efficiently by using [!UICONTROL Enhanced Analytics] in Workfront.
+description: Learn how to make recommendations to help your organization operate more efficiently by using [!UICONTROL Enhanced analytics] in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png

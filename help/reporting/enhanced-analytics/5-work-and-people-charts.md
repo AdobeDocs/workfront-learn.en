@@ -1,6 +1,6 @@
 ---
 title: Understand work and people charts
-description: In [!UICONTROL Enhanced Analytics], Work charts show you activity from the project and task perspective, while People charts show you activity from the perspective of a home team.
+description: In [!UICONTROL Enhanced analytics], Work charts show you activity from the project and task perspective, while People charts show you activity from the perspective of a home team.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards

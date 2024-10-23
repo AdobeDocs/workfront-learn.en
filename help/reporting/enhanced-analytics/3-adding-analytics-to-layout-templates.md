@@ -1,6 +1,6 @@
 ---
-title: How to access [!UICONTROL Enhanced Analytics]
-description: Learn how system and group administrators grant access to [!UICONTROL Enhanced Analytics] via a layout template.
+title: How to access [!UICONTROL Enhanced analytics]
+description: Learn how system and group administrators grant access to [!UICONTROL Enhanced analytics] via a layout template.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -15,9 +15,9 @@ exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
 ---
 
-# How to access Enhanced Analytics
+# How to access Enhanced analytics
 
-Like most other features in Workfront, you access [!UICONTROL Enhanced Analytics] from the main menu. But [!UICONTROL Analytics] is not on the main menu by default. 
+Like most other features in Workfront, you access [!UICONTROL Enhanced analytics] from the main menu. But [!UICONTROL Analytics] is not on the main menu by default. 
 
 ![An image of the main menu ](assets/analytics-on-main-menu.png)
 

@@ -230,10 +230,10 @@ user-guide-description: Workfront tutorials
     + [Understand additional calendar report options](/help/reporting/basic-reporting/additional-calendar-options.md)
     + [Your turn to create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-  + Enhanced Analytics {#enhanced-analytics}
-    + [A moment with Product about [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-    + [Get started with [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-    + [How to access [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+  + Enhanced analytics {#enhanced-analytics}
+    + [A moment with Product about [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+    + [Get started with [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+    + [How to access [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
     + [Understand basic navigation](/help/reporting/enhanced-analytics/4-basic-navigation.md)
     + [Understand work and people charts](/help/reporting/enhanced-analytics/5-work-and-people-charts.md) 
     + [Understand filters](/help/reporting/enhanced-analytics/6-filters-overview.md)

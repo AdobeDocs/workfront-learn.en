@@ -1,6 +1,6 @@
 ---
 title: Understand the activity by team chart
-description: The Activity by team chart in [!UICONTROL Enhanced Analytics] allows you to understand how your organization's home teams spend their time in Workfront.
+description: The Activity by team chart in [!UICONTROL Enhanced analytics] allows you to understand how your organization's home teams spend their time in Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards

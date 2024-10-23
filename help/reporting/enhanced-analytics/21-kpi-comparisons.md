@@ -1,6 +1,6 @@
 ---
 title: Understand a KPI comparisons use case
-description: Learn how to compare KPIs in [!UICONTROL Enhanced Analytics] from the current date range to a prior date range, and how to compare KPIs with two different filters.
+description: Learn how to compare KPIs in [!UICONTROL Enhanced analytics] from the current date range to a prior date range, and how to compare KPIs with two different filters.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png

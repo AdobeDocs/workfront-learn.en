@@ -1,6 +1,6 @@
 ---
 title: Understand navigating and reviewing projects
-description: Learn how to read the Flight plan chart in [!UICONTROL Enhanced Analytics].
+description: Learn how to read the Flight plan chart in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png

@@ -1,6 +1,6 @@
 ---
 title: Take action by making updates
-description: Learn how to make updates from within the Tasks in flight chart in [!UICONTROL Enhanced Analytics].
+description: Learn how to make updates from within the Tasks in flight chart in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png

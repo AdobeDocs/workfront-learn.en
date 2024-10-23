@@ -1,6 +1,6 @@
 ---
 title: Understand filters
-description: Learn how to add a filter based on common project fields and how to add a filter using a custom form, all in [!UICONTROL Enhanced Analytics].
+description: Learn how to add a filter based on common project fields and how to add a filter using a custom form, all in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png

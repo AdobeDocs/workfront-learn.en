@@ -1,6 +1,6 @@
 ---
 title: Understand team capacity
-description: Learn how the Team capacity chart in [!UICONTROL Enhanced Analytics] shows when a home team was over-allocated or under-allocated.
+description: Learn how the Team capacity chart in [!UICONTROL Enhanced analytics] shows when a home team was over-allocated or under-allocated.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
