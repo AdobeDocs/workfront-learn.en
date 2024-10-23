@@ -1,6 +1,6 @@
 ---
-title: A moment with Product about [!UICONTROL Enhanced Analytics]
-description: Learn how analytics came about and the exciting capabilities it makes possible with Joel Pettigrew, product manager for [!DNL Enhanced analytics].
+title: A Moment with Product - [!UICONTROL Enhanced Analytics]
+description: Learn how analytics came about and the exciting capabilities it makes possible with Joel Pettigrew, product manager for [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-8870
 recommendations: noDisplay,noCatalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 ---
-# A moment with Product about [!UICONTROL Enhanced Analytics]
+# A Moment with Product - [!UICONTROL Enhanced analytics]
 
-Watch this video with Workfront's Joel Pettigrew, product manager for [!DNL Enhanced analytics], to learn how analytics came about and the exciting capabilities it makes possible. 
+Watch this video with Workfront's Joel Pettigrew, product manager for [!UICONTROL Enhanced analytics], to learn how analytics came about and the exciting capabilities it makes possible. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)
