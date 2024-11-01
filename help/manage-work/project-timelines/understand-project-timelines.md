@@ -8,6 +8,8 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
@@ -17,11 +19,18 @@ doc-type: video
 In this video, you will learn about:
 
 * Basic project timeline management
-* Scheduling projects from the start or completion date
-* Task constraints
+* How to understand Schedule mode
+* How to create a Task Constraint view
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->For a more complete explanation of duration types and task constraints see [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
+>For a more complete explanation of duration types and task constraints see [Understand and manage duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+
+## Recommended tutorials on this topic
+
+* [Track progress from the project timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [Understand and manage duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
