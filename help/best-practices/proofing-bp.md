@@ -9,7 +9,7 @@ exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 ---
 # Best Practice - Proofing
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -28,9 +28,9 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * Take the time to create proofing workflow templates. 
 
-* Disable the “Send emails from Workfront when a comment is made on a proof” setting in the Workfront setups. 
+* Disable the "Send emails from Workfront when a comment is made on a proof" setting in the Workfront setups. 
 
-* Use only Read Only or Reviewer for the “Roles for non-recipients that open a document proof” setting in Workfront. 
+* Use only Read Only or Reviewer for the "Roles for non-recipients that open a document proof" setting in Workfront. 
 
 * Adjust the proof back-end settings so users see deadlines in a 12-hour clock format. 
 
@@ -42,7 +42,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * Set user defaults for proof roles and email alerts. 
 
-* Set the proof creator’s proof role to Reviewer. 
+* Set the proof creator's proof role to Reviewer. 
 
 * Avoid using the Approver proof role. 
 
@@ -57,7 +57,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 Take the time to create proofing workflow templates.   
 
-**Here’s why**
+**Here's why**
 
 Not only do templates speed up and streamline the proof creation and assignment process, they provide consistency across proof workflows for similar types of assets. They also ensure each proof recipient is assigned the proper proof role and email alert, and that a deadline has been set. 
 
@@ -66,11 +66,11 @@ Not only do templates speed up and streamline the proof creation and assignment 
 
 **Best practice**
 
-Disable the “Send emails from Workfront when a comment is made on a proof” setting in the Workfront setups. 
+Disable the "Send emails from Workfront when a comment is made on a proof" setting in the Workfront setups. 
 
 
 
-**Here’s why**
+**Here's why**
 
 When this setting is enabled (which it is by default), users have the potential to get multiple email notifications for each comment on a proof—one from the proofing functionality and one from Workfront itself. These duplicate notifications lead to email notification disruption and confusion, as well as a full email inbox, which may ultimately result in users ignoring proof notifications they receive. Which, in turn, could mean missed deadlines. 
 
@@ -83,11 +83,11 @@ When this setting is enabled (which it is by default), users have the potential 
 
 **Best practice**
  
-Use only Read Only or Reviewer for the “Roles for non-recipients that open a document proof” setting in Workfront.   
+Use only Read Only or Reviewer for the "Roles for non-recipients that open a document proof" setting in Workfront.   
 
 
 
-**Here’s why**
+**Here's why**
 
 The other options for this setting all require a proof decision be made, which throws can derail your proofing workflow. Generally, people who are not added to the proof workflow just need to view the proof or make comments, not actually approve the proof, so the Read Only or Reviewer options are your best bet. 
 
@@ -104,13 +104,9 @@ Adjust the proof back-end settings so users see deadlines in a 12-hour clock for
 
 
 
-**Here’s why**
+**Here's why**
 
-Select the F j, Y, gi:a option in the proof settings for users who want to see proof deadlines/times in a AM/PM format. For areas that use a 12-hour clock, this helps with deadline clarity. 
-
- 
-
-**Note**: This setting is found by going to the Workfront Main Menu > Proofing > Account Settings > Users > and editing the Date format field for each user.  
+The default is a 24 hour clock format, which can be confusing to those who are not familiar with it. To change the format, go to the Workfront Main Menu > Proofing > Account Settings > Users. Double-click on a user to select one, then edit the Date format field in the Personal settings section. You will need to select each user one at a time to change them.
 
 </br>
 </br>
@@ -121,7 +117,7 @@ Establish a default proof deadline as part of the system settings.
 
 
 
-**Here’s why**
+**Here's why**
 
 When a default proof deadline is set—the upload date + x number of business days—if the proof creator forgets to add a deadline, Workfront automatically applies this deadline to every proof uploaded. 
 
@@ -139,7 +135,7 @@ Hide the Not Relevant proof decision option.
 
 
 
-**Here’s why**
+**Here's why**
  
 This decision option often causes confusion among approvers, as organizations often don't define when the Not Relevant option should be used. The Not Relevant option generally indicates the proof is not relevant to the proof recipient and they do not need to make an approved or rejected decision. By selecting Not Relevant, this allows the proof workflow to continue. 
 
@@ -157,7 +153,7 @@ Do not reorder the proof decision options in the proof settings.
 
 
 
-**Here’s why**
+**Here's why**
 
 Each proof decision setting holds a specific value/weight that, if re-ordered, can throw confusion into your proof configurations. The decision order and value/weight are used as proof stage activation triggers and in reporting. 
 
@@ -174,7 +170,7 @@ Set user defaults for proof roles and email alerts.
 
 
 
-**Here’s why**
+**Here's why**
 
 These settings populate automatically when assigning a proof workflow, speeding up the process, and contributing to consistency across proof workflows. 
 
@@ -187,13 +183,13 @@ These settings populate automatically when assigning a proof workflow, speeding 
 
 **Best practice**
 
-Set the proof creator’s proof role to Reviewer.   
+Set the proof creator's proof role to Reviewer.   
 
 
 
-**Here’s why**
+**Here's why**
 
-The Reviewer proof role ensures the proof creator can make comments and access comments left by others. Most of the time, the proof creator isn’t required to make a decision on a proof they’ve uploaded. The Approver, Reviewer & Approver, Author, or Moderator proof roles all require a decision be made. If the proof creator is assigned one of these proof roles but never makes a decision, this can adversely affect proof deadlines. 
+The Reviewer proof role ensures the proof creator can make comments and access comments left by others. Most of the time, the proof creator isn't required to make a decision on a proof they've uploaded. The Approver, Reviewer & Approver, Author, or Moderator proof roles all require a decision be made. If the proof creator is assigned one of these proof roles but never makes a decision, this can adversely affect proof deadlines. 
 
 </br>
 </br>
@@ -204,7 +200,7 @@ Avoid using the Approver proof role.
 
 
 
-**Here’s why**
+**Here's why**
 
 The Approver proof role does not allow the user to make comments on this proof. This could lead to a user rejecting the proof, without any explanation  because they could not make comments. Use the Reviewer & Approver proof role instead so the user can provide feedback. 
 
@@ -215,7 +211,7 @@ The Approver proof role does not allow the user to make comments on this proof. 
 
 Avoid the All Activity proof email alert option.   
 
-**Here’s why**
+**Here's why**
 
 This option sends a proof email notification any time something happens with a proof—a comment is made, a reply is posted, a decision is made, etc. The recipient is essentially seeing proof activity as it happens. 
 
