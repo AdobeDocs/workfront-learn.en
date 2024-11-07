@@ -623,7 +623,7 @@ user-guide-description: Workfront tutorials
   + [Preview sandbox](/help/best-practices/preview-sandbox-bp.md)
   + [Project, task, and issue preferences](/help/best-practices/project-task-issue-preferences-bp.md)
   + [Project templates](/help/best-practices/project-templates-bp.md)
-  + [Workfront Proof](/help/best-practices/proofing-bp.md)
+  + [Proofing](/help/best-practices/proofing-bp.md)
   + [Request queue](/help/best-practices/request-queues-bp.md)
   + [Resource Planner](/help/best-practices/resource-planner-bp.md)
   + [Resource pools](/help/best-practices/resource-pools-bp.md)
