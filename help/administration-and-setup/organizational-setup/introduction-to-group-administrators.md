@@ -16,6 +16,6 @@ last-substantial-update: 2024-11-20
 
 Discover how system administrators can leverage group administrators to efficiently maintain settings and empower groups with greater control over their work processes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
 
 
