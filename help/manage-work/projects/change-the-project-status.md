@@ -12,6 +12,7 @@ recommendations: noDisplay,noCatalog
 last-substantial-update: 2024-11-22
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
+doc-type: video
 ---
 # Change the project status to complete
 

@@ -1,6 +1,6 @@
 ---
 title: Complete approvals
-description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL  Workfront].
+description: Learn how to identify incomplete approvals and resolve them so you can close your project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,44 +8,25 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-08-05
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
+doc-type: video
 ---
 # Complete approvals
 
-Task and issue approvals are a part of many projects. But unresolved approvals will prevent you from setting the project status to Complete.
+In this video, you will learn:
 
-Here's how to find them and deal with them.
+* How to find unresolved task approvals and deal with them
+* How to find unresolved issue approvals and deal with them
 
-On the [!UICONTROL Task] section of your project, select a [!UICONTROL View] that includes the [!UICONTROL Status] column, such as the [!UICONTROL Status] view. A quick glance down that column will show if there's an incomplete approval on a task with the words "[!UICONTROL - Pending Approval]" after the name of the status.
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
-![Project showing incomplete approval](assets/pending-approval-1.png)
+## Recommended tutorials on this topic
 
-When you find a task that's still awaiting approval, you have a two choices of what to do:
+* [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
+* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-
-## Complete the approval
-
-This may mean reminding the person assigned of the outstanding approval. You can see who is assigned as an approver by opening the task and clicking on the three-dot menu in the approvals area.
-
-![Task showing approval area](assets/pending-approval-2.png)
-
-A box will appear showing the assigned approver.
-
-![Task showing approver assigned](assets/pending-approval-3.png)
-
-
-## Remove the approval
-
-If the approval isn't needed, you may want to remove it. You can do this by first recalling the approval. Click the [!UICONTROL Recall] button in the approvals area. This will change the status back to its previous status and will allow you to remove the approval process.
-
-![Task showing the recall button](assets/pending-approval-5.png)
-
-Now click on the [!UICONTROL Approvals] tab on the left, then on the [!UICONTROL Remove] button on the upper right.
-
-![Task showing the remove approval button](assets/pending-approval-6.png)
-
-## Dealing with issue approvals
-
-If your organization uses issues to track problems, change orders, or other events during projects, follow the same steps on the [!UICONTROL Issues] section of your project.
