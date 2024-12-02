@@ -9,18 +9,24 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,noCatalog
-last-substantial-update: 2024-11-22
+last-substantial-update: 2024-12-02
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 ---
 # Upload assets
 
-In this video, you will learn how to check approvals on documents and proofs.
+In this video, you will learn how to:
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
+ * Check approvals on proofs
+ * Check approvals on documents  
+ * Upload a document
+ * Find training on uploading proofs
+
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 
+* [Upload a proof with a basic workflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
 * [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
 * [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
