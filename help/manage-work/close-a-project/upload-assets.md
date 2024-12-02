@@ -17,10 +17,10 @@ exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 
 In this video, you will learn how to:
 
- * Check approvals on proofs
- * Check approvals on documents  
- * Upload a document
- * Find training on uploading proofs
+* Check approvals on proofs
+* Check approvals on documents  
+* Upload a document
+* Find training on uploading proofs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
