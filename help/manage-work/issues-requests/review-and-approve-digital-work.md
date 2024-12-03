@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 ---

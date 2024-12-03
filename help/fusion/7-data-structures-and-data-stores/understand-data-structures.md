@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9052
 exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Understand data structures

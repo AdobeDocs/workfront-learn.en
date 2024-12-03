@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11049
 thumbnail: KT11049.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 ---
 # Execution history exercise

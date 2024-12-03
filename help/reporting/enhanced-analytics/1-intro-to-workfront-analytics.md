@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 jira: KT-8870
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 ---
 # A Moment with Product about [!UICONTROL Enhanced analytics]

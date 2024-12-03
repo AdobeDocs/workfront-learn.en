@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05
 hide: yes
 doc-type: video

@@ -9,7 +9,7 @@ role: Admin
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Administration walkthrough

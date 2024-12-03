@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Data structures walkthrough

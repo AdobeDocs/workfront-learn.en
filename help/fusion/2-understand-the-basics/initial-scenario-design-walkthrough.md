@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Initial scenario design walkthrough

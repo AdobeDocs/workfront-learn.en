@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Webhooks walkthrough

@@ -8,7 +8,7 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-11-22
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6

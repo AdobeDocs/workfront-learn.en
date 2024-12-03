@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14755
 doc-type: video

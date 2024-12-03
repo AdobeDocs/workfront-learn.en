@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-04-22
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video

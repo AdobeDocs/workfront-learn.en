@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Set/Get variables walkthrough

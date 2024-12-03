@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11039
 thumbnail: KT11039.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 ---
 # Beyond basic mapping exercise

@@ -8,7 +8,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11036
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 ---
 # Log in as a new user

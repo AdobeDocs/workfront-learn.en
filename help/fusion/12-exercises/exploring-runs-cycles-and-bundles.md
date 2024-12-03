@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11050
 thumbnail: KT1101.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 ---
 # Exploring runs, cycles, and bundles exercise

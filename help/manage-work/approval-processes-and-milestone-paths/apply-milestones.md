@@ -9,7 +9,7 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video

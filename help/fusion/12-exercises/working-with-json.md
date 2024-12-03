@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 ---
 # Working with JSON exercise

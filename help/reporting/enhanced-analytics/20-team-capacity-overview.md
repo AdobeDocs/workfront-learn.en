@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10047
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 ---
 # Understand team capacity

@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 ---
 # Data stores exercise

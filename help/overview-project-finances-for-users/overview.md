@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2024-09-03
 jira: KT-13492
 mini-toc-levels: 1
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 index: y
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
 ---

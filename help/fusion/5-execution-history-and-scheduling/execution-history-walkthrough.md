@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Execution history walkthrough

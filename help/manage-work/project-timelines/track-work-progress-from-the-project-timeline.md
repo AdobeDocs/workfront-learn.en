@@ -8,7 +8,7 @@ thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
 last-substantial-update: 2024-11-15
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e

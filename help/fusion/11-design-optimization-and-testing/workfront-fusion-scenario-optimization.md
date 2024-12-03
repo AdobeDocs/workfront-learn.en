@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Workfront Fusion scenario optimization

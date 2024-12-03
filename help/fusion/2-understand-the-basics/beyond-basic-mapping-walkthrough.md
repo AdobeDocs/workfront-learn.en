@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Beyond basic mapping walkthrough

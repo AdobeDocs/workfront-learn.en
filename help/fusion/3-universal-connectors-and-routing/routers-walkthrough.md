@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Routers walkthrough
