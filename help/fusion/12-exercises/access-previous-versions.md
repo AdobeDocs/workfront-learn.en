@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 ---
 # Access previous versions exercise

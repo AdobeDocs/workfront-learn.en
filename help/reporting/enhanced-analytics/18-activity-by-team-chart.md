@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10045
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 ---
 # Understand the activity by team chart

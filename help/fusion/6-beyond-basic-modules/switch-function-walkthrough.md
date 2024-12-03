@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Switch function walkthrough

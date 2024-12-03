@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Introduction to iterators walkthrough

@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10069
 hide: yes
 exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7

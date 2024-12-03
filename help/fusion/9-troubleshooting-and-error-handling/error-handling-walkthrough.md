@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Error handling walkthrough

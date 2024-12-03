@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 ---
 # Routing patterns exercise

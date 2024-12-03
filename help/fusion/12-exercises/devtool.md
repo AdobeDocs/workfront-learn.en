@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11057
 thumbnail: KT11057.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 ---
 # Dev tool exercise

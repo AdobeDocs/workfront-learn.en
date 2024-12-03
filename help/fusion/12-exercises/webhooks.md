@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11053
 thumbnail: KT11053.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
 ---
 # Webhooks exercise

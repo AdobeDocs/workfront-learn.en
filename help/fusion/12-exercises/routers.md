@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 ---
 # Routers exercise

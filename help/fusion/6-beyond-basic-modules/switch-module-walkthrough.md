@@ -8,7 +8,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-9049
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 ---

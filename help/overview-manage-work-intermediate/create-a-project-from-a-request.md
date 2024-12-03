@@ -9,7 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 hide: yes
 doc-type: video
 exl-id: 04b1640a-f259-4c4d-8134-f15b9f944441

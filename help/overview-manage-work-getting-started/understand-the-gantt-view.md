@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-11
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10144
 hide: yes
 exl-id: dd1d0a8d-3093-4e46-ac0d-20ae79fee8a4

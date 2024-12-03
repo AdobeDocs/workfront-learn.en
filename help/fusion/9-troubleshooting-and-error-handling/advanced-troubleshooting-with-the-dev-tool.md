@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9061
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Advanced troubleshooting with the dev tool

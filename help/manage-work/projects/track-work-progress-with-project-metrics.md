@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-05-03
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75

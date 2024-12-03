@@ -10,7 +10,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8782
 last-substantial-update: 2024-11-11
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 ---

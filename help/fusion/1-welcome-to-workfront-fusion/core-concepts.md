@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Core concepts

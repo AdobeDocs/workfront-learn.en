@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Balance runs, cycles, and bundles

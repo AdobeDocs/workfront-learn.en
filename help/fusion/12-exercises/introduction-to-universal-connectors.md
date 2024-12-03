@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 ---
 # Introduction to universal connectors exercise

@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Understand routers

@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11047
 thumbnail: KT11047.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
 ---
 # Aggregation exercise
