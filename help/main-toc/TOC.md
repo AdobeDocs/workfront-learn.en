@@ -249,7 +249,6 @@ user-guide-description: Workfront tutorials
     + [Review the tasks in flight](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
     + [Take action by making updates](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
     + [Understand the activity by team chart](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-    + [Understand team capacity](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
     + [Understand a KPI comparisons use case](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
     + [Understand an end user use case](/help/reporting/enhanced-analytics/22-end-user-use.md)
     + [Understand consulting guidance](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
