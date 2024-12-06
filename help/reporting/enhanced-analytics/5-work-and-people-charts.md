@@ -34,8 +34,15 @@ The Burndown and the Tasks in flight charts appear when you drill down into the 
 * Click on a project in the Flight plan view and a Burndown view of that project will appear below it. 
 * Click on a project in the Treemap view and both a Burndown and a Tasks in flight view will appear below it.
 
-## People chart
+## People chart - Activity by team
 
-![An image of finding the [!UICONTROL Analytics] feature in the [!DNL Workfront Classic]](assets/section-1-2.png)
+![An image showing an activity by team chart with numbers on areas described in the bullets below](assets/section-3-1.png)
 
+On the chart, you can see:
+
+1. Home team names on the left.
+1. Dates across the bottom come from the selected date range.
+1. Purple boxes show that users assigned to the project logged in on that day, with a darker shade indicating a higher number of users logging in.
+1. Pink boxes show that users changed the status of a task for the project on that day, with a darker shade indicating a higher number of task statuses changing.
+1. Blue boxes show that users completed a task for the project, with a darker shade indicating a higher number of tasks being completed.
 
