@@ -170,12 +170,10 @@ user-guide-description: Workfront tutorials
 
   + Close a project {#close-a-project}
     + [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-    + [Close tasks and issues](/help/manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
     + [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
     + [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
-    + [Close a project activity](/help/manage-work/close-a-project/close-a-project-activity.md)
 
   + Project finances for users {#project-finances-users}
     + [Update and review finances](/help/manage-work/project-finances/update-and-review-finances.md)
