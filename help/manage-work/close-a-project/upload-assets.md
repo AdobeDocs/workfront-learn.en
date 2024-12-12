@@ -12,6 +12,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-02
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
+doc-type: video
 ---
 # Upload assets
 
