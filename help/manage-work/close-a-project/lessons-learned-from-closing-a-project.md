@@ -12,6 +12,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
+doc-type: video
 ---
 # Record lessons learned
 

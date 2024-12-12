@@ -12,6 +12,7 @@ jira: KT-10136
 recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
+doc-type: video
 ---
 # Log and review hours
 
