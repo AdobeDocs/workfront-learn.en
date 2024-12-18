@@ -21,11 +21,9 @@ index: y
     + [Edit the project team in a project template](edit-the-project-team-in-a-project-template.md)
 
   + How to create and use approval processes {#how-to-create-and-use-approval-processes}
-    + [Create a single-use approval process](create-a-single-use-approval-process.md)
+    + [Create a global and a single-use approval process](create-a-single-use-approval-process.md)
     + [Understand group-specific approval processes](group-specific-approval-processes.md)
-    + [Attach and edit existing approval processes](attach-and-edit-existing-approval-processes.md)
     + [Review and approve digital work](review-and-approve-digital-work.md)
-    + [Understand updates and notifications](understand-updates-and-notifications.md)
     + [Delegate tasks, issues, and approvals](delegate-approvals.md)
 
   + How to create and use milestones {#how-to-create-and-use-milestones}

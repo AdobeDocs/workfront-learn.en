@@ -8,6 +8,7 @@ thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
 last-substantial-update: 2023-05-12
 jira: KT-10127
 hide: yes
@@ -22,3 +23,10 @@ In this video, you will learn:
 * What to do if you can't change the project status to [!UICONTROL Complete]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+
+## Recommended tutorials on this topic
+
+* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
