@@ -23,7 +23,7 @@ In this video, you learn:
 * Where to upload documents
 * How to view the update history
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Key parts of the project page
 

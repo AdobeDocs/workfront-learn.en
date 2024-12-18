@@ -10,19 +10,24 @@ role: User
 level: Beginner
 jira: KT-10135
 hide: yes
+recommendations: noDisplay,catalog
+doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
 ---
 # Record lessons learned
 
-As part of closing a project, some Workfront customers include a "lessons learned" task. This task could be used in different ways.
+In this video, you will see the beneifts of:
 
-* Use a "lessons learned" task to represent a meeting. Capture meeting notes in the task updates.
-* Or attach a custom form to the task or project to capture the "lessons learned" information that you need.
+* Creating a "lessons learned" task
+* Attaching a "lessons learned" custom form to your project
+* Creating "lessons learned" custom reports
+* Creating a "lessons learned" project
 
-An advantage of the custom form — all of its fields are reportable, so you can build custom [!DNL Workfront] reports to review and manage this information, identifying lessons learned across many project types or sets.  
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-If your organization has a more complex post-project process — one that has enough steps to qualify as a project itself — it might be best to create a separate project in [!DNL Workfront].
+## Recommended tutorials on this topic
 
-With this method, you can close out of the project used for the actual deliverable, which keeps your completed project reporting more accurate. Then use a separate post-project project to track any steps that come after.
-
-Talk with your internal [!DNL Workfront] team to learn more about your organization's post-project process.
+* [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
+* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)

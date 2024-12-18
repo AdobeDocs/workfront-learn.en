@@ -48,11 +48,9 @@ index: y
 
   + Close a project {#close-a-project}
     + [Change the project status to complete](change-the-project-status.md)
-    + [Close tasks and issues](close-tasks-and-issues.md)
     + [Complete approvals](complete-approvals.md)
     + [Upload assets](upload-assets.md)
     + [Record lessons learned](lessons-learned-from-closing-a-project.md)
     + [Log and review hours](log-and-review-hours.md)
     + [Update and review finances](update-and-review-finances.md)
-    + [Close a project activity](close-a-project-activity.md)
 

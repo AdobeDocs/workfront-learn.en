@@ -11,6 +11,7 @@ team: Technical Marketing
 jira: KT-8951
 hide: yes
 doc-type: video
+recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
 ---
 # Share a project template
@@ -21,3 +22,11 @@ You will learn how to:
 * Share projects created using a template
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## Recommended tutorials on this topic
+
+* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

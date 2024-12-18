@@ -1,6 +1,6 @@
 ---
 title: Create a global and a single-use approval process
-description: Learn how to create a single-use approval process on a project, task, or issue in Workfront.
+description: Learn how to create a global and a single-use approval process on a project, task, or issue.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
