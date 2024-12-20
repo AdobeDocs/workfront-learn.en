@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9019
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Introduction to aggregations

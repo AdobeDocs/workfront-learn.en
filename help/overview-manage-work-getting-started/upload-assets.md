@@ -10,24 +10,26 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: yes
+recommendations: noDisplay,catalog
+doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 ---
 # Upload assets
 
-Before you close out a [!DNL Workfront] project, make sure that all relevant files are attached in the [!UICONTROL Documents] section. Upload these as a document or a proof, as determined by your organization's guidelines.
+In this video, you will learn how to:
 
-You may need to upload the document or proof as a version of an existing file.
+* Check approvals on proofs
+* Check approvals on documents  
+* Upload a document
+* Find training on uploading proofs
 
-If your organization uses proof approvals, make sure all of those are completed with a quick glance at the progress icons.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Documents page showing proof progress icons](assets/planner-fund-proof-progress-icons.png)
+## Recommended tutorials on this topic
 
-And if your organization uses document approvals, select each item in the list and check the document details to see if the approvals are complete.
+* [Upload a proof with a basic workflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
+* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Side summary on Documents page showing document approval](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

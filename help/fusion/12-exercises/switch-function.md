@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11051
 thumbnail: KT1101.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 ---
 # Switch function exercise

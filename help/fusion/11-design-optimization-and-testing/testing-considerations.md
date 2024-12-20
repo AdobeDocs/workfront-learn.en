@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Testing and launch

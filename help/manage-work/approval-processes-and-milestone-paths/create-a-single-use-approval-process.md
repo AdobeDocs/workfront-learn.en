@@ -1,6 +1,6 @@
 ---
 title: Create a global and a single-use approval process
-description: Learn how to create a single-use approval process on a project, task, or issue in Workfront.
+description: Learn how to create a global and a single-use approval process on a project, task, or issue.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -10,7 +10,7 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8962
 last-substantial-update: 2024-09-24
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 ---

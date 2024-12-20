@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 ---
 # Initial scenario design exercise

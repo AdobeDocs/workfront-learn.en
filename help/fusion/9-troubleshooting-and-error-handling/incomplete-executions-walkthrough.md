@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Incomplete executions walkthrough

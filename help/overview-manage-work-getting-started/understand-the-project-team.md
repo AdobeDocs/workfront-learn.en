@@ -9,7 +9,7 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-07
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 hide: yes

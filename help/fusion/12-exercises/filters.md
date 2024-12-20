@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11040
 thumbnail: KT1101.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 ---
 # Filters exercise

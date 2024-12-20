@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2024-08-23
 jira: KT-10669
 mini-toc-levels: 1
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
 ---
@@ -75,10 +75,8 @@ Learn how to track project work and communicate with stakeholders.
 Learn how to close tasks and issues, complete approvals, record lessons learned, and close the project.
 
 * [Change the project status to complete](change-the-project-status.md) - Learn how to change the project status to Complete, why to change it, and what to do if you can't change it to Complete.
-* [Close tasks and issues](close-tasks-and-issues.md) - Learn how to make sure tasks and issues are closed before you close out a project.
 * [Complete approvals](complete-approvals.md) - Learn how to identify incomplete approvals and resolve them so you can close your project.
 * [Upload assets](upload-assets.md) - Upload documents, proofs, and other assets to the project before closing it to ensure all relevant data is associated with the project.
 * [Record lessons learned](lessons-learned-from-closing-a-project.md) - Learn how you can include a "lessons learned" task to identify what went well and what can improve the next time.
 * [Log and review hours](log-and-review-hours.md) - Record outstanding hours and review logged hours before closing a project.
 * [Update and review finances](update-and-review-finances.md) - If your organization uses Workfront to keep track of project-related financial information, reviewing expenses and creating billing records may be part of your process for closing a project.
-* [Close a project activity](close-a-project-activity.md) - Practice what you've learned about how to close a project.

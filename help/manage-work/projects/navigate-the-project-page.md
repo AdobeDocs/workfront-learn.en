@@ -9,7 +9,7 @@ role: User
 level: Beginner
 last-substantial-update: 2024-04-05
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
@@ -23,7 +23,7 @@ In this video, you learn:
 * Where to upload documents
 * How to view the update history
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Key parts of the project page
 

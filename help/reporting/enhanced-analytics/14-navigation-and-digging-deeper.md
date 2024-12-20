@@ -10,7 +10,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8733
 doc-type: video
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 ---
 # Dig deeper into navigation

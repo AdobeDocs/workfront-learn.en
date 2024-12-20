@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Advanced aggregation walkthrough

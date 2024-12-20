@@ -9,7 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 last-substantial-update: 2024-10-09
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video

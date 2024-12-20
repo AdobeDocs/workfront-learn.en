@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10044
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 ---
 # Understand planned hours and duration views

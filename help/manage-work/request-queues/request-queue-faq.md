@@ -6,7 +6,7 @@ type: Tutorial
 role: Admin, User
 level: Beginner
 last-substantial-update: 2024-09-16
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 ---

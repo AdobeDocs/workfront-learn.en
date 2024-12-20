@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2024-08-26
 jira: KT-10671
 mini-toc-levels: 1
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
 ---
@@ -50,11 +50,9 @@ Learn how to create and use project templates.
 
 Learn how to create approval processes, attach them to workflows, review digital work, and delegate approvals.
 
-* [Create a single-use approval process](create-a-single-use-approval-process.md) - Learn how to create a single-use approval process on a project, task, or issue.
+* [Create a global and a single-use approval process](create-a-single-use-approval-process.md) - Learn how to create a global and a single-use approval process on a project, task, or issue.
 * [Understand group-specific approval processes](group-specific-approval-processes.md) - Learn how group administrators can create or edit approval processes for the groups they manage.
-* [Attach and edit existing approval processes](attach-and-edit-existing-approval-processes.md) - Learn how to use and edit existing approval processes for projects, tasks, or issues.
 * [Review and approve digital work](review-and-approve-digital-work.md) - Learn how to find, review, and make approvals for projects, tasks, issues, documents, and proofs.
-* [Understand updates and notifications](understand-updates-and-notifications.md) - Learn how to make updates on approval requests and find your notifications.
 * [Delegate tasks, issues, and approvals](delegate-approvals.md) - Learn how to delegate approvals for projects, tasks, issues, and timecards to another Adobe Workfront user.
 
 ## How to create and use milestones

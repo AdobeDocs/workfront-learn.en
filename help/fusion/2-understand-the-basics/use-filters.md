@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Use filters

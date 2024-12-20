@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-9043
 last-substantial-update: 2024-01-24
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Understand scenario scheduling

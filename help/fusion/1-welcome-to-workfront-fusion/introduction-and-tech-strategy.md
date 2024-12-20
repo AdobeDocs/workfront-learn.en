@@ -10,7 +10,7 @@ level: Beginner
 last-substantial-update: 2023-06-08
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Introduction and tech strategy

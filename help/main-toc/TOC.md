@@ -170,12 +170,10 @@ user-guide-description: Workfront tutorials
 
   + Close a project {#close-a-project}
     + [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-    + [Close tasks and issues](/help/manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
     + [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
     + [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
-    + [Close a project activity](/help/manage-work/close-a-project/close-a-project-activity.md)
 
   + Project finances for users {#project-finances-users}
     + [Update and review finances](/help/manage-work/project-finances/update-and-review-finances.md)
@@ -249,7 +247,6 @@ user-guide-description: Workfront tutorials
     + [Review the tasks in flight](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
     + [Take action by making updates](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
     + [Understand the activity by team chart](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-    + [Understand team capacity](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
     + [Understand a KPI comparisons use case](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
     + [Understand an end user use case](/help/reporting/enhanced-analytics/22-end-user-use.md)
     + [Understand consulting guidance](/help/reporting/enhanced-analytics/23-consulting-guidance.md)

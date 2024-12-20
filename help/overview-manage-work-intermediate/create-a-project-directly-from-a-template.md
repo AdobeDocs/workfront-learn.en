@@ -1,6 +1,6 @@
 ---
 title: Create a project directly from a template
-description: Learn how to create a project by starting with a template already built  .
+description: Learn how to create a project by starting with a template already built.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: yes
 exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
 ---
@@ -32,3 +33,12 @@ The details window allows you to make changes to the settings of the new project
 
 
 ![New project favorite templates](assets/direct-template-03.png)
+
+## Recommended tutorials on this topic
+
+* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

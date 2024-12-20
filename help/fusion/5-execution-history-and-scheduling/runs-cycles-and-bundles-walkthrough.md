@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Runs, cycles, and bundles walkthrough

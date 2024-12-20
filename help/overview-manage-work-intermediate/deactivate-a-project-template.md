@@ -11,6 +11,7 @@ last-substantial-update: 2024-01-09
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
+recommendations: noDisplay,catalog
 hide: yes
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
 ---
@@ -26,3 +27,9 @@ In this video, you will learn:
 ## Learn how to create a custom view to see and edit the active status of project templates
 
 To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
+## Recommended tutorials on this topic
+
+* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

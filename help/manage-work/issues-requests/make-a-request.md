@@ -11,7 +11,7 @@ thumbnail: 336092.png
 last-substantial-update: 2024-07-09
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
 ---
 # Make a request

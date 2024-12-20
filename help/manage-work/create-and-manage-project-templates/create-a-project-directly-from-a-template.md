@@ -1,6 +1,6 @@
 ---
 title: Create a project directly from a template
-description: Learn how to create a project by starting with a template already built  .
+description: Learn how to create a project by starting with a template already built.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 ---
