@@ -27,6 +27,8 @@ In this video, you learn:
 
 ## Key parts of the project page
 
+[Click here](/help/assets/key-parts-of-the-project-page.pdf) to download a PDF of this page.
+
 The project page is filled with many features to help you manage your work. Work with your system administrator if there is an option you need but don't see in your instance of [!DNL Workfront]. Here are a few of the main project page features to make note of.
 
 ![Screenshot of project page](assets/project-page-graphic-for-planner-v2.png)
