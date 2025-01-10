@@ -11,7 +11,7 @@ level: Beginner
 thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-last-substantoa;-update: 2025-01-09
+last-substantial-update: 2025-01-09
 ---
 # Manage in-app and email event notifications
 
