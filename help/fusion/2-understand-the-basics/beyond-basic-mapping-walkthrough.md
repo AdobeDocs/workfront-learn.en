@@ -1,6 +1,7 @@
 ---
 title: Beyond basic mapping walkthrough
 description: Change some project fields in the scenario you created previously using the mapping panel formulas in [!DNL Adobe Workfront Fusion].
+short-description: In this video walkthrough, you can change the project name, planned start date, and priority from the "Initial scenario design" you created in the first walkthrough using the mapping panel formulas.
 activity: use
 team: Technical Marketing
 type: Tutorial

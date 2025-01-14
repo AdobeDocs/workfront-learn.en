@@ -1,6 +1,7 @@
 ---
 title: Scenario guardrails
 description: Learn about scenario guardrails, module guardrails, file guardrails, and webhook guardrails, all in [!DNL Adobe Workfront Fusion].
+short-description: Because long-running scenarios can slow down the pace of your work, Workfront Fusion was designed with performance-preserving guardrails that limit execution time, data size, and other scenario parameters
 activity: use
 team: Technical Marketing
 type: Tutorial
