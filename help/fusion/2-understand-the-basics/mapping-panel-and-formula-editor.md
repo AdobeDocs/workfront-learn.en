@@ -1,6 +1,7 @@
 ---
 title: Mapping panel and formula editor
 description: Learn more about using the mapping panel, the formula editor, and common formula examples in [!DNL Adobe Workfront Fusion].
+short-description: In this video, you will learn more details on using the mapping panel and how to use the formula editor.
 activity: use
 team: Technical Marketing
 type: Tutorial
