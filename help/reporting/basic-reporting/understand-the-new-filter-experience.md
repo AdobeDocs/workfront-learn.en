@@ -12,7 +12,7 @@ jira: kt-8857, kt-13080
 doc-type: video
 ---
 
-## Understand the new filter experience
+# Understand the new filter experience
 
 In this video, you will learn how to:
 
