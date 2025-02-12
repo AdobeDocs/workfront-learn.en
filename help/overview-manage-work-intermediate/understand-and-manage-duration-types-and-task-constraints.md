@@ -26,7 +26,7 @@ In this video, you will learn the following things about duration types and task
 * Best practices for using them
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
 For information on how to create a Duration types and task constraints view, see the Duration types and task constraints view activity in [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).

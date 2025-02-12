@@ -21,4 +21,4 @@ In this video, you will learn:
 * How to change the date range
 * How to compare KPIs with two different filters side by side
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops)

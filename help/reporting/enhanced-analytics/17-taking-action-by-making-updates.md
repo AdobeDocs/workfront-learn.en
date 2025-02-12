@@ -19,4 +19,4 @@ In this video, you will learn:
 
 * How to make updates from within the Tasks in flight chart
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)

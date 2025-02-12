@@ -13,4 +13,4 @@ doc-type: video
 
 Learn how to read the iteration status bar, find and read the burndown chart, as well as how to view and move stories in the iteration storyboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops)

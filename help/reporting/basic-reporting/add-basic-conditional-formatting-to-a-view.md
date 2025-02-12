@@ -21,7 +21,7 @@ In this video, you will learn:
 * What conditional formatting is in a view
 * How to create and modify conditional formatting
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops)
 
 ## Summary
 

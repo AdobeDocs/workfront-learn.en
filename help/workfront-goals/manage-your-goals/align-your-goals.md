@@ -46,4 +46,4 @@ In this video, you will learn how to:
 * Align goals using both a bottom-up and a top-down approach
 * Navigate the [!UICONTROL Goal Alignment] section
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)

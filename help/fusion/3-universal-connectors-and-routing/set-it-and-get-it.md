@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Share data between different paths
 * Use Set and Get variables
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops)

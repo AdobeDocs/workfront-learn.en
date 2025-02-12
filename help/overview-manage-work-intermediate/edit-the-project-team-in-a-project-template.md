@@ -22,7 +22,7 @@ In this video, you will learn:
 * How to avoid unintentionally including **non** project team members in a template project team.
 * How to edit the template project team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

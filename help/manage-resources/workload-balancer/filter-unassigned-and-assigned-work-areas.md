@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Filter the user list in the Assigned Work area
 * Filter the Unassigned Work area
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops)

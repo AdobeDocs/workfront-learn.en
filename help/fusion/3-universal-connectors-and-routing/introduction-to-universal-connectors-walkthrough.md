@@ -24,7 +24,7 @@ Using a Pokemon character in a spreadsheet, call the Poke API through an HTTP co
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on&enablevpops)
 
 ### Exercise URLs
 

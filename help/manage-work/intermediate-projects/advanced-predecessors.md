@@ -30,7 +30,7 @@ In this video, you will learn about:
 * Dependency loop errors
 * Short cuts and best practices
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
 
 For more information about using predecessors see [Use task predecessors](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 

@@ -29,7 +29,7 @@ In this video, you will learn:
 * How to create a system admin feedback request queue
 * How an admin team feedback report can help you improve your processes
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
 
 To learn how to create the **Admin team feedback report** used in the video, see the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial and look for the activity to **Create an admin team feedback report** following the video. 
 

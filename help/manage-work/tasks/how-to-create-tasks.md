@@ -18,7 +18,7 @@ In this video, you will learn:
 * The long way to create a task in a Workfront project
 * A few handy shortcuts for creating tasks
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

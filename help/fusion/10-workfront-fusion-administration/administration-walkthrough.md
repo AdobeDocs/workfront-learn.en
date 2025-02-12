@@ -26,7 +26,7 @@ In this video you will learn:
 * How to create teams
 * How to invite users to an organization and a team
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

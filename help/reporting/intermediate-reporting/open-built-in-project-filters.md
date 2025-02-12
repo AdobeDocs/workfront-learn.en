@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Review built-in project filters to see how they're built 
 * Create your own project filter using what you have learned 
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
 
 
 ## Activity: Create a project filter

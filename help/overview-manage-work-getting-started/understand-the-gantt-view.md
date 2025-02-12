@@ -21,7 +21,7 @@ In this video, you will learn how to use:
 * The project Gantt chart
 * The task Gantt chart
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
 
 You can learn more online with the article, [Get started with the Gantt chart](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 

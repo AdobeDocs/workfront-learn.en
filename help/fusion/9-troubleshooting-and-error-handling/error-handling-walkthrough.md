@@ -22,7 +22,7 @@ Understand how default error handling occurs and how to add specific module erro
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on&enablevpops)
 
 ## Want to learn more? We recommend the following:
 

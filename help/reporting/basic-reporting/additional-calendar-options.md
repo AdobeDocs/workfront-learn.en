@@ -29,4 +29,4 @@ In this video, you will learn how to:
 * Share a calendar
 * Delete a calendar
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops)

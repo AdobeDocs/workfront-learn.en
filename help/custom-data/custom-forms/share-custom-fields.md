@@ -17,5 +17,5 @@ exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 
 In this video, you will learn how to determine who can view and/or edit a custom field.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops)
 

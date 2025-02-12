@@ -26,7 +26,7 @@ In this video, you will learn how to:
 * Create detailed and shareable documentation
 * Test depth, breadth, complexity, and load
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## Testing considerations checklist
 

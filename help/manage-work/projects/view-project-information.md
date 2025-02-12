@@ -21,7 +21,7 @@ In this video, you will learn how to use Filters, Views and Groupings to view:
 * Task level information
 * Issue level information
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

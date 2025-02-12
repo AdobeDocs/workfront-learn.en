@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * Create a custom date using wildcards, attributes, operators, and modifiers 
 * Create a custom date range using wildcards 
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
 
 ## Activity questions
 

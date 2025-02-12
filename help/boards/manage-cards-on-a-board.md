@@ -15,4 +15,4 @@ exl-id: 26f37808-f9b4-47b6-8dbb-869eb3a8d9c9
 
 Learn how to reorganize, copy, archive, delete, and disconnect cards on a board.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)

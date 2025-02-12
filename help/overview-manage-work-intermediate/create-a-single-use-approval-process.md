@@ -21,7 +21,7 @@ In either instance, when the object status changes to one specified in the appro
 
 In this video, you will learn how to create a global approval process and a single-use approval process on a project, task, or issue.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

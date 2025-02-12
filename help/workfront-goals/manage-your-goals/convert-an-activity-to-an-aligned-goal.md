@@ -19,4 +19,4 @@ In this video, you will learn how to:
 
 * Convert an activity into an aligned goal
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)

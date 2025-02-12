@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to find unresolved task approvals and deal with them
 * How to find unresolved issue approvals and deal with them
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

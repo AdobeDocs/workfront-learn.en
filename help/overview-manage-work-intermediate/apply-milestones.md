@@ -23,7 +23,7 @@ In this video, you will learn how to:
 * Add a milestone to a task
 * Best practices for applying milestones
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

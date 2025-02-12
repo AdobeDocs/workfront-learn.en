@@ -46,4 +46,4 @@ In this video, you will learn how to do the following from within your Creative 
 * Log time
 * Mark your work complete
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)

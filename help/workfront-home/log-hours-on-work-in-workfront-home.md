@@ -19,7 +19,7 @@ In this video, you will learn:
 * The value of logging time
 * How to log time on work assignments
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
 
 ## Tips for logging hours on work in [!DNL Home]
 

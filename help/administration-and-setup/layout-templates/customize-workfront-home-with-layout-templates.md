@@ -16,7 +16,7 @@ doc-type: video
 
 Learn to customize your users [!UICONTROL Home] area to access, track, approve, and update work quickly and easily.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops)
 
 <br>
 </br>
@@ -31,4 +31,4 @@ In this video, you will learn how to:
 * Remove items from [!UICONTROL Home]
 * Add items to [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops)

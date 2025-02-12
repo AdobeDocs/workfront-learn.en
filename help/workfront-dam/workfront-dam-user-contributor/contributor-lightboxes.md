@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Collaborate with a lightbox
 * Share the contents of a lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops)
 
 ## Folders vs. lightboxes
 

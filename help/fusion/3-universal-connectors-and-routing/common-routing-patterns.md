@@ -18,4 +18,4 @@ In this video, you will learn:
 
 * The difference mutually exclusive and non-exclusive router paths.
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops)

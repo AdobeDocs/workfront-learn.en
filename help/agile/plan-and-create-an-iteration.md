@@ -13,4 +13,4 @@ doc-type: video
 
 In this video, you will learn how to create a new iteration and check/uncheck stories for an iteration.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops)

@@ -20,7 +20,7 @@ In this video, you will learn:
 * Why status is important in [!DNL  Workfront]
 * How to filter the [!UICONTROL Work List] to see completed work
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)
 
 
 ## Two other ways to indicate work is complete

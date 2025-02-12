@@ -15,5 +15,5 @@ exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
 
 Learn how to add users to Workfront by copying an existing user, importing new users in bulk, and creating a new user from scratch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
 

@@ -19,4 +19,4 @@ In this video, you will learn:
 * What switch functions and modules are and how they differ
 * When to use a switch function vs a switch module
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops)

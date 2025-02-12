@@ -22,7 +22,7 @@ In this video, you will learn:
 * Ways to add and delete tasks
 * How to change the task order
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

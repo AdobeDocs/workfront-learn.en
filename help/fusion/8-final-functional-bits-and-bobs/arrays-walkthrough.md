@@ -22,7 +22,7 @@ Review previous walkthrough exercises where simple and complex arrays were used.
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on&enablevpops)
 
 
 ## Want to learn more? We recommend the following:

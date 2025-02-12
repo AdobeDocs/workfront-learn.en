@@ -44,4 +44,4 @@ In this video, you will see:
 * Fusion core and designer capabilities
 * A Fusion example scenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)

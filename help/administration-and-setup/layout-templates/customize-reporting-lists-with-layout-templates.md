@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Remove filters, views, and groupings
 * Add filters, views and groupings
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops)
 
 ## Set list defaults
 

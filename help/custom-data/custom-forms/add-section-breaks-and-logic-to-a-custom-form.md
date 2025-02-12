@@ -16,4 +16,4 @@ exl-id: e9563b1d-e0e4-4d48-97b1-57f154df4ae2
 
 Learn how to add section breaks to organize your custom form fields as well as use the Skip and Display logics to make fields available when they're needed.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425935/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425935/?quality=12&learn=on&enablevpops)

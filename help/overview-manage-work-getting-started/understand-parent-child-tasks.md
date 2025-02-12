@@ -20,7 +20,7 @@ In this video, you will learn:
 
 * How tasks are structured in a [!DNL Workfront] project
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

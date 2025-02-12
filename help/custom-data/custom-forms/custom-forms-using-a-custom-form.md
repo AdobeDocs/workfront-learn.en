@@ -17,4 +17,4 @@ doc-type: video
 
 In this video, you will learn how to attach a custom from to objects in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops)

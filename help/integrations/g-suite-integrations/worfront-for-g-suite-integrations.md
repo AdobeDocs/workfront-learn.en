@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * View and update Workfront work from [!DNL Gmail]
 * Approve Workfront work from [!DNL Gmail]
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on&enablevpops)
 
 ## Install Adobe Workfront for G Suite
 

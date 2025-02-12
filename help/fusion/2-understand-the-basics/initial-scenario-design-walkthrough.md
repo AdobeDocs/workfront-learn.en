@@ -27,7 +27,7 @@ In this video, you will learn how to:
 * Use the scenario designer
 * Create a basic scenario 
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
 
 
 ## Want to learn more? We recommend the following:

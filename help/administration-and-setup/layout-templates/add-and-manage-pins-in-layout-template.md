@@ -14,4 +14,4 @@ exl-id: 82b41f3c-3b44-4e50-85fd-dbaf31dc1acb
 
 Learn what a pin is and how to pin important or pertinent pages for a set of users through layout templates.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)

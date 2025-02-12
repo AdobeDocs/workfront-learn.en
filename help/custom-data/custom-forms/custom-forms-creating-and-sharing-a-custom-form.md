@@ -20,5 +20,5 @@ In this video, you will learn how to:
 * Add unique fields in a variety of formats
 * Share forms with other users
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops)
 

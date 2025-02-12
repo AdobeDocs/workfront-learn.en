@@ -19,7 +19,7 @@ In this video, you will learn:
 * How to create a task report with a complex filter
 * How to find the reports you create
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops)
 
 
 

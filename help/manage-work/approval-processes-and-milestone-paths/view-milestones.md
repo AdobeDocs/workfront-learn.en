@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * View milestones in a specific project
 * Read the milestone view in a list of projects
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

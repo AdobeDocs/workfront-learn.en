@@ -24,7 +24,7 @@ Using the "Introduction to iteration" scenario you built in the last walkthrough
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops)
 
 
 

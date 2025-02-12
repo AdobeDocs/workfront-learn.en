@@ -34,7 +34,7 @@ In this video, you will learn how to:
 - Select the scrum methodology
 - Determine settings for the scrum team
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops)
 
 Already have a team in Workfront that you want to convert to an Agile team? No problem! Go to the Team Settings and check the “This is an Agile team” box. 
 

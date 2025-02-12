@@ -16,4 +16,4 @@ exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 
 Watch this video with Workfront's Joel Pettigrew, product manager for [!UICONTROL Enhanced analytics], to learn how analytics came about and the exciting capabilities it makes possible. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops)

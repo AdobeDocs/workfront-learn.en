@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Select a view to compare [!DNL Workfront's] different date types
 * Use progress status to help you track work progress
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

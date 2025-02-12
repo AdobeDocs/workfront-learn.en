@@ -19,7 +19,7 @@ In this video, you will learn:
 * How charts can improve the visualization of data 
 * How to use Workfront's chart tools
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops)
 
 ## Activity: Add a chart to a report
 

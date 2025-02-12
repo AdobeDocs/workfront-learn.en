@@ -18,4 +18,4 @@ In this video, you will learn:
 
 * The importance of using the operators provided in the mapping panel
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops)

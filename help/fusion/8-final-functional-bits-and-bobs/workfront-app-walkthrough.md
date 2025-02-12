@@ -18,7 +18,7 @@ In this video, you will learn about:
 
 * A variety of useful trigger, action, and search modules in the Workfront app
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops)
 
 
 ## Want to learn more? We recommend the following:

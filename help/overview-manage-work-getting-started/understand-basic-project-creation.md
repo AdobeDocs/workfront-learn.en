@@ -24,7 +24,7 @@ In this video, you will learn:
 * A little about tasks and issues
 * Best practice for starting out with creating projects
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 
