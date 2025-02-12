@@ -641,7 +641,9 @@ user-guide-description: Workfront tutorials
 
 
  
-
+<!---
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+--->
 + [Manage requests](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Understand the resource capacity chart](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 + [Create basic grouping activities](/help/reporting/basic-reporting/create-basic-grouping-activities.md)

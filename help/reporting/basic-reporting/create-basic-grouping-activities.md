@@ -9,6 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+hidefromtoc: yes
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
 ---
 # Activity: Create a basic grouping
