@@ -9,8 +9,8 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
 ---
-
 # Activity: Create a basic grouping
 
 Create an issue grouping that will be used in a report to track requests that come through a request queue. This grouping will make it easy to see similar types of issues/requests grouped by their priority. Name the grouping "Request Queue, Queue Topic, Priority."
