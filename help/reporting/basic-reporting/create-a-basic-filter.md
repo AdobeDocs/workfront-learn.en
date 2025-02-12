@@ -23,13 +23,3 @@ In this video, you will learn:
 * How to share a filter with other Workfront users
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
-
-## Understand the new filter experience
-
-In this video, you will learn how to:
-
-* Enable and disable the new filter experience
-* Create and edit filters
-* Stack filters
-
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
