@@ -19,7 +19,7 @@ In this video, you will:
 * Set up a keyword list
 * Create and import a list of keywords
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops)
 
 ## Keyword best practices
 

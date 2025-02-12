@@ -24,7 +24,7 @@ In this video, you will learn how to:
 * Open the request page
 * Update a request in the [!UICONTROL Updates] panel
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

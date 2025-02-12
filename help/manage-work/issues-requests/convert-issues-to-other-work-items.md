@@ -16,7 +16,7 @@ exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 
 In this video, you will learn how to convert an issue or request to a task.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

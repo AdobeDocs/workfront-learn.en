@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Use existing metadata fields
 * Create custom metadata fields
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
 
 ## Metadata best practices
 

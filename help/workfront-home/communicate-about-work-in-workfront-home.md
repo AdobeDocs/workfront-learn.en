@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Tag users on [!DNL Workfront] updates
 * Reply to existing updates
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops)
 
 ## Tips for updating work in [!UICONTROL Home]
 

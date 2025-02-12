@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Understand data structure usage and capabilities
 * Create and use a data structure within a scenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)

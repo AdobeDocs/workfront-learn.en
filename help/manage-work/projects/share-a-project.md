@@ -23,7 +23,7 @@ In this video, you will learn:
 * How to share a project by putting it in a portfolio
 * Best practices for sharing a project
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

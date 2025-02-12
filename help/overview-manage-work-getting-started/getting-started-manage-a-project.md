@@ -23,7 +23,7 @@ In this video, you will learn:
 * How to drill down to see task details
 * How to communicate with stakeholders
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

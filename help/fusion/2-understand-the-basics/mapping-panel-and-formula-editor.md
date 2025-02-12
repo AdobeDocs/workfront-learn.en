@@ -23,4 +23,4 @@ In this video, you will learn:
 * The different formula types
 * Good and bad use of the formula editor
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops)

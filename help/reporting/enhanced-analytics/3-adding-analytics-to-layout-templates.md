@@ -29,6 +29,6 @@ If you don't see it there, your system or group administrator will need to add i
 In this video, you will learn how system and group administrators grant access to [!UICONTROL Analytics] in Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops)
 
 Anyone with a Workfront license (in [!UICONTROL Workfront Business] plans or higher) can access [!UICONTROL Analytics] once it's added to the layout template they're assigned. However, you'll only see the projects and user information if allowed by your Workfront access level and the sharing permissions on specific projects and users.

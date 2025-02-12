@@ -19,15 +19,17 @@ In this video, you will learn:
 * The key components behind Workfront reporting
 * How these components are used in a reporting element
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## Reporting components
 
-   ![An image of the screen to create a filter](assets/reporting-components-1.png)
+[Click here](/help/assets/reporting-components.pdf) to download a PDF of this page.
+
+![An image of the screen to create a filter](assets/reporting-components-1.png)
 
 **A - Field source**
 
-Field source options are dependant on the object type selected. Often, the field source is the item in Workfront that a specific piece of information (aka the field name) belongs to. Sometimes the field source is the same as the object type.
+Field source options are dependent on the object type selected. Often, the field source is the item in Workfront that a specific piece of information (aka the field name) belongs to. Sometimes the field source is the same as the object type.
 The field source determines what fields names are available.
 
 Examples: [!UICONTROL Project], [!UICONTROL Task], [!UICONTROL Issue], [!UICONTROL Assigned To]

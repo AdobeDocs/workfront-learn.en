@@ -19,7 +19,7 @@ In this video, you will learn:
 
 * How to quickly see how much time workers are dedicating to each project
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
 
 ## Review time spent on projects
 

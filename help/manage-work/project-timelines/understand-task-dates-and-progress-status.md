@@ -21,7 +21,7 @@ In this video, you will learn about:
 * Planned, projected, and actual dates, and 
 * How they are used in calculating progress status
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

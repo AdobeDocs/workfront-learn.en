@@ -29,6 +29,6 @@ In this video, you will learn:
 * How to create a cross-project predecessor
 * How to track cross-project predecessors in reports
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops)
 
 To learn how to create the **Cross-project predecessors and successors** view and the **Cross-project predecessors and successors** report used in the video,  see the [Understand basic text mode for views](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) tutorial and be sure and take the prerequisite tutorials listed there, if you need to.

@@ -25,7 +25,7 @@ In this video, you will learn how to:
 * Delegate approvals for projects, tasks, issues
 * Identify delegated approvals
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

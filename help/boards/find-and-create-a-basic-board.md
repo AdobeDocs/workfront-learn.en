@@ -15,4 +15,4 @@ doc-type: video
 
 Get a better understanding for what a Board is and how it can benefit you and/or your team in managing work. See where to access boards and how to create a basic board.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)

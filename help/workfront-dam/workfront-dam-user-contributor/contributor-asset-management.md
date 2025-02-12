@@ -24,7 +24,7 @@ In this video, you will learn how to:
 * Apply a metadata template to a folder
 * Establish folder permissions
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
 
 ## How asset versions work
 

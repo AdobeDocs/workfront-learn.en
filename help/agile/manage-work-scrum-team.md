@@ -24,7 +24,7 @@ In this video, you will learn how to:
 
 In this video, you will learn how to: create an agile team backlog project and create a new story.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
 
 The Agile team will groom the backlog together. This basically means three things will happen. 
 

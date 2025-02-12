@@ -28,5 +28,5 @@ In this video, you will learn how to:
 * Add work items to the calendar grouping
 * Create a time off calendar
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
 

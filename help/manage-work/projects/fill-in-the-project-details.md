@@ -17,7 +17,7 @@ exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 
 In this video, you will learn about the most common project settings needed when creating a project.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
 
 
 ## Recommended tutorials and articles on this topic

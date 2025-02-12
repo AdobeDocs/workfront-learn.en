@@ -22,7 +22,7 @@ In this video, you will learn how to create:
 * A project report showing converted issue information
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
 
 
 ## Recommended tutorials on this topic

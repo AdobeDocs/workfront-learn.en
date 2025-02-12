@@ -38,7 +38,7 @@ Each stage of an automated workflow has its own section, which allows for deadli
 
 This video demonstrates some of the changes you can make in the [!UICONTROL Workflow] area. Refer to the bulleted list under this video, which reviews these settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
 
 As a review, here are the proof template changes you can make in the [!UICONTROL Workflow] section:
 

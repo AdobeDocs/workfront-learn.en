@@ -21,4 +21,4 @@ Learn how to set up your Fusion exercise files.
 
 1. Watch the video to learn how to upload these files into a folder in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)

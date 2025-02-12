@@ -22,7 +22,7 @@ In this video, you will learn about:
 * How to understand Schedule mode
 * How to create a Task Constraint view
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

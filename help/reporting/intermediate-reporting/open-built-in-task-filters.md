@@ -20,7 +20,7 @@ In this video, you will:
 * Learn about some useful task reporting elements 
 * Learn how to create your own task filter 
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops)
 
 ## Activity: Create a task report
 

@@ -18,7 +18,7 @@ In the [!UICONTROL Queue Details] tab of your request queue/project, ensure your
 
 Watch this video for more details: 
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **I gave users access to the queue, but now they can also see the request queue project. Why?**
 
@@ -56,7 +56,7 @@ You can access fields in the **[!UICONTROL Converted Issue]** and the **[!UICONT
 
 Watch this video for more details: 
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **What's the best way to filter for request queues in a report?**
@@ -67,7 +67,7 @@ If your project filter includes **Queue>>Is Public>>Not Equal>>None** your repor
 
 Watch this video for more details:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **Is it a good idea to create a custom status of Request Queue?**
 

@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Access the project metrics charts
 * Customize the information in the charts
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

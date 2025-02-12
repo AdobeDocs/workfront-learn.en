@@ -17,7 +17,7 @@ In this video, you will:
 
 * Get an introduction into what you will learn from other [!DNL Workfront] for [!DNL Slack] videos.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

@@ -28,7 +28,7 @@ In this video, you will learn how to:
 * Find a draft of a request
 * See the last three request paths
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

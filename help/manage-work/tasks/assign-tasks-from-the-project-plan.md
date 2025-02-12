@@ -24,7 +24,7 @@ In this video, you will:
 * Understand the value of project templates when assigning tasks
 * Understand the value of assigning tasks to teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more urls:

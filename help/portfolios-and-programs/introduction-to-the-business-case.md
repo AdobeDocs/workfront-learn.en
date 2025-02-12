@@ -20,7 +20,7 @@ In this video, you will learn:
 * Why to fill out a Business Case
 * How to fill out a Business Case
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

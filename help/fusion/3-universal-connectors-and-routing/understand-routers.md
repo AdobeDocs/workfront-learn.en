@@ -20,4 +20,4 @@ In this video, you will learn:
 * How bundles of data pass down router paths
 * How to add and use routers
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)

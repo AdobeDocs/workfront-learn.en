@@ -19,4 +19,4 @@ In this video, you will learn:
 
 * How to make recommendations to help your organization operate more efficiently
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops)

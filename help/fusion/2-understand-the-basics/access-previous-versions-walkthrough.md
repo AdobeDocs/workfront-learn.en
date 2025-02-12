@@ -22,7 +22,7 @@ In this video, you will:
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

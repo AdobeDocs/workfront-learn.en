@@ -24,7 +24,7 @@ In this video, you will learn:
 * How to estimate planned hours
 * How to add planned hours to tasks
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
 
 
 ## Recommended tutorials and articles on this topic

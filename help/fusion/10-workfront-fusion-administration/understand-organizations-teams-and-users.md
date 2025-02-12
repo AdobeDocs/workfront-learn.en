@@ -18,4 +18,4 @@ In this video, you will learn:
 
 * How to use, create, and navigate between organizations, teams, and users
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)

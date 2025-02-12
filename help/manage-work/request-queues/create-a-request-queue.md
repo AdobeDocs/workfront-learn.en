@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * Set up the request queue details
 * Make the queue go live
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

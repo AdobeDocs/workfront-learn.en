@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to create and modify a view
 * How to share a view with other Workfront users
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops)
 
 ## Activity 1: Create a task status view
 

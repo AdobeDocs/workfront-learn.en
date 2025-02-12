@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to use the [!UICONTROL Board] view
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

@@ -25,4 +25,4 @@ In this video, you will learn how to:
 * Find incoming and existing work assignments
 * Review assignment information 
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)

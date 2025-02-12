@@ -194,6 +194,7 @@ user-guide-description: Workfront tutorials
     + [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
     + [Add basic conditional formatting to a view](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
     + [Create a basic filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
+    + [Understand the new filter experience](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
     + [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
     + [Create a simple report](/help/reporting/basic-reporting/create-a-simple-report.md)
     + [Create a task report](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -643,5 +644,5 @@ user-guide-description: Workfront tutorials
 
 + [Manage requests](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Understand the resource capacity chart](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Create basic grouping activities](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

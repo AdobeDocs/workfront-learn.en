@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * Make approvals for documents
 * Make approvals for proofs
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
 
 >[!NOTE]

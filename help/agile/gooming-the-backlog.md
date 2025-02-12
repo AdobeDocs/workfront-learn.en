@@ -13,4 +13,4 @@ doc-type: video
 
 Learn how to break down stories into smaller ones, re-prioritize stories in the backlog, and mark that stories are ready to be put into an iteration.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)

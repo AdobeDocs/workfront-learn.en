@@ -29,4 +29,4 @@ In this video, you will learn about:
 * Summary information
 * And how to create an ad-hoc calendar item
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)

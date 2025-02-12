@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to use Work Effort
 * How to create a Work Effort task view
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
 
 For more information on [!UICONTROL Work Effort], see the [Work Effort overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) article.
 

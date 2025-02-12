@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Add an activity and a project to a goal 
 
->[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops)

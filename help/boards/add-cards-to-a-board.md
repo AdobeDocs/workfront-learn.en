@@ -15,4 +15,4 @@ doc-type: video
 
 Learn how to add cards to a board either brand new or from a preexisting work item.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops)

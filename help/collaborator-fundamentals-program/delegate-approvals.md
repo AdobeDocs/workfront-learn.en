@@ -15,7 +15,7 @@ In this video, you will learn how to:
 * End the delegation period
 * Find delegated approvals 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more URLS

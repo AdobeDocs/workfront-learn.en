@@ -18,4 +18,4 @@ In this video, you will learn how:
 
 * The execution history helps you support and troubleshoot Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops)

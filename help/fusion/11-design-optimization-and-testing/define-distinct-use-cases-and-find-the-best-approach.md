@@ -25,7 +25,7 @@ In this video, you will learn how to:
 * Determine the right design for high performance
 * Challenge assumptions and give stakeholders the best advice
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
 
 ## Want to learn more? We recommend the following:
 

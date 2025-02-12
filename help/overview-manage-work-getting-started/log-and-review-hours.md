@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Review hours logged to a project
 * Approve project hours if required
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops)
 
 ## Recommended tutorials on this topic
 

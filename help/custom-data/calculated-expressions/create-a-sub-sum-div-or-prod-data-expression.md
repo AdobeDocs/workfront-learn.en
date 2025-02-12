@@ -19,7 +19,7 @@ In this video, you will learn:
 * What the SUB, SUM, DIV, and PROD expressions do
 * How to create a SUB data expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
 
 ## Additional Information: ROUND expression
 

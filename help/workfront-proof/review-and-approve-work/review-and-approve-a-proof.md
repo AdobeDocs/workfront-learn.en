@@ -84,7 +84,7 @@ In this video, you will learn how to:
 * Reply to a proof comment
 * Approve or reject a proof
 
->[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops)
 
 <!--
 #### Learn more
