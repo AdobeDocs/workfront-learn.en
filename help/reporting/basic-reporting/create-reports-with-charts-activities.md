@@ -1,6 +1,6 @@
 ---
-title: Create reports with charts
-description: Learn how charts can improve the visualization of data and how to use chart tools in Workfront.
+title: Create reports with charts activities
+description: Practice creating reports with charts, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,17 +9,11 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: yes
 ---
-# Create reports with charts
+# Create reports with charts activities
 
-In this video, you will learn:
-
-* How charts can improve the visualization of data 
-* How to use Workfront's chart tools
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+Practice creating reports with charts, with step by step instructions.
 
 ## Activity 1: Add a chart to a report
 

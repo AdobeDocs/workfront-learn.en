@@ -1,6 +1,6 @@
 ---
-title: Create a task report
-description: Learn how to create a task report with a complex filter and find the reports you create in Workfront. Activity - create a note report with prompts.
+title: Create task report activities
+description: Practice creating task reports, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,19 +9,11 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: yes
 ---
-# Create a task report
+# Create task report activities
 
-In this video, you will learn:
-
-* How to create a task report with a complex filter
-* How to find the reports you create
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Practice creating task reports, with step by step instructions.
 
 >[!TIP]
 >

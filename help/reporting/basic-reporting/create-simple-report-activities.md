@@ -1,6 +1,6 @@
 ---
-title: Create a simple report
-description: Learn how to create a simple report using an existing filter, view, and grouping in Workfront.
+title: Create simple report activities
+description: Practice creating simple reports, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,16 +9,11 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: yes
 ---
-# Create a simple report
+# Create simple report activities
 
-In this video, you will learn how to:
-
-* Create a simple report using an existing filter, view, and grouping
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Practice creating simple reports, with step by step instructions.
 
 ## Activity 1: Create a simple task report
 

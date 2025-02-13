@@ -1,6 +1,6 @@
 ---
-title: Add basic conditional formatting to a view
-description: Learn how to use column rules to change text color, formatting and background colors in a report or view, based on criteria you set.
+title: Add basic conditional formatting to a view activities
+description: Practice adding basic conditional formatting to views, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,19 +9,11 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: yes
 ---
-# Add basic conditional formatting to a view
+# Add basic conditional formatting to a view activities
 
-Conditional formatting is done by creating column rules. Column rules allow you to format a column in a specific way based on criteria you set.
-
-In this video, you will learn:
-
-* What conditional formatting is in a view
-* How to create and modify conditional formatting
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Practice adding basic conditional formatting to views, with step by step instructions.
 
 ## Summary
 

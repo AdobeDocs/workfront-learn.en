@@ -642,9 +642,16 @@ user-guide-description: Workfront tutorials
 
  
 <!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
 --->
-+ [Manage requests](/help/manage-work/issues-requests/manage-incoming-requests.md)
-+ [Understand the resource capacity chart](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
+
 + [Create basic grouping activities](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
++ [Create basic view activities](/help/reporting/basic-reporting/create-basic-view-activities.md)
++ [Add basic conditional formatting to a view activities](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
++ [Create simple report activities](/help/reporting/basic-reporting/create-simple-report-activities.md)
++ [Create task report activities](/help/reporting/basic-reporting/create-task-report-activities.md)
++ [Create reports with charts activities](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
++ [Create matrix report activities](/help/reporting/basic-reporting/create-matrix-report-activities.md)
++ [Create dashboard activities](/help/reporting/basic-reporting/create-dashboard-activities.md)
++ [Send and share reports activities](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 
