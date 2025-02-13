@@ -11,6 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2023-06-20
 jira: KT-8854
 hidefromtoc: yes
+exl-id: e26df8be-0b4c-412d-a4d1-f3270fc0c876
 ---
 # Create basic view activities
 

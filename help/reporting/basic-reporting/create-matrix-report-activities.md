@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
 hidefromtoc: yes
+exl-id: abfc68c8-9467-405c-adc7-675c0ad5cbb1
 ---
 # Create matrix report activities
 

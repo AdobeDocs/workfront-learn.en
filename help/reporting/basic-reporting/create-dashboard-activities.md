@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
 hidefromtoc: yes
+exl-id: b23da3d6-657c-406f-aece-c037f5655b70
 ---
 # Create dashboard activities
 

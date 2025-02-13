@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8855
 hidefromtoc: yes
+exl-id: fefac9bc-c6bc-44d6-b550-cb8ab3e03a2d
 ---
 # Add basic conditional formatting to a view activities
 

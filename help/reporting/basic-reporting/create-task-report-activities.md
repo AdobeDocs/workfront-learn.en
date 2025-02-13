@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
 hidefromtoc: yes
+exl-id: 6b2bee7a-2d6b-47bd-9d7d-f899fc01ad68
 ---
 # Create task report activities
 

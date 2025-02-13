@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
 hidefromtoc: yes
+exl-id: 96c90687-d8e8-4b8f-8e7a-8f156b8a8346
 ---
 # Create reports with charts activities
 

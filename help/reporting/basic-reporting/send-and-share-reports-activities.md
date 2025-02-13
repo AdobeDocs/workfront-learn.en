@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
 hidefromtoc: yes
+exl-id: ac7a6421-f11c-4766-a21d-97b6ee1131b4
 ---
 # Send and share reports activities
 
