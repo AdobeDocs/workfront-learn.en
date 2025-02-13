@@ -1,6 +1,6 @@
 ---
-title: Create a basic view
-description: Learn what a view is, how to create a view, and how to share a view with other users in Workfront.
+title: Create basic view activities
+description: Practice creating basic views with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,18 +10,11 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: yes
 ---
-# Create a basic view
+# Create basic view activities
 
-In this video, you will learn:
-
-* What a view is in Workfront
-* How to create and modify a view
-* How to share a view with other Workfront users
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Practice creating basic views with step by step instructions.
 
 ## Activity 1: Create a task status view
 
@@ -37,7 +30,7 @@ Create a task view named "Task Status View" with the following columns:
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## Answer 1
+## Activity 1 Answer
 
 ![An image of the screen to create a task status view](assets/view-exercise.png)
 
@@ -70,7 +63,7 @@ Create a task view named "Milestone View" with the following columns:
 * [!UICONTROL Percent Complete]
 
 
-## Answer 2
+## Activity 2 Answer
 
 ![An image of the screen to create a milestone view](assets/view-milestone-exercise-1.png)
 
@@ -102,7 +95,7 @@ Create a task view named "Duration types and task constraints view" with the fol
 
 Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTROL Due On] columns to display both the date and the time.
 
-## Answer 3
+## Activity 3 Answer
 
 ![An image of the screen showing the duration types and task constraints view](assets/view-activity-3.png)
 
@@ -140,7 +133,7 @@ Create a project template view named "Standard+active status" with the following
 * [!UICONTROL Is Active]
 
 
-## Answer 4
+## Activity 4 Answer
 
 ![An image of the screen to showing a project template active status view](assets/view-activity-4.png)
 

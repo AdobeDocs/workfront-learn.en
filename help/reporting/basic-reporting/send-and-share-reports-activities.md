@@ -1,6 +1,6 @@
 ---
-title: Send and share reports
-description: Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.
+title: Send and share reports activities
+description: Practice sending and sharing reports, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,18 +9,11 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: yes
 ---
-# Send and share reports
+# Send and share reports activities
 
-In this video, you will learn:
-
-* How to send reports to users, teams, or any email address
-* How to share reports with anyone
-* What recipients can see and do with a Workfront report
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Practice sending and sharing reports, with step by step instructions.
 
 ## Activity 1: Send a report
 

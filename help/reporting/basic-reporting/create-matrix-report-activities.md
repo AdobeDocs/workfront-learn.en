@@ -1,6 +1,6 @@
 ---
-title: Create a matrix report
-description: Learn when a matrix report can be useful and how to create a matrix report in Workfront.
+title: Create matrix report activities
+description: Practice creating matrix reports, with step by step instructions.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,17 +9,11 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: yes
 ---
-# Create a matrix report
+# Create matrix report activities
 
-In this video, you will learn:
-
-* When a matrix report can be useful
-* And how to create a matrix report
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Practice creating matrix reports, with step by step instructions.
 
 ## Activity 1: Create a matrix report
 

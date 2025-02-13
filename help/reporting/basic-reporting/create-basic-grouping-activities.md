@@ -12,7 +12,11 @@ jira: KT-8853
 hidefromtoc: yes
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
 ---
-# Activity: Create a basic grouping
+# Create basic grouping activities
+
+Practice creating basic groupings with step by step instructions.
+
+## Activity 1: Create a request queue grouping
 
 Create an issue grouping that will be used in a report to track requests that come through a request queue. This grouping will make it easy to see similar types of issues/requests grouped by their priority. Name the grouping "Request Queue, Queue Topic, Priority."
 
@@ -22,7 +26,7 @@ Group the issue report based on:
 1. The queue topic
 1. The priority of the request
 
-## Answer
+## Answer 1
 
 ![An image of the screen to create a new grouping](assets/grouping-exercise.png)
 
