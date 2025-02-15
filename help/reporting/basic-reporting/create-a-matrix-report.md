@@ -21,13 +21,17 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Activity 1: Create a matrix report
+## Create matrix report activities
+
+[Click here](/help/assets/create-matrix-report-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Create a matrix report
 
 Create a matrix report that shows how many requests there are in each status, sorted by request queue. This gives you a quick snapshot of the amount of work coming in and how well you're keeping up with it.
 
 You want the request queues to appear on the row groupings. Status appears as the column groupings. Name your report "Requests by Status and Request Queue."
 
-## Answer 1
+### Answer 1
 
 1. Select **[!UICONTROL Reports]** from the **[!UICONTROL Main Menu]**.
 1. Click the **[!UICONTROL New Report]** option and select **[!UICONTROL Issue]**.

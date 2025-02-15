@@ -20,7 +20,11 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Activity 1: Create a simple task report
+## Create simple report activities
+
+[Click here](/help/assets/create-simple-report-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Create a simple task report
 
 You want to track all of your active tasks in a single report. Create a Task report named "My Current Tasks" using the following:
 
@@ -29,7 +33,7 @@ You want to track all of your active tasks in a single report. Create a Task rep
 * Filter = My Current Tasks
 * Description = Incomplete tasks on Current projects where I am the task owner, grouped by project.
 
-## Answer 1
+### Answer 1
 
 1. Go to the **[!UICONTROL Main Menu]** and select **[!UICONTROL Reports]**.
 1. Click the **[!UICONTROL New Report]** drop-down menu and select **[!UICONTROL Task Report]**.

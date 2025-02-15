@@ -14,13 +14,15 @@ doc-type: video
 ---
 # Create basic filter activities
 
+[Click here](/help/assets/create-basic-filter-activities.pdf) to download a PDF of this page.
+
 ## Activity 1 - All projects in the Marketing portfolio
 
 In this activity you will create a project filter named "All projects in the Marketing portfolio" in the [!UICONTROL Legacy filter] experience. This will show you all the projects in the portfolio named "Marketing Portfolio" regardless of their status.
 
 Step-by-step instructions are included below. 
 
-### Answer to Activity 1
+## Answer to Activity 1
 
 ![An image of the screen to create a new filter](assets/basic-filter-activity-1.png)
 
@@ -43,7 +45,7 @@ Step-by-step instructions are included below.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### Answer to Activity 2
+## Answer to Activity 2
 
 ![An image of the screen to create a new filter](assets/basic-filter-activity-updated-6-15-21.png)
 

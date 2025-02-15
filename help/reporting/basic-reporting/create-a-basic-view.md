@@ -23,7 +23,11 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Activity 1: Create a task status view
+## Create basic view activities
+
+[Click here](/help/assets/create-basic-view-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Create a task status view
 
 As a project manager, team lead, or resource manager, you want to keep track of how task work is progressing. With this view, you get several status indicators of a task all in one row of the list or report.
 
@@ -37,7 +41,7 @@ Create a task view named "Task Status View" with the following columns:
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## Answer 1
+### Answer 1
 
 ![An image of the screen to create a task status view](assets/view-exercise.png)
 
@@ -54,7 +58,7 @@ Create a task view named "Task Status View" with the following columns:
 
 Hover over each of the icons in the [!UICONTROL Status Icons] column to see what they represent. If they are grayed out, it means the task has no notes, documents, approval processes, etc. If an icon appears in color, there is at least one of that item associated with the task. You can click on the note or document icons to go to that item.
 
-## Activity 2: Create a milestone view
+### Activity 2: Create a milestone view
 
 If you use milestones, this view is the easiest way to see milestones by name and add or edit them using in-line edit.
 
@@ -70,7 +74,7 @@ Create a task view named "Milestone View" with the following columns:
 * [!UICONTROL Percent Complete]
 
 
-## Answer 2
+### Answer 2
 
 ![An image of the screen to create a milestone view](assets/view-milestone-exercise-1.png)
 
@@ -82,7 +86,7 @@ Create a task view named "Milestone View" with the following columns:
 
 ![An image of a task list using a milestone view](assets/view-milestone-exercise-2.png)
 
-## Activity 3: Create a duration types and task constraints view
+### Activity 3: Create a duration types and task constraints view
 
 This view will allow you to examine and edit all the durations types and task constraints in your project.
 
@@ -102,7 +106,7 @@ Create a task view named "Duration types and task constraints view" with the fol
 
 Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTROL Due On] columns to display both the date and the time.
 
-## Answer 3
+### Answer 3
 
 ![An image of the screen showing the duration types and task constraints view](assets/view-activity-3.png)
 
@@ -124,7 +128,7 @@ Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTRO
 1. Under the [!UICONTROL Field Format] drop down select [!UICONTROL "10/17/60 3:00 AM"].
 1. Click **[!UICONTROL Save]**.
 
-## Activity 4: Create a project template active status view
+### Activity 4: Create a project template active status view
 
 Anyone who manages project templates will appreciate seeing the active status (True or False) of each template in a list. Even better - the field is in-line editable!
 
@@ -140,7 +144,7 @@ Create a project template view named "Standard+active status" with the following
 * [!UICONTROL Is Active]
 
 
-## Answer 4
+### Answer 4
 
 ![An image of the screen to showing a project template active status view](assets/view-activity-4.png)
 
