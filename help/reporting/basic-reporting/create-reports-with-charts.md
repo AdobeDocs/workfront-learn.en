@@ -21,11 +21,15 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Activity 1: Add a chart to a report
+## Create reports with charts activities
+
+[Click here](/help/assets/create-reports-with-charts-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Add a chart to a report
 
 The end of the quarter is nearing, and you want to see how recently completed projects stuck to their budgets. Create a report that shows the planned cost vs. the actual cost for projects. You want to see only projects that were completed in the last quarter. Add a combination column chart using custom colors.
 
-## Answer 1
+### Answer 1
 
 1. Select **[!UICONTROL Reports]** from the **[!UICONTROL Main Menu]**.
 1. Click the **[!UICONTROL New Report]** menu and select **[!UICONTROL Project]**.

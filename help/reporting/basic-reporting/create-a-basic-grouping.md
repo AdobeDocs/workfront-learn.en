@@ -22,7 +22,11 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Activity: Create a basic grouping
+## Create basic grouping activities
+
+[Click here](/help/assets/create-basic-grouping-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Create a basic grouping
 
 Create an issue grouping that will be used in a report to track requests that come through a request queue. This grouping will make it easy to see similar types of issues/requests grouped by their priority. Name the grouping "Request Queue, Queue Topic, Priority."
 
@@ -32,7 +36,7 @@ Group the issue report based on:
 1. The queue topic
 1. The priority of the request
 
-## Answer
+### Answer 1
 
 ![An image of the screen to create a new grouping](assets/grouping-exercise.png)
 

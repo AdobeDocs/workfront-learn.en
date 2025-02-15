@@ -22,11 +22,15 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Activity 1: Send a report
+## Send and share reports activities
+
+[Click here](/help/assets/send-and-share-reports-activities.pdf) to download a PDF of this page.
+
+### Activity 1: Send a report
 
 Send a report to yourself every Monday at 5 am as an Excel spreadsheet. This is a great way to automatically collect weekly reports that you can later use to see trends.
 
-## Answer 1
+### Answer 1
 
 ![An image of the screen to set up repeating report deliveries](assets/send-a-report.png)
 
