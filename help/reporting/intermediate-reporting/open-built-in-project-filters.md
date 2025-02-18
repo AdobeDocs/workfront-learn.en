@@ -22,12 +22,15 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
 
+## Understand built-in project filters activities
 
-## Activity: Create a project filter
+[Click here](/help/assets/understand-built-in-project-filters-activities.pdf) to download a PDF of this page.
+
+### Activity: Create a project filter
 
 You want to see all the active projects you own, where "active" means the project status equates with Planning or Current. In the Projects area, create a project filter named "Active Projects I Own." 
 
-## Answer
+### Answer
 
 Your filter should look like this:
 

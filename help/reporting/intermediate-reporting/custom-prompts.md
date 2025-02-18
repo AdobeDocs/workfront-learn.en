@@ -22,6 +22,10 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
 
+## Create custom prompts activities
+
+[Click here](/help/assets/create-custom-prompts-activities.pdf) to download a PDF of this page.
+
 ## Activity: Create custom prompts
 
 1. Create a custom prompt that shows the following project statuses in the prompt drop-down menu:

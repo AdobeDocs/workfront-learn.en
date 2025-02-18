@@ -35,6 +35,10 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
 
+## Understand basic text mode for groupings activities
+
+[Click here](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) to download a PDF of this page.
+
 ## Task - 4 parents grouping
 
 The following text mode will group tasks based on up to four levels of parents, and leave parents that don't exist blank.

@@ -36,6 +36,10 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
 
+## Understand basic text mode for views activities
+
+[Click here](/help/assets/understand-basic-text-mode-for-views-activities.pdf) to download a PDF of this page.
+
 ## Task - 4 parents view
 
 Create a column for the Task Name and the Parent Name first, then use the following text mode to create the other three columns.
