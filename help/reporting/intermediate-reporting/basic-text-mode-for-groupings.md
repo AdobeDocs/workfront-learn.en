@@ -33,7 +33,11 @@ In this video, you will learn:
 * What camel case is 
 * Some basic "plug and play" text mode you can use in your groupings 
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## Understand basic text mode for groupings activities
+
+[Click here](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) to download a PDF of this page.
 
 ## Task - 4 parents grouping
 

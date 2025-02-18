@@ -20,7 +20,11 @@ In this video, you will learn:
 * How to create a custom prompt using text mode  
 * Some examples that you can use in your reporting 
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+
+## Create custom prompts activities
+
+[Click here](/help/assets/create-custom-prompts-activities.pdf) to download a PDF of this page.
 
 ## Activity: Create custom prompts
 

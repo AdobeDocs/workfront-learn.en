@@ -35,8 +35,11 @@ In this video, you will learn:
 * What camel case is 
 * Some basic "plug and play" text mode you can use in your report filters 
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
+## Understand basic text mode for filters activities
+
+[Click here](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) to download a PDF of this page.
 
 ## Task - Filter out tasks where I've marked "Done with my part"
 
