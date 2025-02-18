@@ -20,7 +20,7 @@ In this video, you will:
 * Learn about some useful issue reporting elements 
 * Learn how to create your own issue filter 
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
 ## Understand built-in issue filters activities
