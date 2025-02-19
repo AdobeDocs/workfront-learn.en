@@ -30,7 +30,7 @@ In some tutorials, you'll create a new scenario from scratch. In other tutorials
 
 To complete the exercises in the Workfront Fusion learning paths, you will need a Workfront test drive. If you already have a test drive, we recommend a new one for this training.
 
-Request a practice environment by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you're unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
+Request a test drive by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you're unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
 
 ### Access Workfront Fusion for practice
 
@@ -38,13 +38,13 @@ Workfront does not offer Workfront Fusion test drives. To practice as you comple
 
 ### Step-by-step instructions on completing the walkthrough exercises
 
-There are step-by-step instructions on completing the walkthrough exercises. You can access these from the left navigation bar under Fusion > Exercises, or use the link provided at the bottom of a walkthrough tutorial.
+There are step-by-step instructions on completing most walkthrough exercises. You can find these in the left navigation bar immediately following the walkthrough tutorial.
 
-### Optional practices exercises
+### Optional practice exercises
 
-Practices exercises and challenges are provided following some of the walkthrough exercises. 
+Practice exercises and challenges are provided following some of the walkthrough exercises. 
 
-There are a number of different ways to solve the practices exercises. The intent is to challenge you to try to accomplish a scenario objective without having steps to follow or the "right answer" because this is what you will need to do when building a scenario at your company. 
+There are a number of different ways to solve the practice exercises. The intent is to challenge you to try to accomplish a scenario objective without having steps to follow or the "right answer" because this is what you will need to do when building a scenario at your company. 
 
 The practice exercise is related to the walkthrough activity. 
 
@@ -53,5 +53,7 @@ The challenges are for those who want to try something that involves other conce
 ### How to get help
 
 The step-by-step instructions are provided to help you get through the walkthrough exercises. 
+
+[Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
 
 There is also a [Workfront Fusion 2.0 community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) where you can post questions.
