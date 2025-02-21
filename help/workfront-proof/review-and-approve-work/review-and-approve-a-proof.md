@@ -41,13 +41,13 @@ Once you're ready to start your review, all you have to do is click the blue [!U
 
 ### Open a proof from [!UICONTROL Home]
 
-If you're working in [!DNL Workfront] and have been asked to approve a proof, you'll find an assignment in the [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home]. It's helpful to select just [!UICONTROL Approvals] from the [!UICONTROL Filter], so you can focus on that type of work.
+If you're working in [!DNL Workfront] and have been asked to approve a proof, you'll find an assignment in the [!UICONTROL My Approvals] widget of [!DNL Workfront] [!UICONTROL Home].
 
-![An image of [!DNL Workfront] [!UICONTROL Home] with the [!UICONTROL Approvals] filter activated and a proof selected from the list.](assets/open-proof-from-home.png)
+![An image of the [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
 
-It's important to note that proofs show up in [!DNL Workfront] [!UICONTROL Home] only if you're assigned to approve it. If you've just been asked to only review the proof, it will not show up in [!DNL Workfront] [!UICONTROL Home] when you select [!UICONTROL Approvals ]from the filter list.
+It's important to note that proofs show up in [!DNL Workfront] [!UICONTROL Home] only if you're assigned to approve it. If you've just been asked to only review the proof, it will not show up in [!DNL Workfront] [!UICONTROL Home].
 
-Select the proof approval in the [!UICONTROL Work List], then click the [!UICONTROL Go to Proof] link to open it into the proofing viewer.
+Click the [!UICONTROL Go to Proof] link to open it into the proofing viewer.
 
 Depending on your organization's proof and project workflows, you may see a task assignment in [!DNL Workfront] [!UICONTROL Home] instead of a proof approval request. In this case, you'll open the proof from the [!UICONTROL Documents] section of the task itself (see below for instructions).
 
