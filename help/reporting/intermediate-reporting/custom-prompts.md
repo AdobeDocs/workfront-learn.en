@@ -22,11 +22,10 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Create custom prompts activities
+## "Create custom prompts" activities
 
-[Click here](/help/assets/create-custom-prompts-activities.pdf) to download a PDF of this page.
 
-## Activity: Create custom prompts
+### Activity: Create custom prompts
 
 1. Create a custom prompt that shows the following project statuses in the prompt drop-down menu:
    * Planning 
@@ -35,7 +34,7 @@ In this video, you will learn:
    * Dead 
 1. Modify the prompt to show current projects that are due this month. 
  
-## Answers 
+### Answers 
 
 1. Your custom prompts should look similar to this and have the following text mode: 
 

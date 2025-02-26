@@ -14,7 +14,6 @@ doc-type: video
 ---
 # Create basic filter activities
 
-[Click here](/help/assets/create-basic-filter-activities.pdf) to download a PDF of this page.
 
 ## Activity 1 - All projects in the Marketing portfolio
 
