@@ -21,9 +21,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Create matrix report activities
-
-[Click here](/help/assets/create-matrix-report-activities.pdf) to download a PDF of this page.
+## "Create a matrix report" activities
 
 ### Activity 1: Create a matrix report
 

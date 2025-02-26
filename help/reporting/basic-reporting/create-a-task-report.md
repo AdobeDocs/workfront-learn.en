@@ -21,9 +21,6 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Create task report activities
-
-[Click here](/help/assets/create-task-report-activities.pdf) to download a PDF of this page.
 
 >[!TIP]
 >
@@ -31,9 +28,10 @@ In this video, you will learn:
 >We've gathered favorite reports from customers and put them together in a snackable, easily digestible, cookbook for you to take back and test out in your own Workfront kitchen.
 >These 10 reports come from customers who are just like you. Spread out across industries, departments, teams, positions and all in different companies, we owe a huge thank you to the incredible customers who shared one of their favorite reports. Some reports are simple (but incredibly useful), and some are more complex to take your reporting to the next level.
 
+## "Create a task report" activities
 
 
-## Activity 1: Create a note report with prompts
+### Activity 1: Create a note report with prompts
 
 Create a Note report that you can use to search for user notes (i.e., comments or updates) or system notes based on the note content, the author, entry date, project name, or audit type. Name the report "Note Search."
 
@@ -62,7 +60,7 @@ Include prompts for the following:
 * Project Name
 * Audit Type
 
-## Answer 1
+### Answer 1
 
 1. Select **[!UICONTROL Reports]** from the **[!UICONTROL Main Menu]**.
 1. Click the **[!UICONTROL New Report]** menu and select **[!UICONTROL Note]**.
@@ -105,7 +103,7 @@ Include prompts for the following:
 1. Check the box for **[!UICONTROL Show Prompts in Dashboards]**.
 1. Save and Close your report.
 
-## Activity 2: Create an admin team feedback report
+### Activity 2: Create an admin team feedback report
 
 This is an issue report that displays all the issues from a feedback request queue created for system admins. You can see how to create this request queue in the [Create a system admin feedback request queue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) tutorial.
 
@@ -156,7 +154,7 @@ Filter on the ID of the request queue project where the feedback issues reside.
 
 
 
-## Answer 2
+### Answer 2
 
 1. Select **[!UICONTROL Reports]** from the **[!UICONTROL Main Menu]**.
 1. Click the **[!UICONTROL New Report]** menu and select **[!UICONTROL Issue]**.
