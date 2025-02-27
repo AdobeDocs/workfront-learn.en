@@ -22,9 +22,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Send and share reports activities
-
-[Click here](/help/assets/send-and-share-reports-activities.pdf) to download a PDF of this page.
+## "Send and share reports" activities
 
 ### Activity 1: Send a report
 

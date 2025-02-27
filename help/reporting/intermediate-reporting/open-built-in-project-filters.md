@@ -22,9 +22,8 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
-## Understand built-in project filters activities
+## "Understand built-in project filters" activities
 
-[Click here](/help/assets/understand-built-in-project-filters-activities.pdf) to download a PDF of this page.
 
 ### Activity: Create a project filter
 

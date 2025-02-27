@@ -23,9 +23,8 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Create basic view activities
+## "Create a basic view" activities
 
-[Click here](/help/assets/create-basic-view-activities.pdf) to download a PDF of this page.
 
 ### Activity 1: Create a task status view
 

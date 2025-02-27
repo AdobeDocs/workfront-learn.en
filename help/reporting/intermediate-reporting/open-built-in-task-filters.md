@@ -22,9 +22,8 @@ In this video, you will:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## Understand built-in task filters activities
+## "Understand built-in task filters" activities
 
-[Click here](/help/assets/understand-built-in-task-filters-activities.pdf) to download a PDF of this page.
 
 ### Activity: Create a task report
 

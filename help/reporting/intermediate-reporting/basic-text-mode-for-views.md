@@ -36,15 +36,13 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Understand basic text mode for views activities
+## "Understand basic text mode for views" activities
 
-[Click here](/help/assets/understand-basic-text-mode-for-views-activities.pdf) to download a PDF of this page.
-
-## Task - 4 parents view
+### Task - 4 parents view
 
 Create a column for the Task Name and the Parent Name first, then use the following text mode to create the other three columns.
 
-### Task - Parent of Parent Name
+#### Task - Parent of Parent Name
 
 ```
 displayname=Parent of Parent Name
@@ -58,7 +56,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Task - Parent of Parent of Parent Name
+#### Task - Parent of Parent of Parent Name
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -72,7 +70,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Task - Parent of Parent of Parent of Parent Name
+#### Task - Parent of Parent of Parent of Parent Name
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -88,9 +86,9 @@ valueformat=HTML
 
 ![A screen image showing the 4 parents view](assets/4-parents-view.png)
 
-## User - Iterations showing lists in user views
+### User - Iterations showing lists in user views
 
-### User - All job roles
+#### User - All job roles
 
 ```
 displayname=All job roles
@@ -102,7 +100,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### User - All job roles showing primary
+#### User - All job roles showing primary
 
 ```
 displayname=All Job Roles showing primary
@@ -114,7 +112,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### User - All teams
+#### User - All teams
 
 ```
 displayname=All teams
@@ -131,7 +129,7 @@ valueformat=HTML
 >There is a Team field accessible through the UI that shows all teams, comma separated, but using the text mode above will show each team on a separate line.
 
 
-### User - All groups
+#### User - All groups
 
 ```
 displayname=All groups
@@ -143,7 +141,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### User - All groups showing home group
+#### User - All groups showing home group
 
 ```
 displayname=All groups showing home group
@@ -156,7 +154,7 @@ valueformat=HTML
 ```
 
 
-### User - Direct reports
+#### User - Direct reports
 
 ```
 displayname=Direct reports
@@ -168,7 +166,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### User - Future PTO
+#### User - Future PTO
 
 ```
 displayname=Future PTO
@@ -184,7 +182,7 @@ width=150
 
 ![A screen image showing the User lists view](assets/user-lists-view-large.png)
 
-## Task - How to display task assignments and working on status
+### Task - How to display task assignments and working on status
 
 ```
 displayname=Assignments and Status
@@ -201,9 +199,9 @@ width=150
 ![A screen image showing the Assignments and Status view](assets/assignments-and-status-view.png)
 
 
-## Task - How to show role and allocation on multiple task assignments 
+### Task - How to show role and allocation on multiple task assignments 
 
-### Task - Role + hours
+#### Task - Role + hours
 
 ```
 displayname=Role+hours
@@ -215,7 +213,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Task - Assignment + percent allocation
+#### Task - Assignment + percent allocation
 
 ```
 displayname=Assignment+percent
@@ -229,9 +227,9 @@ type=iterate
 
 ![A screen image showing the Assignments and Roles view](assets/assignments-roles-and-percent-view.png)
 
-## Task - Cross-project predecessors and successors
+### Task - Cross-project predecessors and successors
 
-### Task filter (optional)
+#### Task filter (optional)
 
 **Show me all tasks that have at least one cross-project predecessor or at least one cross-project successor on current projects**
 
@@ -248,7 +246,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Task - Show predecessor names and project predecessor is in
+#### Task - Show predecessor names and project predecessor is in
 
 ```
 displayname=Predecessor names
@@ -262,7 +260,7 @@ valueformat=HTML
 width=150
 ```
 
-### Task - Show successor names and project successor is in
+#### Task - Show successor names and project successor is in
 
 ```
 displayname=Successor names
@@ -276,7 +274,7 @@ valueformat=HTML
 width=150
 ```
 
-### Task - Show projected completion date of predecessors
+#### Task - Show projected completion date of predecessors
 
 ```
 displayname=Predecessor projected completion dates
@@ -291,7 +289,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Task - Show progress status of predecessors
+#### Task - Show progress status of predecessors
 
 ```
 displayname=Predecessor progress status
@@ -306,7 +304,7 @@ valueformat=HTML
 width=90
 ```
 
-### Task - Show percent complete of the cross-project predecessor's project
+#### Task - Show percent complete of the cross-project predecessor's project
 
 ```
 displayname=Predecessor project percent complete
@@ -323,7 +321,7 @@ width=150
 ![A screen image showing the cross-project predecessors and successors view](assets/cross-project-predecessors-and-successors.png)
 
 
-## Task - Iteration showing all of the people assigned and who assigned each one
+### Task - Iteration showing all of the people assigned and who assigned each one
 
 ```
 displayname=All assignees and requesters
@@ -337,7 +335,7 @@ valueformat=HTML
 
 ![A screen image showing all of the people assigned and who assigned each one](assets/all-assignees-and-requesters.png)
 
-## Task/Project - Iteration showing all custom forms on a project or task
+### Task/Project - Iteration showing all custom forms on a project or task
 
 ```
 displayname=All Forms Assigned
@@ -352,7 +350,7 @@ valueformat=HTML
 ![A screen image showing all custom forms on a project](assets/all-custom-forms-on-a-project.png)
 
 
-## Project - Iteration showing all primary contacts for resolvables in project view
+### Project - Iteration showing all primary contacts for resolvables in project view
 
 ```
 displayname=Requestor
@@ -368,7 +366,7 @@ width=150
 
 ![A screen image showing primary contacts for resolvables](assets/primary-contacts-for-resolvables.png)
 
-## Project - Iteration showing all project team members
+### Project - Iteration showing all project team members
 
 ```
 displayname=Project Team Members
@@ -383,7 +381,7 @@ valueformat=HTML
 
 ![A screen image showing all project team members](assets/all-project-team-members.png)
 
-## Project - Iteration showing the entryDate of all resolvable issues for a project
+### Project - Iteration showing the entryDate of all resolvable issues for a project
 
 ```
 displayname=Resolvables entry date
@@ -401,7 +399,7 @@ valueformat=HTML
 
 ![A screen image showing the entryDate of all resolvable issues for a project](assets/resolvables-entry-date.png)
 
-## Project - Show the home group of the original project requestor
+### Project - Show the home group of the original project requestor
 
 ```
 displayname=Requestor home group
@@ -415,7 +413,7 @@ valueformat=HTML
 
 ![A screen image showing the project requestor home group](assets/requestor-home-group.png)
 
-## Project - Show if the project is a request queue
+### Project - Show if the project is a request queue
 
 ```
 querysort=queueDef:isPublic
@@ -433,7 +431,7 @@ displayname=Public Selection
 
 ![A screen image showing if the project is a request queue](assets/project-is-a-request-queue.png)
 
-## Issue - Iteration showing all resolve project team members
+### Issue - Iteration showing all resolve project team members
 
 ```
 displayname=Resolve Project: Team Members
@@ -449,7 +447,7 @@ width=150
 
 ![A screen image showing all resolve project team members](assets/all-resolve-project-team-members.png)
 
-## Issue - Iteration showing all teams of the issue's primary contact
+### Issue - Iteration showing all teams of the issue's primary contact
 
 ```
 displayname=Requestor Teams
@@ -465,7 +463,7 @@ width=150
 
 ![A screen image showing all primary contact teams](assets/all-primary-contact-teams.png)
 
-## Document - Iteration showing folder in a document report
+### Document - Iteration showing folder in a document report
 
 ```
 displayname=Folder
@@ -479,7 +477,7 @@ valueformat=HTML
 
 ![A screen image showing folder in a document report](assets/folder-in-a-document-report.png)
 
-## Document - Iteration showing parent folder in a document report
+### Document - Iteration showing parent folder in a document report
 
 ```
 displayname=Parent Folder
@@ -493,7 +491,7 @@ valueformat=HTML
 
 ![A screen image showing parent folder in a document report](assets/parent-folder-in-a-document-report.png)
 
-## Document - Document approval dates
+### Document - Document approval dates
 
 ```
 displayname=Document approval dates
@@ -511,9 +509,9 @@ section=0
 
 ![A screen image showing the document approval dates view](assets/document-approval-dates.png)
 
-## Proof Approvals
+### Proof Approvals
 
-### Proof Approval - Show project name
+#### Proof Approval - Show project name
 
 ```
 displayname=Project Name
@@ -522,7 +520,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Proof Approval - Show task name
+#### Proof Approval - Show task name
 
 ```
 displayname=Task Name
