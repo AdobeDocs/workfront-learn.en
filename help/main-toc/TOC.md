@@ -324,6 +324,11 @@ user-guide-description: Workfront tutorials
     + [Calculate goal progress](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
     + [Communicate goal status](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
++ Workfront Planning {#workfront-planning}
+    + [Add Planning to your instance](/help/workfront-planning/add-planning-to-your-instance.md)
+    + [Create a workspace](/help/workfront-planning/create-a-workspace.md)
+    + [Create and manage a record type](/help/workfront-planning/create-and-manage-a-record-type.md)
+    + [Create and manage table views](/help/workfront-planning/create-and-manage-table-views.md)
 
 + Integrations {#integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}
