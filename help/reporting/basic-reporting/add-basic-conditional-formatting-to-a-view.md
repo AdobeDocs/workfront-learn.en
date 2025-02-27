@@ -24,7 +24,7 @@ In this video, you will learn:
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
-## Conditional formatting ummary
+## Conditional formatting summary
 
 To create conditional formatting:
 
