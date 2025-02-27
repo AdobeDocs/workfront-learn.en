@@ -2,7 +2,7 @@
 title: Add Planning to your instance
 description: Learn what requirements are needed to add the Workfront Planning tool and make it visible to users in your instance.
 feature: Workfront Planning
-topic: Administration,
+topic: Administration
 role: Admin, Leader
 level: Beginner
 doc-type: Feature Video
