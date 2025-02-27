@@ -23,9 +23,8 @@ In this video, you will:
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
-## Understand built-in issue filters activities
+## "Understand built-in issue filters" activities
 
-[Click here](/help/assets/understand-built-in-issue-filters-activities.pdf) to download a PDF of this page.
 
 ### Activity: Create an issue report
 

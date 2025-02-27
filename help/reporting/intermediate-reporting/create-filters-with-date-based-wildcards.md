@@ -25,9 +25,8 @@ In this video, you will learn how to:
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## Create filters with date-based wildcards activities
+## "Create filters with date-based wildcards" activities
 
-[Click here](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) to download a PDF of this page.
 
 ### Activity questions
 

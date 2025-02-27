@@ -34,9 +34,7 @@ In this video, you will learn how to:
 >You always must use the Equal filter qualifier when using user-based wildcards. 
 
 
-## Create filters with user-based wildcards activities
-
-[Click here](/help/assets/create-filters-with-user-based-wildcards-activities.pdf) to download a PDF of this page.
+## "Create filters with user-based wildcards" activities
 
 ### Activity 1
 

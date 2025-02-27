@@ -37,11 +37,10 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Understand basic text mode for filters activities
+## "Understand basic text mode for filters" activities
 
-[Click here](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) to download a PDF of this page.
 
-## Task - Filter out tasks where I've marked "Done with my part"
+### Task - Filter out tasks where I've marked "Done with my part"
 
 The following text mode will exclude tasks where a user has marked "Done with My Part." All you have to do is create a task filter, add any filter rules you want, then switch to text mode and paste the code below after any text mode you see in the filter.
 
@@ -58,7 +57,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Task - Show me all tasks awaiting my approval
+### Task - Show me all tasks awaiting my approval
 
 ```
 approvalProcessID_Mod=notblank
@@ -67,7 +66,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Task - Show me all tasks I have approved
+### Task - Show me all tasks I have approved
 
 Create a task report with whatever filters you want, then go to the Filter tab and click on Switch to Text Mode. Add this code to whatever is already there:
 
@@ -77,7 +76,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Task - Show me all tasks that have at least one cross project predecessor
+### Task - Show me all tasks that have at least one cross project predecessor
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -85,7 +84,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Task - Show me all tasks I assigned to others
+### Task - Show me all tasks I assigned to others
 
 Create a task report with whatever filters you want, then go to the Filter tab and click on Switch to Text Mode. Add this code to whatever is already there:
 
@@ -101,7 +100,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 This will show you all tasks where the logged in user assigned at least one of the current assignees. If assignees were assigned by multiple people only the name of the first person who assigned someone will appear as "Requested By" on the task landing page.
 
-## Task - Show me all tasks that are Complete - Pending Approval
+### Task - Show me all tasks that are Complete - Pending Approval
 
 ```
 status=CPL:A
@@ -109,7 +108,7 @@ status_Mod=in
 ```
 
 
-## Issue - Show me all issues that are Complete - Pending Approval
+### Issue - Show me all issues that are Complete - Pending Approval
 
 ```
 status=CPL:A
@@ -117,7 +116,7 @@ status_Mod=in
 ```
 
 
-## Project - Show me all projects that are Complete - Pending Approval
+### Project - Show me all projects that are Complete - Pending Approval
 
 ```
 status=CPL:A
@@ -125,7 +124,7 @@ status_Mod=in
 ```
 
 
-## Note - Show me all comments I'm tagged in
+### Note - Show me all comments I'm tagged in
 
 ```
 tags:userID=$$USER.ID
@@ -133,7 +132,7 @@ tags:userID_Mod=in
 ```
 
 
-## Parameter/Custom Field Report - Show me custom fields that are not attached to a custom form (very useful in cleanup efforts)
+### Parameter/Custom Field Report - Show me custom fields that are not attached to a custom form (very useful in cleanup efforts)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

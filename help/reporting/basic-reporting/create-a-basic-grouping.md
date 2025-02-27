@@ -22,9 +22,8 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Create basic grouping activities
+## "Create a basic grouping" activities
 
-[Click here](/help/assets/create-basic-grouping-activities.pdf) to download a PDF of this page.
 
 ### Activity 1: Create a basic grouping
 

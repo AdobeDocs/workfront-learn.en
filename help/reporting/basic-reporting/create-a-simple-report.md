@@ -20,9 +20,7 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Create simple report activities
-
-[Click here](/help/assets/create-simple-report-activities.pdf) to download a PDF of this page.
+## "Create a simple report" activities
 
 ### Activity 1: Create a simple task report
 

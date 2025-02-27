@@ -23,11 +23,8 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Add basic conditional formatting to a view activities
 
-[Click here](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) to download a PDF of this page.
-
-### Summary
+## Conditional formatting ummary
 
 To create conditional formatting:
 
@@ -39,6 +36,8 @@ To create conditional formatting:
     * text color
     * replacement text
     * show an icon
+
+## "Add basic conditional formatting to a view" activities
 
 ### Activity 1: Add conditional formatting to a view
 

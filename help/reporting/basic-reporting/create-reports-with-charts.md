@@ -21,9 +21,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Create reports with charts activities
-
-[Click here](/help/assets/create-reports-with-charts-activities.pdf) to download a PDF of this page.
+## "Create reports with charts" activities
 
 ### Activity 1: Add a chart to a report
 

@@ -21,9 +21,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Reporting components
-
-[Click here](/help/assets/reporting-components.pdf) to download a PDF of this page.
+## Reporting components quick reference
 
 ![An image of the screen to create a filter](assets/reporting-components-1.png)
 
