@@ -25,7 +25,7 @@ In this video, you will learn:
 
 ## Learn how to create a custom view to see and edit the active status of project templates
 
-To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Recommended tutorials on this topic
 
