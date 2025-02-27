@@ -1,6 +1,6 @@
 ---
 title: Create a project template and learn about [!UICONTROL Blueprints]
-description: Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
+description: The video on creating templates in Workfront demonstrates how to create new project templates, use them for new projects, save existing projects as templates, utilize pre-built Blueprints, and assign tasks to job roles for efficient resource management.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -16,16 +16,25 @@ doc-type: video
 ---
 # Create a project template and learn about [!UICONTROL Blueprints]
 
+
 Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
 
 ## Create a project template
 
-In this video, you will learn how to:
+* The video provides a step-by-step guide on creating and using templates for marketing video production. It starts by explaining how to create a new template from scratch, naming it, and saving it. ​ The process involves three main steps: creating tasks, setting up the timeline using durations and predecessors, and making assignments to job roles rather than individual users. ​ The video emphasizes organizing tasks using parent-child relationships for better summarization and efficiency. ​
+* Once the template is created, it can be used to produce new projects. The video demonstrates how to create a new project from the template, make necessary adjustments, and add tasks or modify durations as needed. ​ It also shows how to assign job roles to tasks using resource scheduling and planning functionalities. ​
+* The video explains how to save an existing project as a new template, allowing for updates and improvements in the workflow. ​ It highlights the importance of managing templates to avoid confusion and ensure streamlined project execution. ​
 
-* Create a template from scratch
-* Create a template from an existing project
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Key takeaways
+
+**Creating a Template:** Learn how to create a new template from scratch by naming it, setting up tasks, timelines, and making assignments to job roles. ​
+**Task Organization:** Use parent-child task relationships to organize tasks efficiently, providing a clear summary and structure for the project. ​
+**Timeline Setup:** Set up task timelines using durations and predecessors to estimate the time frame and sequence of tasks accurately. ​
+**Role-Based Assignments:** Assign tasks to job roles rather than individual users to utilize resource scheduling and planning functionalities effectively. ​
+**Template Management:** Save existing projects as new templates to incorporate improvements and manage templates to avoid confusion and ensure efficient project execution. ​
+
 
 ## Templates created with [!UICONTROL Blueprints] 
 
