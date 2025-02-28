@@ -1,5 +1,5 @@
 ---
-title: Create and mange job roles
+title: Create and manage job roles
 description: Learn how to create job roles and associate them with users to make better assignments.
 feature: System Setup and Administration
 activity: deploy
