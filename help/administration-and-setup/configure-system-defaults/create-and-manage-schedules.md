@@ -15,4 +15,5 @@ exl-id: bf1e802c-9ec6-4636-8c87-283616d1c767
 
 Learn the purpose of schedules, how to create and edit them, and additional settings to better determine when work can be done.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops)
+
