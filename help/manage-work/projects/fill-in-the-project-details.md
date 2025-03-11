@@ -1,6 +1,6 @@
 ---
 title: Fill in the project details
-description: Learn about the most common project settings needed when creating a project.
+description: Optimize project management efficiency by using descriptive names, setting appropriate statuses, choosing the right schedule mode, leveraging templates and custom forms, and managing resources with resource pools and schedules.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -17,7 +17,16 @@ exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 
 In this video, you will learn about the most common project settings needed when creating a project.
 
+
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Use Descriptive Project Names:** Avoid confusion by naming projects descriptively instead of using generic titles. ​ Organizing projects into portfolios and programs enhances reporting and consistency. ​
+* **Set Appropriate Project Status:** Begin with "Planning" status when creating a project, then switch to "Current" when the project goes live. ​ Non-"Current" statuses pause notifications, allowing for replanning without disruptions. ​
+* **Leverage Templates and Custom Forms:** Use project templates for consistency and custom forms to store unique project data. ​ These tools simplify setup and ensure essential information is captured.
+* **Utilize Resource Pools and Schedules:** Assign resource pools to projects for effective resource management and apply the correct schedule to reflect workdays, hours, and holidays. ​ This ensures smooth project execution and resource allocation.
+
 
 
 ## Recommended tutorials and articles on this topic
