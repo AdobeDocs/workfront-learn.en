@@ -1,6 +1,6 @@
 ---
 title: Navigate the project page
-description: Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in [!DNL  Workfront].
+description: Learn how to navigate and manage the Workfront project page efficiently by using features like the project header, breadcrumb navigation, task list, updates, and document sections.
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -16,14 +16,27 @@ doc-type: video
 ---
 # Navigate the project page
 
-In this video, you learn:
+This video provides an overview of navigating and managing the project page in Workfront. ​ Key features include:
 
-* How to view the details of the project
-* What information shows in the task list
-* Where to upload documents
-* How to view the update history
+* **Project Header:** Displays essential information such as percent complete, project manager, planned completion date, project condition, and status. ​ The status helps track the project's stage and triggers notifications. ​
+* **Breadcrumb Navigation:** Shows the project's placement within the organization's program and portfolio, with clickable links for easy navigation. ​
+* **Favorites and Menu:** The Favorites star bookmarks the project for quick access, while the Menu offers options like editing details, copying the project, and recalculating timelines. ​
+* **Task List:** Represents steps in the project plan. ​ Use quick filters to locate tasks, inline editing for quick changes, and the task summary panel for detailed information. ​ Clicking a task name opens its dedicated page. ​
+* **Left Panel:** Provides access to various project sections, such as details, updates, and documents. ​ The panel can be customized by the system administrator. ​
+* **Updates Section:** Centralizes communication about the project, allowing tagging of users, replying to comments, and viewing rolled-up updates from tasks, issues, and documents. ​
+* **Documents Section:** Enables uploading and managing project-related files and proofs. ​ Documents attached to tasks roll up to the project level for easy access. ​
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Project Header Overview:** Quickly access key project details like percent complete, project manager, due date, status, and condition. ​ The status also controls notifications and workflow stages. ​
+* **Task Management:** Use the task list to track project steps, apply quick filters to find tasks, and make inline edits. ​ Access detailed task information via the summary panel or task page. ​
+* **Breadcrumb Navigation:** Navigate the project's hierarchy within the organization using clickable links in the breadcrumb trail. ​
+* **Centralized Updates:** All updates from tasks, issues, and documents roll up to the project updates section, simplifying communication and tracking. ​
+* **Document Organization:** Upload and manage project-related files and proofs in the documents section, ensuring relevant documents are attached to tasks for streamlined collaboration. ​
+
 
 ## Key parts of the project page
 

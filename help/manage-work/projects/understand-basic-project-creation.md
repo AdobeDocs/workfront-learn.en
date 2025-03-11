@@ -1,6 +1,6 @@
 ---
 title: Understand basic project creation
-description: Learn the four steps to get a project up and running, the definition of a project, and the three most common ways of creating a project.
+description: Learn how to create, manage, and complete projects efficiently, handle unexpected issues, and explore beginner-friendly tips to master essential project management features. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,14 +16,20 @@ doc-type: video
 ---
 # Understand basic project creation
 
-In this video, you will learn:
-
-* The definition of a project in Workfront
-* Basic steps to get a project up and running
-* A little about tasks and issues
-* Best practice for starting out with creating projects
+* This video explains how to create and manage a project from scratch. ​ It begins by creating a new project, renaming it, and setting a goal with a description, start date, and target completion date. Projects can be broken into tasks, which are planned work with estimated durations and assignments. ​ Tasks can be sequenced using predecessors, and the project status can be set to "Current" to notify the team and include it in reports. ​
+* The video also covers handling unexpected issues, which are unplanned work. ​ Issues can be converted into tasks, moved to another project, or marked as "Won't Resolve" if they won't be addressed. ​ Converting an issue to a task updates its status automatically, and moving an issue transfers ownership to another project. Adjustments to timelines may be necessary when adding tasks, but overlapping tasks can help maintain the original completion date. ​
+* A project is considered complete when all tasks are finished and issues are resolved. ​ Beginners are encouraged to start with simple projects, focusing on basic settings like duration and predecessors, and explore advanced project management features later. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Creating a Project:** Start by creating a new project, renaming it, and setting a goal, description, start date, and target completion date.
+* **Breaking Down Work:** Divide the project into individual tasks, estimate durations, assign responsibilities, and sequence tasks using predecessors. ​
+* **Handling Issues:** Manage unexpected issues by converting them into tasks, moving them to another project, or marking them as "Won't Resolve." ​
+* **Adjusting Timelines:** Adding tasks may affect the project timeline, but overlapping tasks can help maintain the original completion date. ​
+* **Completion Criteria:** A project is considered complete when all tasks are finished and any issues are resolved. ​ Beginners should start with simple projects and gradually explore advanced features. ​
+
 
 ## Recommended tutorials on this topic
 
