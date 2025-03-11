@@ -1,5 +1,5 @@
 ---
-title: Understand project timelines
+title: Understand Project Timelines
 description: Learn how to assign tasks, use Gantt charts and Critical Path features, monitor projects via views, schedule tasks efficiently, and apply constraints for optimal project planning.
 activity: use
 feature: Work Management
@@ -16,9 +16,11 @@ doc-type: video
 ---
 # Understand project timelines
 
-* The video provides an overview of project planning and management using Workfront. It explains how parent tasks group several sub-tasks, which are assigned to job roles and later to users with the necessary skills. ​ Predecessors indicate sequential relationships between tasks, while tasks without predecessors can be done in parallel. ​ The Gantt chart offers a visual timeline, and the Critical Path feature highlights tasks that could delay the project if they slip. ​
-* The video also discusses different views in Workfront, such as the standard view for planning and the status view for monitoring progress, which includes flags for progress, comments, documents, issues, approvals, critical path, and milestones. Recent activity can be tracked to see updates and notes. ​
-* Scheduling can be done from a start date or a completion date, with Workfront calculating the corresponding dates based on task durations and predecessors. ​ The video advises scheduling from a start date for critical completion dates to allow some slack. ​ Task constraints, such as "as soon as possible" and "as late as possible," are also covered, showing how they affect task scheduling. ​ Custom views can be created to display task constraints. ​
+What you'll learn: 
+
+* Get an overview of project planning and management using Workfront. Learn how parent tasks group several sub-tasks, which are assigned to job roles and later to users with the necessary skills. Predecessors indicate sequential relationships between tasks, while tasks without predecessors can be done in parallel. The Gantt chart offers a visual timeline, and the Critical Path feature highlights tasks that could delay the project if they slip. 
+* Different views in Workfront, such as the standard view for planning and the status view for monitoring progress, which includes flags for progress, comments, documents, issues, approvals, critical path, and milestones. Recent activity can be tracked to see updates and notes.
+* Scheduling can be done from a start date or a completion date, with Workfront calculating the corresponding dates based on task durations and predecessors. The video advises scheduling from a start date for critical completion dates to allow some slack. Task constraints, such as "as soon as possible" and "as late as possible," are also covered, showing how they affect task scheduling. Custom views can be created to display task constraints.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
