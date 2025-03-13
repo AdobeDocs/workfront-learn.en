@@ -1,6 +1,6 @@
 ---
 title: Get started managing a project
-description: Learn how to monitor project progress, drill down to see task details, and how to communicate with stakeholders.
+description: Track project progress effectively with reports, manage dependencies through Gantt views, monitor tasks and approvals, enhance team communication, and ensure smooth workflows with frequent updates.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -16,13 +16,18 @@ doc-type: video
 ---
 # Get started managing a project
 
-In this video, you will learn:
-
-* How to monitor project progress
-* How to drill down to see task details
-* How to communicate with stakeholders
+The video provides an overview of managing a project after its status is changed to "Current." ​ 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Progress Monitoring:** Projects with "Current" status appear in reports, allowing managers to track progress (on schedule, behind, or past due). ​
+* **Cross-Project Dependencies:** Dependencies can be managed and viewed in the Project Gantt view, with options to drill down for detailed insights. ​
+* **Task and Approval Management:** Use the Status and Approvals tabs to track task completion, pending approvals, and communicate via comments. ​
+* **Team Communication:** Easily send updates to all team members using the "Update All" feature and keep a record of discussions in the project. ​
+* **Frequent Updates:** Workers should update task statuses daily to ensure smooth project management and accurate tracking. ​
+
 
 ## Recommended tutorials on this topic
 
