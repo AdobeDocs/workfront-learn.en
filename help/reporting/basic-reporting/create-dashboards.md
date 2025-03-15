@@ -45,7 +45,7 @@ Create this report by making a copy of the "Search Notes" report you created in 
 
 ### Answer 1
 
-1. Run the report you created in the "Create a note report" activity.
+1. Run the report you created in the "Create a note report" activity. Didn't create it yet? Click here to see the activity in the [Create a task report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) tutorial.
 1. Click **[!UICONTROL Report Actions]** and select **[!UICONTROL Copy]**. [!DNL Workfront] creates a new report named "Note Search (Copy)."
 1. Go to **[!UICONTROL Report Actions]** and select **[!UICONTROL Edit]**. Click **[!UICONTROL Report Settings]** and change the name to "Search Notes in This Project."
 1. Click [!UICONTROL Report Prompts] and delete the [!UICONTROL Project] > [!UICONTROL Name] prompt from the list.

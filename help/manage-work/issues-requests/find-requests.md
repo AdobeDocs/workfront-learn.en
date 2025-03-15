@@ -1,6 +1,6 @@
 ---
 title: Find and Manage Requests
-description: Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of _my_ in different contexts for effective request management.
+description: Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of "my" in different contexts for effective request management.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
