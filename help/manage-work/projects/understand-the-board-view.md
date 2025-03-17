@@ -21,11 +21,11 @@ The video explains the Board view feature in Workfront, which provides an altern
 
 ## Key takeaways
 
-**Board view Overview:** The Board view in Workfront offers a Kanban-style interface to view and manage project tasks, providing an alternative to the traditional task list view. ​
-**Task Management:** Tasks can be sorted, grouped, and moved within or between columns, with status updates applied automatically when tasks are moved. ​
-**Task Creation:** New cards can be created directly in the Board view, which generates new tasks in the project. ​ These tasks can be edited and assigned immediately. ​
-**Customization:** Columns and cards in the Board view can be configured to suit project needs, enhancing flexibility in task organization. ​
-**Integration with Task List:** Changes made in the Board view, such as task status updates or new task creation, are reflected in the task list view, ensuring seamless integration between views. ​
+* **Board view Overview:** The Board view in Workfront offers a Kanban-style interface to view and manage project tasks, providing an alternative to the traditional task list view. ​
+* **Task Management:** Tasks can be sorted, grouped, and moved within or between columns, with status updates applied automatically when tasks are moved. ​
+* **Task Creation:** New cards can be created directly in the Board view, which generates new tasks in the project. ​ These tasks can be edited and assigned immediately. ​
+* **Customization:** Columns and cards in the Board view can be configured to suit project needs, enhancing flexibility in task organization. ​
+* **Integration with Task List:** Changes made in the Board view, such as task status updates or new task creation, are reflected in the task list view, ensuring seamless integration between views. ​
 
 
 ## Recommended tutorials on this topic

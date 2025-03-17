@@ -53,21 +53,16 @@ The video emphasizes the flexibility of Workfront in creating projects through t
 
 ## Key takeaways
 
-
-**Templates Simplify Project Creation:**
-Using a template is highly recommended as it can pre-set key details like tasks, forms, and sharing options, saving time and effort. ​
-
-**Favorite Templates for Quick Access:**
-Favorite templates allow users to bypass the selection process and directly create a project, streamlining workflow. ​
-
-**Creating Projects from Scratch Offers Flexibility:**
-While more manual, creating a project from scratch allows customization of all details, ideal for simple or private projects. ​
-
-**Copying Projects Saves Time:**
-Copying an existing project replicates its structure and settings, with options to modify or exclude specific elements. ​
-
-**Importing MS Project Files for Transition:**
-Workfront supports importing MS Project files (saved as XML), enabling users to transition ongoing projects, though some data (e.g., comments, milestones) won't transfer. ​
+* **Templates Simplify Project Creation:**
+* Using a template is highly recommended as it can pre-set key details like tasks, forms, and sharing options, saving time and effort. ​
+* **Favorite Templates for Quick Access:**
+* Favorite templates allow users to bypass the selection process and directly create a project, streamlining workflow. ​
+* **Creating Projects from Scratch Offers Flexibility:**
+* While more manual, creating a project from scratch allows customization of all details, ideal for simple or private projects. ​
+* **Copying Projects Saves Time:**
+* Copying an existing project replicates its structure and settings, with options to modify or exclude specific elements. ​
+* **Importing MS Project Files for Transition:**
+* Workfront supports importing MS Project files (saved as XML), enabling users to transition ongoing projects, though some data (e.g., comments, milestones) won't transfer. ​
 
 
 

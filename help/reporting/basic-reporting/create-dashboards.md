@@ -1,6 +1,6 @@
 ---
 title: Create dashboards
-description: The video aims to help users effectively create, customize, and manage dashboards in Workfront to monitor and share project-related data. 
+description: Organize and display project data with Workfront dashboards, which can be customized, accessed easily, shared, and printed for seamless project management and collaboration.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,20 +14,18 @@ doc-type: video
 ---
 # Create dashboards
 
-The video covers the following key points:
-
-* **Introduction to Dashboards:** Explains what a dashboard is in Workfront and its purpose as a collection of related reports. ​
-* **Creating a Dashboard:** Guides on how to create a new dashboard by navigating to the Dashboards area, selecting "New Dashboard," naming it, and choosing a layout. ​
-* **Adding Reports:** Demonstrates how to add various reports to the dashboard, such as project reports, task reports, and issue reports, and arranging them within the chosen layout. ​
-* **Customizing Views:** Shows how to customize which columns are displayed in the dashboard view by editing the report and selecting specific columns to show. ​
-* **Adding Additional Elements:** Explains how to add a custom calendar and an external page (e.g., an online document) to the dashboard. ​
-* **Saving and Pinning:** Instructs on saving the dashboard and pinning it for easy access. ​
-* **Viewing and Editing:** Provides tips on viewing and editing the dashboard, including adjusting column visibility for better display. ​
-* **Finding and Sharing Dashboards:** Describes how to find dashboards via the main menu, add them to favorites, and share them with other users. ​
-* **Printing Dashboards:** Explains the process of printing a dashboard. ​
-
+The video provides a comprehensive guide to understanding and using dashboards in Workfront. 
+​It explains that a dashboard is a collection of reports that allows users to organize and display related data in one place. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Key takeaways
+
+**Dashboards in Workfront:** A dashboard is a collection of reports that allows users to organize and display related data, such as projects, tasks, and issues, in one centralized view. ​
+**Creating Dashboards:** Dashboards can be customized by selecting a layout, adding reports, custom calendars, or external pages, and arranging them for optimal display. ​ Users can also customize which columns appear in side-by-side reports within the dashboard. ​
+**Accessing Dashboards:** Dashboards can be found under "My Dashboards," "Shared Dashboards," or "All Dashboards" in the Dashboards area. ​ Frequently used dashboards can be pinned or added to favorites for quick access. ​
+**Sharing Dashboards:** Dashboards can be shared with other Workfront users, including all reports within the dashboard, via the "Dashboard Actions" menu. ​
+**Printing Dashboards:** Dashboards can be printed directly from the "Dashboard Actions" menu, making it easy to share physical copies of the data. ​
 
 
 ## "Create dashboard" activities

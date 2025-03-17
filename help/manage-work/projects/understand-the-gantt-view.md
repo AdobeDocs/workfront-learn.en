@@ -40,11 +40,11 @@ You can learn more online with the article, [Get started with the Gantt chart](h
 
 ## Key takeaways
 
-**Big-Picture View:** Gantt charts provide a comprehensive overview of tasks, projects, and portfolios, making it easy to understand relationships and resource sharing across projects. ​
-**Progress Tracking:** Progress status indicators (green, yellow, red, and light blue) help monitor project and task timelines, highlighting on-time, at-risk, behind, or late statuses. ​
-**Milestone Management:** Milestone diamonds and lines visually mark key completion dates, aiding in tracking milestone progress within projects. ​
-**Predecessor Insights:** Cross-project and task-specific predecessors can be easily checked, ensuring dependencies are clear and manageable. ​
-**Customization Options:** Users can display actual dates, projected dates, baselines, assignments, and more, tailoring the Gantt chart view to their specific needs.
+* **Big-Picture View:** Gantt charts provide a comprehensive overview of tasks, projects, and portfolios, making it easy to understand relationships and resource sharing across projects. ​
+* **Progress Tracking:** Progress status indicators (green, yellow, red, and light blue) help monitor project and task timelines, highlighting on-time, at-risk, behind, or late statuses. ​
+* **Milestone Management:** Milestone diamonds and lines visually mark key completion dates, aiding in tracking milestone progress within projects. ​
+* **Predecessor Insights:** Cross-project and task-specific predecessors can be easily checked, ensuring dependencies are clear and manageable. ​
+* **Customization Options:** Users can display actual dates, projected dates, baselines, assignments, and more, tailoring the Gantt chart view to their specific needs.
 
 
 ## Recommended tutorials on this topic
