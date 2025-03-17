@@ -1,6 +1,6 @@
 ---
 title: Learn to sequence tasks
-description: Learn what a predecessor is and how they sequence tasks in a project. Then learn to use durations and predecessors to create a timeline.
+description: Streamline project management by defining task order with predecessors, setting timelines through durations, simplifying sequences using templates, avoiding manual constraints, and refining skills with practice.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -16,25 +16,20 @@ doc-type: video
 ---
 # Learn to sequence tasks
 
-In this video, you will learn:
+The video explains how to sequence tasks in Workfront using predecessors and durations to manage project timelines effectively.
+The video demonstrates how to set predecessors for new tasks, ensuring sequential order and accurate start dates. 
+​It emphasizes the importance of practicing with predecessors to understand their impact on project timelines and recommends using durations and predecessors for efficient project planning.
 
-* What a predecessor is in Workfront
-* How to use durations and predecessors to create a timeline
-* How predecessors sequence tasks in a project
-* How setting a task start date will affect the task constraint
-* How to enter predecessors
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## Key takeaways
+
+* **Predecessors Define Task Order:** Predecessors establish the sequence of tasks, ensuring certain tasks are completed before others can begin, which is crucial for project success. ​
+* **Durations Impact Timelines:** Task durations set the time frame for work and adjust start and completion dates, creating a cascading effect on dependent tasks. ​
+* **Templates Simplify Setup:** Predecessors and constraints can be pre-set in project templates, streamlining the process of managing task sequences. ​
+* **Manual Adjustments Affect Constraints:** Manually setting specific dates overrides the cascading updates caused by changes to durations or predecessors. ​
+* **Practice Improves Skills:** Practicing with predecessors and durations helps refine project management skills and ensures better control over timelines.
 
 ## Recommended tutorials on this topic
 

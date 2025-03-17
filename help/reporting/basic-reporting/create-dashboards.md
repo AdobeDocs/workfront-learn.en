@@ -21,11 +21,11 @@ The video provides a comprehensive guide to understanding and using dashboards i
 
 ## Key takeaways
 
-**Dashboards in Workfront:** A dashboard is a collection of reports that allows users to organize and display related data, such as projects, tasks, and issues, in one centralized view. ​
-**Creating Dashboards:** Dashboards can be customized by selecting a layout, adding reports, custom calendars, or external pages, and arranging them for optimal display. ​ Users can also customize which columns appear in side-by-side reports within the dashboard. ​
-**Accessing Dashboards:** Dashboards can be found under "My Dashboards," "Shared Dashboards," or "All Dashboards" in the Dashboards area. ​ Frequently used dashboards can be pinned or added to favorites for quick access. ​
-**Sharing Dashboards:** Dashboards can be shared with other Workfront users, including all reports within the dashboard, via the "Dashboard Actions" menu. ​
-**Printing Dashboards:** Dashboards can be printed directly from the "Dashboard Actions" menu, making it easy to share physical copies of the data. ​
+* **Dashboards in Workfront:** A dashboard is a collection of reports that allows users to organize and display related data, such as projects, tasks, and issues, in one centralized view. ​
+* **Creating Dashboards:** Dashboards can be customized by selecting a layout, adding reports, custom calendars, or external pages, and arranging them for optimal display. ​ Users can also customize which columns appear in side-by-side reports within the dashboard. ​
+* **Accessing Dashboards:** Dashboards can be found under "My Dashboards," "Shared Dashboards," or "All Dashboards" in the Dashboards area. ​ Frequently used dashboards can be pinned or added to favorites for quick access. ​
+* **Sharing Dashboards:** Dashboards can be shared with other Workfront users, including all reports within the dashboard, via the "Dashboard Actions" menu. ​
+* **Printing Dashboards:** Dashboards can be printed directly from the "Dashboard Actions" menu, making it easy to share physical copies of the data. ​
 
 
 ## "Create dashboard" activities

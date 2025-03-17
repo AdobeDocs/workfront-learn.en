@@ -1,6 +1,6 @@
 ---
 title: Work with tasks
-description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in Workfront.
+description: Enhance task management with in-line editing, Recycle Bin backups for deleted tasks, parent-child structure additions, task duplication, and intuitive reorganization tools like drag-and-drop in Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,13 +15,17 @@ doc-type: video
 ---
 # Work with tasks
 
-In this video, you will learn:
-
-* How to edit existing tasks in a project
-* Ways to add and delete tasks
-* How to change the task order
+This video provides a detailed guide on managing tasks in Workfront. It emphasizes efficient task management, including editing, deleting, adding, duplicating, and reorganizing tasks within a project plan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **In-Line Editing for Quick Changes:** Double-click a field to edit task information directly, and use the Tab key to navigate between fields for faster updates. ​
+* **Deleting Tasks with Recycle Bin Backup:** Deleted tasks are moved to the Recycle Bin for 30 days, accessible only by system administrators, ensuring recoverability if needed. ​
+* **Adding Tasks with Parent-Child Structure:** Use "Insert Above" or "Insert Below" to add tasks in specific locations, inheriting the parent-child structure of the selected task. ​
+* **Duplicating Tasks for Efficiency:** Duplicate tasks or sets of tasks to save time, with all task details copied for easy modification and repositioning. ​
+* **Reorganizing Tasks with Indent, Outdent, and Drag-and-Drop:** Adjust task hierarchy or move tasks within the project using intuitive tools like indenting, outdenting, and drag-and-drop functionality. ​
 
 ## Recommended tutorials on this topic
 

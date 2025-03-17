@@ -1,6 +1,6 @@
 ---
 title: Understand planned hours
-description: Learn what planned hours are, why planned hours are important to your project, and how to add planned hours to tasks.
+description: Optimize project planning in Workfront by leveraging planned hours to estimate durations, manage resources, track time, utilize historical references, and streamline assignments.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,14 +16,21 @@ doc-type: video
 ---
 # Understand planned hours
 
-In this video, you will learn:
+The video explains the concept of planned hours, which are estimates of the time required to complete tasks.
+Planned hours are crucial for resource management in Workfront, helping identify over- or under-allocation of resources. 
+They also assist in tracking time spent on tasks, improving future estimates, and clarifying expectations with workers.
 
-* What planned hours are in Workfront
-* Why planned hours are important to your project
-* How to estimate planned hours
-* How to add planned hours to tasks
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+
+
+## Key takeaways
+
+* **Planned Hours Importance:** Planned hours help estimate task durations, manage resource allocation, and track time spent, improving future project planning. ​
+* **Accurate Estimation Tips:** Break long tasks into smaller subtasks, track time effectively, and document changes or issues to refine planned hours estimates. ​
+* **Resource Management:** Workfront uses planned hours to identify over- or under-allocation of resources, ensuring efficient task assignments. ​
+* **Historical Reference:** Completed projects should be retained as references for future planning, especially for tasks assigned to new workers. ​
+* **Ease of Use:** Planned hours can be added or edited using Inline Editing, and parent task hours are automatically calculated by summing subtasks. ​ Including planned hours in project templates is recommended. ​
 
 
 ## Recommended tutorials and articles on this topic
