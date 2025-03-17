@@ -23,11 +23,11 @@ The video explains how to track project progress using Project Metrics. ​ It d
 
 ## Key takeaways
 
-**Accessing Project Metrics:** Navigate to the Metrics tab in the left panel of your project to track progress. ​ You may need to scroll down and click "Show More" to locate it. ​
-**Key Performance Indicators (KPIs):** The KPI area displays completed, incomplete, and overdue tasks. ​ Clicking on indicators allows you to view specific tasks. ​
-**Task and Issue Charts:** Charts group tasks or issues by status or priority, showing the ratio of complete to incomplete. ​ Hovering over columns reveals quantities. ​
-**Metrics by Assignee:** View tasks by assignee based on their status (complete, incomplete, upcoming, or overdue). ​ Preferences are saved for future visits. ​
-**Exporting Metrics:** Export the metrics page as a PNG file by clicking the Export button in the upper-right corner of the screen. ​
+* **Accessing Project Metrics:** Navigate to the Metrics tab in the left panel of your project to track progress. ​ You may need to scroll down and click "Show More" to locate it. ​
+* **Key Performance Indicators (KPIs):** The KPI area displays completed, incomplete, and overdue tasks. ​ Clicking on indicators allows you to view specific tasks. ​
+* **Task and Issue Charts:** Charts group tasks or issues by status or priority, showing the ratio of complete to incomplete. ​ Hovering over columns reveals quantities. ​
+* **Metrics by Assignee:** View tasks by assignee based on their status (complete, incomplete, upcoming, or overdue). ​ Preferences are saved for future visits. ​
+* **Exporting Metrics:** Export the metrics page as a PNG file by clicking the Export button in the upper-right corner of the screen. ​
 
 
 

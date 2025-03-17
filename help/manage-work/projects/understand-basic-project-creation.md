@@ -16,9 +16,8 @@ doc-type: video
 ---
 # Understand basic project creation
 
-* This video explains how to create and manage a project from scratch. ​ It begins by creating a new project, renaming it, and setting a goal with a description, start date, and target completion date. Projects can be broken into tasks, which are planned work with estimated durations and assignments. ​ Tasks can be sequenced using predecessors, and the project status can be set to "Current" to notify the team and include it in reports. ​
-* The video also covers handling unexpected issues, which are unplanned work. ​ Issues can be converted into tasks, moved to another project, or marked as "Won't Resolve" if they won't be addressed. ​ Converting an issue to a task updates its status automatically, and moving an issue transfers ownership to another project. Adjustments to timelines may be necessary when adding tasks, but overlapping tasks can help maintain the original completion date. ​
-* A project is considered complete when all tasks are finished and issues are resolved. ​ Beginners are encouraged to start with simple projects, focusing on basic settings like duration and predecessors, and explore advanced project management features later. ​
+This video explains how to create and manage a project from scratch. ​ It begins by creating a new project, renaming it, and setting a goal with a description, start date, and target completion date. Projects can be broken into tasks, which are planned work with estimated durations and assignments. ​ Tasks can be sequenced using predecessors, and the project status can be set to "Current" to notify the team and include it in reports. ​
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 

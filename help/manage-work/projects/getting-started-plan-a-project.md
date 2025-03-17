@@ -15,9 +15,9 @@ doc-type: video
 ---
 # Get started planning a project
 
-* The video provides guidance on how to effectively plan a project in Workfront. ​ It emphasizes the importance of laying a solid foundation to ensure the project finishes on time and is successful. ​ Key steps include understanding five critical fields: Tasks, Assignments, Durations, Planned Hours, and Predecessors. ​ These fields enable quick and accurate adjustments to the project plan. ​
-* Before making changes, ensure the project status is set to "Planning" to prevent unnecessary notifications to the team. ​ Use the standard view or customized views to focus on essential information. ​ Accurately set the project start date, ensuring it is realistic and aligns with team availability.
-* The video highlights the importance of realistic timelines, team availability, and accurate planning to create a strong foundation for project success. ​
+The video provides guidance on how to effectively plan a project in Workfront. ​ It emphasizes the importance of laying a solid foundation to ensure the project finishes on time and is successful. ​ Key steps include understanding five critical fields: Tasks, Assignments, Durations, Planned Hours, and Predecessors. ​ These fields enable quick and accurate adjustments to the project plan. ​
+
+The video highlights the importance of realistic timelines, team availability, and accurate planning to create a strong foundation for project success. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
