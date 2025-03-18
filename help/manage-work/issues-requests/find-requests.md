@@ -18,10 +18,10 @@ exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 
 This video explains how to find and manage requests in Workfront. ​ It covers four main areas:
 
-* **Workfront Home:** Users like Mary Smith, a production artist, can see requests assigned to them. ​ Joan Harris, who often makes requests, can find completed requests awaiting her approval. ​
-* **Request Area:** Users can filter requests to see those they created.​ The term "my" in the request area refers to issues created by me, the logged-in user. ​
-* **Teams Page:** Users can view unassigned team requests and assign themselves or others. ​ They can also use the workload balancer to manage team assignments based on current workloads. ​
-* **Custom Reports and Dashboards:** Users can create custom reports to track requests, with control over naming, filters, views, and groupings. ​ This allows for clear tracking of requests by priority, creator, primary contact, assignee, and status. ​
+* Workfront Home
+* Request Area
+* Teams Page​
+* Custom Reports and Dashboards
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
