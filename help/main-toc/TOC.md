@@ -329,6 +329,7 @@ user-guide-description: Workfront tutorials
     + [Create a workspace](/help/workfront-planning/create-a-workspace.md)
     + [Create and manage a record type](/help/workfront-planning/create-and-manage-a-record-type.md)
     + [Create and manage table views](/help/workfront-planning/create-and-manage-table-views.md)
+    + [Benefits of Workfront Planning for UX Design teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrations {#integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}
