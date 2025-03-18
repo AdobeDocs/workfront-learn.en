@@ -1,5 +1,5 @@
 ---
-title: Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work
+title: Understand the [!UICONTROL Portfolio Optimizer]
 description: Learn how to use the [!UICONTROL Portfolio Optimizer] to compare and prioritize projects within a portfolio.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 ---
-# Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work
+# Understand the [!UICONTROL Portfolio Optimizer]
 
 In this video, you will learn how to:
 

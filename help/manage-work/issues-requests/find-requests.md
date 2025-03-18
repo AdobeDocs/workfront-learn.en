@@ -1,6 +1,6 @@
 ---
-title: Find and manage requests
-description: The video on managing requests in Workfront Home demonstrates how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of "my" in different contexts for effective request management.
+title: Find and Manage Requests
+description: Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of "my" in different contexts for effective request management.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront

@@ -1,6 +1,6 @@
 ---
 title: Understand task durations
-description: Learn how durations affect start and completion dates of tasks, how durations factor into project timelines, and some best practices for using task durations.
+description: Ensure precise project planning in Workfront with task durations influencing timelines, leveraging predecessors for flexibility, avoiding manual constraints, and optimizing resource management and scheduling.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -16,14 +16,21 @@ doc-type: video
 ---
 # Understand task durations
 
-In this video, you will learn:
+This video explains task durations in Workfront, their impact on task start and completion dates, project timelines, and best practices for using durations effectively. 
+Workfront recommends using durations and predecessors to establish task timelines rather than manually setting constraints, as constraints can prevent automatic adjustments. 
+​Accurate durations are critical for effective project planning and resource management.
 
-* What a task duration is in [!DNL Workfront]
-* How durations affect start and completion dates of tasks
-* How durations factor into project timelines
-* Best practice recommendations for using task durations
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Definition of Task Duration:** Task duration is the difference between a task's planned start date and planned completion date, representing the time window for completing the work. ​
+* **Impact on Project Timeline:** Task durations directly affect the overall project length and planned completion date, making them crucial for accurate project planning. ​
+* **Use of Predecessors:** Planned start and completion dates are calculated using task durations and predecessors, ensuring a dynamic and flexible timeline. ​
+* **Avoid Manual Constraints:** Manually setting start or completion dates creates task constraints, which can prevent automatic adjustments when durations or predecessors change. ​
+* **Resource Management:** Durations are essential for Workfront's resource management and scheduling tools, enabling accurate resource estimates and team availability planning. ​
+
 
 ## Recommended tutorials on this topic
 

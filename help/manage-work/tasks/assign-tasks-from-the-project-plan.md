@@ -1,6 +1,6 @@
 ---
 title: Assign tasks from the project plan
-description: Learn how to assign tasks in an Adobe Workfront project using inline edit, bulk edit, job roles, and teams.
+description: Simplify task assignments in Workfront with inline editing, bulk editing, job roles for resource management, team assignments for collaboration, and resource capacity calculations for efficient project planning.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -16,24 +16,19 @@ doc-type: video
 ---
 # Assign tasks from the project plan
 
-In this video, you will:
+The video explains various methods for assigning tasks in a project plan. It emphasizes using tools like filters, templates, and resource management features to streamline task assignments and optimize project workflows.
 
-* Learn how to assign a task using inline edit
-* Learn how to assign multiple tasks to the same person
-* Understand the value of job roles when assigning tasks
-* Understand the value of project templates when assigning tasks
-* Understand the value of assigning tasks to teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
---->
+## Key takeaways
+
+* **Inline Editing for Quick Assignments:** Easily assign tasks by typing a name and selecting from a list, with type-ahead functionality for faster selection. ​
+* **Bulk Editing for Efficiency:** Assign multiple tasks to the same person by selecting tasks, using bulk edit, and choosing the name from the list. ​
+* **Job Roles for Streamlined Assignments:** Use job roles to facilitate task assignments, especially with project templates. ​ Job roles are recorded separately for resource management and capacity planning. ​
+* **Team Assignments for Collaboration:** Assign tasks to teams by selecting the team name, visible with a team icon. ​ Team members can self-assign tasks or team leads can reassign them, while retaining the team name for reporting. ​
+* **Resource Management Integration:** Job roles and team assignments support resource capacity and availability calculations, enhancing project planning and execution. ​
+
 
 ## Recommended tutorials on this topic
 

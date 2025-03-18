@@ -1,6 +1,6 @@
 ---
-title: Create a project template and learn about [!UICONTROL Blueprints]
-description: The video on creating templates in Workfront demonstrates how to create new project templates, use them for new projects, save existing projects as templates, utilize pre-built Blueprints, and assign tasks to job roles for efficient resource management.
+title: Create a Project Template and Learn about [!UICONTROL Blueprints]
+description: Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg

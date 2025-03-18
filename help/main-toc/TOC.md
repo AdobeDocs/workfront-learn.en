@@ -146,7 +146,7 @@ user-guide-description: Workfront tutorials
   + Portfolios {#portfolios}
     + [Understand portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
     + [Understand the [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-    + [Use the [!UICONTROL Portfolio Optimizer] to prioritize and manage work](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+    + [Understand the [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
