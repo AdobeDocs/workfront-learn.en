@@ -12,6 +12,7 @@ jira: KT-17578
 last-substantial-update: 2025-03-26
 recommendations: noDisplay,catalog
 doc-type: video
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
 ---
 # Apply an issue approval process in a request queue
 
