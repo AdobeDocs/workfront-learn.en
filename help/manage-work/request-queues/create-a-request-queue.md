@@ -1,6 +1,6 @@
 ---
 title: Create a request queue
-description: Learn how to set up a request queue and establish queue details. Follow these steps to help your organization manage work intake.
+description: Create efficient Workfront request queues by defining access permissions, customizing request types and fields, activating the queue, and testing its functionality for seamless project submission management.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -16,13 +16,17 @@ doc-type: video
 ---
 # Create a request queue
 
-In this video, you will learn how to:
-
-* Create a request queue by first creating a project
-* Set up the request queue details
-* Make the queue go live
+The video provides a step-by-step guide on creating a request queue within Workfont. ​ The video concludes by demonstrating how to submit a request using the newly created queue, showing the process of entering details and verifying the submission in the "requests submitted" tab. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Creating a Request Queue:** Start by creating a new project and naming it, which will later serve as the request queue. ​ Ensure to check the "publish as help request queue" box to officially designate it as a queue. ​
+* **Access Permissions:** Define who can submit requests to the queue by choosing from four options: anyone, project viewers, company members, or group members. ​
+* **Request Types:** Customize the queue to include specific types of requests, such as issues, bug reports, change orders, or general requests. ​ The default option is "issues." ​
+* **Customizable Fields:** Set additional details like default response time, permissions, and other queue characteristics to tailor its functionality. ​
+* **Making the Queue Live:** Save the settings and set the project status to "current" to activate the queue. ​ Test its functionality by submitting a request and verifying it in the "requests submitted" tab.
 
 ## Recommended tutorials on this topic
 
