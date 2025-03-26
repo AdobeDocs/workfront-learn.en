@@ -23,7 +23,12 @@ In this video, you will learn how to configure queue topics, topic groups, and r
 >* [Create a request queue](/help/manage-work/request-queues/create-a-request-queue.md)
 >* [Understand settings for a request flow](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+
+## Key takeaways
+
+
+
 
 ## Recommended tutorials on this topic
 

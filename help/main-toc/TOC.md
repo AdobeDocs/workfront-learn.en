@@ -150,6 +150,7 @@ user-guide-description: Workfront tutorials
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+    + [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
     + [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
     + [Apply milestones](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
