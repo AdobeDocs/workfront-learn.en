@@ -22,11 +22,11 @@ The video explains how to create a project from a template. ​ If you have the 
 
 ## Key takeaways
 
-**Template Access:** You need rights to open a template to create a project from it. ​
-**Shortcut Option:** Using a template can be a handy shortcut compared to starting a project from scratch. ​
-**Three-Dot Menu:** Open the template and select "Create Project" from the three-dot menu. ​
-**Edit Project Details:** After selecting "Create Project," you can edit the project details before finalizing. ​
-**Finalize Creation:** Click "Create Project" when you're ready to complete the process. ​
+* **Template Access:** You need rights to open a template to create a project from it. ​
+* **Shortcut Option:** Using a template can be a handy shortcut compared to starting a project from scratch. ​
+* **Three-Dot Menu:** Open the template and select "Create Project" from the three-dot menu. ​
+* **Edit Project Details:** After selecting "Create Project," you can edit the project details before finalizing. ​
+* **Finalize Creation:** Click "Create Project" when you're ready to complete the process. ​
 
 
 ## Recommended tutorials on this topic
