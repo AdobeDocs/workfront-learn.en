@@ -29,11 +29,11 @@ Learn to create a project template from scratch and from an existing project, an
 
 ## Key takeaways
 
-**Creating a Template:** Learn how to create a new template from scratch by naming it, setting up tasks, timelines, and making assignments to job roles. ​
-**Task Organization:** Use parent-child task relationships to organize tasks efficiently, providing a clear summary and structure for the project. ​
-**Timeline Setup:** Set up task timelines using durations and predecessors to estimate the time frame and sequence of tasks accurately. ​
-**Role-Based Assignments:** Assign tasks to job roles rather than individual users to utilize resource scheduling and planning functionalities effectively. ​
-**Template Management:** Save existing projects as new templates to incorporate improvements and manage templates to avoid confusion and ensure efficient project execution. ​
+* **Creating a Template:** Learn how to create a new template from scratch by naming it, setting up tasks, timelines, and making assignments to job roles. ​
+* **Task Organization:** Use parent-child task relationships to organize tasks efficiently, providing a clear summary and structure for the project. ​
+* **Timeline Setup:** Set up task timelines using durations and predecessors to estimate the time frame and sequence of tasks accurately. ​
+* **Role-Based Assignments:** Assign tasks to job roles rather than individual users to utilize resource scheduling and planning functionalities effectively. ​
+* **Template Management:** Save existing projects as new templates to incorporate improvements and manage templates to avoid confusion and ensure efficient project execution. ​
 
 
 ## Templates created with [!UICONTROL Blueprints] 
