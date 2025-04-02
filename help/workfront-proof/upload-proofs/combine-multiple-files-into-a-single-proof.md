@@ -24,12 +24,13 @@ Solution—have one person upload all the PDFs and combine them into a single pr
 To combine proofs:
 
 1. Open the [!UICONTROL Documents] section of the project, task, or issue the proof should be attached to.
-2. Drag and drop the files into the upload area or browse to them. [!DNL Workfront] supports combining up to 50 files.
-3. Toggle on the option for [!UICONTROL Combine all compatible files into a single proof].
-4. Enter a name for the combined proof. This is required.
-5. If desired, you can change the order the files will be combined with a drag and drop in the upload list.
-6. Add proof recipients, set a deadline, etc.
-7. Click [!UICONTROL Create Proof] to complete the upload.
+1. Click **Add new > Proof**.
+1. Drag and drop the files into the upload area or browse to them. [!DNL Workfront] supports combining up to 50 files.
+1. Under **Single proof**, toggle on the option for Combine all compatible files into a single proof.
+1. Enter a name for the combined proof. This is required.
+1. If desired, you can change the order the files will be combined with a drag and drop in the upload list.
+1. Add proof recipients, set a deadline, etc.
+1. Click [!UICONTROL Create Proof] to complete the upload.
 
 ![An image of the [!UICONTROL New proof] window with the uploaded files list and [!UICONTROL Single proof] sections highlighted.](assets/combine-proofs.png)
 
