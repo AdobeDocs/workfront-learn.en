@@ -23,6 +23,12 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
+>[!NOTE]
+>
+>If you decide to delete a template, any project you created using that template will not be affected. Deleted templates will be moved to the Recycle Bin for 30 days and can be recovered only by the system administrator.
+
+
+
 ## Learn how to create a custom view to see and edit the active status of project templates
 
 To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
