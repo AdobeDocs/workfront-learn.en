@@ -1,6 +1,6 @@
 ---
 title: Understand request queues
-description: Learn what a request queue is, how to submit a request through a request queue, and how request queues are structured.
+description: Streamline operations in Workfront with centralized request queues for submissions, efficient queue management, and easy access to submitted requests for improved project workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -16,14 +16,18 @@ doc-type: video
 ---
 # Understand request queues
 
-In this video, you will learn:
-
-* What a request queue is
-* How to submit a request through a request queue
-* How request queues are structured
-
+This video explains the concept of Request Queues in Workfront, their purpose, and how to submit and manage requests. ​ Request Queues serve as a centralized location for submitting various types of requests. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Purpose of Request Queues:** Request Queues in Workfront provide a centralized location for submitting various types of requests, such as PTO, software upgrades, client suggestions, and training needs.
+* **Submitting a Request:** Users can submit requests by navigating to the Request area, selecting the request type, filling out fields like Subject, Description, optional fields (e.g., Document), and completing a custom form. ​
+* **Requests as Issues:** In Workfront, every request is treated as an issue and must be associated with a project. ​ Projects dedicated solely to requests are called request queues. ​
+* **Queue Management:** Effective queue management involves organizing requests by type, which customizes required information and assignments, improving efficiency. ​
+* **Locating Submitted Requests:** Submitted requests can be found in the associated request queue's Issue tab by navigating to the Projects area and selecting the relevant project. ​
+
 
 ## Recommended tutorials on this topic
 

@@ -150,6 +150,7 @@ user-guide-description: Workfront tutorials
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+    + [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
     + [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
     + [Apply milestones](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
@@ -330,6 +331,7 @@ user-guide-description: Workfront tutorials
     + [Create and manage a record type](/help/workfront-planning/create-and-manage-a-record-type.md)
     + [Create and manage table views](/help/workfront-planning/create-and-manage-table-views.md)
     + [Create and manage timeline views](/help/workfront-planning/create-and-manage-timeline-views.md)
+    + [Benefits of Workfront Planning for UX Design teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrations {#integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}

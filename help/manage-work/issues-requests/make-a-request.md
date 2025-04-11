@@ -1,6 +1,6 @@
 ---
 title: Make a request
-description: Learn how to find the [!UICONTROL Requests] area and make a request. Then learn how to view submitted and draft requests.
+description: Enhance efficiency in Workfront with streamlined request creation, customizable workflows, draft autosave, tracking and filtering tools, and the ability to copy and reuse requests.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -16,18 +16,17 @@ doc-type: video
 ---
 # Make a request
 
-At many organizations, the first step in kicking off a new project, developing a new product, or creating a deliverable is making a request in Workfront. You can track the progress on the request and provide additional information when needed.
-
-In this video, you will learn how to:
-
-* Navigate to the request area
-* Make a request
-* View submitted requests
-* Copy a request
-* Find a draft of a request
-* See the last three request paths
+The video provides a detailed guide on how to make and manage requests within Workfront. It explains the process of creating a request, starting by selecting "Requests" from the main menu and clicking the "New Request" button. ​ Users can choose a request type from custom-designed queues tailored to their organization's workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Streamlined Request Creation:** Users can easily create requests by selecting "Requests" from the main menu, choosing a request type, filling out required fields, and attaching relevant documents. ​
+* **Customizable Workflows:** Request queues and forms are tailored to organizational workflows, allowing users to specify details (e.g., in-store, outdoor, social media) and priority.
+* **Draft Autosave Feature:** Drafts are automatically saved as users fill out the subject field, ensuring no data is lost if they pause or navigate away. ​ Drafts can be accessed later for completion or discarded if unnecessary. ​
+* **Tracking and Filtering Requests:** Submitted requests can be tracked on the "Submitted" page, with filters available to view open, unresolved, or all requests based on user permissions. ​
+* **Copy and Reuse Requests:** Users can copy existing requests to create new ones, making it easier to submit similar requests without starting from scratch.
 
 ## Recommended tutorials on this topic
 

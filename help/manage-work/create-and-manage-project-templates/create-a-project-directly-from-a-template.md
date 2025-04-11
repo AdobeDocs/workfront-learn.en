@@ -1,6 +1,6 @@
 ---
 title: Create a project directly from a template
-description: Learn how to create a project by starting with a template already built.
+description: Create projects directly from templates by ensuring access rights, using the three-dot menu to select "Create Project," editing the project details as needed, and finalizing the process for an efficient setup alternative.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,30 +8,26 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
+doc-type: video
 ---
 # Create a project directly from a template
 
-If you happen to be working on a template and need to create a project using that template, click the 3-dot menu next to the template name. Then select Create Project.
+The video explains how to create a project from a template. ​ If you have the rights to open a template, you can use it as a shortcut to create a project. ​ To do this, open the template, access the three-dot menu, and select "Create Project." ​ This takes you to a screen where you can edit the project details. ​ Once ready, click "Create Project" to finalize. ​
 
-![Create project option in menu](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-The details window allows you to make changes to the settings of the new project.
+## Key takeaways
 
-![Project creation page](assets/direct-template-02.png)
+* **Template Access:** You need rights to open a template to create a project from it. ​
+* **Shortcut Option:** Using a template can be a handy shortcut compared to starting a project from scratch. ​
+* **Three-Dot Menu:** Open the template and select "Create Project" from the three-dot menu. ​
+* **Edit Project Details:** After selecting "Create Project," you can edit the project details before finalizing. ​
+* **Finalize Creation:** Click "Create Project" when you're ready to complete the process. ​
 
->[!NOTE]
->
->In order to create a project using this method, you need access to the Templates area of Workfront. If you are unable to access templates, you can still use a template to create a project from the Projects area or when converting an issue/task. 
-
->[!TIP]
->
->If there's a template you use frequently, make it a favorite! You'll see the template listed in the New Project menu, in addition to it appearing under the Favorites menu in the navigation bar. 
-
-
-![New project favorite templates](assets/direct-template-03.png)
 
 ## Recommended tutorials on this topic
 
