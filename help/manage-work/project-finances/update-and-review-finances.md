@@ -1,6 +1,6 @@
 ---
-title: Update and review finances
-description: Learn how to review the financial information associated with a project in [!DNL  Workfront].
+title: Update finances
+description: Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,39 +10,52 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
+last-substantial-update: 2025-04-16
+recommendations: noDisplay,catalog
+doc-type: video
 ---
-# Update and review finances
 
-If your organization uses [!DNL Workfront] to keep track of project-related financial information, reviewing expenses and creating billing records may be part of your process for closing out a project.
+# Update finances
 
->[!NOTE]
->
->Many [!DNL Workfront] customers handle their expenses and project financials in a third-party system, rather than in [!DNL Workfront]. So you may have different processes or guidelines for updating and reviewing financial information before you close out a project.
+This video provides a detailed guide on tracking time, expenses, and creating billing records for client projects. ​ Key points include:
+
+**Tracking Time and Expenses:**
+Track time spent working on a project and project expenses to bill clients. ​
+Ensure users have cost and billing rates set in their profiles or job roles. ​
+
+**Task Setup:**
+Assign appropriate cost and revenue types to tasks. ​
+Cost types include fixed hourly, user hourly (based on user profile), and role hourly (based on task owner's job role).
+
+**Expense Management:**
+Create project-level expenses via the "Expenses" tab. ​
+Assign expenses to the project or tasks, mark them as billable or reimbursable. ​
+
+**Billing Records:**
+Create billing records at the project level to track billable items (hours, expenses, revenues). ​
+Add billable hours and expenses to the billing record.
+Update the billing record status and billing date after invoicing clients. ​
+
+**Final Notes:**
+Workfront tracks billable items but does not handle actual billing; users must use their own billing systems. ​
+
+This video emphasizes the importance of proper setup and tracking to streamline client billing processes. ​
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
 
 
-## Expenses
+* **Set Up Cost and Billing Rates:** Ensure users or job roles have cost and billing rates defined in their profiles to accurately track project expenses. ​
+* **Assign Cost and Revenue Types to Tasks:** Tasks should have appropriate cost and revenue types (e.g., fixed hourly, user hourly, role hourly) to calculate billable amounts correctly. ​
+* **Manage Project Expenses:** Use the "Expenses" tab to create and categorize expenses as billable or reimbursable, ensuring accurate tracking. ​
+* **Create and Update Billing Records:** Billing records help track billable hours, expenses, and revenues. ​ Add items to the record, update the status, and record billing dates after invoicing. ​
+* **Use External Billing Systems:** Workfront tracks billable items but does not handle actual billing; users must rely on their own billing systems for invoicing clients. ​
 
-Expenses can be logged on individual tasks or the project itself. Regardless of what item the expense is logged on, you can view all expenses in the [!UICONTROL Expenses] section of the project itself.
 
-![[!UICONTROL Expenses] section of a project](assets/expense-section.png)
+## Recommended tutorials on this topic
 
-## Billing records
+* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
+<!---* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)--->
+* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
 
-Billing records are used in [!DNL Workfront] to gather billable hours, billable expenses, billable revenues, and additional billable amounts into a single record and amount. Oftentimes, these are exported from [!DNL Workfront] into a third-party invoicing or accounting system.
-
-You must have access to financial data in [!DNL Workfront] in order to create and view billing records.
-
-## Financial details
-
-A glance at the [!UICONTROL Finance] information in the [!UICONTROL Project Details] lets you see actual numbers for benefit, revenue, and cost.
-
-![Finances section of [!UICONTROL Project Details] window on a project](assets/finance-section-project-details.png)
-
-Most of the financial information in the [!UICONTROL Project Details] is set up during the creation of the project, and the numbers you see here are based on that information. So as you’re closing a project, there really isn’t anything you need to update or add in the financial details.
-
-<!---
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
---->

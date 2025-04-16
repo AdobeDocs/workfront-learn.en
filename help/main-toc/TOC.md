@@ -177,8 +177,8 @@ user-guide-description: Workfront tutorials
     + [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Project finances for users {#project-finances-users}
-    + [Update and review finances](/help/manage-work/project-finances/update-and-review-finances.md)
     + [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
+    + [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)
     + [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
 
   + Intermediate projects {#intermediate-projects}

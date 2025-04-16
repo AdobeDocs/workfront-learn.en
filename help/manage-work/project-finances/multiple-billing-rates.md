@@ -1,6 +1,6 @@
 ---
 title: Understand multiple billing rates
-description: Learn how to override system billing rates within a project.
+description: Customize and manage billing rates for job roles at the project level.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,29 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
+last-substantial-update: 2025-04-16
+recommendations: noDisplay,catalog
+doc-type: video
 ---
+
 # Understand multiple billing rates
 
-Within [!DNL Workfront], a project manager has the ability to override system billing rates within a specific project. Previously, when the new billing rate was applied to the project, it not only affected future hours but hours already logged on the project.
+The video explains how to manage and customize billing rates for job roles within a project. ​It emphasizes flexibility in setting multiple billing rates for the same job role and ensuring accurate time-based adjustments. ​
 
-With [!DNL Workfront]’s new multiple billing rate capability, the project manager is able to decide what period of time a billing rate should be applied. This way, if a rate has been negotiated or changed, the project manager can determine when that rate should take effect.
 
-## Change the billing rate
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. Go to the project’s landing page. Select **[!UICONTROL Billing Rates]** from the left panel.
+## Key takeaways
 
-   ![An image of selecting [!UICONTROL Billing Rates] in [!DNL Workfront]](assets/project-finances-1.png)
 
-1. From the **[!UICONTROL Billing Rates]** tab, click the **[!UICONTROL Add Billing Rate]** button. Select **[!UICONTROL New Billing Rate]** from the dropdown.
+* **Default Billing Rate:** The system administrator sets a default billing rate for each job role, but it can be customized for individual projects. ​
+* **Flexibility in Billing Rates:** You can create multiple billing rates for the same job role within a project, allowing for tailored adjustments. ​
+* **Time-Specific Rates:** Billing rates can be set for specific time periods by adding start and end dates, ensuring accurate rate application during different phases of the project. ​
+* **Easy Customization:** Changes to billing rates are straightforward—select the job role, input the new rate, and save the updates directly from the "Billing Rates" tab. ​
 
-   ![An image of selecting [!UICONTROL New Billing Rate] in [!DNL Workfront]](assets/project-finances-2.png)
+## Recommended tutorials on this topic
 
-1. The [!UICONTROL New Billing Rate] dialogue box appears. From the **[!UICONTROL Job Role]** dropdown, select the job role to which the new billing rate will be applied.
+* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
+* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)
+<!---* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)--->
 
-   ![An image of selecting job roles in a new billing rate in [!DNL Workfront]](assets/project-finances-3.png)
-
-1. Once the job role is selected, the [!UICONTROL Default Billing Rate] and the [!UICONTROL Billing Rate 1] field appear. Enter the new billing rate in the [!UICONTROL Billing Rate 1] field. If that billing rate applies to the whole project (past, present, and future hours logged), click the **[!UICONTROL Save]** button.
-
-   ![An image of saving a new billing rate that applies to the whole project in [!DNL Workfront]](assets/project-finances-5.png)
-
-1. If the new billing rate only applies for a certain period of time, click the **[!UICONTROL Add Rate]** button. The [!UICONTROL Billing Rate 1 End Date] and the [!UICONTROL Billing Rate 2] fields appear. Enter the End Date for [!UICONTROL Billing Rate 1]. You cannot enter a Start Date for [!UICONTROL Billing Rate 1] because the system assumes it started at the beginning of the project.
-
-   ![An image of creating a new billing rate that applies to a certain period of time, starting at the beginning of the project in [!DNL Workfront]](assets/project-finances-6.png)
-
-1. If this is not the case:
-
-   * Enter the default billing rate for [!UICONTROL Billing Rate 1].
-   * Select the End Date for [!UICONTROL Billing Rate 1] ([!UICONTROL Default Billing Rate]).
-   * The Start Date for [!UICONTROL Billing Rate 2] will automatically be set to the day after [!UICONTROL Billing Rate 1] ends.
-   * Enter the desired billing rate in the [!UICONTROL Billing Rate 2] section.
-   * Continue to add billing rates, as needed, by clicking the **[!UICONTROL Add Rate]** button.
-   * When done, click **[!UICONTROL Save]**.
-   * All Billing Rates will show in the [!UICONTROL Billing Rates] tab on the project.
-
-   ![An image of creating new billing rates that apply to the different time periods in [!DNL Workfront]](assets/project-finances-7.png)
