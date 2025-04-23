@@ -63,8 +63,8 @@ If a severity is no longer needed, [!DNL Workfront] recommends you hide the seve
 
 ![Delete severity window](assets/admin-fund-severity-delete.png)
 
-<!---
+<!--
 learn more URLs
 Create and customize issue severities
 Update issue severity
---->
+-->

@@ -11,9 +11,9 @@ thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
 ---
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # Set up reminder notifications
 
@@ -48,12 +48,12 @@ Once the reminder settings have been established and saved, the reminder notific
 
 Reminder notifications use a default email format and message. If you want to customize the email, you can create a template.
 
-<!---
+<!--
 paragraph above needs a hyperlink to an article
---->
+-->
 
 ![New Email Template window](assets/admin-fund-email-customization.png)
 
-<!---
+<!--
 learn more URLs
---->
+-->

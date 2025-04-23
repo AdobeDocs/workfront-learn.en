@@ -41,14 +41,14 @@ Group administrators can click into the [!UICONTROL Groups] section in the [!UIC
 
 ![[!UICONTROL Statuses] section of [!UICONTROL Group] page](assets/admin-fund-group-issue-statuses.png)
 
-<!---
+<!--
 For detailed information on how managing statuses can be done by group administrators, see these articles:
 Create and customize group statuses
 Group administrators
---->
+-->
 
-<!---
+<!--
 learn more URLs
 Issue statuses
 Create and customize system-wide statuses
---->
+-->

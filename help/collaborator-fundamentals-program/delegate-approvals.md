@@ -17,7 +17,7 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more URLS
 Delegate approval request
---->
+-->

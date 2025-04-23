@@ -41,9 +41,9 @@ A glance at the [!UICONTROL Finance] information in the [!UICONTROL Project Deta
 
 Most of the financial information in the [!UICONTROL Project Details] is set up during the creation of the project, and the numbers you see here are based on that information. So as you're closing a project, there really isn't anything you need to update or add in the financial details.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

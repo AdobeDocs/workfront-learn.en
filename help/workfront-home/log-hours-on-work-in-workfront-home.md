@@ -28,6 +28,6 @@ A few options related to logging time depend on how your system administrator se
 * You may or may not be able to log time on future days.
 * You may need to select an hour type from the drop-down menu so you can be more specific about how you spent your time. This hour type may also indicate if your time was billable or non-billable. Be sure to select the hour type before entering your time clicking the [!UICONTROL Log Time] button.
 
-<!---
+<!--
 learn more URLs
---->
+-->

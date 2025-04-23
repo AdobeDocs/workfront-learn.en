@@ -39,8 +39,8 @@ The object(s) being restored will briefly pop up in an [!UICONTROL In Progress] 
 
 Group administrators can restore a project that is associated with the group they manage, along with any tasks, issues, or documents associated with the project.
 
-<!---
+<!--
 learn more URL
 Restoring deleted items
 Viewing items that have been recently restored
---->
+-->

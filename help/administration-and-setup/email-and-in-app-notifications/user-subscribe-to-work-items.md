@@ -54,6 +54,6 @@ To unsubscribe a user, click the bubble again to open the [!UICONTROL Subscriber
 
 ![[!UICONTROL Unsubscribe] menu option on a project](assets/admin-fund-user-notifications-14.png)
 
-<!---
+<!--
 learn more URL: Subscribe to items in Workfront
---->
+-->

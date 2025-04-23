@@ -11,13 +11,13 @@ thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 ---
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
-<!---
+<!--
 add URL link in the note at the top of the LP
---->
+-->
 
 # Set up event notifications
 
@@ -101,6 +101,6 @@ Specifically for project managers:
 * [!UICONTROL An issue is added to a project I own]
 * [!UICONTROL Milestone task is completed on a project I own]
 
-<!---
+<!--
 learn more URLs
---->
+-->

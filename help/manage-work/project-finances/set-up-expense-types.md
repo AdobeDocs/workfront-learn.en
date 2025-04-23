@@ -10,40 +10,27 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
+last-substantial-update: 2025-04-23
+recommendations: noDisplay,catalog
+doc-type: video
 ---
 # Set up expense types
 
-Expenses in [!DNL Workfront] represent non-labor costs associated with projects and other work. Expenses could be, for example, travel expenditures while visiting a client or the purchase of supplies needed to complete a photo shoot. These expenses should be logged within the project so planned costs and actual costs can be calculated and reported on for any project.
+The video explains how to manage expense types in Workfront, focusing on creating, using, and deleting them.
 
-[!DNL Workfront] has pre-built expense types that can be used when entering expenses. The defaults cannot be deleted or modified, but new ones can be added.
 
-* Advertising
-* Consulting
-* Entertainment
-* General
-* Materials
-* Printing
-* Shipping
-* Travel
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-A system administrator can add expense types needed for their organization. These additional expense types can be modified, hidden, or deleted to support the financial reporting needed in your organization.
+## Key takeaways
 
-Project managers, executives, and others can generate expense reports — grouping the individual expenses by type, if desired — for tasks, projects, programs, or portfolios within [!DNL Workfront]. Project financials become much more manageable using expense types.
+* **Pre-Built Expense Types:** Workfront includes pre-built expense types that cannot be deleted, hidden, or modified, ensuring consistency across the system.
+* **Custom Expense Types:** System Administrators can create their own expense types, which are editable, deletable, and system-wide. These can include calculated units, such as mileage rates.
+* **Expense Creation:** When creating an expense, users select an expense type, input details (e.g., mileage), and the system calculates the planned amount automatically based on the set rate.
+* **Deleting Expense Types:** Custom expense types can only be deleted after replacing them in all instances where they are used. A report can be generated to identify these instances.
 
-## Create an expense type
+## Recommended tutorials on this topic
 
-**Select [!UICONTROL Setup] from the main menu**
-
-1. Click **[!UICONTROL Expense Types]** in the left panel menu.
-1. Click the **[!UICONTROL New Expense Type]** button.
-1. Name the expense type.
-1. Add a description, if needed.
-1. Click the **[!UICONTROL Save]** button.
-
-![An image of creating a new [!UICONTROL Expense Type]](assets/setting-up-finances-6.png)
-
-## Using expense types
-
-The expense options show up in the **[!UICONTROL Expense Type]** dropdown when users create an expense on a project or task in [!DNL Workfront].
-
-![An image of adding a new expense](assets/setting-up-finances-7.png)
+* [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)
