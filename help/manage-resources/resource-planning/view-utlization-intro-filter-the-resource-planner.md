@@ -11,7 +11,7 @@ thumbnail: view-utilization.png
 jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
 ---
-# View utillization and filter the Resource Planner
+# View utilization and filter the Resource Planner
 
 With the Resource Planner, you gain a clear view of the projects you're interested in and a real-time look at how your workforce stacks up to execute them.
 
