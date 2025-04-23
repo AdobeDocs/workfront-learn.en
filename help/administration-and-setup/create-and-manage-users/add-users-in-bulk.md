@@ -35,9 +35,9 @@ The imported users appear in the [!UICONTROL Users] list. Edit the information o
 
 [!DNL Workfront] provides a kick-start template to import data into the system. It can also be used for importing users. Before you use the kick-start, [!DNL Workfront] recommends you work with your [!DNL Workfront] consultant, as there are considerations you should be aware of.
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 See Import Data into Workfront via Kick-Starts for detailed information.
 

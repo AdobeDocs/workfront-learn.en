@@ -18,11 +18,11 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

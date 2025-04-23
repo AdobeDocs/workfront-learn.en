@@ -36,11 +36,11 @@ In this video, you will learn how to:
 * [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

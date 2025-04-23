@@ -30,8 +30,8 @@ Once the reminder is created and is available for you to use, it must be attache
 >
 >If you would like to use a reminder notification on the same projects or tasks more than once, attach the reminder notification to a project template.
 
-<!---
+<!--
 learn more URLs
  Attach a reminder notification to an object
 Automatic reminders vs. reminder notifications
---->
+-->

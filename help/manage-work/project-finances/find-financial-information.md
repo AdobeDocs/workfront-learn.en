@@ -31,7 +31,7 @@ The video explains how to access and manage financial information for projects a
 
 ## Recommended tutorials on this topic
 
-<!---* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)--->
+<!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
 * [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)
 * [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
 

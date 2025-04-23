@@ -55,8 +55,8 @@ Be sure to save any changes when you’re done.
 >
 >You also can edit a team’s settings from the [!UICONTROL Teams] section of the [!UICONTROL Setup] page.
 
-<!---
+<!--
 learn more URLs
 Create a team
 Work On It and Done button overview
---->
+-->

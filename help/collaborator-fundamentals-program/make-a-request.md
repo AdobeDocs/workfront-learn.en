@@ -32,10 +32,10 @@ As you type in keywords, [!DNL Workfront] brings up matches so you can find the 
 
 Select the option you want, fill out the request form, and submit the request. 
 
-<!---
+<!--
 Learn more
 Requests area overview
 Create and submit Workfront requests
 Guides
 Make a work request
---->
+-->

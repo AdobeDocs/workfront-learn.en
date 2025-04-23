@@ -28,6 +28,6 @@ In this video, you will learn:
 * Change the [!UICONTROL Status] drop-down menu to Complete.
 * Update the [!UICONTROL percent complete] to 100 percent. This automatically changes the status to Complete.
 
-<!---
+<!--
 learn more URLs
---->
+-->
