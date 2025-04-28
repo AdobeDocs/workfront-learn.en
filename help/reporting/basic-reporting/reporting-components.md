@@ -1,6 +1,6 @@
 ---
 title: Understand reporting components
-description: Learn the key components behind reporting and how these are used in a reporting element in Workfront.
+description: Workfront's reporting components refine data visualization with object-based filters, dynamic views, structured groupings, and wildcard functionality for tailored insights.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -14,12 +14,23 @@ doc-type: video
 ---
 # Understand reporting components
 
-In this video, you will learn:
+The video explains the concept of reporting components in Workfront, which are essential for creating filters, views, and groupings. The key components include:
 
-* The key components behind Workfront reporting
-* How these components are used in a reporting element
+* **Object Type:** Specifies the Workfront object being dealt with, such as a project, task, or hour entry. ​ Filters, views, and groupings are specific to the object type. ​
+* **Field Source and Field Name:** The field source is the item in Workfront where information is attached, and the field name is the specific piece of information (e.g., "description" for a project). ​
+* **Value Field:** Represents the content of a field, such as "low," "normal," "high," or "urgent" for the priority field. ​
+* **Filter Qualifier:** Defines which values to include or exclude in a report, such as showing tasks with a priority of "high." ​
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## Key takeaways
+
+* **Reporting Components:** Workfront's reporting components include object type, field source, field name, filter qualifiers, and value field, which are essential for creating filters, views, and groupings. ​
+* **Object Type Specificity:** Filters, views, and groupings are tied to specific object types, such as projects, tasks, or hour entries, ensuring reports are tailored to the relevant data. ​
+* **Filter Rules:** Filters use field source, field name, qualifiers, and values to define criteria. ​ For example, the "My Projects" filter shows only current projects where the logged-in user is part of the project team. ​
+* **Views and Groupings:** Views display field source and field name combinations in columns (e.g., "owner name"), while groupings organize data based on specific criteria (e.g., "company name"). ​
+* **Wildcard Usage:** Wildcards in filters allow dynamic matching, such as identifying logged-in users within a project team, enhancing personalization in reporting. ​
 
 ## Reporting components quick reference
 
