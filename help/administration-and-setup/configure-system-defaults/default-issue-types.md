@@ -14,9 +14,9 @@ exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 
 Because each issue type is tracking different types of information, each type may require unique workflows in order for them to be resolved. Customize the statuses for each issue type to match that issue type’s workflow.
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## Default statuses
 
@@ -36,9 +36,9 @@ Six other statuses common to issue management come with [!DNL Workfront]:
 * Verified Complete
 * Won’t Resolve
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 The status of an issue can be viewed and changed in the [!UICONTROL Issue Details]. You also can change the issue of a status in the issue page header, at the far right.
@@ -49,9 +49,9 @@ You can add the [!UICONTROL Status] column to a view or custom report, making it
 
 ![[!UICONTROL Status] column in a [!UICONTROL View]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 Let’s take a look at status basics for issues:
 

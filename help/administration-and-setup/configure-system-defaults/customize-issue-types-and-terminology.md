@@ -42,10 +42,10 @@ Issue types are renamed at a system-wide level, so the change applies to all use
 >
 >You cannot create more issue types or delete an issue type.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Change the term “issue” in Workfront
 
@@ -54,13 +54,13 @@ Workfront administrators can use the layout template functionality to rename the
 
 ![[!UICONTROL Terminology] window with [!UICONTROL Issue] highlighted](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Learn how system and group administrators can create layout templates in the learning path, Administrator Fundamentals in the new [!DNL Workfront] experience: Part 3 Control and Interface Experience.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

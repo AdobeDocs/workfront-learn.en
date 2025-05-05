@@ -34,5 +34,5 @@ The video explains how to manage and customize billing rates for job roles withi
 
 * [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
 * [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)
-<!---* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)--->
+<!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

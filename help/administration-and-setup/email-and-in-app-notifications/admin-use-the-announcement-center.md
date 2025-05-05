@@ -11,9 +11,9 @@ thumbnail: 10094.jpeg
 jira: KT-10094
 exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 ---
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # Send [!UICONTROL Announcement Center] messages
 

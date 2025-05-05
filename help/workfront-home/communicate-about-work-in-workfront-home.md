@@ -28,14 +28,14 @@ In this video, you will learn how to:
 * “Tag” other [!UICONTROL Workfront] users with the @name to make sure they get notified about the update. This is the best way to make sure that specific people see the latest information. You can “tag” individual users or a team in an update.
 * Remember, the equivalent to the infamous email “reply all” is when you tag a team or a group and continue to respond within the thread. Be mindful of this to avoid causing annoyance. You can direct tag above or below yet still within the context of the object.
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * If you’re not assigned to a task but want to receive notifications--subscribe to the task. Learn more in the article Subscribe to items in [!UICONTROL Workfront] in the new [!UICONTROL Workfront] experience.
 * Post updates on a specific day of the week so everyone knows when to look for the latest information.
 * Use the rich text tools to format your updates. Make information stand out with bold or create an easy-to-read summary with bullet points.
 
-<!---
+<!--
 learn more URLs
---->
+-->

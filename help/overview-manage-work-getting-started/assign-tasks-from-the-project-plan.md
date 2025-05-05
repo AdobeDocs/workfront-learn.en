@@ -27,14 +27,14 @@ In this video, you will:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more urls:
 Notifications: Information about work assigned to me
 Assign tasks
 Personal time overview
 Make smart assignments
 Modify multiple user assignments in a task list
---->
+-->
 
 ## Recommended tutorials on this topic
 

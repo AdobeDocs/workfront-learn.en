@@ -1,6 +1,6 @@
 ---
 title: Understand reporting elements
-description: Learn how to use existing reporting elements—filters, views, and groupings—to access information being tracked in Workfront.
+description: Enhance project reporting with customizable filters, views, and groupings that refine list reports, organize data efficiently, and enable seamless collaboration.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335145.jpeg
@@ -14,8 +14,16 @@ doc-type: video
 ---
 # Understand reporting elements
 
-In this video, you will learn how to:
+The video explains how to use Workfront's reporting elements—filters, views, and groupings—to access and refine valuable information in list reports for projects, tasks, and other objects. ​ Filters help narrow down lists based on specific criteria, such as showing only active projects or tasks assigned to you. ​ Views determine the information displayed in columns, highlighting specific fields like revenue or expenses. ​ Groupings organize lists based on criteria like planned completion date or progress status.
 
-* Use existing reporting elements—filters, views, and groupings—to access the valuable information being tracked in Workfront
+The video also demonstrates how to customize reporting elements and share them with others. ​ These tools enable users to tailor list reports to their needs for better visibility and management.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+
+## Key takeaways
+
+* **Three Reporting Elements:** Workfront uses filters, views, and groupings to refine list reports for projects, tasks, and other objects. ​
+* **Filters for Specific Criteria:** Filters narrow down lists based on criteria, such as showing active projects or tasks assigned to you. ​
+* **Views for Field Information:** Views determine the columns displayed, allowing users to focus on specific fields like revenue, expenses, or progress. ​
+* **Groupings for Organization:** Groupings organize lists based on criteria like planned completion date or progress status, helping users quickly assess project health. ​
+* **Customization and Sharing:** Users can create and share custom reporting elements to tailor list reports to their specific needs.

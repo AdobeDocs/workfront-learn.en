@@ -13,9 +13,9 @@ exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
 ---
 # Edit a custom form
 
-<!---
+<!--
 21.4 updates have been made here
---->
+-->
 
 You can edit information on a custom form after the form is attached to an object. 
 

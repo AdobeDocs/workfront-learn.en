@@ -14,9 +14,9 @@ doc-type: video
 ---
 # Configure global default project settings
 
-<!---
+<!--
 21.4 updates have been made
---->
+-->
 
 In this video, you will learn how to:
 
@@ -73,7 +73,7 @@ For any settings unlocked by the system administrator, the group administrators 
 
 If your organization isn’t using group administrators, the system administrator can manage the preference settings for the different groups. 
 
-<!---
+<!--
 learn more URLs and guides
 Create or edit a group status 
 Group administrators 
@@ -81,4 +81,4 @@ Configure system-wide project preferences
 Configure project preferences for a group 
 Configure task and issue preferences for a group 
 Create and modify a group’s schedule 
---->
+-->

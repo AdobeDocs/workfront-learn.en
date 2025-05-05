@@ -22,9 +22,9 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 Learn More Icon
 Automated workflow overview
 Create and manage Automated Workflow templates
 Configure a proof
---->
+-->

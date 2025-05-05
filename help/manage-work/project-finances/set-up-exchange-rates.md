@@ -1,6 +1,6 @@
 ---
 title: Set up exchange rates
-description: Learn how to use exchange rates on projects and reports to reflect financial information in different currencies from around the world.
+description: Customize currency settings with flexible exchange rate management, global and project-level customization, and manual input options for accurate financial tracking.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,31 +10,28 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
+last-substantial-update: 2025-04-23
+recommendations: noDisplay,catalog
+doc-type: video
 ---
 # Set up exchange rates
 
-[!DNL Workfront] supports different currencies for customer organizations that are multinational companies. Exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
+The video provides a guide on managing currencies in the Workfront financial tracking system. ​ It explains that the default currency is the U.S. dollar, but additional currencies can be set up globally or for individual projects and job roles.
+The video emphasizes that the system does not provide current exchange rates, so users must source them externally. ​ Once set, the exchange rates become the default for projects or job roles but do not update automatically; users with appropriate permissions must update them manually. ​ After setting up currencies, users can create new projects and select from the available currency options, with the ability to customize exchange rates for individual projects. ​
 
-Exchange rates are managed by system administrators. Additional currencies can be set up as needed for your organization.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-Workfront's default base currency is the United States dollar. This is the currency that financial information will be calculated in by default. This default can be changed globally and on individual projects.
+## Key takeaways
 
-## Set up currencies and exchange rates
+* **Default Currency:** The system's default currency is the U.S. dollar, but this can be changed globally or for individual projects and job roles. ​
+* **Adding Currencies:** Additional currencies can be set up along with their exchange rates in the setup area. ​
+* **Manual Exchange Rate Updates:** The system does not provide current exchange rates; users must source them externally and manually input them. ​
+* **Project-Specific Customization:** Exchange rates set in the setup area are used as defaults, but users can customize exchange rates for individual projects. ​
+* **Updates and Permissions:** Changes in the setup area do not automatically update existing projects. Updating exchange rates for projects or job roles requires appropriate user permissions.
 
-![An image of selecting exchange rates](assets/setting-up-finances-4.png)
+## Recommended tutorials on this topic
 
-**Select [!UICONTROL Setup] from the main menu.**
-
-1. Expand **[!UICONTROL Project Preferences]** in the left menu panel.
-1. Click **[!UICONTROL Exchange Rates]**.
-1. Click the **[!UICONTROL Add Currency]** button.
-1. Select the country currency from the dropdown.
-1. Enter the desired exchange rate for the currency.
-1. If a currency other than the U.S. dollar should be the [!DNL Workfront] system's base (default) currency, click the button next to the currency name.
-1. Click **[!UICONTROL Save]** when all currencies have been added.
-
-![An image of adding a currency to the exchange rates list](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront does not update or track current market values for exchange rates. Updates, if needed, must be done manually.
+* [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Set up expense types](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)

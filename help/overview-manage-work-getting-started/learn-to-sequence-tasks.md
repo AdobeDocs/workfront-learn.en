@@ -27,7 +27,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 Learn more urls
 There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
 Overview of task predecessors
@@ -35,7 +35,7 @@ Create predecessor relationships by chaining tasks
 Creating a predecessor relationship on the task list
 Overview of lag types
 Overview of task dependency types
---->
+-->
 
 ## Recommended tutorials on this topic
 

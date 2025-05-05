@@ -1,6 +1,6 @@
 ---
 title: Understand performance metrics
-description: Learn how to use the performance metrics - the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]).
+description: Discover adaptable financial performance metrics with flexible calculation methods, global defaults, and project-level overrides, empowering administrators and project managers to effectively tailor financial metrics to project needs.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,50 +10,41 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
+last-substantial-update: 2025-04-23
+recommendations: noDisplay,catalog
+doc-type: video
 ---
 # Understand performance metrics
 
-Two performance metrics used by project managers include the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]). System-wide defaults can be set in [!DNL Workfront] and apply to newly created projects. [!UICONTROL PIM] can then be modified on individual projects.
+The video discusses financial performance metrics and settings for project management. ​ Key points include:
 
-**[!UICONTROL PIM]**
+**Performance Metrics Overview:** Metrics such as cost performance index, schedule performance index, cost schedule performance index, and estimated completion are available under the Project Details tab and finance section. ​ Documentation for calculations can be accessed via info bubble links.
 
-The settings for the [!UICONTROL PIM] control how [!DNL Workfront] calculates other project performance metrics such as the [!UICONTROL Cost Performance Index] ([!UICONTROL CPI]), [!UICONTROL Cost Schedule Performance Index] ([!UICONTROL CSI]), [!UICONTROL Schedule Performance Index] ([!UICONTROL SPI]), and [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]).
+**Performance Index Method (PIM):** The project manager can select the method for calculating the cost performance index (CPI) and estimate at completion (EAC), either hour-based (completion in hours) or cost-based (completion in money). ​ System administrators can set the default method globally, but project managers can adjust it for individual projects. ​
 
-Options for the [!UICONTROL PIM] are hour-based and cost-based.
+**Estimate at Completion (EAC) Calculation:** System administrators can set the default calculation method globally, with two options:
+* **Roll-up from tasks/subtasks:** Adds estimate at completion values from child tasks but excludes hours added directly to parent tasks or the project level. ​
+* **Calculated at project level:** Includes estimate at completion values from child tasks and hours added directly to parent tasks or the project level. This is the recommended default. ​
 
-* **Hour-based** — Workfront uses the planned hours in calculating the CPI and EAC of the project. The EAC of the project displays as a number, in hours.
-* **Cost-based** — Workfront uses the planned labor cost in calculating the CPI and EAC of the project. EAC appears as a currency value. When using this option, ensure task assignees (users and/or job roles) are associated with cost rates.
+The video emphasizes the flexibility and control available to both system administrators and project managers in managing performance metrics and calculations. ​
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-[!UICONTROL EAC] represents the projected total cost of your task or project when it completes. Options are calculated at a project level and roll up from tasks/subtasks.
+## Key takeaways
 
-* **Calculate at project level** — [!UICONTROL EAC] for the parent task and project are determined using the actual hours/actual labor costs in [!UICONTROL EAC] formulas. The calculation includes actual hours/costs and expenses added directly to the parent task or project.
-* R**oll up from tasks/subtasks** — [!UICONTROL EAC] for the parent task and project are determined by adding up the [!UICONTROL EAC] for each child task. This calculation excludes actual hours/costs added directly to a parent task or project.
 
-The [!UICONTROL EAC] calculations are listed in [Calculate Estimate At Completion (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
+* **Performance Metrics Access:** Key metrics like cost performance index (CPI), schedule performance index (SPI), and estimate at completion (EAC) can be found under the Project Details tab in the Finance section, with documentation available via info bubble links. ​
+* **Performance Index Method:** Project managers can choose between hour-based or cost-based methods for calculating metrics, while system administrators can set a global default.
+* **Estimate at Completion Calculation Options:** Two methods are available:
+    * Roll-up from tasks/subtasks (excludes hours added directly to parent tasks or project level). ​
+    * Calculated at project level (includes hours added directly to parent tasks or project level). The latter is recommended. ​
+* **Global vs. Project-Level Settings:** System administrators can set global defaults for performance index method and estimate at completion calculations, but project managers can override the performance index method setting for individual projects. ​
+* **Flexibility in Metrics Management:** The system provides tools for both administrators and project managers to customize and manage performance metrics effectively, ensuring adaptability to project-specific needs.
 
-**Performance Metrics: Settings**
+## Recommended tutorials on this topic
 
-To set [!UICONTROL PIM] and [!UICONTROL EAC] system defaults:
-
-1. Select **[!UICONTROL Setup]** from the main menu.
-1. Click **[!UICONTROL Project Preferences]** in the left panel menu, then click **[!UICONTROL Projects]**
-1. In the [!UICONTROL Project Status] section, find [!UICONTROL Performance Index Method]. Select Hours-based or Cost-based.
-1. For [!UICONTROL Estimate at Completion], select Calculate at project level or Roll up from tasks/subtasks.
-1. Click **[!UICONTROL Save]** at the bottom of the window.
-
-![An image of the [!UICONTROL Project Preferences] screen](assets/setting-up-finances-1.png)
-
-**Set [!UICONTROL PIM] on individual projects**
-
-1. Go to the landing page of a project.
-1. Click **[!UICONTROL Project Details]** from the left panel.
-1. Open the **[!UICONTROL Finance]** section.
-1. Double-click the text below **[!UICONTROL Performance Index Method]** to edit it.
-1. Select Hours-based or Cost-based. 
-1. Click **[!UICONTROL Save]** Changes to finish.
-
-![An image of the [!UICONTROL Project Details] screen](assets/setting-up-finances-2.png)
-
-[!UICONTROL PIM] can be set on a project template, in the [!UICONTROL Finance] section of the template details.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Set up expense types](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)
