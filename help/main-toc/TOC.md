@@ -569,17 +569,7 @@ user-guide-description: Workfront tutorials
 
 + Home {#home}
   + [Remove, add, and rearrange widgets in Home](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-  + [Find your work](/help/workfront-home/find-your-work-in-workfront-home.md)
-  + [Organize your to-do list](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-  + [Prioritize your work](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-  + [Indicate work status](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-  + [Communicate about work](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-  + [Log hours on work](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-  + [Mark assigned work as complete](/help/workfront-home/mark-assigned-work-as-complete.md)
-  + [Approve work in [!UICONTROL Home]](/help/workfront-home/approve-work-in-workfront-home.md)
-  + [Collaborate on work with [!UICONTROL My Updates]](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-  + [Review work in [!UICONTROL My Updates] or [!UICONTROL Home]](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-  + [Understand updates and notifications](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
     
 + Agile {#agile}
 
