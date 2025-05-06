@@ -72,10 +72,11 @@ The end of the quarter is nearing, and you want to see how recently completed pr
    ![An image of the screen to add filters to a report](assets/chart-report-filters.png)
 
 1. In the **[!UICONTROL Chart]** tab, choose **[!UICONTROL Column]** for the chart type.
-1. For the [!UICONTROL Left (Y) Axis], choose [!UICONTROL Project] > [!UICONTROL Planned Cost].
-1. For the [!UICONTROL Bottom (X) Axis], choose [!UICONTROL Project] > [!UICONTROL Name].
-1. Click the **[!UICONTROL Combination Chart]** button and select [!UICONTROL Project] > [!UICONTROL Actual Cost] in the **[!UICONTROL Value]** field.
-1. Click the arrow next to the color box to change the [!UICONTROL Actual Cost] color. Select one of the colors that appears or click the box in the lower-right corner to bring up the color palette.
+1. For the [!UICONTROL Left (Y) Axis], choose [!UICONTROL Planned Cost].
+1. For the [!UICONTROL Bottom (X) Axis], choose [!UICONTROL Name].
+1. Click the **[!UICONTROL Combination Chart]** button and select [!UICONTROL Actual Cost] in the **[!UICONTROL Value]** field.
+1. In the **[!UICONTROL Chart Type]** field select Line.
+1. Click the color box to change the [!UICONTROL Actual Cost] color. Select a color.
 1. Click on **[!UICONTROL Save + Close]**. When prompted for a report name, call it "Planned vs Actual Cost by Project Completed Last Quarter."
 
    ![An image of the screen to add a chart to a report](assets/chart-report-chart.png)
