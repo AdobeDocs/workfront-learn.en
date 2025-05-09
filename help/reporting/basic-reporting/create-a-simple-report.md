@@ -8,17 +8,29 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 ---
 # Create a simple report
 
-In this video, you will learn how to:
+This video explains how to create and customize project reports to effectively analyze data. ​ It begins by highlighting the importance of reports in tracking project progress, task completion, budget adherence, and identifying issues. The video demonstrates how to start with a project list report, adjust filters, views, and groupings, and create a custom report for convenience. ​ ​
 
-* Create a simple report using an existing filter, view, and grouping
+The video emphasizes that custom reports retain their default settings, but temporary changes can be made when viewing them. ​ Reports are stored in the "My Reports" section, while shared reports appear in "Shared with Me." ​ Frequently used reports can be pinned or marked as favorites for easy access. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## Key takeaways
+
+
+* **Purpose of Reports:** Reports help track project progress, task completion, budget adherence, and identify issues, making them essential for effective project management.
+* **Custom Report Creation:** Custom reports allow you to save specific filters, views, and groupings for easy access, eliminating the need to repeatedly adjust settings. ​
+* **Steps to Build a Report:** Select the appropriate object type, name the report, apply filters, views, and groupings, customize columns, and save the report. ​
+* **Temporary vs.​ Default Settings:** While viewers can temporarily change filters, views, and groupings, the report will always revert to its default settings upon reopening. ​
+* **Organizing Reports:** Custom reports are stored in "My Reports," shared reports in "Shared with Me," and frequently used reports can be pinned or marked as favorites for quick access. ​
+
+
 
 ## "Create a simple report" activities
 
