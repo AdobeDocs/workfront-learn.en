@@ -2,7 +2,7 @@
 title: Welcome to advanced reporting
 description: Learn how to use the [!UICONTROL API Explorer] and text mode to create advanced filters, views, and groupings that go beyond the capabilities of the [!UICONTROL Reporting UI].
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
