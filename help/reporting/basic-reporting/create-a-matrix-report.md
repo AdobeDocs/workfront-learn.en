@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 ---
@@ -20,6 +21,14 @@ In this video, you will learn:
 * And how to create a matrix report
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Key takeaways
+
+* **Matrix Report Structure:** Matrix reports organize data in rows and columns, with automatic row and column totals. ​ They are ideal for tracking metrics like hours worked, costs, and revenue. ​
+* **Filters Setup:** Use filters to focus on specific data, such as hours worked during the last quarter by users from a particular home team. ​ The "owner field source" helps identify relevant team members. ​
+* **Grouping Options:** In our example, rows are grouped by "owner name" (person who worked the hours), while columns are grouped by "hour entry date" (by month and week). ​
+* **Summarized Data:** Columns like hours, actual cost, and revenue are summarized by default, ensuring totals are displayed in the matrix. These defaults can be turned off, if desired. ​
+* **Chart Integration:** Matrix reports can be complemented with charts for alternative data visualization, using the same grouping information. You can set the matrix tab or chart tab as the default view. ​
 
 ## "Create a matrix report" activities
 
