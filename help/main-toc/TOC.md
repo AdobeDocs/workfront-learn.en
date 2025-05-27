@@ -230,28 +230,6 @@ user-guide-description: Workfront tutorials
     + [Understand additional calendar report options](/help/reporting/basic-reporting/additional-calendar-options.md)
     + [Your turn to create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-  + Enhanced analytics {#enhanced-analytics}
-    + [A moment with Product about [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-    + [Get started with [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-    + [How to access [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-    + [Understand basic navigation](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-    + [Understand work and people charts](/help/reporting/enhanced-analytics/5-work-and-people-charts.md) 
-    + [Understand filters](/help/reporting/enhanced-analytics/6-filters-overview.md)
-    + [Understand date ranges and timeframes](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-    + [Understand planned hours and duration views](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-    + [Understand actions: hover click and drag and click in](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-    + [Understand KPIs](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-    + [Understand navigating and reviewing projects](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-    + [Dig deeper using timeframes and additional charts](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)  
-    + [Understand navigating and reviewing project activity](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-    + [Dig deeper into navigation](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-    + [Understand accessing and reviewing the burndown](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-    + [Review the tasks in flight](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-    + [Take action by making updates](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-    + [Understand the activity by team chart](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-    + [Understand a KPI comparisons use case](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-    + [Understand an end user use case](/help/reporting/enhanced-analytics/22-end-user-use.md)
-    + [Understand consulting guidance](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Manage resources {#manage-resources}
   + Resource management {#resource-management}
