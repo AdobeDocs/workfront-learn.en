@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 ---
@@ -21,6 +22,15 @@ In this video, you will learn:
 * What recipients can see and do with a Workfront report
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Key takeaways
+
+* **Sending Reports to External Users:** You can send reports to non-Workfront users by entering their email addresses, making it easy to share data outside your organization. ​
+* **Access Rights Control Visibility:** The recipient's view of the report depends on the access rights you set, ensuring data security and appropriate visibility. ​
+* **Repeating Delivery for Snapshots:** Scheduled deliveries provide frozen snapshots of data at specific times, useful for tracking trends and maintaining a history of project data. ​
+* **Sharing Reports with Teams:** Reports can be shared with individuals, teams, or job roles, granting either view or manage rights. ​ Shared reports appear in the users "Shared with Me" section. ​
+* **Public and System-Wide Sharing:** Reports can be shared via public links for external users or made visible system-wide for all Workfront users, offering flexibility in data sharing.
+
 
 ## "Send and share reports" activities
 
