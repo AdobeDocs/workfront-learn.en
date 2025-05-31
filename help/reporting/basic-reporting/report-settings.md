@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335159.png
 jira: KT-8871
+last-substantial-update: 2025-05-30
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 ---
@@ -17,6 +18,7 @@ doc-type: video
 In this video, you will learn:
 
 * How to access report settings
-* What some common report settings are used for
+* How to run your report with the access rights of a specific user
+* How to set up and use report prompts
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
