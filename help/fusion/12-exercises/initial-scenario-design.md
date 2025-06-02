@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 ---
@@ -36,7 +37,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
    ![Initial Scenario Design Image 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. On the next page, search for Workfront and select that app. Then click Continue.
-1. At the top left of the scenario designer screen, rename your scenario to "Initial dcenario design"
+1. At the top left of the scenario designer screen, rename your scenario to "Initial scenario design"
 1. Click the empty trigger module in the center of the screen and select the Workfront app, then select the Download Document module.
 
    **Authenticate the module's connection to your Workfront account.**
@@ -49,7 +50,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
    ![Initial Scenario Design Image 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Enter the URL of **your Workfront instance**, then click Next.
+1. Enter the URL of **your Workfront test drive account**, then click Next.
 
    ![Initial Scenario Design Image 5](../12-exercises/assets/initial-scenario-design-5.png)
 
