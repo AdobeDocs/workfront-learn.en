@@ -8,20 +8,25 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20
+last-substantial-update: 2025-06-06
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 ---
 # Create a basic view
 
-In this video, you will learn:
+The video explains how to create and customize views in Workfront to display specific information about items in a list, such as projects, tasks, issues, and documents. ​ Views allow users to see details like name, description, status, and other fields relevant to the items. ​
 
-* What a view is in Workfront
-* How to create and modify a view
-* How to share a view with other Workfront users
+The video emphasizes the flexibility of views in Workfront and provides step-by-step instructions for creating, customizing, and managing them.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Key takeaways
+
+* **Customizing Views**: Users can edit existing views or create new ones by adding, removing, or rearranging columns to display specific information, such as project status or budget.
+* **Inline Editing**: Some fields in a list view can be updated directly without opening individual items, making it faster to make changes. ​
+* **Creating Views from Scratch**: Users can design views to meet specific needs, such as tracking project health, by adding relevant columns like budget, actual cost, and progress status. ​
+* **Sharing and Managing Views**: Custom views can be shared with team members for collaboration or removed when they are no longer needed.
 
 ## "Create a basic view" activities
 
@@ -59,7 +64,7 @@ Hover over each of the icons in the [!UICONTROL Status Icons] column to see what
 
 ### Activity 2: Create a milestone view
 
-If you use milestones, this view is the easiest way to see milestones by name and add or edit them using in-line edit.
+If you use milestones, this view is the easiest way to see milestones by name in your task list, and add or remove them from a task using in-line edit.
 
 Create a task view named "Milestone View" with the following columns:
 
@@ -80,7 +85,7 @@ Create a task view named "Milestone View" with the following columns:
 1. In a project task list, go to the **[!UICONTROL View]** drop-down menu and select **[!UICONTROL New View]**.
 1. Name your view "Milestone View."
 1. Click on the [!UICONTROL Predecessors] column to select it.
-1. In the [!UICONTROL Show in this column] field, click on the X icon in the [!UICONTROL Task >> Predecessors] field, then type "[!UICONTROL milestone name]" and click on "[!UICONTROL Name]" in the list.
+1. In the [!UICONTROL Show in this column] field, click on the "minus"" icon in the [!UICONTROL Task >> Predecessors] field, then type "[!UICONTROL milestone name]" and click on "[!UICONTROL Name]" in the list.
 1. Click **[!UICONTROL Save]**.
 
 ![An image of a task list using a milestone view](assets/view-milestone-exercise-2.png)

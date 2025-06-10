@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
+last-substantial-update: 2025-05-28
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 ---
@@ -34,7 +35,7 @@ The video provides a comprehensive guide to understanding and using dashboards i
 
 Create a [!UICONTROL dashboard] with only one report in it—"Search Notes in This Project." This is useful for quickly finding any update made on a project, even if there are thousands of updates to search through. This will search into update threads to quickly extract any updates that meet the criteria you specify in the prompts.
 
-Create this report by making a copy of the "Search Notes" report you created in the "Create a note report" activity (or use another report if you didn't do that activity).
+Create this report by making a copy of the "Search Notes" report you created in the "Create a note report" activity. Didn't create it yet? Click here to see the activity in the [Create a task report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) tutorial.
 
 * Remove the Project Name prompt from the copy and rename the report "Search Notes in This Project."
 * Name the [!UICONTROL Dashboard] "Search Notes."
@@ -55,7 +56,7 @@ Create this report by making a copy of the "Search Notes" report you created in 
 
    Next you're going to use a shortcut to create a new dashboard and add this report to it.
 
-1. Click **[!UICONTROL Report Actions]** and select **[!UICONTROL Add to Dashboard]** > **[!UICONTROL New Dashboard]**.
+1. Click **[!UICONTROL Report Actions]** and select **[!UICONTROL Add to Classic Dashboard]** > **[!UICONTROL New Dashboard]**.
 1. Drag the report "Search Notes in This Project" to the **[!UICONTROL Layout]** panel.
 1. Notice that the name of the report becomes the name of the dashboard. Edit the name to just "Search Notes."
 
@@ -67,8 +68,8 @@ Create this report by making a copy of the "Search Notes" report you created in 
 
    ![An image of the screen to create a new dashboard](assets/add-custom-section.png)
 
-1. Go to any project. From the left panel menu, click the **[!UICONTROL Add custom section]** icon.
-1. In the **[!UICONTROL Add a Dashboard]** field, type "Search Notes" and select the [!UICONTROL dashboard] from the list.
-1. In the **[!UICONTROL Custom section title]** field, type in "Search Notes."
-1. Click **[!UICONTROL Add new section]**.
-1. From the left panel menu, find Search Notes. Click the dots to the left of the section name and drag it right below Updates.
+1. Go to any project. From the left panel menu, click the **[!UICONTROL Add a Dashboard]** button.
+1. In the **[!UICONTROL Choose a dashboard]** field, type "Search Notes" and select the [!UICONTROL dashboard] from the list.
+1. In the **[!UICONTROL Quick link name]** field, type in "Search Notes."
+1. Click **[!UICONTROL Add]**.
+1. From the left panel menu, find Search Notes near the bottom. Click the dots to the left of the name and drag it up to right below Updates.
