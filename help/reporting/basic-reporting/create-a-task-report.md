@@ -1,6 +1,6 @@
 ---
 title: Create a task report
-description: Learn how to create a task report with a complex filter and find the reports you create in Workfront. Activity - create a note report with prompts.
+description: Learn how to create a task report with a complex filter and find the reports you create in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,18 +8,27 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 ---
 # Create a task report
 
-In this video, you will learn:
+The video provides a step-by-step guide on creating a custom report to track late tasks assigned to the logged in user. It begins by explaining the need for custom reports when existing filters, views, or built-in reports don't meet specific requirements. ​ The report is named "Late Tasks Assigned to Me," with a description added for clarity. ​
 
-* How to create a task report with a complex filter
-* How to find the reports you create
+The resulting report helps users focus on late tasks, provides insights into dependencies, and simplifies navigation to the host projects. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Key takeaways
+
+* **Custom Report Creation:** When existing filters and built-in reports don't meet your needs, you can create a custom report from scratch to focus on specific data, such as late tasks assigned to you. ​
+* **Filter Setup:** Use filters to define report criteria, including late tasks, incomplete tasks, current projects, and tasks assigned to the logged-in user. ​
+* **Columns for Context:** Add columns like "Can Start" to identify dependency issues and "Project Name" with hyperlinks for easy navigation to related projects. ​
+* **Sorting for Priority:** Sort tasks by the "Due On" column in ascending order to prioritize the most overdue tasks at the top of the report. ​
+* **Accessibility:** Save the report, pin it, or mark it as a favorite for quick access, ensuring efficient tracking and management of late tasks.
+
 
 ## "Create a task report" activities
 
@@ -108,11 +117,11 @@ This is an issue report that displays all the issues from a feedback request que
 
 This report also uses a custom form. To learn how to create a custom form, see the [Create and share a custom form](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
 
-This custom form should be created as follows:
+This custom form should use object types Project and Issue, and should be created as follows:
 
 Name: Admin process feedback
 
-1. Process type (dropdown field)
+1. Process type (single-select dropdown field)
    * access levels
    * approval process (global only)
    * email notifications
@@ -122,7 +131,7 @@ Name: Admin process feedback
    * reminder notifications
    * request queue
 1. Process name (single line text field)
-1. Process grade (dropdown field)
+1. Process grade (single-select dropdown field)
    * 1 - totally useless
    * 2 - not very useful
    * 3 - good but could be better
