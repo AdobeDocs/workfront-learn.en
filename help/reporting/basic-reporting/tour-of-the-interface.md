@@ -7,7 +7,7 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-29
+last-substantial-update: 2025-06-18
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
