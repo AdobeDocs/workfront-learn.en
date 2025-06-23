@@ -6,7 +6,7 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-29
+last-substantial-update: 2025-06-23
 team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023

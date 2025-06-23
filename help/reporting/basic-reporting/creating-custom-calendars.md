@@ -1,13 +1,13 @@
 ---
 title: Create a custom calendar report
-description: Learn how to create your own custom calendar showing your work items and personal time off.
+description: Learn how to create a custom calendar showing work items and personal time off.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-29
+last-substantial-update: 2025-06-23
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
