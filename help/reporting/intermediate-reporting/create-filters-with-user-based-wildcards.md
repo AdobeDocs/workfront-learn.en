@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
@@ -23,7 +24,7 @@ In this video, you will learn how to:
 
 >[!TIP]
 >
->Use the Assignment Users >> ID field source and name when building filters that look at task or issue assignment information.  This option looks at all of the   users assigned to the task or issue, not just the "owner" or primary assignee. 
+>Use the Assignment Users >> ID field source and name when building filters that look at task or issue assignment information.  This option looks at all of the users assigned to the task or issue, not just the "owner" or primary assignee. 
 
 >[!TIP]
 >
@@ -38,7 +39,7 @@ In this video, you will learn how to:
 
 ### Activity 1
 
-You have a bit of extra time this week, so you want to see if there's anyone on your team who could use some assistance with their assignments. Create a task filter to find tasks that are due this week that haven't been completed.  
+You have a bit of extra time this week, so you want to see if there's anyone on your team who could use some assistance with their assignments. Create a task filter to find tasks assigned to your home team that are due this week and haven't been completed yet.  
 
 ### Answer 1
 
