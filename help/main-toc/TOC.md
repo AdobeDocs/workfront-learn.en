@@ -228,7 +228,7 @@ user-guide-description: Workfront tutorials
     + [Understand the calendar report interface](/help/reporting/basic-reporting/tour-of-the-interface.md)
     + [Create a custom calendar report](/help/reporting/basic-reporting/creating-custom-calendars.md)
     + [Understand additional calendar report options](/help/reporting/basic-reporting/additional-calendar-options.md)
-    + [Your turn to create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+    + [Activity - Create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + Manage resources {#manage-resources}

@@ -1,6 +1,6 @@
 ---
-title: Your turn to create a calendar report
-description: Learn how to create a customer calendar showing your incomplete tasks and issues.
+title: Activity - Create a calendar report
+description: Step by step instructions on how to create a customer calendar showing your incomplete tasks and issues.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,11 +12,7 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 ---
-# Your turn to create a calendar report
-
-In this activity you will get hands on experience creating your own calendar.
-
-## Activity: Create a calendar
+# Activity - Create a calendar report
 
 Create a customer calendar named "My Incomplete Work".
 
