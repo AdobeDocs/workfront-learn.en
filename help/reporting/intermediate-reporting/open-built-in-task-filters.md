@@ -7,6 +7,7 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
@@ -39,6 +40,6 @@ Set up your column view to include the fields you're interested in or would like
 
 You might want to group the list based on the name of the team assigned to each task.
 
-Here is what the report should look like:
+Here is what the report might look like:
 
 ![An image of a task report](assets/opening-built-in-task-filters-2.png)
