@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2024-10-04
+last-substantial-update: 2025-07-30
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
