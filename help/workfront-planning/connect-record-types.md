@@ -1,4 +1,4 @@
----
+ ---
 title: Connect record types
 description: Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency. ​
 feature: Workfront Planning

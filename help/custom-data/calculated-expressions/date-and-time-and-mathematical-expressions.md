@@ -38,4 +38,7 @@ Workfront customers commonly use these two mathematical expression sets:
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>NOTE</b>: For a full list of expressions and more information on each one, please see the "Calculated data expressions" documentation page.
+>[!NOTE]
+>
+>For a full list of expressions and more information on each one, go to the [Calculated data expressions](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) documentation page. 
+
