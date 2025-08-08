@@ -1,6 +1,6 @@
 ---
-title: Understand basic text mode for filters
-description: Learn what text mode is, what camel case is, and some basic "plug and play" text mode you can use in your report filters in Workfront.
+title: Understand Basic Text Mode for Filters
+description: Learn about text mode, camel case, and a basic text mode that you can use in your report filters in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -29,11 +29,11 @@ doc-type: video
 >* Click here to access [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
-In this video, you will learn:
+In this video, you will learn about:
 
-* What text mode is 
-* What camel case is 
-* Some basic "plug and play" text mode you can use in your report filters 
+* Text mode
+* Camel case
+* A basic text mode that you can use in your report filters 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
