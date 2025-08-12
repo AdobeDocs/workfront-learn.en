@@ -1,6 +1,6 @@
 ---
 title: Understand basic text mode for groupings
-description: Learn what text mode is, what camel case is, and some basic "plug and play" text mode you can use in your groupings in Workfront.
+description: Learn about text mode, camel case, and some basic text mode that you can use in your report groupings in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,6 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
@@ -31,7 +32,7 @@ In this video, you will learn:
 
 * What text mode is 
 * What camel case is 
-* Some basic "plug and play" text mode you can use in your groupings 
+* Some _text mode code blocks_ you can use in your report groupings 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
