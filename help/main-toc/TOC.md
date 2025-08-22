@@ -310,6 +310,7 @@ user-guide-description: Workfront tutorials
     + [Create and manage table views](/help/workfront-planning/create-and-manage-table-views.md)
     + [Create and manage timeline views](/help/workfront-planning/create-and-manage-timeline-views.md)
     + [Connect record types](/help/workfront-planning/connect-record-types.md)
+    + [Create a record type request form](/help/workfront-planning/create-a-record-type-request-form.md)
     + [Benefits of Workfront Planning for UX Design teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrations {#integrations}

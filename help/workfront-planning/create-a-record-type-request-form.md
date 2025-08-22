@@ -1,8 +1,8 @@
 ---
 title: Create a record type request form
 description: Streamline work by learning how to create custom request forms to organize tasks, gather key info, and boost team efficiency.
-feature: Workfront Planning, Requests, 
-topic: Collanboration, Administration
+feature: Workfront Planning,Requests
+topic: Administration,Collaboration
 role: Admin, Leader, User
 level: Intermediate
 doc-type: Feature Video
