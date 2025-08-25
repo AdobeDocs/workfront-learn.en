@@ -10,6 +10,7 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25
 doc-type: video
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
 ---
 # Understand EXISTS filters
 
