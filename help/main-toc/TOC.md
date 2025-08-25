@@ -217,6 +217,7 @@ user-guide-description: Workfront tutorials
     + [Understand basic text mode for views](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
     + [Understand basic text mode for groupings](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
     + [Create custom prompts](/help/reporting/intermediate-reporting/custom-prompts.md)
+    + [Understand EXISTS filters](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
   + Advanced reporting {#advanced-reporting}
     + [Welcome to advanced reporting](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
