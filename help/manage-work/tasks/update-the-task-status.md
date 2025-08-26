@@ -1,6 +1,6 @@
 ---
-title: Update the task status 
-description: Learn how, why, and how often to update the task status. 
+title: Update the task status
+description: Learn how, why, and how often to update the task status.
 feature: Work Management
 type: Tutorial
 role: User
@@ -8,6 +8,7 @@ level: Beginner
 last-substantial-update: 2025-08-26
 recommendations: noDisplay,catalog
 jira: KT-18799
+exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
 ---
 # Update the task status 
 
