@@ -120,6 +120,7 @@ user-guide-description: Workfront tutorials
     + [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
     + [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
     + [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+    + [Update the task status](/help/manage-work/tasks/update-the-task-status.md)
     + [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
     + [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
     + [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
