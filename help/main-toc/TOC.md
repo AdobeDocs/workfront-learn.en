@@ -131,6 +131,7 @@ user-guide-description: Workfront tutorials
     + [Make a request](/help/manage-work/issues-requests/make-a-request.md)
     + [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
     + [Manage issue assignments](/help/manage-work/issues-requests/manage-issue-assignments.md)
+    + [Update the issue status](/help/manage-work/tasks/update-the-issue-status.md)
     + [Update a request](/help/manage-work/issues-requests/update-a-request.md)
     + [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
     + [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
