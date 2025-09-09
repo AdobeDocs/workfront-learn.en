@@ -232,6 +232,9 @@ user-guide-description: Workfront tutorials
     + [Create a custom calendar report](/help/reporting/basic-reporting/creating-custom-calendars.md)
     + [Understand additional calendar report options](/help/reporting/basic-reporting/additional-calendar-options.md)
     + [Activity - Create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+    
+  + Canvas dashboards {#canvas-dashboards}
+    + [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
 
 
 + Manage resources {#manage-resources}
