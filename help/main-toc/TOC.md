@@ -235,6 +235,7 @@ user-guide-description: Workfront tutorials
     
   + Canvas dashboards {#canvas-dashboards}
     + [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
+    + [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
 
 
 + Manage resources {#manage-resources}
