@@ -31,3 +31,8 @@ The first things you need to do before you can create a Canvas Dashboard **repor
 [Canvas Dashboards overview](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
 [Build a table report in a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
+## Recommended tutorials on this topic
+
+* [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
+* [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
+

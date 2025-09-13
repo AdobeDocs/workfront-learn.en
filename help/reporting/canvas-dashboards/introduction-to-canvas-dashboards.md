@@ -19,3 +19,8 @@ The Canvas dashboards feature is another way to create dashboards in Workfront. 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
 For more information see the [Canvas Dashboards overview](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) article.
+
+## Recommended tutorials on this topic
+ 
+* [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
+* [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
