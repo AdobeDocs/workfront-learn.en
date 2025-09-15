@@ -54,6 +54,6 @@ The challenges are for those who want to try something that involves other conce
 
 The step-by-step instructions are provided to help you get through the walkthrough exercises. 
 
-[Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion documentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 There is also a [Workfront Fusion 2.0 community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) where you can post questions.
