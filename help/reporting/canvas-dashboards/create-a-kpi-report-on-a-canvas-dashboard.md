@@ -35,3 +35,4 @@ The first things you need to do before you can create a Canvas Dashboard **repor
 
 * [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
 * [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+* [Add conditional formatting to a Canvas Dashboard report ](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
