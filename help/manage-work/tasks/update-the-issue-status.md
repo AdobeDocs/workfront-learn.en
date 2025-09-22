@@ -8,6 +8,7 @@ level: Beginner
 last-substantial-update: 2025-09-03
 recommendations: noDisplay,catalog
 jira: KT-18800
+exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
 ---
 # Update the issue status 
 

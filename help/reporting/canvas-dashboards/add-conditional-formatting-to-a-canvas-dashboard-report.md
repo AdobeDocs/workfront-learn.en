@@ -1,5 +1,5 @@
 ---
-title: Add conditional formatting to a Canvas Dashboard report 
+title: Add conditional formatting to a Canvas Dashboard report
 description: Learn how to add conditional formatting to a Canvas Dashboard report.
 activity: use
 team: Technical Marketing
@@ -11,6 +11,7 @@ jira: KT-18771
 last-substantial-update: 2025-09-16
 recommendations: noDisplay,catalog
 doc-type: video
+exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
 ---
 # Add conditional formatting to a Canvas Dashboard report 
 
@@ -36,4 +37,3 @@ The first things you need to do before you can create a Canvas Dashboard **repor
 * [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
 * [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
 * [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-

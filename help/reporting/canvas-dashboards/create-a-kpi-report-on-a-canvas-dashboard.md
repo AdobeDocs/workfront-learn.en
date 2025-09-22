@@ -11,6 +11,7 @@ jira: KT-18769
 last-substantial-update: 2025-09-11
 recommendations: noDisplay,catalog
 doc-type: video
+exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
 ---
 # Create a KPI report on a Canvas Dashboard
 

@@ -11,6 +11,7 @@ jira: KT-18768
 last-substantial-update: 2025-09-09
 recommendations: noDisplay,catalog
 doc-type: video
+exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
 ---
 # Introduction to Canvas Dashboards
 
