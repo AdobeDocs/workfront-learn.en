@@ -25,3 +25,5 @@ For more information see the [Canvas Dashboards overview](https://experienceleag
  
 * [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
 * [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+* [Add conditional formatting to a Canvas Dashboard report ](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+* [Use an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

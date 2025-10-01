@@ -37,3 +37,4 @@ The first things you need to do before you can create a Canvas Dashboard **repor
 * [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
 * [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
 * [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+* [Use an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
