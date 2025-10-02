@@ -34,7 +34,7 @@ In this video, you will learn:
 * What camel case is 
 * Some _text mode code blocks_ you can use in your report groupings 
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## "Understand basic text mode for groupings" activities
 

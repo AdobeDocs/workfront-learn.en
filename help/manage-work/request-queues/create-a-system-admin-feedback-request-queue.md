@@ -28,7 +28,7 @@ The video emphasizes the importance of user participation and transparency in pr
 ​Links to tutorials for creating reports and custom forms are provided for further guidance.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## Key takeaways
 

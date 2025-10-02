@@ -19,7 +19,7 @@ The video explains how to create and customize views in Workfront to display spe
 
 The video emphasizes the flexibility of views in Workfront and provides step-by-step instructions for creating, customizing, and managing them.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Key takeaways
 

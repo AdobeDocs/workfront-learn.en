@@ -32,7 +32,7 @@ The video explains how to use charts to visualize data effectively, particularly
 
 The video highlights how charts like pie and stacked column charts can provide insights into task distribution and project performance, helping users compare projects and understand task progress visually. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Key takeaways
 

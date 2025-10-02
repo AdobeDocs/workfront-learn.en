@@ -18,7 +18,7 @@ doc-type: video
 This video explains how to create and manage groupings in Workfront to organize project lists effectively. ​ Groupings are one of the three main reporting elements, alongside filters and views, and they help organize results based on shared information. ​
 This tutorial provides practical steps for organizing project lists to streamline daily work and collaboration. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## Key takeaways
 
