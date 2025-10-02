@@ -22,7 +22,7 @@ Review the execution history for the "Using the mighty filter" scenario to under
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
 
 
 ## Fulltext search in the history tab

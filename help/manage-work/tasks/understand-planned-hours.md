@@ -21,7 +21,7 @@ Planned hours are crucial for resource management in Workfront, helping identify
 They also assist in tracking time spent on tasks, improving future estimates, and clarifying expectations with workers.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Key takeaways

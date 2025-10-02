@@ -18,7 +18,7 @@ doc-type: video
 The video provides a comprehensive guide to understanding and using dashboards in Workfront. 
 ​It explains that a dashboard is a collection of reports that allows users to organize and display related data in one place. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0
 
 ## Key takeaways
 

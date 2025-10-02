@@ -27,7 +27,7 @@ This video provides an overview of navigating and managing the project page in W
 * **Documents Section:** Enables uploading and managing project-related files and proofs. ​ Documents attached to tasks roll up to the project level for easy access. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

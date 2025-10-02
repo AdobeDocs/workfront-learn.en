@@ -18,7 +18,7 @@ doc-type: video
 
 The video provides a detailed guide on how to make and manage requests within Workfront. It explains the process of creating a request, starting by selecting "Requests" from the main menu and clicking the "New Request" button. ​ Users can choose a request type from custom-designed queues tailored to their organization's workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

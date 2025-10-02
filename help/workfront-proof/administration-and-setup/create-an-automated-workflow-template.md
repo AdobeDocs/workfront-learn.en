@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * Set a review and approval process deadline
 * Share the automated workflow template with others
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
 
 ## Additional stage activation options
 

@@ -35,7 +35,7 @@ The video explains how to share projects effectively in Workfront to ensure stak
 
 The video emphasizes using teams and templates for efficient sharing management and highlights the role of administrators in customizing sharing preferences.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

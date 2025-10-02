@@ -18,7 +18,7 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 The video explains portfolio management, focusing on how managers can optimize project selection to align with company goals. ​ It introduces the concept of portfolios as collections of projects competing for shared resources, budgets, and schedules. ​ Managers can use tools like the Portfolio Optimizer to compare projects based on criteria such as labor, expenses, risk, ROI, and alignment with portfolio goals. ​ Preparing projects for comparison involves creating a business case for each. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

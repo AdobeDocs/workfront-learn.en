@@ -19,7 +19,7 @@ doc-type: video
 This video explains how to create and manage a project from scratch. ​ It begins by creating a new project, renaming it, and setting a goal with a description, start date, and target completion date. Projects can be broken into tasks, which are planned work with estimated durations and assignments. ​ Tasks can be sequenced using predecessors, and the project status can be set to "Current" to notify the team and include it in reports. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

@@ -20,7 +20,7 @@ In this video you will learn how to create an EXISTS filter to see "Proof approv
 
 For a more in-depth walkthrough on how EXISTS function, please see [Create complex Text Mode filters using EXISTS statements](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS Filter Examples
 

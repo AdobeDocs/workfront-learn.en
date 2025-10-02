@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to use cross-functional teams
 * How to create and associate teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Team creation
 

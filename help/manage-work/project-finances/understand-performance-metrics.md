@@ -28,7 +28,7 @@ The video discusses financial performance metrics and settings for project manag
 
 The video emphasizes the flexibility and control available to both system administrators and project managers in managing performance metrics and calculations. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

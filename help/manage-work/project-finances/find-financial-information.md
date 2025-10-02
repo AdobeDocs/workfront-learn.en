@@ -18,7 +18,7 @@ doc-type: video
 
 The video explains how to access and manage financial information for projects and tasks. ​It provides a comprehensive overview of navigating and understanding financial data at both project and task levels. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

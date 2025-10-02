@@ -20,7 +20,7 @@ The video explains how to create and manage approval processes for projects, tas
 The video demonstrates creating approval processes, setting approvers, configuring statuses, and using stages for multi-level approvals.
 ​It highlights the flexibility of both global and single-use processes for managing task approvals effectively.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

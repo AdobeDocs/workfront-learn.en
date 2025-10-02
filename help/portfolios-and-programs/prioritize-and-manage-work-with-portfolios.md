@@ -19,7 +19,7 @@ The video explains how to use the Portfolio Optimization tool in Workfront to ev
 
 The video emphasizes the importance of completing business cases for accurate comparisons and provides step-by-step instructions for optimizing and managing project priorities effectively. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

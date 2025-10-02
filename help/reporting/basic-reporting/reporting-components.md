@@ -23,7 +23,7 @@ The video explains the concept of reporting components in Workfront, which are e
 * **Filter Qualifier:** Defines which values to include or exclude in a report, such as showing tasks with a priority of "high." ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0
 
 ## Key takeaways
 

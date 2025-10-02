@@ -21,7 +21,7 @@ To finalize, click "Copy Project." ​
 Issues cannot be copied directly during this process as they are not considered planned work. ​ To copy issues, go to the Issues tab, select the desired issues, and use the "Copy to" option to transfer them to the new project. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

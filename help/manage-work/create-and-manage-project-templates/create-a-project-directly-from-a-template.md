@@ -18,7 +18,7 @@ doc-type: video
 
 The video explains how to create a project from a template. ​ If you have the rights to open a template, you can use it as a shortcut to create a project. ​ To do this, open the template, access the three-dot menu, and select "Create Project." ​ This takes you to a screen where you can edit the project details. ​ Once ready, click "Create Project" to finalize. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

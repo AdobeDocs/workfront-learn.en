@@ -15,4 +15,4 @@ exl-id: eec61d37-da7e-40c0-9aec-85195e0a9f3a
 
 Learn to manage and customize timeline views in Workfront Planning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)

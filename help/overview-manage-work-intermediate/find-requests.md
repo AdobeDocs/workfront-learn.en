@@ -27,7 +27,7 @@ You will learn how to find these requests in the following places:
 * In a custom dashboard
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 
 ## Recommended tutorials on this topic

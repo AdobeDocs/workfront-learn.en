@@ -25,7 +25,7 @@ In this video, you will:
 
 * Get an introduction to [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops=1)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

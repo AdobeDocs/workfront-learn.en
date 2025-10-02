@@ -24,7 +24,7 @@ The video explains the request flow process in Workfront, focusing on queue mana
 
 By addressing these questions, users can effectively plan and configure their request queue in Workfront. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

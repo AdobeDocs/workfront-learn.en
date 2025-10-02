@@ -23,7 +23,7 @@ The video provides a step-by-step guide on creating two types of reports to mana
 The video emphasizes customizing columns and filters to tailor the reports to specific needs, making it easier to manage and resolve issues efficiently. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

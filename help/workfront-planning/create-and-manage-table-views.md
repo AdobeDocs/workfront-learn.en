@@ -15,4 +15,4 @@ exl-id: 593d4643-91e4-4ae2-b450-63f6d4eb09e9
 
 Learn to create, manage, and customize record type table views in Adobe Workfront Planning to enhance project organization and collaboration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)

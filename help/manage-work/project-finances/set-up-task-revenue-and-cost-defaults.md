@@ -19,7 +19,7 @@ doc-type: video
 
 Learn where the revenue type and cost types are used and how to set up the system defaults.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

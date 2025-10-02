@@ -19,7 +19,7 @@ In this video, you will learn about:
 * Example goals
 * Scope of influence
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops=1)
 
 ## Plan a cadence for regular check-ups and maintenance
 

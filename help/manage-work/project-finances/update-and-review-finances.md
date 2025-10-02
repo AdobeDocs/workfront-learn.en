@@ -41,7 +41,7 @@ Workfront tracks billable items but does not handle actual billing; users must u
 
 This video emphasizes the importance of proper setup and tracking to streamline client billing processes. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

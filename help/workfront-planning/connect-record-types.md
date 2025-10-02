@@ -15,4 +15,4 @@ exl-id: 9ecbbead-e6ab-4888-baa2-2867189d9fc8
 
 Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)

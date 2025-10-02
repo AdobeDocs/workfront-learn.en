@@ -22,7 +22,7 @@ In this video, you will learn:
 * How to log an issue
 * Best practices for issue management
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Recommended tutorials on this topic
 

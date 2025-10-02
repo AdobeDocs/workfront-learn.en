@@ -19,7 +19,7 @@ The video provides guidance on how to effectively plan a project in Workfront. â
 
 The video highlights the importance of realistic timelines, team availability, and accurate planning to create a strong foundation for project success. â€‹
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

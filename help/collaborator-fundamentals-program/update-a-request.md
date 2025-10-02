@@ -14,7 +14,7 @@ In this video, you will learn how to:
 * Find requests you've submitted
 * Update a request
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Guide

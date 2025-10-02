@@ -17,7 +17,7 @@ exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 
 The video explains the importance of a business case in project management. It emphasizes that filling out the business case thoroughly helps managers analyze and prioritize projects competing for the same resources. ​ Once completed, submitting the business case changes the project status to "Requested" and calculates its overall score for comparison in the Portfolio Optimization Tool. ​ While none of the fields are mandatory, more detailed information improves decision-making. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

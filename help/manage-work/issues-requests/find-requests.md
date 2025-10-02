@@ -24,7 +24,7 @@ This video explains how to find and manage requests in Workfront. ​ It covers 
 * Custom Reports and Dashboards
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

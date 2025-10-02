@@ -15,4 +15,4 @@ exl-id: dfc43e45-951e-4b11-b34d-62e200187a0c
 
 Learn to create, import, and manage custom record types in Adobe Workfront Planning to organize and track work-related items efficiently.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)

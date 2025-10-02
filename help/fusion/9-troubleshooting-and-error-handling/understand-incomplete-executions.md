@@ -21,7 +21,7 @@ In this video, you will learn:
 * What incomplete executions are
 * How to handle an error that results in an incomplete execution
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
 
 ## Errors resulting in incomplete executions
 

@@ -17,7 +17,7 @@ exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 
 The video explains the Board view feature in Workfront, which provides an alternative way to view and manage project tasks. ​ In the Board view, tasks are displayed as cards on a Kanban-style board, allowing users to sort, group, and move tasks within or between columns. ​ Moving a task updates its status automatically, which is reflected in the task list view. ​ Users can create new cards, which generate new tasks in the project, and edit or assign them directly in the Board view. ​ Columns and cards can be configured, and tasks can be sequenced using predecessors in the task list view.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

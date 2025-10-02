@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Add time-stamped comments to a video
 * Adjust viewer settings
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

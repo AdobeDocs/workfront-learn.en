@@ -26,7 +26,7 @@ In this video, you will learn how to:
 * Create a template from scratch
 * Create a template from an existing project
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
 
 ## Templates created with [!UICONTROL Blueprints] 
 

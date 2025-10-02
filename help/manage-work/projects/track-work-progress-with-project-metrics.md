@@ -19,7 +19,7 @@ doc-type: video
 The video explains how to track project progress using Project Metrics. ​ It demonstrates accessing the Metrics tab in the left panel of a project, which may require scrolling and clicking "Show More." The KPI area at the top displays key performance indicators, such as completed, incomplete, and overdue tasks. ​ Users can click on indicators to view specific tasks and use charts to group tasks or issues by status or priority. ​ Hovering over columns reveals quantities, and the chart shows the ratio of complete to incomplete tasks or issues. ​ Metrics can also display tasks by assignee based on their status (complete, incomplete, upcoming, or overdue). ​ Preferences for viewing metrics are saved for future visits. ​ Lastly, the video shows how to export the metrics page as a PNG file using the Export button. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

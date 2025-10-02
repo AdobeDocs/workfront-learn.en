@@ -27,7 +27,7 @@ This video provides an overview of filters, views, and groupings in Workfront to
 
 The video emphasizes customization and provides links to tutorials for further learning. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

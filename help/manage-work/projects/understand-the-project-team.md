@@ -18,7 +18,7 @@ exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
 
 In this video, you will learn what the project team can be used for and how to maintain it.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

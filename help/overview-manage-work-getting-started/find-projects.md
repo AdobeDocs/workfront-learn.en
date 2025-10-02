@@ -19,7 +19,7 @@ exl-id: 2cacf2b4-dc43-4a3b-bf39-90bfd46b10ad
 
 In this video, you will learn some quick and easy ways to find projects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Recommended tutorials on this topic
 

@@ -17,7 +17,7 @@ doc-type: video
 
 The video explains the final steps to take a project live by changing its status to "current." ​ Before doing so, it emphasizes reviewing key project elements, including task names, durations, planned hours, predecessors, start and completion dates, and assignments to ensure everything is accurate and properly set. ​ Once the project is live, the project manager will receive notifications based on global and personal settings, and the project will appear in reports and filters for active projects. ​ This marks the official start of the work. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

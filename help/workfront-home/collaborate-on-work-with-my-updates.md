@@ -21,4 +21,4 @@ In this video, you will learn how to:
 * Use the Mentions section to view updates that you’ve been included in 
 * Reply to updates 
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)

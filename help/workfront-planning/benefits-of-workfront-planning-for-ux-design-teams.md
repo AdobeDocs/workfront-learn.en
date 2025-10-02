@@ -15,4 +15,4 @@ exl-id: 38730b75-bc92-462d-adc8-f3aa51590475
 
 Learn how Workfront Planning boosts UX team efficiency by centralizing project tracking and aligning design work with business goals.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)

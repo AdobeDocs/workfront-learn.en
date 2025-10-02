@@ -22,7 +22,7 @@ In this video, you will learn about:
 * Percent complete
 * Progress status
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## Recommended tutorials on this topic

@@ -34,7 +34,7 @@ The video explains how to use the Project Gantt Chart and Task Gantt Chart to vi
 
 The video emphasizes the flexibility of Gantt charts, allowing users to customize views and display multiple elements simultaneously for better project management.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 You can learn more online with the article, [Get started with the Gantt chart](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 

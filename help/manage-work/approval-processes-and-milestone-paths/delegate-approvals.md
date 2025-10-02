@@ -21,7 +21,7 @@ For approvals, users can delegate them via the "Awaiting My Approval" widget. �
 Delegated approvals are marked in the system, showing who delegated them and to whom. ​ Updates related to approvals appear in the Update tab, and system activity can be viewed in the System Activity tab. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 
