@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to share a project template granting rights to activate and deactivate it.
 * How to activate and deactivate a project template.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

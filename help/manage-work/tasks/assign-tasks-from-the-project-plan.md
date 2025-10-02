@@ -19,7 +19,7 @@ doc-type: video
 The video explains various methods for assigning tasks in a project plan. It emphasizes using tools like filters, templates, and resource management features to streamline task assignments and optimize project workflows.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

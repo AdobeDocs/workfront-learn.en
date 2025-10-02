@@ -17,7 +17,7 @@ doc-type: video
 
 The video demonstrates how to convert an issue or request into a project.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

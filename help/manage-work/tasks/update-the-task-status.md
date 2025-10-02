@@ -14,7 +14,7 @@ exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
 
 The video provides a tutorial on how, why, and how often to update the task status.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

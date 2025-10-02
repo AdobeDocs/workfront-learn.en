@@ -20,7 +20,7 @@ doc-type: video
 The video explains how to manage and customize billing rates for job roles within a project. ​It emphasizes flexibility in setting multiple billing rates for the same job role and ensuring accurate time-based adjustments. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

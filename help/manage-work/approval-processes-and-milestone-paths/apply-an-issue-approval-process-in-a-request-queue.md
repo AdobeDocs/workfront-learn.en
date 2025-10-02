@@ -25,7 +25,7 @@ exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
 The video explains the process of applying a default approval process when creating a request queue. ​ When a request is created, it starts with the status "New - Pending Approval," and an approval notification is sent to the designated approver. ​ If approved, the status changes to "New," allowing assigned individuals to begin work. ​ If rejected, the status may incorrectly revert to "New" due to a common mistake in the approval process setup. ​
 The video highlights that the approval process is triggered when the status is set to "New," which is the default for new requests. ​ If rejected, the system defaults to changing the status back to the previous one, which is not ideal for new requests. ​ Instead, a different status, such as "Won't Resolve," should be chosen. ​ The video also notes that there is no "Rejected" status provided by default, but a system administrator can create one if needed. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

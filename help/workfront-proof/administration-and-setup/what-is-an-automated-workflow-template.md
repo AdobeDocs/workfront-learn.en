@@ -20,7 +20,7 @@ In this video, you will learn:
 * How proof users can benefit from workflow templates
 * How to start planning which templates to create
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon

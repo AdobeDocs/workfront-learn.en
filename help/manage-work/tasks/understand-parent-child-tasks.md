@@ -18,7 +18,7 @@ doc-type: video
 This video explains the task structure in Workfront. Tasks are essential components of a project, representing the work items needed for completion.​ The video emphasizes the importance of organizing tasks accurately as a key step in project planning and management. It demonstrates how to start working with tasks and explains the parent-child task relationships. 
 ​Parent tasks act as organizers, grouping the project into phases, stages, or milestones, and are not assigned to individuals. Child tasks, or subtasks, represent actionable work assigned to team members.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

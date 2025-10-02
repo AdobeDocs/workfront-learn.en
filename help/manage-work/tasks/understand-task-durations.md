@@ -21,7 +21,7 @@ Workfront recommends using durations and predecessors to establish task timeline
 ​Accurate durations are critical for effective project planning and resource management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

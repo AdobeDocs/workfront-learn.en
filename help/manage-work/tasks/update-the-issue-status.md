@@ -14,7 +14,7 @@ exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
 
 In this video you will learn about issue statuses and best practices for using them.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

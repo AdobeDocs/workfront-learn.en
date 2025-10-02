@@ -17,5 +17,5 @@ last-substantial-update: 2025-01-09
 
 Learn how users can control which in-app and email notifications they receive so they're getting relevant, helpful emails regarding their work.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
 

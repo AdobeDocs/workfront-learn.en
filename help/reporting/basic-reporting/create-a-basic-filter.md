@@ -18,7 +18,7 @@ doc-type: video
 This video explains how to create and use filters in Workfront to customize list reports based on specific criteria. ​ Filters allow users to narrow down lists, such as tasks, projects, or documents, by defining conditions. ​ Only items matching the filter conditions and accessible to the logged-in user will appear in the list. ​
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

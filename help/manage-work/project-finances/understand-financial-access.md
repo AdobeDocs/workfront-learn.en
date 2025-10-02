@@ -19,7 +19,7 @@ doc-type: video
 The video explains the role of a system administrator in managing access to financial information within Workfront. ​ The administrator controls access through access levels.​
 The video emphasizes that users can only use their financial access on projects they create or on projects where someone with financial access has shared it with them.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

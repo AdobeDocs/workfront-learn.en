@@ -18,7 +18,7 @@ doc-type: video
 
 This video explains the concept of Request Queues in Workfront, their purpose, and how to submit and manage requests. ​ Request Queues serve as a centralized location for submitting various types of requests. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

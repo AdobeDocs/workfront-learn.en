@@ -19,7 +19,7 @@ The video provides a step-by-step guide on creating a custom report to track lat
 
 The resulting report helps users focus on late tasks, provides insights into dependencies, and simplifies navigation to the host projects. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0
 
 ## Key takeaways
 

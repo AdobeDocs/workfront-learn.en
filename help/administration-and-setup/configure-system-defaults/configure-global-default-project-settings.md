@@ -24,7 +24,7 @@ In this video, you will learn how to:
 * Set global project preferences
 * Create and use schedules
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Global and group project, task, and issue settings
 

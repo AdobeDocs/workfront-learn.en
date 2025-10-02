@@ -21,7 +21,7 @@ The video demonstrates how to set predecessors for new tasks, ensuring sequentia
 ​It emphasizes the importance of practicing with predecessors to understand their impact on project timelines and recommends using durations and predecessors for efficient project planning.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

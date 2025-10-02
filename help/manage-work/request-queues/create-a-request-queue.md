@@ -18,7 +18,7 @@ doc-type: video
 
 The video provides a step-by-step guide on creating a request queue within Workfont. ​ The video concludes by demonstrating how to submit a request using the newly created queue, showing the process of entering details and verifying the submission in the "requests submitted" tab. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

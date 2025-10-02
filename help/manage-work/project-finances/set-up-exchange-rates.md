@@ -19,7 +19,7 @@ doc-type: video
 The video provides a guide on managing currencies in the Workfront financial tracking system. ​ It explains that the default currency is the U.S. dollar, but additional currencies can be set up globally or for individual projects and job roles.
 The video emphasizes that the system does not provide current exchange rates, so users must source them externally. ​ Once set, the exchange rates become the default for projects or job roles but do not update automatically; users with appropriate permissions must update them manually. ​ After setting up currencies, users can create new projects and select from the available currency options, with the ability to customize exchange rates for individual projects. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

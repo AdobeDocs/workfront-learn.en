@@ -26,7 +26,7 @@ The video emphasizes the importance of effective communication for project succe
 
 The video highlights how Workfront simplifies communication, task management, and reporting, ensuring all project-related information is accessible and organized. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

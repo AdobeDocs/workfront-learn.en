@@ -19,7 +19,7 @@ This video explains how to create and customize project reports to effectively a
 
 The video emphasizes that custom reports retain their default settings, but temporary changes can be made when viewing them. ​ Reports are stored in the "My Reports" section, while shared reports appear in "Shared with Me." ​ Frequently used reports can be pinned or marked as favorites for easy access. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0
 
 ## Key takeaways
 

@@ -25,7 +25,7 @@ In this video, you will learn:
 * How setting a task start date will affect the task constraint
 * How to enter predecessors
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

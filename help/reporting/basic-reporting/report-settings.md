@@ -21,4 +21,4 @@ In this video, you will learn:
 * How to run your report with the access rights of a specific user
 * How to set up and use report prompts
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

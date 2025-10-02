@@ -17,7 +17,7 @@ doc-type: video
 
 This video provides a detailed guide on managing tasks in Workfront. It emphasizes efficient task management, including editing, deleting, adding, duplicating, and reorganizing tasks within a project plan.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

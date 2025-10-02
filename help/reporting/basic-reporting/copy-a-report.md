@@ -17,4 +17,4 @@ exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
 
 Learn how to quickly create a new report by copying and editing a similar report.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)

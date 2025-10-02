@@ -21,7 +21,7 @@ In this video, you will learn:
 
 * What the project team can be used for and how to maintain it
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
 ## Recommended tutorials on this topic
 

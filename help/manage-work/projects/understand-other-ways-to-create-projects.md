@@ -49,7 +49,7 @@ The video provides a comprehensive guide on creating projects in Workfront using
 
 The video emphasizes the flexibility of Workfront in creating projects through templates, scratch, copying, or importing, catering to different user needs. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

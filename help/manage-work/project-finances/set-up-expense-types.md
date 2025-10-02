@@ -19,7 +19,7 @@ doc-type: video
 The video explains how to manage expense types in Workfront, focusing on creating, using, and deleting them.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

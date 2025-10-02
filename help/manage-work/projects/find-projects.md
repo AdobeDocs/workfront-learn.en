@@ -18,7 +18,7 @@ doc-type: video
 
 In this video, you will learn some quick and easy ways to find projects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

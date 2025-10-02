@@ -23,7 +23,7 @@ In this video, you will see the beneifts of:
 * Creating "lessons learned" custom reports
 * Creating a "lessons learned" project
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## Recommended tutorials on this topic
 

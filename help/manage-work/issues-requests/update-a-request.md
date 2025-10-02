@@ -18,7 +18,7 @@ doc-type: video
 
 The video explains how to locate and update requests in Adobe Workfront. ​ After submitting a request, you can add information or ask questions to ensure the latest details are available to those working on it. ​  ​
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

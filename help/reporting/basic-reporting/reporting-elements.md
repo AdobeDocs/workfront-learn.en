@@ -18,7 +18,7 @@ The video explains how to use Workfront's reporting elements—filters, views, a
 
 The video also demonstrates how to customize reporting elements and share them with others. ​ These tools enable users to tailor list reports to their needs for better visibility and management.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

@@ -17,7 +17,7 @@ exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
 
 The Canvas dashboards feature is another way to create dashboards in Workfront. It is currently in General Beta, which means all Workfront customers can use the feature, if they are enrolled in the beta. A System Administrator needs to do the enrollment. This video will show them how. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
 For more information see the [Canvas Dashboards overview](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) article.
 

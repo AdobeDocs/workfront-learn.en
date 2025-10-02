@@ -18,7 +18,7 @@ In this video, you will learn how to:
 * Review and activate proposed goals
 * Cascade and align quarterly goals
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

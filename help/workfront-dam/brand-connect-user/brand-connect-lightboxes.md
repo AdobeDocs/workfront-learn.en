@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Watch and manage lightboxes
 * Collaborate on a lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
 
 ## Lightboxes vs. folders
 

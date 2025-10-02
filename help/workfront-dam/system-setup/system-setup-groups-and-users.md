@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * Create and edit groups
 * Add and edit users
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## Groups and users review
 

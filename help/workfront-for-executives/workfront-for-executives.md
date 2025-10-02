@@ -73,7 +73,7 @@ In this video, you will learn how to:
 * Make a request
 * View your submitted requests
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Items awaiting your approval
 

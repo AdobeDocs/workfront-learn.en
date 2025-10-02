@@ -16,7 +16,7 @@ exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 The video provides a tutorial on creating tasks in a Workfront project, covering both the long method and handy shortcuts. It emphasizes flexibility in task creation and provides tips for efficient task management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

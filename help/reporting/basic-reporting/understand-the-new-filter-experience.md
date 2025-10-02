@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Create and edit filters
 * Stack filters
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)

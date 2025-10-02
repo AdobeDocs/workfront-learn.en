@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Associate a group
 * Create and associate subgroups
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
 
 ## Group administrators
 

@@ -15,4 +15,4 @@ exl-id: 22a08739-2842-41c7-917c-506b4d9ebf46
 
 Discover how to create workspaces in Adobe Workfront Planning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)

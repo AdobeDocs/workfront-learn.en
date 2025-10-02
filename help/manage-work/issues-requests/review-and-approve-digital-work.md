@@ -25,7 +25,7 @@ The video explains how to review and approve digital work using the "Awaiting my
 
 The video emphasizes flexibility in reviewing and approving work, with options to add comments and specify changes as needed. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

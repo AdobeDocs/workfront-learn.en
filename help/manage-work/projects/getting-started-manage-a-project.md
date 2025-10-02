@@ -18,7 +18,7 @@ doc-type: video
 
 The video provides an overview of managing a project after its status is changed to "Current." ​ 
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 

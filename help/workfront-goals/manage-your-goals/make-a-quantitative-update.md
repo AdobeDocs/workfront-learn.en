@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Update progress on results and activities
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops=1)

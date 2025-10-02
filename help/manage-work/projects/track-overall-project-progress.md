@@ -19,7 +19,7 @@ The video explains how to track overall project progress using various indicator
 
 The video emphasizes the importance of regular updates by team members and proactive issue management to ensure accurate tracking and timely project completion. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Key takeaways
 
