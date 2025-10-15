@@ -25,7 +25,7 @@ This video provides a step-by-step guide on creating a request flow by configuri
 The video then demonstrates how to create queue topics, which are linked to routing rules, topic groups, custom forms, approval processes, and default durations.
 Finally, the video shows how to test the setup by submitting a request to ensure it is routed correctly. ​ If any issues arise, adjustments can be made to the queue. ​ The video emphasizes the importance of verifying the structure and functionality of the request flow to ensure proper routing and organization.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Key takeaways
 

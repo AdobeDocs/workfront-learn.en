@@ -35,7 +35,7 @@ In this video, you will learn about:
 * Camel case
 * Some _text mode code blocks_ you can use in your report filters
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## "Understand basic text mode for filters" activities
 

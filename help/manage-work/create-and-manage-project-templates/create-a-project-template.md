@@ -25,7 +25,7 @@ Learn to create a project template from scratch and from an existing project, an
 * Once the template is created, it can be used to produce new projects. The video demonstrates how to create a new project from the template, make necessary adjustments, and add tasks or modify durations as needed. ​ It also shows how to assign job roles to tasks using resource scheduling and planning functionalities. ​
 * The video explains how to save an existing project as a new template, allowing for updates and improvements in the workflow. ​ It highlights the importance of managing templates to avoid confusion and ensure streamlined project execution. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Key takeaways
 
