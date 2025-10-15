@@ -20,7 +20,7 @@ In this video, you will learn:
 * When a matrix report can be useful
 * And how to create a matrix report
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
 
 ## Key takeaways
 

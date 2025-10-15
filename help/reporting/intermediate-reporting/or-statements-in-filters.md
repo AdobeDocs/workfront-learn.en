@@ -19,7 +19,7 @@ The video explains how to create and use filters with multiple rules in Workfron
 Alternatively, you can change the filter logic to "OR," which displays items that meet any of the conditions. 
 The video also demonstrates creating filters for tasks using filter groups. ​ For example, you can create two groups: one for incomplete tasks assigned to the creative team that are late, and another for incomplete tasks assigned to the creative team that are unassigned. ​ Within each group, "AND" logic applies, meaning all conditions in the group must be met. ​ The "OR" logic between groups ensures tasks meeting the conditions of either group are displayed. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## OR filter activity
 
