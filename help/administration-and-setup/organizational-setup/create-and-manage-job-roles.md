@@ -12,11 +12,11 @@ doc-type: video
 last-substantial-update: 2023-03-27
 exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
 ---
-# Create and mange job roles
+# Create and manage job roles
 
 In this video, you will learn:
 
-* What job roles are.
+* About job roles.
 * How to create job roles.
 * How to apply job roles to users so they can be assigned to the correct work.
 
