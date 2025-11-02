@@ -15,7 +15,7 @@ exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 
 Project work goes through many changes. You might delete something, only to realize 30 minutes later that the task was needed or the document was vital to the issue you're trying to resolve.
 
-With the Recycle Bin, when the object is deleted, Workfront places it in the  for up to 30 days. The system administrator can restore the object to its original position in Workfront, along with all its information (updates, logged hours, documents, etc.).
+With the Recycle Bin, when the object is deleted, Workfront places it in there for up to 30 days. The system administrator can restore the object to its original position in Workfront, along with all its information (updates, logged hours, documents, etc.).
 
 ## Restore an object
 
