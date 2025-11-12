@@ -21,7 +21,7 @@ Layout templates let system administrators and group administrators customize th
 
 ![Home and Main Menu](assets/what-are-layout-templates-02.png)
 
-For example, the majority of your organization doesn't log time. However, the consultant team does bill clients, so they need to log time to ensure accurate billing. With a layout template, timesheets can be hidden for those who don't need them and show for those who do.
+For example, the majority of your organization doesn't log time. However, the consultant team does bill clients, so they need to log time to ensure accurate billing. With a layout template, timesheets can be hidden for those who don't need them and shown for those who do.
 
 ![Home and Main Menu](assets/what-are-layout-templates-03.png)
 
