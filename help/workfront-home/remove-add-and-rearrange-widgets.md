@@ -3,7 +3,7 @@ title: Remove, add, and rearrange widgets in Home
 description: Learn how to remove, add, and rearrange widgets on the Home page.
 feature: Work Management,Get Started with Workfront
 topic: Personalization
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-09-25

@@ -1,5 +1,6 @@
 ---
-user-guide-description: Workfront tutorials
+user-guide-title: Workfront tutorials
+user-guide-description: A library of training videos and articles designed to help you better understand Workfront features and settings.
 ---
 
 # Workfront tutorials {#tutorials-workfront}
@@ -560,9 +561,8 @@ user-guide-description: Workfront tutorials
 + Home {#home}
   + [Remove, add, and rearrange widgets in Home](/help/workfront-home/remove-add-and-rearrange-widgets.md)
 
-    
-+ Agile {#agile}
 
++ Agile {#agile}
   + Introduction to Agile work management {#intro-to-agile}
     + [Benefits of using Agile](/help/agile/benefits-of-using-agile.md)
     + [What is the Scrum methodology and how does it work?](/help/agile/what-is-the-scrum-methodology.md)
