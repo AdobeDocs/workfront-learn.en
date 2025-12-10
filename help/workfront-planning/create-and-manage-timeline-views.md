@@ -3,7 +3,7 @@ title: Create a timeline view
 description: Learn to manage and customize timeline views in Workfront Planning.
 feature: Workfront Planning
 topic: Administration, Collaboration, Personalization
-role: Leader, Architect, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 444
