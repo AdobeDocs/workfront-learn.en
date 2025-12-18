@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integration" type="positive"
 feature-set: Workfront
@@ -19,7 +20,6 @@ topic: Integrations
 Integrate Workfront with Creative Cloud to find and update the work assigned to you in Adobe Workfront without leaving the following Adobe Creative Cloud applications:
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -28,12 +28,7 @@ Integrate Workfront with Creative Cloud to find and update the work assigned to 
 You must install the correct plugin for the Adobe Creative Cloud application you're using:
 
 * For Photoshop, see [Install and open Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* For XD, see [Install and open Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
 * For InDesign, Illustrator, Premiere Pro, and After Effects, see [Install and open Adobe Workfront for design and video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
-
->[!NOTE]
->
->**Premiere Pro** and **After Effects** video upload, and review and approval in Workfront, are not available at this time through the plugin.
 
 
 In this video, you will learn how to do the following from within your Creative Cloud app:
