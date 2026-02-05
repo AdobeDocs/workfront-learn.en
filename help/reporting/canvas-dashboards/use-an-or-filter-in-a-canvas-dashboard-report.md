@@ -11,7 +11,7 @@ jira: KT-18770
 last-substantial-update: 2025-09-30
 recommendations: noDisplay,catalog
 doc-type: video
-
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
 ---
 # Use an OR filter in a Canvas Dashboard report
 

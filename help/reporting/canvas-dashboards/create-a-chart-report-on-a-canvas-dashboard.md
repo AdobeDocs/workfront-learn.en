@@ -11,6 +11,7 @@ jira: KT-18772
 last-substantial-update: 2025-10-15
 recommendations: noDisplay,catalog
 doc-type: video
+exl-id: 840803b1-0049-4bb3-b08b-60842f6b3173
 ---
 # Create a chart report on a Canvas Dashboard
 
