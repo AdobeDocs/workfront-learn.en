@@ -1,5 +1,5 @@
 ---
-title: Record lessons learned
+title: Record lessons learned for future projects
 description: Learn how to benefit from "lessons learned" when closing a project.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 ---
-# Record lessons learned
+# Record lessons learned for future projects
 
 In this video, you will see the beneifts of:
 

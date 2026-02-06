@@ -1,5 +1,5 @@
 ---
-title: Find and Manage Requests
+title: Find and manage requests efficiently
 description: Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of "my" in different contexts for effective request management.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 ---
-# Find and manage requests
+# Find and manage requests efficiently
 
 This video explains how to find and manage requests in Workfront. ​ It covers four main areas:
 

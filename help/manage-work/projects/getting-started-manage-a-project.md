@@ -1,5 +1,5 @@
 ---
-title: Get started managing a project
+title: Manage a project with current status
 description: Track project progress effectively with reports, manage dependencies through Gantt views, monitor tasks and approvals, enhance team communication, and ensure smooth workflows with frequent updates.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 ---
-# Get started managing a project
+# Manage a project with current status
 
 The video provides an overview of managing a project after its status is changed to "Current." ​ 
 

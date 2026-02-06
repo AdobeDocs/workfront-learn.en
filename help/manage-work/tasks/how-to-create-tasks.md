@@ -1,5 +1,5 @@
 ---
-title: Create tasks
+title: Create tasks efficiently in Workfront
 description: Simplify task creation with options for detailed or inline editing, flexible repositioning, custom views for additional fields, and specific placement, such as using "Insert Task Below" in Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -11,7 +11,7 @@ recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 ---
-# Create tasks
+# Create tasks efficiently in Workfront
 
 The video provides a tutorial on creating tasks in a Workfront project, covering both the long method and handy shortcuts. It emphasizes flexibility in task creation and provides tips for efficient task management.
 

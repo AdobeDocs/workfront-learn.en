@@ -1,5 +1,5 @@
 ---
-title: Learn to sequence tasks
+title: Sequence tasks effectively in Workfront
 description: Streamline project management by defining task order with predecessors, setting timelines through durations, simplifying sequences using templates, avoiding manual constraints, and refining skills with practice.
 activity: use
 feature: Work Management
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
 ---
-# Learn to sequence tasks
+# Sequence tasks effectively in Workfront
 
 The video explains how to sequence tasks in Workfront using predecessors and durations to manage project timelines effectively.
 The video demonstrates how to set predecessors for new tasks, ensuring sequential order and accurate start dates. 

@@ -1,5 +1,5 @@
 ---
-title: Get started planning a project
+title: Plan a project effectively in Workfront
 description: Streamline project planning by focusing on key fields, setting the status to "Planning," using appropriate views, selecting realistic start dates, and leveraging scheduling modes for accurate timelines.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 ---
-# Get started planning a project
+# Plan a project effectively in Workfront
 
 The video provides guidance on how to effectively plan a project in Workfront. ​ It emphasizes the importance of laying a solid foundation to ensure the project finishes on time and is successful. ​ Key steps include understanding five critical fields: Tasks, Assignments, Durations, Planned Hours, and Predecessors. ​ These fields enable quick and accurate adjustments to the project plan. ​
 

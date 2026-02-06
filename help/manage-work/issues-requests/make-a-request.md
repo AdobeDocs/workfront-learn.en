@@ -1,5 +1,5 @@
 ---
-title: Make a request
+title: Create and manage requests in Workfront
 description: Enhance efficiency in Workfront with streamlined request creation, customizable workflows, draft autosave, tracking and filtering tools, and the ability to copy and reuse requests.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
 ---
-# Make a request
+# Create and manage requests in Workfront
 
 The video provides a detailed guide on how to make and manage requests within Workfront. It explains the process of creating a request, starting by selecting "Requests" from the main menu and clicking the "New Request" button. ​ Users can choose a request type from custom-designed queues tailored to their organization's workflows.
 

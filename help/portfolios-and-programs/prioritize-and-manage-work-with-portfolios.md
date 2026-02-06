@@ -1,5 +1,5 @@
 ---
-title: Understand the [!UICONTROL Portfolio Optimizer]
+title: Optimize project priorities with the Portfolio Optimization tool
 description: Optimize project management in Workfront by completing business cases for fair comparisons, filtering projects by status, adjusting scores dynamically, prioritizing projects effectively, and aligning resource planning with portfolio goals.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 ---
-# Understand the [!UICONTROL Portfolio Optimizer]
+# Optimize project priorities with the Portfolio Optimization tool
 
 The video explains how to use the Portfolio Optimization tool in Workfront to evaluate and prioritize projects within a portfolio. ​ It begins with submitting a business case for a project, changing its status to "requested," and enabling options to approve or reject it. ​ Before approval, users can compare the project with others in the portfolio using the Portfolio Optimization tool. ​
 

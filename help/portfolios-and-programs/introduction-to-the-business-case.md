@@ -1,5 +1,5 @@
 ---
-title: Understand the [!UICONTROL Business Case]
+title: Create a comprehensive business case
 description: Craft comprehensive business cases in Workfront to prioritize projects by including detailed project info, expenses, labor and risk analysis, scorecards, and custom forms for informed portfolio management.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 ---
-# Understand the [!UICONTROL Business Case]
+# Create a comprehensive business case
 
 The video explains the importance of a business case in project management. It emphasizes that filling out the business case thoroughly helps managers analyze and prioritize projects competing for the same resources. ​ Once completed, submitting the business case changes the project status to "Requested" and calculates its overall score for comparison in the Portfolio Optimization Tool. ​ While none of the fields are mandatory, more detailed information improves decision-making. ​
 

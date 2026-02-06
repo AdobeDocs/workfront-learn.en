@@ -1,5 +1,5 @@
 ---
-title: Update the task status
+title: Update task status for accurate reporting
 description: Learn how, why, and how often to update the task status.
 feature: Work Management
 type: Tutorial
@@ -10,7 +10,7 @@ recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
 ---
-# Update the task status 
+# Update task status for accurate reporting
 
 The video provides a tutorial on how, why, and how often to update the task status.
 

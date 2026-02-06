@@ -1,5 +1,5 @@
 ---
-title: Understand Project Timelines
+title: Explore project timelines in Workfront
 description: Learn how to assign tasks, use Gantt charts and Critical Path features, monitor projects via views, schedule tasks efficiently, and apply constraints for optimal project planning.
 activity: use
 feature: Work Management
@@ -14,7 +14,7 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 ---
-# Understand project timelines
+# Explore project timelines in Workfront
 
 What you'll learn: 
 

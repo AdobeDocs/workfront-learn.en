@@ -1,5 +1,5 @@
 ---
-title: Manage issue assignments
+title: Manage issue assignments effectively
 description: Effectively manage issues in Workfront by using inline editing and the workload balancer for assignments, tracking and updating progress, changing issue statuses, and adhering to team-specific workflows for seamless project execution.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 ---
-# Manage issue assignments
+# Manage issue assignments effectively
 
 Managing issues is an important responsibility of the project manager and those assigned to work on the issues. 
 

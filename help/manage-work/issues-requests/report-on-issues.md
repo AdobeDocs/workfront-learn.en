@@ -1,5 +1,5 @@
 ---
-title: Report on Issues
+title: Create custom reports for issue management
 description: Learn how to create custom reports for issue and project management, including how to centralize and track open issues, customize columns and filters, and optimize project and issue management.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 ---
-# Report on issues
+# Create custom reports for issue management
 
 The video provides a step-by-step guide on creating two types of reports to manage and track issues and projects. ​
 
