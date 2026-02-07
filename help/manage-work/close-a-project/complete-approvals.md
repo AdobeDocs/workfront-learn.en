@@ -1,5 +1,5 @@
 ---
-title: Complete approvals
+title: Resolve task and issue approvals
 description: Learn how to identify incomplete approvals and resolve them so you can close your project.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
 ---
-# Complete approvals
+# Resolve task and issue approvals
 
 In this video, you will learn:
 

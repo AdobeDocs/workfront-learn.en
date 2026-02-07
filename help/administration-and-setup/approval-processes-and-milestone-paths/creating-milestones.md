@@ -1,5 +1,5 @@
 ---
-title: Create a milestone path and milestone steps
+title: Create milestone paths and steps
 description: Learn what milestone paths are, how to create milestone paths, and how to add milestone steps.
 feature: System Setup and Administration
 activity: deploy
@@ -11,7 +11,7 @@ level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
 ---
-# Create a milestone path and milestone steps
+# Create milestone paths and steps
 
 In this video, you will learn:
 

@@ -1,5 +1,5 @@
 ---
-title: Understand project communication
+title: Enhance project success through effective communication
 description: Enhance project success with effective stakeholder communication, task clarity, centralized discussions, accurate status reporting, and proactive issue resolution to maintain alignment and efficiency.
 activity: use
 team: Technical Marketing
@@ -13,9 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 ---
-# Understand project communication
+# Enhance project success through effective communication
 
 The video emphasizes the importance of effective communication for project success and provides strategies to ensure clarity and efficiency in project management. ​ Key points include:
+
 * **Stakeholder Communication:** Keep stakeholders informed about project progress, issues, and resolutions. ​ Regular updates tailored to their needs are essential. ​
 * **Task Clarity:** Ensure team members understand their responsibilities to avoid scope creep and confusion. ​ Use sub-tasks for clarity when assigning multiple people to a task. ​
 * **Centralized Communication:** Use tools like Workfront to store all project-related discussions in one place. ​ Notifications can help team members stay engaged in discussions. ​

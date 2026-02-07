@@ -1,5 +1,5 @@
 ---
-title: Understand [!UICONTROL Work Effort]
+title: Estimate task hours with Work Effort
 description: Streamline task planning in Workfront with the Work Effort feature, allowing customizable planned hour estimations, inline and bulk editing, and custom views for efficient project management.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-29
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 ---
-# Understand [!UICONTROL Work Effort]
+# Estimate task hours with Work Effort
 
 The video explains how to use the Work Effort feature in Workfront to estimate planned hours for tasks when precise estimates are difficult to determine.
 It demonstrates how to create a custom Work Effort view to streamline task management by adding relevant columns like Work Effort, Planned Hours, and Duration Type

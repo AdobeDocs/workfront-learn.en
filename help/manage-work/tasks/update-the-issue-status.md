@@ -1,5 +1,5 @@
 ---
-title: Update the issue status
+title: Update issue statuses effectively
 description: Learn about issue statuses and best practices for using them.
 feature: Work Management
 type: Tutorial
@@ -10,7 +10,7 @@ recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
 ---
-# Update the issue status 
+# Update issue statuses effectively 
 
 In this video you will learn about issue statuses and best practices for using them.
 

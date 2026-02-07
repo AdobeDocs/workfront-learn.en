@@ -1,5 +1,5 @@
 ---
-title: Track progress from the project timeline
+title: Track progress using percent complete and progress status
 description: Learn how to track the progress of work from the project timeline in using percent complete and progress status.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 ---
-# Track progress from the project timeline
+# Track progress using percent complete and progress status
 
 Make sure tasks are progressing the way they should to hit project deadlines. 
 

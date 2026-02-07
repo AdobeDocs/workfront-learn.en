@@ -1,5 +1,5 @@
 ---
-title: Create a Project Template and Learn about [!UICONTROL Blueprints]
+title: Create a project template and explore Blueprints
 description: Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.
 activity: use
 feature: Work Management
@@ -14,7 +14,7 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 ---
-# Create a project template and learn about [!UICONTROL Blueprints]
+# Create a project template and explore Blueprints
 
 
 Learn to create a project template from scratch and from an existing project, and understand how [!UICONTROL Blueprints] can give you access to a world of useful project templates created by Workfront experts.

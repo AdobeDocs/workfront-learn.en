@@ -1,5 +1,5 @@
 ---
-title: Work with tasks
+title: Manage tasks efficiently in Workfront
 description: Enhance task management with in-line editing, Recycle Bin backups for deleted tasks, parent-child structure additions, task duplication, and intuitive reorganization tools like drag-and-drop in Workfront.
 activity: use
 feature: Work Management
@@ -13,7 +13,7 @@ jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
 ---
-# Work with tasks
+# Manage tasks efficiently in Workfront
 
 This video provides a detailed guide on managing tasks in Workfront. It emphasizes efficient task management, including editing, deleting, adding, duplicating, and reorganizing tasks within a project plan.
 

@@ -61,7 +61,7 @@ user-guide-description: A library of training videos and articles designed to he
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-    + [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+    + [Create milestone paths and steps](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
   + System performance and maintenance {#system-perfomance-and-maintenance}
     + [Take charge of an existing Adobe Workfront instance](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -99,44 +99,44 @@ user-guide-description: A library of training videos and articles designed to he
 
 + Manage work {#manage-work}
   + Projects {#projects}
-    + [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
+    + [Create and manage a project from scratch](/help/manage-work/projects/understand-basic-project-creation.md)
     + [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
-    + [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-    + [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
-    + [Get started planning a project](/help/manage-work/projects/getting-started-plan-a-project.md)
+    + [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+    + [Fill in essential project details](/help/manage-work/projects/fill-in-the-project-details.md)
+    + [Plan a project effectively in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
     + [Take a project live](/help/manage-work/projects/take-a-project-live.md)
-    + [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-    + [Find projects](/help/manage-work/projects/find-projects.md)
-    + [Share a project](/help/manage-work/projects/share-a-project.md)
+    + [Manage a project with current status](/help/manage-work/projects/getting-started-manage-a-project.md)
+    + [Find projects efficiently](/help/manage-work/projects/find-projects.md)
+    + [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
     + [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
-    + [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
-    + [View project information](/help/manage-work/projects/view-project-information.md) 
+    + [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
+    + [Explore filters, views, and groupings for project management](/help/manage-work/projects/view-project-information.md) 
     + [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
     + [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
     + [Understand the [!UICONTROL Gantt] view](/help/manage-work/projects/understand-the-gantt-view.md)
     + [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)
       
   + Tasks {#tasks}
-    + [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
-    + [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
-    + [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+    + [Create tasks efficiently in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+    + [Understand parent-child task relationships](/help/manage-work/tasks/understand-parent-child-tasks.md)
+    + [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
     + [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-    + [Update the task status](/help/manage-work/tasks/update-the-task-status.md)
+    + [Update task status for accurate reporting](/help/manage-work/tasks/update-the-task-status.md)
     + [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-    + [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+    + [Sequence tasks effectively in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
     + [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-    + [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+    + [Estimate task hours with Work Effort](/help/manage-work/tasks/understand-work-effort.md)
     
   + Issues/requests {#issues-requests}
-    + [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-    + [Make a request](/help/manage-work/issues-requests/make-a-request.md)
-    + [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-    + [Manage issue assignments](/help/manage-work/issues-requests/manage-issue-assignments.md)
-    + [Update the issue status](/help/manage-work/tasks/update-the-issue-status.md)
-    + [Update a request](/help/manage-work/issues-requests/update-a-request.md)
+    + [Handle unplanned work effectively](/help/manage-work/issues-requests/handle-unplanned-work.md)
+    + [Create and manage requests in Workfront](/help/manage-work/issues-requests/make-a-request.md)
+    + [Find and manage requests efficiently](/help/manage-work/issues-requests/find-requests.md)
+    + [Manage issue assignments effectively](/help/manage-work/issues-requests/manage-issue-assignments.md)
+    + [Update issue statuses effectively](/help/manage-work/tasks/update-the-issue-status.md)
+    + [Update a request in Workfront](/help/manage-work/issues-requests/update-a-request.md)
     + [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
     + [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-    + [Report on issues](/help/manage-work/issues-requests/report-on-issues.md)
+    + [Create custom reports for issue management](/help/manage-work/issues-requests/report-on-issues.md)
 
   + Request queues {#request-queues}
     + [Understand request queues](/help/manage-work/request-queues/understand-request-queues.md)
@@ -147,36 +147,36 @@ user-guide-description: A library of training videos and articles designed to he
     + [Answers to common questions about request queues](/help/manage-work/request-queues/request-queue-faq.md)
 
   + Portfolios {#portfolios}
-    + [Understand portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-    + [Understand the [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-    + [Understand the [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+    + [Explore portfolio management and optimization](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Create a comprehensive business case](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+    + [Optimize project priorities with the Portfolio Optimization tool](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
     + [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
     + [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-    + [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-    + [Apply milestones](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-    + [View milestones](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+    + [Delegate tasks, issues, and approvals effectively](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+    + [Apply milestone paths to projects and tasks](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+    + [View milestones in your projects](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
-    + [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+    + [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
     + [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-    + [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-    + [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+    + [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+    + [Copy an existing project efficiently](/help/manage-work/manage-projects/copy-an-existing-project.md)
     + [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-    + [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+    + [Edit the project team in a template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
   + Project timelines {#project-timelines}
-    + [Understand project timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
+    + [Explore project timelines in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
     + [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-    + [Track progress from the project timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+    + [Track progress using percent complete and progress status](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
   + Close a project {#close-a-project}
     + [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-    + [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
-    + [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
-    + [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+    + [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
+    + [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
+    + [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Project finances for users {#project-finances-users}

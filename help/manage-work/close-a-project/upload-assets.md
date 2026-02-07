@@ -1,5 +1,5 @@
 ---
-title: Upload assets
+title: Upload and manage project assets
 description: Upload documents and proofs to the project before closing it to ensure all relevant data is associated with the project.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
 ---
-# Upload assets
+# Upload and manage project assets
 
 In this video, you will learn how to:
 

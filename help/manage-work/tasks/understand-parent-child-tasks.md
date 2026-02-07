@@ -1,5 +1,5 @@
 ---
-title: Understand parent-child tasks
+title: Understand parent-child task relationships
 description: Optimize project management with tasks as the foundation, using parent-child structures, automatic parent task completion, flexible organization tools, and tailored task structuring for efficiency.
 activity: use
 feature: Work Management
@@ -13,7 +13,7 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 ---
-# Understand parent-child tasks
+# Understand parent-child task relationships
 
 This video explains the task structure in Workfront. Tasks are essential components of a project, representing the work items needed for completion.​ The video emphasizes the importance of organizing tasks accurately as a key step in project planning and management. It demonstrates how to start working with tasks and explains the parent-child task relationships. 
 ​Parent tasks act as organizers, grouping the project into phases, stages, or milestones, and are not assigned to individuals. Child tasks, or subtasks, represent actionable work assigned to team members.

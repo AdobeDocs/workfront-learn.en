@@ -1,5 +1,5 @@
 ---
-title: Copy an existing project
+title: Copy an existing project efficiently
 description: Easily duplicate projects by using the "Copy" option in the three-dot menu, renaming and setting the status to "Planning," copying custom data and forms, and transferring issues separately via the Issues tab for tailored project setups.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
 ---
-# Copy an existing project
+# Copy an existing project efficiently
 
 The video explains how to copy a project instead of using a template. ​ To copy a project, open the desired project, click the three-dot menu next to the project name, and select "Copy." ​ In the Copy Project window, you can rename the project and change its status, typically to "Planning" to avoid sending notifications to assigned users. ​ You can choose whether to copy assignments, progress, custom data, etc. ​ 
 To finalize, click "Copy Project." ​

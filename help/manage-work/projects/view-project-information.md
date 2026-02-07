@@ -1,5 +1,5 @@
 ---
-title: View project information
+title: Explore filters, views, and groupings for project management
 description: Streamline project workflows with customizable filters, detailed views, efficient groupings, task management tools, and issue tracking features for enhanced organization and clarity.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 ---
-# View project information
+# Explore filters, views, and groupings for project management
 
 This video provides an overview of filters, views, and groupings in Workfront to help users efficiently manage and analyze projects, tasks, and issues. ​ Key points include:
 

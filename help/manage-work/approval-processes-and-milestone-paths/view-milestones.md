@@ -1,5 +1,5 @@
 ---
-title: View milestones
+title: View milestones in your projects
 description: Learn how to view milestones in a project, plus use the milestone view in the [!UICONTROL Project] area.
 activity: deploy
 feature: Work Management
@@ -14,7 +14,7 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 ---
-# View milestones
+# View milestones in your projects
 
 In this video, you will learn how to:
 

@@ -1,5 +1,5 @@
 ---
-title: Understand portfolios
+title: Explore portfolio management and optimization
 description: Optimize project selection in Workfront by using the Portfolio Optimizer, creating portfolios with managed access, organizing projects and programs, and preparing business cases for informed decision-making.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 ---
-# Understand portfolios
+# Explore portfolio management and optimization
 
 The video explains portfolio management, focusing on how managers can optimize project selection to align with company goals. ​ It introduces the concept of portfolios as collections of projects competing for shared resources, budgets, and schedules. ​ Managers can use tools like the Portfolio Optimizer to compare projects based on criteria such as labor, expenses, risk, ROI, and alignment with portfolio goals. ​ Preparing projects for comparison involves creating a business case for each. ​
 

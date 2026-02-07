@@ -1,5 +1,5 @@
 ---
-title: Update a request
+title: Update a request in Workfront
 description: Simplify request management in Workfront by using filters to locate requests, efficiently updating status and details, accessing full information, and fostering centralized collaboration for streamlined workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
 ---
-# Update a request
+# Update a request in Workfront
 
 The video explains how to locate and update requests in Adobe Workfront. ​ After submitting a request, you can add information or ask questions to ensure the latest details are available to those working on it. ​  ​
 

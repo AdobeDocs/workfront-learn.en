@@ -1,5 +1,5 @@
 ---
-title: Find projects
+title: Find projects efficiently
 description: Simplify project management with filters, search tools, recents lists, favorites, pinned projects, and custom reports or dashboards for quick and organized access to projects.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 ---
-# Find projects
+# Find projects efficiently
 
 In this video, you will learn some quick and easy ways to find projects.
 

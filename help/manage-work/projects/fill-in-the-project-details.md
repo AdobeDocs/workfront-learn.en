@@ -1,5 +1,5 @@
 ---
-title: Fill in the project details
+title: Fill in essential project details
 description: Optimize project management efficiency by using descriptive names, setting appropriate statuses, choosing the right schedule mode, leveraging templates and custom forms, and managing resources with resource pools and schedules.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---
-# Fill in the project details
+# Fill in essential project details
 
 In this video, you will learn about the most common project settings needed when creating a project.
 

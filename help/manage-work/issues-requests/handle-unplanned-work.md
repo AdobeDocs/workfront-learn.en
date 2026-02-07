@@ -1,5 +1,5 @@
 ---
-title: Handle Unplanned Work
+title: Handle unplanned work effectively
 description: Improve project management in Workfront by effectively tracking and resolving issues, utilizing logging tools, implementing best practices, fostering communication, and seamlessly converting issues into tasks for streamlined execution.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 ---
-# Handle unplanned work
+# Handle unplanned work effectively
 
 The video emphasizes the importance of communication in project management and highlights the role of issues as a key tool for facilitating communication. ​ It explains the difference between updates and issues, noting that issues are better suited for work that needs to be assigned, tracked, and resolved before a project can be completed. ​ The video provides a step-by-step guide on how to log issues. ​
 

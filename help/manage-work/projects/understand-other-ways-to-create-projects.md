@@ -1,5 +1,5 @@
 ---
-title: Learn four ways to create a project
+title: Explore four methods to create a project
 description: Explore how to efficiently create projects in Workfront using templates, starting from scratch, copying existing projects, or importing Microsoft Project files, tailored to diverse user needs.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ last-substantial-update: 2024-03-05
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 ---
-# Learn four ways to create a project
+# Explore four methods to create a project
 
 The video provides a comprehensive guide on creating projects in Workfront using various methods:
 

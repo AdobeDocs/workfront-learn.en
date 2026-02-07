@@ -1,5 +1,5 @@
 ---
-title: Edit the project team in a project template
+title: Edit the project team in a template
 description: Avoid unintentionally including project team members in a template project team by learning how to edit the template project team.
 activity: use
 feature: Work Management
@@ -14,7 +14,7 @@ jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
 ---
-# Edit the project team in a project template
+# Edit the project team in a template
 
 In this video, you will learn:
 

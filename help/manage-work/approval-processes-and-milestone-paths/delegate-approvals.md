@@ -1,5 +1,5 @@
 ---
-title: Delegate tasks, issues, and approvals
+title: Delegate tasks, issues, and approvals effectively
 description: Streamline delegation workflows by enabling task and approval delegation in Setup, utilizing the "Delegate" and "Delegate Approval" buttons, setting email notifications for assignments, and tracking updates and system activity for clear oversight.
 activity: use
 feature: Approvals
@@ -14,7 +14,7 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 ---
-# Delegate tasks, issues, and approvals
+# Delegate tasks, issues, and approvals effectively
 
 The video explains how to delegate tasks, issues, and approvals. ​ To enable delegation, the system or group administrator must activate the feature in Setup under Project Preferences. ​ Once enabled, users can delegate all their tasks and issues to another person for a specified time period using the "Delegate" button in the My Tasks widget. ​ Delegation applies to both tasks and issues together, and they must be assigned to the same person. ​ Delegations can be set with or without an end date, and users can manually stop delegations at any time. ​
 For approvals, users can delegate them via the "Awaiting My Approval" widget. ​ Delegation applies to existing approvals and new ones during the specified time period, but only for projects, tasks, and issues—not for documents, proofs, or timesheets. ​ Notifications for delegated tasks, issues, and approvals can be enabled by the administrator to inform both the delegator and the delegatee. ​

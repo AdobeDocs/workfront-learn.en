@@ -1,5 +1,5 @@
 ---
-title: Understand basic project creation
+title: Create and manage a project from scratch
 description: Learn how to create, manage, and complete projects efficiently, handle unexpected issues, and explore beginner-friendly tips to master essential project management features. ​
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 ---
-# Understand basic project creation
+# Create and manage a project from scratch
 
 This video explains how to create and manage a project from scratch. ​ It begins by creating a new project, renaming it, and setting a goal with a description, start date, and target completion date. Projects can be broken into tasks, which are planned work with estimated durations and assignments. ​ Tasks can be sequenced using predecessors, and the project status can be set to "Current" to notify the team and include it in reports. ​
 

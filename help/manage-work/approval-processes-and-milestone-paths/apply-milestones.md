@@ -1,5 +1,5 @@
 ---
-title: Apply milestones
+title: Apply milestone paths to projects and tasks
 description: Learn how to apply milestone paths to a project and associate key tasks as milestone steps within the project.
 feature: Work Management
 thumbnail: 335205.jpeg
@@ -14,7 +14,7 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 ---
-# Apply milestones
+# Apply milestone paths to projects and tasks
 
 In this video, you will learn how to:
 
@@ -31,5 +31,5 @@ In this video, you will learn how to:
 ## Recommended tutorials on this topic
 
 * [View milestones](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Apply milestone paths to projects and tasks](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [Milestone view activity in Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
