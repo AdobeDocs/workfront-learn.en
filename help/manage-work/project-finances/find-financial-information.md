@@ -1,5 +1,5 @@
 ---
-title: Find financial information
+title: Access and manage financial information for projects and tasks
 description: Discover how to efficiently access, analyze, and manage financial data for projects and tasks, covering budgets, revenue, costs, and performance metrics at both project and task levels.
 activity: use
 feature: Work Management
@@ -14,7 +14,7 @@ last-substantial-update: 2025-04-16
 recommendations: noDisplay,catalog
 doc-type: video
 ---
-# Find financial information
+# Access and manage financial information for projects and tasks
 
 The video explains how to access and manage financial information for projects and tasks. ​It provides a comprehensive overview of navigating and understanding financial data at both project and task levels. ​
 

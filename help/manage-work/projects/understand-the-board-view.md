@@ -1,5 +1,5 @@
 ---
-title: Understand the [!UICONTROL Board] view
+title: Explore the Board view for task management
 description: Streamline task management in Workfront with the [!UICONTROL Board] view's [!DNL Kanban] interface, offering task sorting, creation, customization, and seamless integration with the task list view for efficient project organization.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 ---
-# Understand the [!UICONTROL Board] view
+# Explore the Board view for task management
 
 The video explains the Board view feature in Workfront, which provides an alternative way to view and manage project tasks. ​ In the Board view, tasks are displayed as cards on a Kanban-style board, allowing users to sort, group, and move tasks within or between columns. ​ Moving a task updates its status automatically, which is reflected in the task list view. ​ Users can create new cards, which generate new tasks in the project, and edit or assign them directly in the Board view. ​ Columns and cards can be configured, and tasks can be sequenced using predecessors in the task list view.
 

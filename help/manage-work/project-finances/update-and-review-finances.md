@@ -1,5 +1,5 @@
 ---
-title: Update finances
+title: Update finances for client projects
 description: Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.
 activity: use
 team: Technical Marketing
@@ -15,7 +15,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 ---
 
-# Update finances
+# Update finances for client projects
 
 This video provides a detailed guide on tracking time, expenses, and creating billing records for client projects. ​ Key points include:
 

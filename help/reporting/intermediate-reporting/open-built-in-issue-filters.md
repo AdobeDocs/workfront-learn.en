@@ -1,5 +1,5 @@
 ---
-title: Understand built-in issue filters
+title: Explore built-in issue filters
 description: Learn how to review built-in issue filters to see how they're built and create your own issue filter in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 ---
-# Understand built-in issue filters
+# Explore built-in issue filters
 
 In this video, you will:
 

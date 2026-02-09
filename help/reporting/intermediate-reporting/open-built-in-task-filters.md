@@ -1,5 +1,5 @@
 ---
-title: Understand built-in task filters
+title: Explore built-in task filters
 description: Learn how to review built-in task filters to see how they're built and create your own task filter in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
 ---
-# Understand built-in task filters
+# Explore built-in task filters
 
 In this video, you will:
 

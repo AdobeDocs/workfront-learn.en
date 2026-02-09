@@ -1,5 +1,5 @@
 ---
-title: Create reports with charts
+title: Visualize data with charts in reports
 description: Charts enhance data visualization by organizing data insights through customizable filters, groupings, and stacked column formats, making analysis clearer and more actionable.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-06
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 ---
-# Create reports with charts
+# Visualize data with charts in reports
 
 The video explains how to use charts to visualize data effectively, particularly for tracking project tasks. ​ It demonstrates creating two types of reports in Workfront:
 

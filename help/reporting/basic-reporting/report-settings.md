@@ -1,5 +1,5 @@
 ---
-title: Understand report settings
+title: Explore report settings and prompts
 description: Learn how to access Workfront report settings and what some common report settings are used for.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-30
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 ---
-# Understand report settings
+# Explore report settings and prompts
 
 In this video, you will learn:
 

@@ -1,5 +1,5 @@
 ---
-title: Understand basic text mode for views
+title: Explore basic text mode for views in Workfront
 description: Learn about text mode, camel case, and some basic text mode that you can use in your report views in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 ---
-# Understand basic text mode for views
+# Explore basic text mode for views in Workfront
 
 
 >[!PREREQUISITES]

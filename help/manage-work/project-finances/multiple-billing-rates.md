@@ -1,5 +1,5 @@
 ---
-title: Understand multiple billing rates
+title: Customize billing rates for job roles
 description: Customize and manage billing rates for job roles at the project level.
 activity: use
 team: Technical Marketing
@@ -15,7 +15,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 ---
 
-# Understand multiple billing rates
+# Customize billing rates for job roles
 
 The video explains how to manage and customize billing rates for job roles within a project. ​It emphasizes flexibility in setting multiple billing rates for the same job role and ensuring accurate time-based adjustments. ​
 

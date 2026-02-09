@@ -1,5 +1,5 @@
 ---
-title: Understand additional calendar report options
+title: Explore advanced calendar report functionalities
 description: Learn how to copy, edit, share, and delete a calendar.
 activity: use
 feature: Reports and Dashboards
@@ -12,7 +12,7 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 ---
-# Understand additional calendar report options
+# Explore advanced calendar report functionalities
 
 A calendar report is a dynamic report that displays work and time off in a calendar view. You can display date information in a calendar report for the following objects:
 

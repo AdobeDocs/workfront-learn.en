@@ -1,5 +1,5 @@
 ---
-title: Log and review hours
+title: Log and review project hours
 description: Record outstanding hours and review logged hours before closing a project.
 activity: use
 team: Technical Marketing
@@ -14,7 +14,7 @@ last-substantial-update: 2024-12-12
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 ---
-# Log and review hours
+# Log and review project hours
 
 In this video, you will learn how to:
 

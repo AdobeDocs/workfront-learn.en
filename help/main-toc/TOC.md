@@ -113,8 +113,8 @@ user-guide-description: A library of training videos and articles designed to he
     + [Explore filters, views, and groupings for project management](/help/manage-work/projects/view-project-information.md) 
     + [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
     + [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-    + [Understand the [!UICONTROL Gantt] view](/help/manage-work/projects/understand-the-gantt-view.md)
-    + [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)
+    + [Explore the Gantt view for project management](/help/manage-work/projects/understand-the-gantt-view.md)
+    + [Explore the Board view for task management](/help/manage-work/projects/understand-the-board-view.md)
       
   + Tasks {#tasks}
     + [Create tasks efficiently in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -134,15 +134,15 @@ user-guide-description: A library of training videos and articles designed to he
     + [Manage issue assignments effectively](/help/manage-work/issues-requests/manage-issue-assignments.md)
     + [Update issue statuses effectively](/help/manage-work/tasks/update-the-issue-status.md)
     + [Update a request in Workfront](/help/manage-work/issues-requests/update-a-request.md)
-    + [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-    + [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+    + [Convert an issue or request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+    + [Convert an issue or request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
     + [Create custom reports for issue management](/help/manage-work/issues-requests/report-on-issues.md)
 
   + Request queues {#request-queues}
-    + [Understand request queues](/help/manage-work/request-queues/understand-request-queues.md)
-    + [Create a request queue](/help/manage-work/request-queues/create-a-request-queue.md)
-    + [Understand settings for a request flow](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-    + [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
+    + [Explore request queues in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+    + [Create a request queue in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+    + [Organize your request flow settings](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+    + [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
     + [Create a system admin feedback request queue](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
     + [Answers to common questions about request queues](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -177,50 +177,50 @@ user-guide-description: A library of training videos and articles designed to he
     + [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
     + [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
     + [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-    + [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+    + [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Project finances for users {#project-finances-users}
-    + [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
-    + [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)
-    + [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
+    + [Access and manage financial information for projects and tasks](/help/manage-work/project-finances/find-financial-information.md)
+    + [Update finances for client projects](/help/manage-work/project-finances/update-and-review-finances.md)
+    + [Customize billing rates for job roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 
   + Intermediate projects {#intermediate-projects}
-    + [Understand and manage duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-    + [Understand cross-project predecessors](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-    + [Advanced predecessors](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+    + [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+    + [Establish dependencies with cross-project predecessors](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+    + [Master advanced task dependencies](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Reporting {#reporting}
   + Basic reporting {#basic-reporting}
-    + [Understand reporting elements](/help/reporting/basic-reporting/reporting-elements.md)
-    + [Understand reporting components](/help/reporting/basic-reporting/reporting-components.md)
+    + [Explore Workfront reporting elements](/help/reporting/basic-reporting/reporting-elements.md)
+    + [Explore reporting components in Workfront](/help/reporting/basic-reporting/reporting-components.md)
     + [Create a basic grouping](/help/reporting/basic-reporting/create-a-basic-grouping.md)
     + [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
     + [Add basic conditional formatting to a view](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
     + [Create a basic filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
-    + [Understand the new filter experience](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+    + [Explore the new filter experience](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
     + [Create basic filter activities](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
     + [Create a simple report](/help/reporting/basic-reporting/create-a-simple-report.md)
-    + [Create a task report](/help/reporting/basic-reporting/create-a-task-report.md)
-    + [Copy a report](/help/reporting/basic-reporting/copy-a-report.md)
-    + [Create reports with charts](/help/reporting/basic-reporting/create-reports-with-charts.md)
+    + [Create a task report for late assignments](/help/reporting/basic-reporting/create-a-task-report.md)
+    + [Copy and edit a report](/help/reporting/basic-reporting/copy-a-report.md)
+    + [Visualize data with charts in reports](/help/reporting/basic-reporting/create-reports-with-charts.md)
     + [Create a matrix report](/help/reporting/basic-reporting/create-a-matrix-report.md)
-    + [Create dashboards](/help/reporting/basic-reporting/create-dashboards.md)
-    + [Send and share reports](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-    + [Understand report settings](/help/reporting/basic-reporting/report-settings.md)
+    + [Create dashboards in Workfront](/help/reporting/basic-reporting/create-dashboards.md)
+    + [Send and share reports effectively](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+    + [Explore report settings and prompts](/help/reporting/basic-reporting/report-settings.md)
 
   + Intermediate reporting {#intermediate-reporting}
     + [Create filters with user-based wildcards](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
     + [Create filters with date-based wildcards](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
     + [Create OR statements in filters](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-    + [Understand built-in project filters](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-    + [Understand built-in task filters](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)  
-    + [Understand built-in issue filters](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-    + [Understand basic text mode for filters](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-    + [Understand basic text mode for views](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-    + [Understand basic text mode for groupings](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-    + [Create custom prompts](/help/reporting/intermediate-reporting/custom-prompts.md)
-    + [Understand EXISTS filters](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+    + [Explore built-in project filters](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+    + [Explore built-in task filters](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)  
+    + [Explore built-in issue filters](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+    + [Explore basic text mode for filters in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+    + [Explore basic text mode for views in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+    + [Explore basic text mode for groupings in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+    + [Create custom prompts using text mode](/help/reporting/intermediate-reporting/custom-prompts.md)
+    + [Create EXISTS filters for complex reporting](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
   + Advanced reporting {#advanced-reporting}
     + [Welcome to advanced reporting](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -229,18 +229,18 @@ user-guide-description: A library of training videos and articles designed to he
     + [Advanced reporting part 3](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
   + Calendar reports {#calendar-reports}
-    + [Understand the calendar report interface](/help/reporting/basic-reporting/tour-of-the-interface.md)
+    + [Explore the calendar report interface](/help/reporting/basic-reporting/tour-of-the-interface.md)
     + [Create a custom calendar report](/help/reporting/basic-reporting/creating-custom-calendars.md)
-    + [Understand additional calendar report options](/help/reporting/basic-reporting/additional-calendar-options.md)
+    + [Explore advanced calendar report functionalities](/help/reporting/basic-reporting/additional-calendar-options.md)
     + [Activity - Create a calendar report](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
     
   + Canvas dashboards {#canvas-dashboards}
-    + [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
+    + [Explore Canvas Dashboards in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
     + [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md) 
     + [Create a chart report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
     + [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
     + [Add conditional formatting to a Canvas Dashboard report](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-    + [Use an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+    + [Apply an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + Manage resources {#manage-resources}
   + Resource management {#resource-management}

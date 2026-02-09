@@ -1,5 +1,5 @@
 ---
-title: Copy a report
+title: Copy and edit a report
 description: Learn how to quickly create a new report by copying and editing a similar report.
 feature: Reports and Dashboards
 thumbnail: 3427230.jpg
@@ -13,7 +13,7 @@ jira: KT-14692
 doc-type: video
 exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
 ---
-# Copy a report
+# Copy and edit a report
 
 Learn how to quickly create a new report by copying and editing a similar report.
 

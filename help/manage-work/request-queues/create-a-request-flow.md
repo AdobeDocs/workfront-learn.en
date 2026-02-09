@@ -1,5 +1,5 @@
 ---
-title: Create a request flow
+title: Create a request flow in Workfront
 description: Optimize request management by creating routing rules for efficient assignments, organizing requests with nested topic groups, linking queue topics to workflows, testing request flow functionality, and making flexible adjustments to ensure accuracy and efficiency.
 activity: deploy
 feature: Work Management
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 ---
-# Create a request flow
+# Create a request flow in Workfront
 
 >[!PREREQUISITES]
 >

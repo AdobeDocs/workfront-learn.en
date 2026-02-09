@@ -1,5 +1,5 @@
 ---
-title: Understand and manage duration types and task constraints
+title: Master duration types and task constraints
 description: Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -13,7 +13,7 @@ jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
 ---
-# Understand and manage duration types and task constraints
+# Master duration types and task constraints
 
 In this video, you will learn the following things about duration types and task constraints:
 
