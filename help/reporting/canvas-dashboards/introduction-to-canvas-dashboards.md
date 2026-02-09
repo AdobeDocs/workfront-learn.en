@@ -1,5 +1,5 @@
 ---
-title: Introduction to Canvas Dashboards
+title: Explore Canvas Dashboards in Workfront
 description: Learn how to navigate to and within Canvas dashboards and how to create a simple dashboard with existing reports.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
 ---
-# Introduction to Canvas Dashboards
+# Explore Canvas Dashboards in Workfront
 
 The Canvas dashboards feature is another way to create dashboards in Workfront. It is currently in General Beta, which means all Workfront customers can use the feature, if they are enrolled in the beta. A System Administrator needs to do the enrollment. This video will show them how. 
 

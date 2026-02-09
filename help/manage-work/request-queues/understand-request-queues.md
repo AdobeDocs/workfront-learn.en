@@ -1,5 +1,5 @@
 ---
-title: Understand request queues
+title: Explore request queues in Workfront
 description: Streamline operations in Workfront with centralized request queues for submissions, efficient queue management, and easy access to submitted requests for improved project workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 ---
-# Understand request queues
+# Explore request queues in Workfront
 
 This video explains the concept of Request Queues in Workfront, their purpose, and how to submit and manage requests. ​ Request Queues serve as a centralized location for submitting various types of requests. ​
 

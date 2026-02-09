@@ -1,5 +1,5 @@
 ---
-title: Create a request queue
+title: Create a request queue in Workfront
 description: Create efficient Workfront request queues by defining access permissions, customizing request types and fields, activating the queue, and testing its functionality for seamless project submission management.
 activity: deploy
 feature: Work Management
@@ -14,7 +14,7 @@ last-substantial-update: 2024-08-05
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 ---
-# Create a request queue
+# Create a request queue in Workfront
 
 The video provides a step-by-step guide on creating a request queue within Workfont. ​ The video concludes by demonstrating how to submit a request using the newly created queue, showing the process of entering details and verifying the submission in the "requests submitted" tab. ​
 

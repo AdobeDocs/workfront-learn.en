@@ -1,5 +1,5 @@
 ---
-title: Create dashboards
+title: Create dashboards in Workfront
 description: Organize and display project data with Workfront dashboards, which can be customized, accessed easily, shared, and printed for seamless project management and collaboration.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-28
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 ---
-# Create dashboards
+# Create dashboards in Workfront
 
 The video provides a comprehensive guide to understanding and using dashboards in Workfront. 
 ​It explains that a dashboard is a collection of reports that allows users to organize and display related data in one place. 

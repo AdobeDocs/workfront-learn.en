@@ -1,5 +1,5 @@
 ---
-title: Understand basic text mode for groupings
+title: Explore basic text mode for groupings in Workfront
 description: Learn about text mode, camel case, and some basic text mode that you can use in your report groupings in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 ---
-# Understand basic text mode for groupings
+# Explore basic text mode for groupings in Workfront
 
 >[!PREREQUISITES]
 >

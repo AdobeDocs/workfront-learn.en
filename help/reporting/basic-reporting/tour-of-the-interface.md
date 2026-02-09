@@ -1,5 +1,5 @@
 ---
-title: Understand the calendar report interface
+title: Explore the calendar report interface
 description: Get to know the calendar interface including calendar groupings, views and actions.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 ---
-# Understand the calendar report interface
+# Explore the calendar report interface
 
 A calendar report is a dynamic report that displays work and time off in a calendar view. You can display date information in a calendar report for the following objects:
 

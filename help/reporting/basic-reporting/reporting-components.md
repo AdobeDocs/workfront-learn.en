@@ -1,5 +1,5 @@
 ---
-title: Understand reporting components
+title: Explore reporting components in Workfront
 description: Workfront's reporting components refine data visualization with object-based filters, dynamic views, structured groupings, and wildcard functionality for tailored insights.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ last-substantial-update: 2025-04-28
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 ---
-# Understand reporting components
+# Explore reporting components in Workfront
 
 The video explains the concept of reporting components in Workfront, which are essential for creating filters, views, and groupings. The key components include:
 

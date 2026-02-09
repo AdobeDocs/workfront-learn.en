@@ -1,5 +1,5 @@
 ---
-title: Use an OR filter in a Canvas Dashboard report
+title: Apply an OR filter in a Canvas Dashboard report
 description: Learn how to use an OR filter in a Canvas Dashboard report.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
 ---
-# Use an OR filter in a Canvas Dashboard report
+# Apply an OR filter in a Canvas Dashboard report
 
 >[!PREREQUISITES]
 >

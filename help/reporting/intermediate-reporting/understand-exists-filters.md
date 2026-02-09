@@ -1,5 +1,5 @@
 ---
-title: Understand EXISTS filters
+title: Create EXISTS filters for complex reporting
 description: Learn what an EXISTS filter is, what it can do for you, and how you can build one from scratch. Plus see a lot of useful examples of EXISTS filters.
 activity: use
 team: Technical Marketing
@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-25
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
 ---
-# Understand EXISTS filters
+# Create EXISTS filters for complex reporting
 
 EXISTS filters are advanced, text mode filters, which allow us to work around the 2 table/field jump limitation in a standard report builder. Or, they can be used to identify objects in the system that lack a specific relationship condition via NOTEXISTS. 
 

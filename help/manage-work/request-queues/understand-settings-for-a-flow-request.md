@@ -1,5 +1,5 @@
 ---
-title: Understand settings for a request flow
+title: Organize your request flow settings
 description: Optimize Workfront request management by defining queue topics, using topic groups, setting routing rules, planning ahead, and ensuring submissions are not overlooked for improved efficiency.
 activity: delpoy
 feature: Work Management
@@ -14,7 +14,7 @@ last-substantial-update: 2024-08-12
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 ---
-# Understand settings for a request flow
+# Organize your request flow settings
 
 The video explains the request flow process in Workfront, focusing on queue management, routing rules, topic groups, and queue topics. ​ It emphasizes the importance of organizing the request queue by answering three key questions:
 

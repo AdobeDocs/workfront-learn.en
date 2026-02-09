@@ -1,5 +1,5 @@
 ---
-title: Advanced predecessors
+title: Master advanced task dependencies
 description: Learn about predecessor dependency types, lag types, enforced predecessors, dependency loop errors, and some short cuts and best practices.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -13,7 +13,7 @@ jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
 ---
-# Advanced predecessors
+# Master advanced task dependencies
 
 
 >[!PREREQUISITES]

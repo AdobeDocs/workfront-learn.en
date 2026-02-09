@@ -1,5 +1,5 @@
 ---
-title: Understand the [!UICONTROL Gantt] view
+title: Explore the [!UICONTROL Gantt] view for project management
 description: Maximize project efficiency with Gantt charts, offering big-picture views, progress tracking, milestone management, predecessor insights, and customizable options to streamline task and resource management.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 ---
-# Understand the [!UICONTROL Gantt] view
+# Explore the [!UICONTROL Gantt] view for project management
 
 The video explains how to use the Project Gantt Chart and Task Gantt Chart to visualize and manage tasks and projects effectively. ​ Gantt charts provide a big-picture view of tasks, templates, and projects, and are commonly used within portfolios to understand relationships between projects, especially those sharing resources. ​
 

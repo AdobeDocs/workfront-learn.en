@@ -1,5 +1,5 @@
 ---
-title: Send and share reports
+title: Send and share reports effectively
 description: Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-29
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 ---
-# Send and share reports
+# Send and share reports effectively
 
 In this video, you will learn:
 

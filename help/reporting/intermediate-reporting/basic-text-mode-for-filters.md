@@ -1,5 +1,5 @@
 ---
-title: Understand Basic Text Mode for Filters
+title: Explore basic text mode for filters in Workfront
 description: Learn about text mode, camel case, and some basic text mode that you can use in your report filters in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 ---
-# Understand basic text mode for filters
+# Explore basic text mode for filters in Workfront
 
 >[!PREREQUISITES]
 >

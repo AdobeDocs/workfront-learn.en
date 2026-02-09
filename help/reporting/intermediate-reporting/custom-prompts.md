@@ -1,5 +1,5 @@
 ---
-title: Create custom prompts
+title: Create custom prompts using text mode
 description: Learn what a custom prompt is, how to create a custom prompt using text mode, and some examples that you can use in reporting in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 ---
-# Create custom prompts
+# Create custom prompts using text mode
 
 In this video, you will learn:
 

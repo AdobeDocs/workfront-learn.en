@@ -1,5 +1,5 @@
 ---
-title: Understand built-in project filters
+title: Explore built-in project filters
 description: Learn how to review built-in project filters to see how they're built and create your own project filter in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 ---
-# Understand built-in project filters
+# Explore built-in project filters
 
 In this video, you will learn how to:
 

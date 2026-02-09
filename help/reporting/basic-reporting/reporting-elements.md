@@ -1,5 +1,5 @@
 ---
-title: Understand reporting elements
+title: Explore Workfront reporting elements
 description: Enhance project reporting with customizable filters, views, and groupings that refine list reports, organize data efficiently, and enable seamless collaboration.
 activity: use
 feature: Reports and Dashboards
@@ -12,7 +12,7 @@ jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
 ---
-# Understand reporting elements
+# Explore Workfront reporting elements
 
 The video explains how to use Workfront's reporting elements—filters, views, and groupings—to access and refine valuable information in list reports for projects, tasks, and other objects. ​ Filters help narrow down lists based on specific criteria, such as showing only active projects or tasks assigned to you. ​ Views determine the information displayed in columns, highlighting specific fields like revenue or expenses. ​ Groupings organize lists based on criteria like planned completion date or progress status.
 
