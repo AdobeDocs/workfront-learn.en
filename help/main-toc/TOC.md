@@ -161,6 +161,7 @@ user-guide-description: A library of training videos and articles designed to he
 
   + Create and manage project templates {#create-and-manage-project-templates}
     + [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+    + [Install and use a Blueprint](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
     + [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
     + [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
     + [Copy an existing project efficiently](/help/manage-work/manage-projects/copy-an-existing-project.md)
