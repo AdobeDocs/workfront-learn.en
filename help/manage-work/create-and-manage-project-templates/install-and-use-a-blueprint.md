@@ -11,6 +11,7 @@ last-substantial-update: 2026-2-12
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
+exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
 ---
 # Install and use a Blueprint
 
