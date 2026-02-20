@@ -58,7 +58,7 @@ Then click on the **Add client secret** button. The client secret will appear. C
 
 ![Initial Scenario Design Image 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
-1. Back in Fusion, click the **Add** button to create a connection with Workfront.
+7. Back in Fusion, click the **Add** button to create a connection with Workfront.
 
    ![Initial Scenario Design Image 3d](../12-exercises/assets/initial-scenario-design-3d.png)
 
