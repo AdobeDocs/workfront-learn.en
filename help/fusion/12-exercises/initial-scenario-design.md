@@ -48,17 +48,17 @@ Fill out the first page of the form as shown below and click **Create**.
 
 ![Initial Scenario Design Image 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-When the next screen appears, fill in the **Redirect URLs** field with the following URL:
+1. When the next screen appears, fill in the **Redirect URLs** field with the following URL:
 
 `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
 ![Initial Scenario Design Image 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-Then click on the **Add client secret** button. The client secret will appear. Copy it and save it in a place where you can retrieve it for a future step. You will need it in your Fusion scenario. Also copy and save the **Client ID** for a future step. When you're done copying these click **Save** at the bottom of the application.
+1. Then click on the **Add client secret** button. The client secret will appear. Copy it and save it in a place where you can retrieve it for a future step. You will need it in your Fusion scenario. Also copy and save the **Client ID** for a future step. When you're done copying these click **Save** at the bottom of the application.
 
 ![Initial Scenario Design Image 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
-7. Back in Fusion, click the **Add** button to create a connection with Workfront.
+1. Back in Fusion, click the **Add** button to create a connection with Workfront.
 
    ![Initial Scenario Design Image 3d](../12-exercises/assets/initial-scenario-design-3d.png)
 
