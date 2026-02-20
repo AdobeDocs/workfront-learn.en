@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02
+last-substantial-update: 2026-02-19
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 ---
@@ -42,19 +42,37 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
    **Authenticate the module's connection to your Workfront account.**
 
-1. To create a connection for the first time, click the Add button.
+1. Before you can connect to a Workfront instance you need to first create an OAuth 2.0 connector in that Workfront instance. To do this login to the Workfront instance and go to **Setup > System > OAuth2 Applications**, and click on **Create app integration**.
 
-   ![Initial Scenario Design Image 3](../12-exercises/assets/initial-scenario-design-3.png)
+Fill out the first page of the form as shown below and click **Create**.
 
-1. Give the connection a name, such as "My Workfront 2020"
+  ![Initial Scenario Design Image 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![Initial Scenario Design Image 4](../12-exercises/assets/initial-scenario-design-4.png)
+  When the next screen appears, fill in the **Redirect URLs** field with the following URL:
 
-1. Enter the URL of **your Workfront test drive account**, then click Next.
+  `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![Initial Scenario Design Image 5](../12-exercises/assets/initial-scenario-design-5.png)
+  ![Initial Scenario Design Image 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. Enter your password and click Log in.
+  Then click on the **Add client secret** button. The client secret will appear. Copy it and save it in a place where you can retrieve it for a future step. You will need it in your Fusion scenario. Also copy and save the **Client ID** for a future step. When you're done copying these click **Save** at the bottom of the application.
+
+  ![Initial Scenario Design Image 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. Back in Fusion, click the **Add** button to create a connection with Workfront.
+
+   ![Initial Scenario Design Image 3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. Select **Adobe Workfront auth** as the connection type and check the **Show advanced settings** box. Then click **Continue**.
+
+   ![Initial Scenario Design Image 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. Use the **Client ID** and the **Client Secret** you saved earlier to fill in here. For the **Authentication URL** it's easiest to copy the default Authentication URL given below the field, and replace `oauth.my` with `<domain name>.testdrive`, then click **Continue**.
+
+   ![Initial Scenario Design Image 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. Your connection should be authenticating. You may need to login to Workfront. The click **Allow access**.
+
+   ![Initial Scenario Design Image 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **The connection is established. Now enter the document ID of the document you want to download from Workfront.**
 

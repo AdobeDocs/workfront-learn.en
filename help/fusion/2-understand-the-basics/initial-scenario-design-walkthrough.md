@@ -8,6 +8,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2026-02-19
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
@@ -29,6 +30,12 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
+## Here is the URL to paste in the **Redirect URLs** field when creating an OAuth app integration in your test drive instance
+
+```
+https://app.workfrontfusion.com/oauth/cb/workfront-workfront
+
+```
 
 ## Want to learn more? We recommend the following:
 
