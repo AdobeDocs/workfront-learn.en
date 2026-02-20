@@ -30,7 +30,7 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## Here is the URL to paste in the **Redirect URLs** field when creating an OAuth app integration in your test drive instance
+**Here is the URL to paste in the "Redirect URLs" field when creating an OAuth app integration in your test drive instance**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
