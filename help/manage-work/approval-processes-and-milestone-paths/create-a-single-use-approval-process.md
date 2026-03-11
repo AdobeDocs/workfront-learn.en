@@ -1,5 +1,5 @@
 ---
-title: Create a global and a single-use approval process
+title: Create and manage approval processes
 description: Enhance approval workflows by leveraging both global and single-use approval processes for tasks, projects, or issues, implementing multi-level staged approvals, and promoting efficiency through reusability in project templates.
 activity: use
 feature: Approvals
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 ---
-# Create a global and a single-use approval process
+# Create and manage approval processes
 
 The video explains how to create and manage approval processes for projects, tasks, or issues, distinguishing between global and single-use approval processes.
 The video demonstrates creating approval processes, setting approvers, configuring statuses, and using stages for multi-level approvals.

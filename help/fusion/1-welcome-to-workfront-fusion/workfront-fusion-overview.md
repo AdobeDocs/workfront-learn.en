@@ -9,6 +9,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+last-substantial-update: 2026-03-11
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 ---
@@ -28,9 +29,9 @@ In some tutorials, you'll create a new scenario from scratch. In other tutorials
 
 ### Request a Workfront test drive
 
-To complete the exercises in the Workfront Fusion learning paths, you will need a Workfront test drive. If you already have a test drive, we recommend a new one for this training.
+To complete the exercises in the Workfront Fusion training tutorials, you will need a Workfront enablement environment, also referred to as a "**Workfront Test Drive**" throughout this training. If you already have a test drive, we recommend a new one for this training.
 
-Request a test drive by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you're unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
+Request a test drive by filling out [this form](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). When you fill out the form it will ask you to provide your **Adobe Certification profile email**. If you don't already have one, go to the [Adobe Certification site](https://certification.adobe.com/#) and create a user profile.
 
 ### Access Workfront Fusion for practice
 
