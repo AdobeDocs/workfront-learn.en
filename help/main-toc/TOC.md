@@ -152,7 +152,7 @@ user-guide-description: A library of training videos and articles designed to he
     + [Optimize project priorities with the Portfolio Optimization tool](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+    + [Create and manage approval processes](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
     + [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
     + [Review and approve digital work](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Delegate tasks, issues, and approvals effectively](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
