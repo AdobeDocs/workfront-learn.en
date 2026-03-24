@@ -5,7 +5,7 @@ feature: Work Management
 breadcrumb-title: Manage work - getting started
 solution: Workfront
 sub-product: Work Management
-index: y
+index: true
 ---
 
 # Manage work - getting started {#manage-work-getting-started}

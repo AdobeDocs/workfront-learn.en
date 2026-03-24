@@ -11,7 +11,7 @@ last-substantial-update: 2024-09-03
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
 ---
 # Project finances for users overview

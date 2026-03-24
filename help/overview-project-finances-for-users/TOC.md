@@ -4,7 +4,7 @@ user-guide-description: Learn how to track financial information for projects, s
 breadcrumb-title: Project finances for users
 solution: Workfront
 sub-product: Work Management
-index: y
+index: true
 ---
 
 

@@ -5,7 +5,7 @@ feature: Work Management
 breadcrumb-title: Manage work - intermediate
 solution: Workfront
 sub-product: Work Management
-index: y
+index: true
 ---
 
 # Manage work - intermediate {#manage-work-intermediate}
