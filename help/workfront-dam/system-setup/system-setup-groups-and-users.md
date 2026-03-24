@@ -56,4 +56,5 @@ There are three role types available with [!UICONTROL Workfront DAM] licenses:
 <!-- 
 Learn more graphic & documentation article link, below
 * Understanding the difference between Workfront licenses and Workfront DAM role types
-* -->
+* 
+-->

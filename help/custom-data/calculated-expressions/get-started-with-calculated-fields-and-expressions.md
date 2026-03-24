@@ -12,7 +12,9 @@ exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 ---
 # Get started with calculated fields and expressions
 
-<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+<!--
+**Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.
+-->
 
 Workfront provides a variety of fields that are common across multiple areas of business and are regularly used for work management. Fields like planned completion date, project budget, task assignee name, etc.
 
