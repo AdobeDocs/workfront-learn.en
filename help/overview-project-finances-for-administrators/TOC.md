@@ -4,7 +4,7 @@ user-guide-description: Learn how to establish system-wide financial settings to
 breadcrumb-title: Project finances for administrators
 solution: Workfront
 sub-product: Work Management
-index: y
+index: true
 ---
 
 

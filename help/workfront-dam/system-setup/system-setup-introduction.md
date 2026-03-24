@@ -18,7 +18,8 @@ In this video, you will:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on&enablevpops=1)
 
-<!-- Learn more graphic & links to documentation articles
+<!--
+Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM
 * Workfront DAM within Workfront
 -->

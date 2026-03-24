@@ -11,7 +11,7 @@ last-substantial-update: 2024-09-03
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 97e5f13f-61f8-4ba8-95f9-f064050d5593
 ---
 # Project finances for administrators 

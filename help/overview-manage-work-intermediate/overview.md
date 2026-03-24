@@ -11,7 +11,7 @@ last-substantial-update: 2024-08-26
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
 ---
 # Manage work - intermediate {#overview}

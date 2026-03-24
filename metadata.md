@@ -2,13 +2,15 @@
 cloud: Experience Cloud
 solution: Workfront
 product: experience cloud
+landing-page-name: workfront
+landing-page-breadcrumb-title: Workfront
 role: User
 level: Beginner
 feature-set: Workfront
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.en
-index: yes
+index: true
 auto-video-transcripts: true
 ---
 
