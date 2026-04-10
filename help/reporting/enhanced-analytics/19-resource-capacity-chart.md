@@ -9,7 +9,6 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10046
-hidefromtoc: yes
 recommendations: noDisplay,catalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 ---
