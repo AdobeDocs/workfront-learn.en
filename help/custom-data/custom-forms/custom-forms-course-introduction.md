@@ -8,7 +8,6 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-8908
-hidefromtoc: yes
 ---
 # Custom forms course introduction
 
