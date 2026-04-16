@@ -13,7 +13,7 @@ jira: KT-20209
 
 # Customize project headers with layout templates
 
-Discover how to tailor project headers to display only the most relevant information using layout templates. Learn to remove unnecessary fields, add custom fields, and organize them effectively. This ensures teams can quickly access critical project details, improving clarity and efficiency. Watch the video below for step-by-step guidance on optimizing project headers.
+Discover how to tailor project headers to display only the most relevant information using layout templates. Learn to remove unnecessary fields, add custom fields, and organize them effectively to ensure teams can quickly access critical project details, improve clarity and efficiency.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
 
