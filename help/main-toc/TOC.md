@@ -29,6 +29,7 @@ user-guide-description: A library of training videos and articles designed to he
     + [Customize issue types and terminology](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
     + [Configure global default issue preferences](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
     + [Create and manage business rules](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+    + [Configure user defined localization](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
   + Layout templates {#layout-templates}
     + [What are layout templates?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -82,6 +83,8 @@ user-guide-description: A library of training videos and articles designed to he
     + [Attach a custom form to an object](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
     + [Add section breaks and logics to a custom form](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
     + [Export a custom form as a PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+    + [Add validation logic to custom forms](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+    + [Configure advanced display logic](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
     
   + Calculated expressions {#calculated-expressions}
     + [Get started with calculated fields and expressions](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
