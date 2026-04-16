@@ -13,7 +13,7 @@ thumbnail: KT-20168.jpeg
 
 # Configure Advanced Display Logic
 
-Discover how to use Advanced Display Logic expressions to control the visibility of custom form fields and sections. This feature helps you create more dynamic and tailored forms, aligning with specific user needs and improving workflow efficiency.
+Learn how to use Advanced Display Logic expressions to control the visibility of custom form fields and sections helping you create more dynamic and tailored forms, alignin with specific user needs, and improve workflow efficiency.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
 
