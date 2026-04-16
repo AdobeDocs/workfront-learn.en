@@ -12,7 +12,7 @@ jira: KT-20169
 
 # Add validation logic to custom forms
 
-Discover how to add validation logic to custom forms to ensure data accuracy and guide users in filling out forms correctly. Implementing validation logic helps prevent errors, streamlines processes, and enhances the efficiency of your team. Learn step-by-step instructions to create conditions, set error messages, and test validations effectively. Watch the video below to master this essential feature.
+Discover how to add validation logic to custom forms to ensure data accuracy. By implementing validation logic you can prevent errors, streamline processes, and enhance the efficiency of your team. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
 

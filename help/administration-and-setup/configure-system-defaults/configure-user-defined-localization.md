@@ -13,7 +13,7 @@ jira: KT-20166
 
 # Configure user-defined localization
 
-Discover how to configure user-defined localization to display content in multiple languages based on user preferences. This feature simplifies cross-regional collaboration by enabling teams to work in their native language. Watch the video below to learn how to set up and manage language-specific translations efficiently.
+Discover how to configure user-defined localization to display content in multiple languages based on user preferences. This simplifies cross-regional collaboration by enabling teams to work in their native language. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
 
