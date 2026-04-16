@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Intermediate
 doc-type: Feature Video
 duration: 189
-last-substantial-update: 2026-04-15
+last-substantial-update: 2026-04-16
 jira: KT-20168
 thumbnail: KT-20168.jpeg
 ---
