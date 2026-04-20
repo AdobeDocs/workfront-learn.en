@@ -187,6 +187,7 @@ user-guide-description: A library of training videos and articles designed to he
 
   + Intermediate projects {#intermediate-projects}
     + [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+    + [Master Project Tracking with Baselines, Snapshots, and Automated Reports](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
     + [Establish dependencies with cross-project predecessors](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
     + [Master advanced task dependencies](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
