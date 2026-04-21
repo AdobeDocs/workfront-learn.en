@@ -1,6 +1,6 @@
 ---
 title: Master Project Tracking with Baselines, Snapshots, and Automated Reports
-description: Unlock the power of historical visibility in Workfront. While Workfront excels at showing real‑time project updates, understanding how your tasks looked at different points in the past requires a deeper dive. In this video, you'll learn three methods for tracking historical task data: using baselines, capturing snapshots, and setting up automated task‑report emails.
+description: "Unlock the power of historical visibility in Workfront. While Workfront excels at showing real‑time project updates, understanding how your tasks looked at different points in the past requires a deeper dive. In this video, you'll learn three methods for tracking historical task data: using baselines, capturing snapshots, and setting up automated task‑report emails."
 feature: Work Management
 type: Tutorial
 role: User
@@ -25,4 +25,3 @@ This video highlights the importance of using baselines, snapshots, and sent rep
 * **Snapshots Capture All Project Data:** Unlike baselines, snapshots are created manually and capture all project, task, issue, and custom fields, offering a comprehensive record at any point in time.
 * **Flexible Comparison and Reporting:** Users can compare current project data to baselines or across snapshots using custom reports and views, enabling detailed analysis of changes and progress.
 * **Automated Periodic Reporting with Sent Reports:** The 'Send Report' feature allows users to schedule and receive regular email reports, providing an automated way to track and archive project data over time.
-
