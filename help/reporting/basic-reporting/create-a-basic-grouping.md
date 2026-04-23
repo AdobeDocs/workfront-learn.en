@@ -9,9 +9,22 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-last-substantial-update: 2025-05-08
+last-substantial-update: 2025-05-08T00:00:00.000Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
+TQID: https://experienceleague.adobe.com/L3h5h4gVcXJB8QXX-JrZhU8Yd1c0ww0zGV9-CbUa9Qk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Create a basic grouping
 

@@ -10,6 +10,16 @@ level: Beginner
 thumbnail: who-uploads-proofs.png
 jira: KT-10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
+TQID: https://experienceleague.adobe.com/TdLXUiczvykDCqOEBLgkqHpSgC0GpvE-Y0PgxCRAcmg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Who uploads the proof versions?
 

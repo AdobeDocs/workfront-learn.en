@@ -9,6 +9,16 @@ role: User
 level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
+TQID: https://experienceleague.adobe.com/MjWtliJKCzaB9agZyHz2Y-zWlyrK26ED1xZvm3QIbVs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Activate by aligning a goal to another
 

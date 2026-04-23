@@ -8,10 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-18768
-last-substantial-update: 2025-09-09
+last-substantial-update: 2025-09-09T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
+TQID: https://experienceleague.adobe.com/xgTQMQo4oS3xHs20D7WNkRv2YhioyE8IQ8Z-2fSNhsU
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Explore Canvas Dashboards in Workfront
 

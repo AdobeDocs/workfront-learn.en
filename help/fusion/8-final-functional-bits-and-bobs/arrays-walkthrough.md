@@ -11,6 +11,19 @@ jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/V5Dnqp-vaRqUKI63nfWi6yISybE6rrLmuLhR06YKdzU
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: b58ad82f-df6b-4b01-81a3-3a02ab9567a0
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Arrays walkthrough
 

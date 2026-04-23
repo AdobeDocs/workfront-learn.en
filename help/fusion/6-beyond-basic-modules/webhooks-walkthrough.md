@@ -11,6 +11,16 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/iY35gHuiEYcuQOrq3lFlK95EC8Gzn-Nfy7P-935tK50
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Webhooks walkthrough
 

@@ -7,9 +7,28 @@ role: Leader, Developer, Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 161
-last-substantial-update: 2025-03-18
+last-substantial-update: 2025-03-18T00:00:00.000Z
 jira: KT-17568
 exl-id: 38730b75-bc92-462d-adc8-f3aa51590475
+TQID: https://experienceleague.adobe.com/nHIwQ-psGDPufhVDGcooxoxn-NQQtubvxih1A2DnH1A
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Benefits of Workfront Planning for UX Design teams
 

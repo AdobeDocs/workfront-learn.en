@@ -9,9 +9,26 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8850
-last-substantial-update: 2025-04-28
+last-substantial-update: 2025-04-28T00:00:00.000Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
+TQID: https://experienceleague.adobe.com/El1nqA-upyC13-9dR0dyPMcpEofU4eHPNwbKPTEjGMs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Explore reporting components in Workfront
 

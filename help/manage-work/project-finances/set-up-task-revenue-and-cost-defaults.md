@@ -10,11 +10,28 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-last-substantial-update: 2025-04-23
+last-substantial-update: 2025-04-23T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/Vx2DrtPcd8VGqCuQBfphWzIo0qGKaMaUQcJ98lxQgC8
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
-
 # Set up task revenue & cost defaults
 
 Learn where the revenue type and cost types are used and how to set up the system defaults.

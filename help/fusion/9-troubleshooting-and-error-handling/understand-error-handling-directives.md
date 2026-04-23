@@ -11,6 +11,19 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/rbEn6LH1dGmF1xgms7PeT5EtKjgIN1TqotBJHZluLNM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 # Understand error handling directives
 

@@ -7,11 +7,24 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: 2025-07-22
+last-substantial-update: 2025-07-22T00:00:00.000Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
+TQID: https://experienceleague.adobe.com/d3F8jhB2RMeVeP79emjC1j999Zie8jh1RDihGyAzxVk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Explore built-in task filters
 

@@ -9,10 +9,29 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-17578
-last-substantial-update: 2025-03-26
+last-substantial-update: 2025-03-26T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+TQID: https://experienceleague.adobe.com/PuiOlZeF17pZ23e6JHYWIvVvMawUiYHrIhVEYTPs8UQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: b04e3dc0-3a59-45b1-aa02-b0b6d5f87eff
+    internal-label: Approvals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Apply an issue approval process in a request queue
 

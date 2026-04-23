@@ -6,11 +6,24 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-06-23
+last-substantial-update: 2025-06-23T00:00:00.000Z
 team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
+TQID: https://experienceleague.adobe.com/72NgQFHlByDtEyts9kfhMl66ol3i1g1mK7F48kXLekI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Explore advanced calendar report functionalities
 

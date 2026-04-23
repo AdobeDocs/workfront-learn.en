@@ -7,6 +7,20 @@ level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
+TQID: https://experienceleague.adobe.com/i9dD50uFMeS0uyV-7QVq3OotOl13kmDDtdGeN74wOZI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Benefits of using Agile
 

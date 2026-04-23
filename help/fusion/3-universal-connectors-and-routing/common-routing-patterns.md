@@ -11,6 +11,16 @@ jira: KT-9014
 exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/wldchFrsYAenETHPeicKXTxQfLDOMwZMPArZu-xo3us
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Common routing patterns
 

@@ -10,6 +10,16 @@ level: Beginner
 thumbnail: upload-drag-and-drop.png
 jira: KT-10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
+TQID: https://experienceleague.adobe.com/x2rhennVpi2Q1yDRuVQ2AVQSvp4TKQbZmfch1O7Xzu4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Upload with a drag and drop
 

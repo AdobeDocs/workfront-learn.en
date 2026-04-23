@@ -8,10 +8,26 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-05-26
+last-substantial-update: 2023-05-26T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
+TQID: https://experienceleague.adobe.com/2wW9Ty0a2QQA3VSzcIPTyy9HAU3sFA5m1PnKBwrMfI8
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Manage issue assignments effectively
 

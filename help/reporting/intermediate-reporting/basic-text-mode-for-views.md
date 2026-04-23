@@ -8,10 +8,23 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2025-08-12
+last-substantial-update: 2025-08-12T00:00:00.000Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
+TQID: https://experienceleague.adobe.com/CC6YQhfkN8WdmX1IvtK6KSYLQYLGFacPTCtBSl0wC44
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Explore basic text mode for views in Workfront
 

@@ -8,10 +8,27 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11
+last-substantial-update: 2025-06-11T00:00:00.000Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
+TQID: https://experienceleague.adobe.com/BvdTPwGp6DUQGtzOwRZQKY9UZmJ18iDM5vT1jGRW-30
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Create a task report for late assignments
 

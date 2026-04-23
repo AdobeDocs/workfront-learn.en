@@ -9,11 +9,24 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integration" type="positive"
 feature-set: Workfront
 topic: Integrations
+TQID: https://experienceleague.adobe.com/OuIAUfHlaMgt3ED3P8A9KRw5I6MKQ-KNI2nDt6c8u-A
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Use Adobe Workfront plugins to integrate with Creative Cloud
 

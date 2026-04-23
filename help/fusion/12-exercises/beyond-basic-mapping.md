@@ -11,6 +11,16 @@ jira: KT-11039
 thumbnail: KT11039.png
 recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
+TQID: https://experienceleague.adobe.com/ZlJhXhpv9-KN3BpkZ0hlSCWIWLzzOCOW4kWiXTsxXG0
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Beyond basic mapping exercise
 

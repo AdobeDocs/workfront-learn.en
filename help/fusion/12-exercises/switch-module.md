@@ -11,6 +11,16 @@ jira: KT-11052
 thumbnail: KT11052.png
 recommendations: noDisplay,catalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
+TQID: https://experienceleague.adobe.com/-tcS50kGeb-QWj2uTwSHcnqYddTUiRkchCkV-bGQgyA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Switch module exercise
 

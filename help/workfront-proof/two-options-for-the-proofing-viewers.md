@@ -7,6 +7,22 @@ role: User
 level: Beginner
 jira: KT-10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
+TQID: https://experienceleague.adobe.com/JmfHmP5KYiXGMMja-uacskEdDNMtb2c73RVwHX6-0NM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Proofing viewers explained
 

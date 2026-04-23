@@ -11,6 +11,19 @@ jira: KT-11044
 thumbnail: KT11044.png
 recommendations: noDisplay,catalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
+TQID: https://experienceleague.adobe.com/QOUdr-seCnsv9Vf09aiRFxCVePS9t3sgFb-sVxysUkA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: b58ad82f-df6b-4b01-81a3-3a02ab9567a0
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Routing patterns exercise
 

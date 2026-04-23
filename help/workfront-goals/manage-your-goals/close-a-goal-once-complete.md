@@ -10,6 +10,16 @@ team: Technical Marketing
 jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
+TQID: https://experienceleague.adobe.com/MXaodZ9tvx18XuQVcqLfbPWngmyBz0k27wCGVphDJjg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Close a goal once complete
 

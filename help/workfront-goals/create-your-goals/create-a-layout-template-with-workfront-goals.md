@@ -10,6 +10,16 @@ team: Technical Marketing
 jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
+TQID: https://experienceleague.adobe.com/FiSI2YFsXViCqeHE-s5YzDXz8xt0Hd3-ADITmHV4TsA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Create a layout template for [!DNL Workfront Goals] users
 

@@ -9,6 +9,16 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
+TQID: https://experienceleague.adobe.com/3wtMC6Ixowh-81P053yiCq-hEMckqhV9wOc--QeA-m8
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # [!DNL Workfront Goals] Overview
 

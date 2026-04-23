@@ -11,6 +11,16 @@ jira: KT-11055
 thumbnail: KT11055.png
 recommendations: noDisplay,catalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
+TQID: https://experienceleague.adobe.com/JcuUiN4QB1b7--UoP5ubRRMMk05Z8gfmPLYcgrq36gc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Data stores exercise
 

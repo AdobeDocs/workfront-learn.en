@@ -11,6 +11,16 @@ jira: KT-9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/JN6OCsTqiFSDepLePQ4D-RHRNdjZW6Vg9km5zt78ryc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Workfront app walkthrough
 

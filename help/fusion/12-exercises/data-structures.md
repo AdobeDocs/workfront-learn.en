@@ -11,6 +11,16 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+TQID: https://experienceleague.adobe.com/lhysCBZyR-ffSXVuF2YiUrV3-rkwsCHfZn5mKY6L-20
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Data structures exercise
 

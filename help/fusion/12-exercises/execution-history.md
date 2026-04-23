@@ -11,6 +11,16 @@ jira: KT-11049
 thumbnail: KT11049.png
 recommendations: noDisplay,catalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
+TQID: https://experienceleague.adobe.com/eLwJyS3rWLAaZQNGZrnz7Lu63J3M8w-d7v-i9nDztL4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Execution history exercise
 

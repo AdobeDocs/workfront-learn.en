@@ -9,10 +9,28 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335223.jpeg
 jira: KT-8960
-last-substantial-update: 2024-09-11
+last-substantial-update: 2024-09-11T00:00:00.000Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
+TQID: https://experienceleague.adobe.com/pfUX6Ibg6X5cLCZ6pyYDJClHwL5SiroivgLZZ7OtPxk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Create a request flow in Workfront
 

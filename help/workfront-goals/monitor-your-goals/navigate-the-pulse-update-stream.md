@@ -10,6 +10,16 @@ team: Technical Marketing
 jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
+TQID: https://experienceleague.adobe.com/CfLQ27Bu-cGajq42tfpZyZbcE1win3HG9vTO1QTyq1k
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Navigate the [!UICONTROL Pulse] update stream
 

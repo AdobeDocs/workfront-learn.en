@@ -10,6 +10,16 @@ level: Beginner
 jira: KT-11036
 recommendations: noDisplay,catalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
+TQID: https://experienceleague.adobe.com/JZ3Ipd39o7DLTvnKF5H7pb-DFhyi-YzpSlxUanHLK0s
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Log in as a new user
 

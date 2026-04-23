@@ -10,11 +10,26 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-last-substantial-update: 2025-04-16
+last-substantial-update: 2025-04-16T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
+TQID: https://experienceleague.adobe.com/mqU3PMeLzOIohXLIWUfAGPG821rjKLKmArAW5Oij5m4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+    internal-label: Tasks
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
-
 # Update finances for client projects
 
 This video provides a detailed guide on tracking time, expenses, and creating billing records for client projects. ​ Key points include:
