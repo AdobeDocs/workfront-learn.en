@@ -11,7 +11,7 @@ level: Beginner
 recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-05
 jira: KT-10134
-hide: yes
+hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
 ---

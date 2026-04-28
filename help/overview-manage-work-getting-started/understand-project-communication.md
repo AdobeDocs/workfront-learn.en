@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2023-05-05
 recommendations: noDisplay,catalog
 jira: KT-10147
-hide: yes
+hide: true
 exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
 ---
 # Understand project communication

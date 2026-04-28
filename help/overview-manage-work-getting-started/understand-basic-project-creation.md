@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-03-25
 recommendations: noDisplay,catalog
 jira: KT-8768
-hide: yes
+hide: true
 doc-type: video
 exl-id: 2c7792da-8742-4952-afa6-4b1a15989a56
 ---

@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2024-04-25
 recommendations: noDisplay,catalog
 jira: KT-10149
-hide: yes
+hide: true
 exl-id: 64fc1556-7711-4429-9f48-7ed3136e3d98
 ---
 # Track overall project progress

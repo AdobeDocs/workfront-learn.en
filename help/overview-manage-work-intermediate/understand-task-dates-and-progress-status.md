@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
-hide: yes
+hide: true
 doc-type: video
 ---
 # Understand date types and progress status

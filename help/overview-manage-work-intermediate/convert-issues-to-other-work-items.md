@@ -10,7 +10,7 @@ level: Intermediate
 last-substantial-update: 2024-02-28
 recommendations: noDisplay,catalog
 jira: KT-10069
-hide: yes
+hide: true
 exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
 ---
 # Convert an issue/request to a task

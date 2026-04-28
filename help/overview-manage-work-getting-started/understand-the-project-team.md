@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-07
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
-hide: yes
+hide: true
 exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
 ---
 # Understand the project team

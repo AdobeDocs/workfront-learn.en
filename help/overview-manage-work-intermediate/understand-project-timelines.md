@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8953
-hide: yes
+hide: true
 doc-type: video
 ---
 # Understand project timelines

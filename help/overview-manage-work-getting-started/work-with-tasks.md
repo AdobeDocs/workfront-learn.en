@@ -10,7 +10,7 @@ level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,catalog
 jira: KT-8775
-hide: yes
+hide: true
 doc-type: video
 exl-id: 81b6fc1f-2988-4eac-8dc5-be52358724ba
 ---

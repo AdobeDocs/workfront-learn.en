@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
-hide: yes
+hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
 ---
