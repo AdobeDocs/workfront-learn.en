@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2023-05-26
 recommendations: noDisplay,catalog
 jira: KT-10071
-hide: yes
+hide: true
 exl-id: b4999851-e066-4afb-92f4-0abd8a3b84e7
 ---
 # Manage issue assignments

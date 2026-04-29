@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 336094.png
 jira: KT-8810
-hide: yes
+hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d

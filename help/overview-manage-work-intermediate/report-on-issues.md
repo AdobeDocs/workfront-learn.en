@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2024-07-24
 recommendations: noDisplay,catalog
 jira: KT-10072
-hide: yes
+hide: true
 exl-id: baee5681-8bf5-4f69-8f5f-e8b1a50724f6
 ---
 # Report on issues

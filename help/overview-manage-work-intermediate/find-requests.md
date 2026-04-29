@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-10
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
-hide: yes
+hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
 ---
 # Find and manage requests

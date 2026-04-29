@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2024-05-01
 recommendations: noDisplay,catalog
 jira: KT-10145
-hide: yes
+hide: true
 exl-id: 688e6c46-df3e-48e7-a949-d627c529e97c
 ---
 # View project information

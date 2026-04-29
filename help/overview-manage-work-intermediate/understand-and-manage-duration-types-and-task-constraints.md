@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27
 jira: KT-13530
 doc-type: video
-hide: yes
+hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
 ---
 # Understand and manage duration types and task constraints

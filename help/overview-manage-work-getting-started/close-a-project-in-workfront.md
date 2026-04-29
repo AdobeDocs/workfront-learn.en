@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8783
-hide: yes
+hide: true
 doc-type: video
 ---
 # Close a project

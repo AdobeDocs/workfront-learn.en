@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10142
-hide: yes
+hide: true
 ---
 # Understand the project page
 

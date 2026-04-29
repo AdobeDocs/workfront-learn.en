@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
-hide: yes
+hide: true
 ---
 # Review work in [!DNL My Updates] or [!DNL Home]
 
