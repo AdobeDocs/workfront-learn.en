@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10048
-hide: yes
+hide: true
 exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
 ---
 # Understand multiple billing rates

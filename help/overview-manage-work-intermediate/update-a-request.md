@@ -11,7 +11,7 @@ last-substantial-update: 2024-07-10
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
-hide: yes
+hide: true
 doc-type: video
 exl-id: 9bdd107f-0d4e-4ff3-9731-7c8bb5383c41
 ---

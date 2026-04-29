@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10155
 recommendations: noDisplay,catalog
-hide: yes
+hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
 ---
 # Copy an existing project

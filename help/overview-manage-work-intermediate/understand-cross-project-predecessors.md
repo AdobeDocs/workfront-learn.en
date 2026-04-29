@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-04-02
 jira: KT-13737
 doc-type: video
-hide: yes
+hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
 ---
 # Understand cross-project predecessors

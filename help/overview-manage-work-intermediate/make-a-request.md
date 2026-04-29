@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336092.png
 last-substantial-update: 2024-07-09
 jira: KT-8806
-hide: yes
+hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
