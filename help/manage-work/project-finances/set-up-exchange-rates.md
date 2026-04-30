@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-last-substantial-update: 2025-04-23
+last-substantial-update: 2026-04-28
 recommendations: noDisplay,catalog
 doc-type: video
 ---
