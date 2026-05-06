@@ -8,19 +8,11 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
-<<<<<<< Updated upstream
-last-substantial-update: 2024-06-21T00:00:00.000Z
-=======
 last-substantial-update: '2024-06-21T00:00:00.000Z'
->>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-10140
 hide: true
 exl-id: 4cf00f4c-3aa1-4b35-8f54-c54a7d2432d5
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/PAV5jBLlheKB89ON0UI0M0BWD5mlr8pLGxsdXBilgZo
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -38,13 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-05T19:35:43.807Z'
->>>>>>> Stashed changes
 ---
 # Fill in the project details
 

@@ -11,12 +11,6 @@ jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/kYXY-uDiUXg9r6N43ka2ZnoSw1F2RyWwmqa6ScRI0jk
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,17 +20,13 @@ feature_v2:
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
     internal-label: Workfront Fusion
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T16:38:36.375Z'
->>>>>>> Stashed changes
 ---
 # Filters walkthrough
 

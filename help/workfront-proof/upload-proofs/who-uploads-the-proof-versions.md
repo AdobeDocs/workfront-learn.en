@@ -10,12 +10,6 @@ level: Beginner
 thumbnail: who-uploads-proofs.png
 jira: KT-10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/TdLXUiczvykDCqOEBLgkqHpSgC0GpvE-Y0PgxCRAcmg
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 autotag-review: '2026-05-05T19:44:32.928Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -26,7 +20,6 @@ feature_v2:
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
     internal-label: Workfront Proof
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

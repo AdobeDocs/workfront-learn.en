@@ -9,19 +9,11 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
-<<<<<<< Updated upstream
-last-substantial-update: 2024-06-03T00:00:00.000Z
-=======
 last-substantial-update: '2024-06-03T00:00:00.000Z'
->>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/f7enDgpaSfem74CLBrXzNSPk05BcYB0GlJfYw4Az4Js
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,11 +23,6 @@ feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
     internal-label: Resource Management
 subfeature_v2:
-<<<<<<< Updated upstream
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-    internal-label: Tasks
-=======
->>>>>>> Stashed changes
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
 role_v2:
@@ -44,10 +31,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:27:00.215Z'
->>>>>>> Stashed changes
 ---
 # Understand task durations
 

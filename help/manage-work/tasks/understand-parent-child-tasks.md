@@ -12,10 +12,6 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/w3PLyVib5rBKysC-us49by1hLOx4eEFO5tWSDma-so8
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:38:15.124Z'
->>>>>>> Stashed changes
 ---
 # Understand parent-child task relationships
 

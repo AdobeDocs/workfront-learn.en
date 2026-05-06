@@ -13,10 +13,6 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/mXD88Y1SdYIbrU-W3OwQsY-o5yg-0n4bOU-zg9krneA
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -32,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:24:06.686Z'
->>>>>>> Stashed changes
 ---
 # Upload assets
 

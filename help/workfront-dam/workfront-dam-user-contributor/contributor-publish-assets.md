@@ -10,12 +10,6 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/NgtlFvM9pyCoVsdgtdICHfy8taKThcv-LblJ5wiQYRI
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -25,20 +19,13 @@ feature_v2:
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
     internal-label: Digital content and documents
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-    internal-label: Metadata
-=======
 autotag-review: '2026-05-05T20:27:36.176Z'
->>>>>>> Stashed changes
 ---
 # Publish assets as a contributor
 

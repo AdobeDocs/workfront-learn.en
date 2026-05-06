@@ -10,12 +10,6 @@ team: Technical Marketing
 jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/MXaodZ9tvx18XuQVcqLfbPWngmyBz0k27wCGVphDJjg
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -25,17 +19,13 @@ feature_v2:
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
     internal-label: Workfront Goals
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T20:14:41.087Z'
->>>>>>> Stashed changes
 ---
 # Close a goal once complete
 

@@ -10,10 +10,6 @@ level: Beginner
 thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/FoQaThec2p-wP6W5UKTjpuhwOUj1deUqOD908q7hznk
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,10 +25,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:55:22.466Z'
->>>>>>> Stashed changes
 ---
 # Manage requests
 

@@ -8,16 +8,6 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
-<<<<<<< Updated upstream
-last-substantial-update: 2025-05-09T00:00:00.000Z
-thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
-TQID: https://experienceleague.adobe.com/Y9lzXfMXsqCWcfVWRkYXfFNRMtUITEMxIcb1fhyj8Os
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 last-substantial-update: '2025-05-09T00:00:00.000Z'
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
@@ -31,20 +21,13 @@ feature_v2:
 subfeature_v2:
   - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
     internal-label: Create and manage reports
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-06T14:22:04.500Z'
->>>>>>> Stashed changes
 ---
 # Create a simple report
 

@@ -13,10 +13,6 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 04b1640a-f259-4c4d-8134-f15b9f944441
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/4MQNDNzL8Ujg1wBDYqs2WAJ6IcnbXrth6mkfD8J4-BM
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,24 +22,15 @@ feature_v2:
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
-<<<<<<< Updated upstream
-=======
   - id: c10f2e93-7a58-4212-aa24-684c265ebe76
     internal-label: Requests
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-05T19:20:37.203Z'
->>>>>>> Stashed changes
 ---
 # Convert an issue/request to a project
 

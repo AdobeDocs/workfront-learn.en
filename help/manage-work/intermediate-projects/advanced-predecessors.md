@@ -8,18 +8,10 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-<<<<<<< Updated upstream
-last-substantial-update: 2023-09-14T00:00:00.000Z
-jira: KT-13879
-doc-type: video
-exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-TQID: https://experienceleague.adobe.com/C2tCSWmAN4ZiiEBxJvaXrejVqnkAfD3kCgciXhlJZIc
-=======
 last-substantial-update: '2023-09-14T00:00:00.000Z'
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -35,13 +27,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-06T14:57:54.939Z'
->>>>>>> Stashed changes
 ---
 # Master advanced task dependencies
 

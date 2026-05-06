@@ -8,19 +8,11 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-<<<<<<< Updated upstream
-last-substantial-update: 2024-07-09T00:00:00.000Z
-=======
 last-substantial-update: '2024-07-09T00:00:00.000Z'
->>>>>>> Stashed changes
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/ZB5mFQPuZwMzXROry5sA4GIf9uqI3p08zXKiXHgPMew
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -36,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:54:50.397Z'
->>>>>>> Stashed changes
 ---
 # Create and manage requests in Workfront
 

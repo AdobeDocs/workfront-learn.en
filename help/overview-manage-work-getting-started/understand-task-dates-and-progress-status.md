@@ -12,10 +12,6 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/aT-4TzYeABtEpvi-mdnBwAu1Ogl2e9W3m-kJ1H2duMc
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:26:31.703Z'
->>>>>>> Stashed changes
 ---
 # Understand date types and progress status
 

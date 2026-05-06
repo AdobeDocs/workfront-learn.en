@@ -10,27 +10,13 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/OP3jKyXavy9bExNoenKrR-EghITCa8uuGQHamMAI1ao
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
-<<<<<<< Updated upstream
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-    internal-label: Work management
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
 subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-    internal-label: Projects
-=======
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-    internal-label: Administration
-subfeature_v2:
->>>>>>> Stashed changes
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
     internal-label: Workfront Goals
 role_v2:
@@ -39,10 +25,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T20:16:05.888Z'
->>>>>>> Stashed changes
 ---
 # Understand how [!DNL Workfront Goals] works
 

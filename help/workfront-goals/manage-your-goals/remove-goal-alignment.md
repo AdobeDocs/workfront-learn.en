@@ -9,12 +9,6 @@ role: User
 level: Beginner
 jira: KT-10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/zglb98xdCTx2NKy35opEn7nVIinnliKko-mlMWo7Bic
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -24,17 +18,13 @@ feature_v2:
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
     internal-label: Workfront Goals
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T20:13:42.468Z'
->>>>>>> Stashed changes
 ---
 # Remove goal alignment
 

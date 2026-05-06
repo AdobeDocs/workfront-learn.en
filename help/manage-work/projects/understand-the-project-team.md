@@ -8,19 +8,11 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-<<<<<<< Updated upstream
-last-substantial-update: 2024-02-07T00:00:00.000Z
-=======
 last-substantial-update: '2024-02-07T00:00:00.000Z'
->>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/LTbUdiST6yI9CQRyjMSQh-eEXI6LHZWxyG-7x7BW1N0
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -36,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:42:45.518Z'
->>>>>>> Stashed changes
 ---
 # Understand the project team
 
