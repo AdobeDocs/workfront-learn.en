@@ -7,25 +7,42 @@ thumbnail: 3426803.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2024-01-09T00:00:00.000Z
+=======
+last-substantial-update: '2024-01-09T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/KDax41Yj9MVOi5ZDEQj-X6lxF18hyFbLK9NNZdH6C-M
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
+=======
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:59:23.948Z'
+>>>>>>> Stashed changes
 ---
 # Edit the project team in a template
 

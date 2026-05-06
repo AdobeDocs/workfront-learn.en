@@ -8,12 +8,19 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335220.jpeg
+<<<<<<< Updated upstream
 last-substantial-update: 2024-07-26T00:00:00.000Z
+=======
+last-substantial-update: '2024-07-26T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/EHACBQPyqE3HYaYIGsUZJINC-38ILI00gXsYUUblBMs
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,6 +38,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:40:08.316Z'
+>>>>>>> Stashed changes
 ---
 # Explore request queues in Workfront
 

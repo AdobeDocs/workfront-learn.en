@@ -8,13 +8,20 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2023-08-31T00:00:00.000Z
+=======
+last-substantial-update: '2023-08-31T00:00:00.000Z'
+>>>>>>> Stashed changes
 jira: KT-8950
 recommendations: noDisplay,catalog
 hide: yes
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/e3UMEX7KpOSCsMUtM-UgkL2jpJJwZgXXgQtLENAT-lg
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,6 +37,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:21:02.093Z'
+>>>>>>> Stashed changes
 ---
 # Create a project template and learn about [!UICONTROL Blueprints]
 

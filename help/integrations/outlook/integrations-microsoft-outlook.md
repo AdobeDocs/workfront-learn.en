@@ -10,7 +10,10 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/cy-1iCWEYhKr--7C77iz4N9LhPmTj5IaS1RiHOYdJL0
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,6 +29,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T16:03:53.007Z'
+>>>>>>> Stashed changes
 ---
 # Install the Microsoft Outlook add-in
 

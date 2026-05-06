@@ -8,12 +8,19 @@ thumbnail: 3422430.jpg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2024-02-13T00:00:00.000Z
+=======
+last-substantial-update: '2024-02-13T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-13743
 hide: yes
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/qv3YPLV7WU54HdU9s83oO9-pS-bM2Hl36OjgEK42H5o
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,6 +36,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:25:56.436Z'
+>>>>>>> Stashed changes
 ---
 # Understand the [!UICONTROL Board] view
 

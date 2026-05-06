@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+<<<<<<< Updated upstream
 last-substantial-update: 2025-05-29T00:00:00.000Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
@@ -16,17 +17,35 @@ TQID: https://experienceleague.adobe.com/RM6BPo1pJjzoPJ4TYt3e4CKWGqpTVFjxXPJoe2H
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+=======
+last-substantial-update: '2025-05-29T00:00:00.000Z'
+exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
+doc-type: video
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+    internal-label: Create and manage reports
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
+=======
+autotag-review: '2026-05-06T14:18:44.706Z'
+>>>>>>> Stashed changes
 ---
 # Send and share reports effectively
 

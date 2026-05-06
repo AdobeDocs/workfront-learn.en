@@ -8,11 +8,18 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2023-07-21T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
 TQID: https://experienceleague.adobe.com/miH4Zznt8hnVxWPdLYIESYOe1C-YwyuOJ-mDPbXl2KU
+=======
+last-substantial-update: '2023-07-21T00:00:00.000Z'
+recommendations: noDisplay,catalog
+jira: KT-10148
+exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +35,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:45:21.983Z'
+>>>>>>> Stashed changes
 ---
 # Share projects effectively in Workfront
 

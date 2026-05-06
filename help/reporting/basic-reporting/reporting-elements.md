@@ -11,19 +11,35 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/Zt-gpUgZE95OXu5XjvlHhCrDQJ-IQphezwkkAheTkAM
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+=======
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+subfeature_v2:
+  - id: cdfcda76-1d05-4faa-910e-9f3413896fd8
+    internal-label: Reporting elements
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-06T14:16:48.513Z'
+>>>>>>> Stashed changes
 ---
 # Explore Workfront reporting elements
 

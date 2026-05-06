@@ -12,7 +12,10 @@ jira: KT-8948
 hide: yes
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/uTjfIeaec1gPiog5QxNYqWs0km6hM6lqYEq6c3p8DX8
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +31,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:03:25.349Z'
+>>>>>>> Stashed changes
 ---
 # Find financial information
 

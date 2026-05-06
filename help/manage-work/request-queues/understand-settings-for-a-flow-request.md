@@ -10,16 +10,28 @@ team: Technical Marketing
 thumbnail: 335222.jpeg
 jira: KT-8959
 recommendations: noDisplay,catalog
+<<<<<<< Updated upstream
 last-substantial-update: 2024-08-12T00:00:00.000Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 TQID: https://experienceleague.adobe.com/siOWL0HaUrt-5lu4DOJQP9JFh9-NLnePoF5PYUBJ51M
+=======
+last-substantial-update: '2024-08-12T00:00:00.000Z'
+exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
+=======
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -28,6 +40,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:39:31.882Z'
+>>>>>>> Stashed changes
 ---
 # Organize your request flow settings
 

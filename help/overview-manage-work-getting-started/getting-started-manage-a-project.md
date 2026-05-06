@@ -8,13 +8,20 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2024-04-22T00:00:00.000Z
+=======
+last-substantial-update: '2024-04-22T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: yes
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/1l7NNO6E6zJXyC41sp-8CaeK738AP74E5uqN09tTv2I
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,6 +37,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:34:47.354Z'
+>>>>>>> Stashed changes
 ---
 # Get started managing a project
 

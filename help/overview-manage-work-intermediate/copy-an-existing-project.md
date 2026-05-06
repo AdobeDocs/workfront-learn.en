@@ -12,7 +12,10 @@ jira: KT-10155
 recommendations: noDisplay,catalog
 hide: yes
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/yxBZPgVS-DRdH0kDAAwkZuF5gzVIrkuFFb0xGWM2o9o
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +31,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:21:23.208Z'
+>>>>>>> Stashed changes
 ---
 # Copy an existing project
 

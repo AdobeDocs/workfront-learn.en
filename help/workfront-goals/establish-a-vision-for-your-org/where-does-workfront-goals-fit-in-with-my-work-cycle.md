@@ -10,25 +10,40 @@ team: Technical Marketing
 jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/R5PW4MW3Xie2EE-oKmqjg5aB17tfJS5dN8q9KSynCxM
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
+<<<<<<< Updated upstream
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
 subfeature_v2:
   - id: be65ef36-43e4-48e1-a062-caa3778e15be
     internal-label: Agile
+=======
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
     internal-label: Measurement
+=======
+autotag-review: '2026-05-05T20:16:33.388Z'
+>>>>>>> Stashed changes
 ---
 # Understand how [!UICONTROL Workfront Goals] fits in your work cycle
 

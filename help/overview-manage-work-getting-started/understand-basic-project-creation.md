@@ -8,13 +8,20 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2024-03-25T00:00:00.000Z
+=======
+last-substantial-update: '2024-03-25T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-8768
 hide: yes
 doc-type: video
 exl-id: 2c7792da-8742-4952-afa6-4b1a15989a56
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/lNA8eyCZeoumAU5TK0-UYZS0-7zzHXcEbwecGYS3s54
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,6 +37,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:29:36.461Z'
+>>>>>>> Stashed changes
 ---
 # Understand basic project creation
 

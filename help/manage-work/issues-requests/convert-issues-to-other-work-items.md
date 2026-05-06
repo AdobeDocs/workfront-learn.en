@@ -7,11 +7,18 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
+<<<<<<< Updated upstream
 last-substantial-update: 2024-02-28T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 TQID: https://experienceleague.adobe.com/eia8ohw4WLclA9sIJCgWjS-lleN3YonjVAiLAmGeI3Q
+=======
+last-substantial-update: '2024-02-28T00:00:00.000Z'
+recommendations: noDisplay,catalog
+jira: KT-10069
+exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -19,8 +26,11 @@ feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
 subfeature_v2:
+<<<<<<< Updated upstream
   - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
     internal-label: Tasks
+=======
+>>>>>>> Stashed changes
   - id: c10f2e93-7a58-4212-aa24-684c265ebe76
     internal-label: Requests
 role_v2:
@@ -29,6 +39,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:55:57.327Z'
+>>>>>>> Stashed changes
 ---
 # Convert an issue or request to a task
 

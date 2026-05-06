@@ -8,12 +8,19 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+<<<<<<< Updated upstream
 last-substantial-update: 2025-03-28T00:00:00.000Z
+=======
+last-substantial-update: '2025-03-28T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/m5MFVnmROAjRZobZYeKi4-n-vWWuHcBda9LzNJMrbMg
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,6 +36,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:52:41.328Z'
+>>>>>>> Stashed changes
 ---
 # Copy an existing project efficiently
 

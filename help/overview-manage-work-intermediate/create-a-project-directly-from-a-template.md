@@ -12,7 +12,10 @@ jira: KT-10156
 recommendations: noDisplay,catalog
 hide: yes
 exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/dYNFWlu2GefgD7X-EqgGYYAfm9BW5VcFyUlhoW1iWUg
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +31,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:21:41.427Z'
+>>>>>>> Stashed changes
 ---
 # Create a project directly from a template
 

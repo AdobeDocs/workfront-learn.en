@@ -7,14 +7,21 @@ thumbnail: 3426779.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2024-01-09T00:00:00.000Z
+=======
+last-substantial-update: '2024-01-09T00:00:00.000Z'
+>>>>>>> Stashed changes
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
 recommendations: noDisplay,catalog
 hide: yes
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/j-7x6gtWJDJRa22maGmweV2-cATJZxXVGe5wPrnwqbs
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,9 +37,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-05T19:18:38.976Z'
+>>>>>>> Stashed changes
 ---
 # Deactivate a project template
 

@@ -10,20 +10,34 @@ team: Technical Marketing
 thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
+<<<<<<< Updated upstream
 hide: yes
 TQID: https://experienceleague.adobe.com/eRvU7SrpRRQtOEZMmP-lOqK753xBuZVDArHKu1qTI4E
+=======
+hide: true
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
+=======
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+    internal-label: Tasks
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T18:55:52.302Z'
+>>>>>>> Stashed changes
 ---
 # Review work in [!DNL My Updates] or [!DNL Home]
 

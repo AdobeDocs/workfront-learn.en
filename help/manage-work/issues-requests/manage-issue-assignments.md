@@ -8,11 +8,18 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2023-05-26T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 TQID: https://experienceleague.adobe.com/2wW9Ty0a2QQA3VSzcIPTyy9HAU3sFA5m1PnKBwrMfI8
+=======
+last-substantial-update: '2023-05-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
+jira: KT-10071
+exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +35,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:55:37.524Z'
+>>>>>>> Stashed changes
 ---
 # Manage issue assignments effectively
 

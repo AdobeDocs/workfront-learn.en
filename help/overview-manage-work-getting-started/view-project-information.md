@@ -8,12 +8,19 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2024-05-01T00:00:00.000Z
+=======
+last-substantial-update: '2024-05-01T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-10145
 hide: yes
 exl-id: 688e6c46-df3e-48e7-a949-d627c529e97c
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/HdnVi18nfEOJY72qJdnlTVuxhIXDO7AUUjcXfCAzdrs
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,9 +36,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-05T19:24:40.146Z'
+>>>>>>> Stashed changes
 ---
 # View project information
 

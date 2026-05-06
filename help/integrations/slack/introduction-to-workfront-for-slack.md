@@ -10,7 +10,10 @@ team: Technical Marketing
 jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/k5EI4e4mfzoga6Fhq5gS-SkdEhceaOalxR96Xx5bhs4
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,6 +29,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T16:02:57.127Z'
+>>>>>>> Stashed changes
 ---
 # Understand Workfront for [!DNL Slack]
 

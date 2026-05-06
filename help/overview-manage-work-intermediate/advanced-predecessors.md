@@ -8,12 +8,19 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2023-09-14T00:00:00.000Z
+=======
+last-substantial-update: '2023-09-14T00:00:00.000Z'
+>>>>>>> Stashed changes
 jira: KT-13879
 doc-type: video
 hide: yes
 exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/ZvToGfV5-X7eoGTCGsJ0DQn7GL35tS4quJEW5NYqErQ
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,6 +36,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:23:55.145Z'
+>>>>>>> Stashed changes
 ---
 # Advanced predecessors
 

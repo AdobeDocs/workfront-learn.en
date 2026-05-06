@@ -8,11 +8,18 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+<<<<<<< Updated upstream
 last-substantial-update: 2024-05-01T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 TQID: https://experienceleague.adobe.com/J24gDg0nJK5jd027OdxFSbcMghP5TU-EfTlwqhWD2bg
+=======
+last-substantial-update: '2024-05-01T00:00:00.000Z'
+recommendations: noDisplay,catalog
+jira: KT-10145
+exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,11 +35,15 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
+=======
+autotag-review: '2026-05-06T14:42:28.854Z'
+>>>>>>> Stashed changes
 ---
 # Explore filters, views, and groupings for project management
 

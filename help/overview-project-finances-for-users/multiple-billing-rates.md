@@ -11,7 +11,10 @@ level: Intermediate
 jira: KT-10048
 hide: yes
 exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/hi8lQIAqVzWGENvCv2KHpPg86WtplSMCJ9viEV47hzI
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -27,6 +30,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:00:23.025Z'
+>>>>>>> Stashed changes
 ---
 # Understand multiple billing rates
 

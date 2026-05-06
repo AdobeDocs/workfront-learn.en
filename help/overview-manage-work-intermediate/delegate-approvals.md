@@ -13,13 +13,17 @@ hide: yes
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/eoiGPahhGX636UhgWta8m7e3YJQp-uTp6ymIBQCBjKg
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
 subfeature_v2:
@@ -29,6 +33,9 @@ subfeature_v2:
     internal-label: Tasks
   - id: ce22a157-dd2c-405f-b740-c2f204bb4c1a
     internal-label: Timesheets
+=======
+subfeature_v2:
+>>>>>>> Stashed changes
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
 role_v2:
@@ -37,9 +44,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+=======
+autotag-review: '2026-05-05T19:19:24.972Z'
+>>>>>>> Stashed changes
 ---
 # Delegate tasks, issues, and approvals
 

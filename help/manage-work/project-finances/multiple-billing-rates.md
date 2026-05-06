@@ -10,10 +10,16 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
+<<<<<<< Updated upstream
 last-substantial-update: 2025-04-16T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 TQID: https://experienceleague.adobe.com/HlOf8QFhOFB-L2ZFIcgTjeFgL6AU-SV9vgGVNt3c1dA
+=======
+last-substantial-update: '2025-04-16T00:00:00.000Z'
+recommendations: noDisplay,catalog
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,6 +35,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:51:58.756Z'
+>>>>>>> Stashed changes
 ---
 # Customize billing rates for job roles
 

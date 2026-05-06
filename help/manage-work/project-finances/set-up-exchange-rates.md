@@ -10,10 +10,16 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
+<<<<<<< Updated upstream
 last-substantial-update: 2025-04-23T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 TQID: https://experienceleague.adobe.com/NOtJEs-daYO6Fc1yMf6JAM6rsDc1oI752UeR7UByJqg
+=======
+last-substantial-update: '2026-04-28T00:00:00.000Z'
+recommendations: noDisplay,catalog
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -22,6 +28,7 @@ feature_v2:
     internal-label: Work management
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+<<<<<<< Updated upstream
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -31,6 +38,20 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+=======
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+autotag-review: '2026-05-05T18:54:38.081Z'
+>>>>>>> Stashed changes
 ---
 # Set up exchange rates
 

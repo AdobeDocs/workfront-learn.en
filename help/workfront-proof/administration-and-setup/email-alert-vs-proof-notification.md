@@ -7,24 +7,41 @@ role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
+<<<<<<< Updated upstream
 last-substantial-update: 2024-01-24T00:00:00.000Z
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
 TQID: https://experienceleague.adobe.com/JlKQq4ArHy49-vfGHDRU73cZ0X8RNBlRmb7OEU9xM5A
+=======
+last-substantial-update: '2024-01-24T00:00:00.000Z'
+exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
+<<<<<<< Updated upstream
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+=======
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+=======
+autotag-review: '2026-05-05T20:07:01.396Z'
+>>>>>>> Stashed changes
 ---
 # Understand email alerts and proof notifications
 

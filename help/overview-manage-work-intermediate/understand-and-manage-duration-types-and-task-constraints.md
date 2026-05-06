@@ -8,12 +8,19 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2023-06-27T00:00:00.000Z
+=======
+last-substantial-update: '2023-06-27T00:00:00.000Z'
+>>>>>>> Stashed changes
 jira: KT-13530
 doc-type: video
 hide: yes
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/OsQsgJE3luN8jNcXQX5-eUnHh9JBhIiGXIJJB3B8b6A
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,9 +36,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-05T19:11:30.971Z'
+>>>>>>> Stashed changes
 ---
 # Understand and manage duration types and task constraints
 

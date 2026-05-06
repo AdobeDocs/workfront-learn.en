@@ -10,27 +10,43 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
+<<<<<<< Updated upstream
 last-substantial-update: 2025-04-23T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 TQID: https://experienceleague.adobe.com/OF0Cd4cWf3YcAj2B-740Wr7H-h01zLQCm7QHiz4oeYU
+=======
+last-substantial-update: '2025-04-23T00:00:00.000Z'
+recommendations: noDisplay,catalog
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+=======
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+=======
+autotag-review: '2026-05-06T14:49:39.708Z'
+>>>>>>> Stashed changes
 ---
 # Understand performance metrics
 

@@ -9,19 +9,29 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
+<<<<<<< Updated upstream
 last-substantial-update: 2024-06-19T00:00:00.000Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 TQID: https://experienceleague.adobe.com/jmIydSdIh1F3z7mB6r-DkdputYrY8-Ap-1zhEvvhr9Y
+=======
+last-substantial-update: '2024-06-19T00:00:00.000Z'
+recommendations: noDisplay,catalog
+exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+<<<<<<< Updated upstream
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
     internal-label: Resource Management
+=======
+>>>>>>> Stashed changes
 subfeature_v2:
   - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
     internal-label: Tasks
@@ -31,6 +41,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:38:33.224Z'
+>>>>>>> Stashed changes
 ---
 # Understand planned hours
 

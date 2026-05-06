@@ -13,7 +13,10 @@ hide: yes
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/C2NNeFdPX9GpzWXv47DdHsN9Qx-RbvIK2wT-maQKaQ4
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,9 +32,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-05T19:32:59.903Z'
+>>>>>>> Stashed changes
 ---
 # Record lessons learned
 

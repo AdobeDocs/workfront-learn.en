@@ -12,7 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/LxPkZwoOO0cxHXOLbEzfRrN93zCWCpNO1XJMhircsAc
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +31,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:36:54.897Z'
+>>>>>>> Stashed changes
 ---
 # Manage tasks efficiently in Workfront
 

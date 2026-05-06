@@ -9,19 +9,35 @@ role: User
 level: Beginner
 jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/mMyzdzhbv5hnM8TlnhUU13hd1r9HdBwMKu0VChwFm5I
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+=======
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+>>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
+=======
+autotag-review: '2026-05-06T02:01:40.556Z'
+>>>>>>> Stashed changes
 ---
 # Establish system settings in [!UICONTROL Brand Connect]
 

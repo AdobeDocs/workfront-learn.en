@@ -9,11 +9,18 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+<<<<<<< Updated upstream
 last-substantial-update: 2024-05-29T00:00:00.000Z
+=======
+last-substantial-update: '2024-05-29T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 hide: yes
 exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/jl-7jImPAT4eEj7-0cWqH0bURlE0lbQlGkYrxfnQBZM
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,9 +36,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-05T19:25:17.227Z'
+>>>>>>> Stashed changes
 ---
 # Understand [!UICONTROL Work Effort]
 

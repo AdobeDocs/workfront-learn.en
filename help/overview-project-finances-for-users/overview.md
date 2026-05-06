@@ -7,13 +7,20 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
+<<<<<<< Updated upstream
 last-substantial-update: 2024-09-03T00:00:00.000Z
+=======
+last-substantial-update: '2024-09-03T00:00:00.000Z'
+>>>>>>> Stashed changes
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/8jk0bquPKXtMFz-Cjq6H3UdhtqHZ7n9Oy-lVTN4Orx0
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,9 +36,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
+=======
+autotag-review: '2026-05-06T14:30:09.369Z'
+>>>>>>> Stashed changes
 ---
 # Project finances for users overview
 

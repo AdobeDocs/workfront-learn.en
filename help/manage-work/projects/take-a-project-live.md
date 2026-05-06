@@ -12,7 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/QG2mnsglUKu2Fs6WGE2zgVG4t6dGbCpMSZDcCFFBc7s
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +31,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:45:46.743Z'
+>>>>>>> Stashed changes
 ---
 # Take a project live
 

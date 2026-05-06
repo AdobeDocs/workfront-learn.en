@@ -9,11 +9,18 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
+<<<<<<< Updated upstream
 last-substantial-update: 2024-11-22T00:00:00.000Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
 TQID: https://experienceleague.adobe.com/CA1XgKBOxSWkPnnMYqiCDtxO9gngR8eyHR2NKMEvBVM
+=======
+last-substantial-update: '2024-11-22T00:00:00.000Z'
+jira: KT-10127
+exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -29,6 +36,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:47:52.285Z'
+>>>>>>> Stashed changes
 ---
 # Change the project status to complete
 

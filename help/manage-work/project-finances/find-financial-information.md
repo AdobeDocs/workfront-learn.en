@@ -10,10 +10,16 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
+<<<<<<< Updated upstream
 last-substantial-update: 2025-04-16T00:00:00.000Z
 recommendations: noDisplay,catalog
 doc-type: video
 TQID: https://experienceleague.adobe.com/iLOHUGGTnqjNTEw2teS4H8FBOxQrzFbWSlPIhFuI2cA
+=======
+last-substantial-update: '2025-04-16T00:00:00.000Z'
+recommendations: noDisplay,catalog
+doc-type: video
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -21,8 +27,11 @@ feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
 subfeature_v2:
+<<<<<<< Updated upstream
   - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
     internal-label: Tasks
+=======
+>>>>>>> Stashed changes
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
 role_v2:
@@ -31,6 +40,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T14:52:10.607Z'
+>>>>>>> Stashed changes
 ---
 # Access and manage financial information for projects and tasks
 

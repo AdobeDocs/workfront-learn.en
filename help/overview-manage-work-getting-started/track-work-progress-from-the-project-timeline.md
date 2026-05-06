@@ -7,12 +7,19 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+<<<<<<< Updated upstream
 last-substantial-update: 2023-08-16T00:00:00.000Z
+=======
+last-substantial-update: '2023-08-16T00:00:00.000Z'
+>>>>>>> Stashed changes
 level: Beginner
 jira: KT-10150
 hide: yes
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
+<<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/GPA0ah0-TdJ59dz1nT4E8lgUwTK9S3BCca2BfissAMg
+=======
+>>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,6 +35,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:29:57.735Z'
+>>>>>>> Stashed changes
 ---
 # Track progress from the project timeline
 
