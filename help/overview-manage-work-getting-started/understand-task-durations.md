@@ -15,7 +15,7 @@ last-substantial-update: 2024-06-03T00:00:00.000Z
 last-substantial-update: '2024-06-03T00:00:00.000Z'
 >>>>>>> Stashed changes
 recommendations: noDisplay,catalog
-hide: yes
+hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
 <<<<<<< Updated upstream

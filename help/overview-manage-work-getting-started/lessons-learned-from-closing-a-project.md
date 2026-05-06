@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10135
-hide: yes
+hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea

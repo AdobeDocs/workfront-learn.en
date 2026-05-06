@@ -15,7 +15,7 @@ last-substantial-update: '2024-04-22T00:00:00.000Z'
 >>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-8781
-hide: yes
+hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
 <<<<<<< Updated upstream

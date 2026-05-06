@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
-hide: yes
+hide: true
 doc-type: video
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c

@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10152
-hide: yes
+hide: true
 ---
 # Plan a project - review
 

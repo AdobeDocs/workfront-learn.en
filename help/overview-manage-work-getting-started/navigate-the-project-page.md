@@ -15,7 +15,7 @@ last-substantial-update: '2024-04-05T00:00:00.000Z'
 team: Technical Marketing
 recommendations: noDisplay,catalog
 jira: KT-8771
-hide: yes
+hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
 <<<<<<< Updated upstream

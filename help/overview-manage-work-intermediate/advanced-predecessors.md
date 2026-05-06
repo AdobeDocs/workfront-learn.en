@@ -15,7 +15,7 @@ last-substantial-update: '2023-09-14T00:00:00.000Z'
 >>>>>>> Stashed changes
 jira: KT-13879
 doc-type: video
-hide: yes
+hide: true
 exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/ZvToGfV5-X7eoGTCGsJ0DQn7GL35tS4quJEW5NYqErQ

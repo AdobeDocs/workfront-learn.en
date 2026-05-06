@@ -14,7 +14,7 @@ last-substantial-update: '2023-08-16T00:00:00.000Z'
 >>>>>>> Stashed changes
 level: Beginner
 jira: KT-10150
-hide: yes
+hide: true
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/GPA0ah0-TdJ59dz1nT4E8lgUwTK9S3BCca2BfissAMg

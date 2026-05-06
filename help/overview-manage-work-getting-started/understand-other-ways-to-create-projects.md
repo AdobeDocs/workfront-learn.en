@@ -10,18 +10,15 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8770
 recommendations: noDisplay,catalog
-<<<<<<< Updated upstream
-last-substantial-update: 2024-03-05T00:00:00.000Z
-hide: yes
+last-substantial-update: 2024-03-05
+hide: true
 doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
 TQID: https://experienceleague.adobe.com/HWDNJTwUM-0nmdyJA1vng8CHbbfhpgaZxHCHH78nhD4
-=======
 last-substantial-update: '2024-03-05T00:00:00.000Z'
 hide: true
 doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -37,10 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:29:12.110Z'
->>>>>>> Stashed changes
 ---
 # Learn four ways to create a project
 

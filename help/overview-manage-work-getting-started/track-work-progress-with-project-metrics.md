@@ -15,7 +15,7 @@ last-substantial-update: 2024-05-03T00:00:00.000Z
 last-substantial-update: '2024-05-03T00:00:00.000Z'
 >>>>>>> Stashed changes
 jira: KT-8796
-hide: yes
+hide: true
 doc-type: video
 exl-id: e8ddb76e-66b8-488d-b774-d80b2db8e555
 <<<<<<< Updated upstream

@@ -15,7 +15,7 @@ last-substantial-update: 2024-05-29T00:00:00.000Z
 last-substantial-update: '2024-05-29T00:00:00.000Z'
 >>>>>>> Stashed changes
 recommendations: noDisplay,catalog
-hide: yes
+hide: true
 exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/jl-7jImPAT4eEj7-0cWqH0bURlE0lbQlGkYrxfnQBZM

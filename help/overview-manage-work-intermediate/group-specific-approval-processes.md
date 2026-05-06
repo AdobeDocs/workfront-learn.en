@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Intermediate
 jira: KT-10017
-hide: yes
+hide: true
 exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/XiYZPxaBYFJBmPIpCeAux7Ytx0VlB4ih3OnBVOZWPu8

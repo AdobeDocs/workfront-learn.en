@@ -15,7 +15,7 @@ last-substantial-update: 2023-05-12T00:00:00.000Z
 last-substantial-update: '2023-05-12T00:00:00.000Z'
 >>>>>>> Stashed changes
 jira: KT-10127
-hide: yes
+hide: true
 exl-id: 22920ca3-8185-4347-abaa-561cc41e7406
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/0hnHkAzqgg-kPTECCE80PzbYosqmiyaino3nx2OEt40

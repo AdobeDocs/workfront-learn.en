@@ -15,7 +15,7 @@ last-substantial-update: '2023-07-21T00:00:00.000Z'
 >>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-10148
-hide: yes
+hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/8NXqxEH75DQFpPIaixGxMTCBccAJGJ9fQQsCiGnM1Jk

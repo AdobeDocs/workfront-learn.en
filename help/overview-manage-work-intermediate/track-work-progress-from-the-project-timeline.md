@@ -10,7 +10,7 @@ role: User
 last-substantial-update: 2023-08-16
 level: Beginner
 jira: KT-10150
-hide: yes
+hide: true
 ---
 # Track progress from the project timeline
 

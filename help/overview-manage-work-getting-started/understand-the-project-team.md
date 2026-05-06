@@ -16,7 +16,7 @@ last-substantial-update: '2024-02-07T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
-hide: yes
+hide: true
 exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/kqmPBmgsqBAksGPkYtW97b-sJUcn7vKDyaUTR0YPMiM

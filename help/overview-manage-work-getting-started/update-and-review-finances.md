@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10137
-hide: yes
+hide: true
 exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/auV4tOVnWU774cYKTPQh20SOIsJWw-MI2cukgrTwcfg

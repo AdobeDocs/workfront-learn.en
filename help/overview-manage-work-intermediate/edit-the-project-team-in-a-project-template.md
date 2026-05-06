@@ -16,7 +16,7 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 recommendations: noDisplay,catalog
-hide: yes
+hide: true
 exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
 <<<<<<< Updated upstream
 TQID: https://experienceleague.adobe.com/xQyzg-K6t67KmWRyZFiKYK-xUHSZfg2FywRCkY4lv88

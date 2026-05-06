@@ -14,7 +14,7 @@ last-substantial-update: 2024-07-09T00:00:00.000Z
 last-substantial-update: '2024-07-09T00:00:00.000Z'
 >>>>>>> Stashed changes
 jira: KT-8806
-hide: yes
+hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd

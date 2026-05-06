@@ -9,7 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-hide: yes
+hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
 <<<<<<< Updated upstream
