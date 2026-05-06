@@ -9,18 +9,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,catalog
-<<<<<<< Updated upstream
-last-substantial-update: 2024-05-03T00:00:00.000Z
-jira: KT-8796
-exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
-doc-type: video
-TQID: https://experienceleague.adobe.com/xjJ2VL3qi3npNZ1ZeF7QHIf4NYkwrCXhut7sfkXPvHQ
-=======
 last-substantial-update: '2024-05-03T00:00:00.000Z'
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -36,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:44:54.048Z'
->>>>>>> Stashed changes
 ---
 # Track work progress with project metrics
 

@@ -9,16 +9,6 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
-<<<<<<< Updated upstream
-last-substantial-update: 2024-04-02T00:00:00.000Z
-recommendations: noDisplay,catalog
-exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
-doc-type: video
-TQID: https://experienceleague.adobe.com/vsgcDQTSZzMGUa1kwm4Mear8zawdUEiOgHBmqvhc3o0
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 last-substantial-update: '2024-04-02T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
@@ -32,20 +22,13 @@ feature_v2:
 subfeature_v2:
   - id: db1e0ccb-6619-410a-84d6-6b80ac783274
     internal-label: Enhanced analytics
->>>>>>> Stashed changes
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-06T14:08:00.924Z'
->>>>>>> Stashed changes
 ---
 # How to access Enhanced analytics
 

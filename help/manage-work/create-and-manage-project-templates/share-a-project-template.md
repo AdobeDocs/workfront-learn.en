@@ -12,10 +12,6 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/XjMksWFkkKv6LW9H8TQBBHyQ3MWfik5MVjqxoNpvPYk
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:58:34.198Z'
->>>>>>> Stashed changes
 ---
 # Share a project template effectively
 

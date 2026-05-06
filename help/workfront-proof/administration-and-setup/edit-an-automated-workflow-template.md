@@ -8,32 +8,19 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-<<<<<<< Updated upstream
-last-substantial-update: 2024-08-08T00:00:00.000Z
-jira: KT-8831
-exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
-doc-type: video
-TQID: https://experienceleague.adobe.com/lMRbL1xyarjlWORjwGjUjGfiWmnYyXhtRf94ACTOPKA
-=======
 last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
-<<<<<<< Updated upstream
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-    internal-label: Administration
-=======
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
     internal-label: Resource Management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
     internal-label: Workfront Proof
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -42,15 +29,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-    internal-label: Administration
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-    internal-label: Privacy
-=======
 autotag-review: '2026-05-05T20:06:38.512Z'
->>>>>>> Stashed changes
 ---
 # Edit an automated workflow template
 

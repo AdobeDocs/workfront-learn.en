@@ -12,10 +12,6 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/7fLKpGBGjbY7Gw7MJQXKVySRxV9-YYY35Q8iWJZvix4
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:46:32.240Z'
->>>>>>> Stashed changes
 ---
 # Plan a project effectively in Workfront
 

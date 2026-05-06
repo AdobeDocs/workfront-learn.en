@@ -11,20 +11,6 @@ thumbnail: 335143.png
 jira: KT-8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/ytd1UZJ6ccyKtrtmuYyoQsMKlblmAiGb2DAHaUmL97Y
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-    internal-label: Admin
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-    internal-label: Intermediate
-=======
 autotag-review: '2026-05-05T19:55:19.774Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -41,7 +27,6 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
->>>>>>> Stashed changes
 ---
 # Review a website with proof
 

@@ -11,10 +11,6 @@ level: Intermediate
 jira: KT-10137
 hide: true
 exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/Ii4k1CYd07Dsbq-7gR9t5Je47iTocLpawvDkWs1mgK0
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,10 +26,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T18:57:32.878Z'
->>>>>>> Stashed changes
 ---
 # Update and review finances
 

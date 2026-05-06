@@ -8,19 +8,11 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-<<<<<<< Updated upstream
-last-substantial-update: 2024-03-11T00:00:00.000Z
-=======
 last-substantial-update: '2024-03-11T00:00:00.000Z'
->>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/DWqSjn5qIPBCkUQFjhkAjTsibQTqOVopLZRvKr9mDVQ
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -36,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:47:13.116Z'
->>>>>>> Stashed changes
 ---
 # Find projects efficiently
 

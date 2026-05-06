@@ -9,18 +9,10 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335223.jpeg
 jira: KT-8960
-<<<<<<< Updated upstream
-last-substantial-update: 2024-09-11T00:00:00.000Z
-recommendations: noDisplay,catalog
-exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
-doc-type: video
-TQID: https://experienceleague.adobe.com/pfUX6Ibg6X5cLCZ6pyYDJClHwL5SiroivgLZZ7OtPxk
-=======
 last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -38,10 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:41:59.860Z'
->>>>>>> Stashed changes
 ---
 # Create a request flow in Workfront
 

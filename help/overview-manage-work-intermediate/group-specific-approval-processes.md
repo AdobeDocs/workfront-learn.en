@@ -10,10 +10,6 @@ level: Intermediate
 jira: KT-10017
 hide: true
 exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/XiYZPxaBYFJBmPIpCeAux7Ytx0VlB4ih3OnBVOZWPu8
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -26,18 +22,12 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-<<<<<<< Updated upstream
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-    internal-label: Intermediate
-=======
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:17:51.764Z'
->>>>>>> Stashed changes
 ---
 # Understand group-specific approval processes
 

@@ -8,19 +8,11 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-<<<<<<< Updated upstream
-last-substantial-update: 2023-07-21T00:00:00.000Z
-=======
 last-substantial-update: '2023-07-21T00:00:00.000Z'
->>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/8NXqxEH75DQFpPIaixGxMTCBccAJGJ9fQQsCiGnM1Jk
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -36,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:31:33.943Z'
->>>>>>> Stashed changes
 ---
 # Share a project
 

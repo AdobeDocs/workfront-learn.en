@@ -13,10 +13,6 @@ jira: KT-8780
 hide: true
 doc-type: video
 exl-id: c2ed640c-b32f-4c1e-892c-fb54796a101e
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/-6DzMSlR6KPS1AFli-WUUHVrjgGzv-XGR4oUNrxTQzk
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -32,10 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:31:02.064Z'
->>>>>>> Stashed changes
 ---
 # Take a project live
 

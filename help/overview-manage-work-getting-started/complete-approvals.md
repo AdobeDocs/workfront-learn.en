@@ -9,19 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
-<<<<<<< Updated upstream
-last-substantial-update: 2024-08-05T00:00:00.000Z
-=======
 last-substantial-update: '2024-08-05T00:00:00.000Z'
->>>>>>> Stashed changes
 jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/BFNK7zhm0wv1bC0JL6rNsX9YA17SzcpBEcc-GuPvczY
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -37,10 +29,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:36:38.984Z'
->>>>>>> Stashed changes
 ---
 # Complete approvals
 

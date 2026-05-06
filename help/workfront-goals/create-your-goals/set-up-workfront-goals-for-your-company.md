@@ -9,12 +9,6 @@ role: User
 level: Beginner
 jira: KT-10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/bva1Z32Mm4fdC37tlfmdAb7yusXp-Ty7tjdyEphStJ4
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -24,17 +18,13 @@ feature_v2:
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
     internal-label: Workfront Goals
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T20:19:31.722Z'
->>>>>>> Stashed changes
 ---
 # Set up [!UICONTROL Workfront Goals] for your org
 

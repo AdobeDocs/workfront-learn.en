@@ -8,18 +8,10 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-<<<<<<< Updated upstream
-last-substantial-update: 2024-04-02T00:00:00.000Z
-jira: KT-13737
-doc-type: video
-exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-TQID: https://experienceleague.adobe.com/JJY78zybLEOe3Te8cY4k5vSlgMnUvoLy6p9qjBQdZQU
-=======
 last-substantial-update: '2024-04-02T00:00:00.000Z'
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -27,11 +19,6 @@ feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
 subfeature_v2:
-<<<<<<< Updated upstream
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-    internal-label: Tasks
-=======
->>>>>>> Stashed changes
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
 role_v2:
@@ -40,13 +27,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-<<<<<<< Updated upstream
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-=======
 autotag-review: '2026-05-06T14:57:33.461Z'
->>>>>>> Stashed changes
 ---
 # Establish dependencies with cross-project predecessors
 

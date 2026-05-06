@@ -8,29 +8,16 @@ thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
 level: Beginner
-<<<<<<< Updated upstream
-last-substantial-update: 2023-05-11T00:00:00.000Z
-recommendations: noDisplay,catalog
-jira: KT-10144
-exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-TQID: https://experienceleague.adobe.com/g-MEKvG2WuJld8G8bVM1izy6LULvOnww3-y-dirYz-k
-=======
 last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
-<<<<<<< Updated upstream
-  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
-=======
->>>>>>> Stashed changes
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
@@ -40,13 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
-=======
 autotag-review: '2026-05-06T14:43:04.428Z'
->>>>>>> Stashed changes
 ---
 # Explore the [!UICONTROL Gantt] view for project management
 

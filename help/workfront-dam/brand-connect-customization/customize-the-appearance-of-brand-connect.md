@@ -10,12 +10,6 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/twJOmExv3SYPusz0c95hXtOjGOPHNBeF3jkGYulBLO4
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-    internal-label: Workfront
-=======
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -25,17 +19,13 @@ feature_v2:
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
     internal-label: Digital content and documents
->>>>>>> Stashed changes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T02:02:56.632Z'
->>>>>>> Stashed changes
 ---
 # Customize the appearance of [!UICONTROL Brand Connect]
 

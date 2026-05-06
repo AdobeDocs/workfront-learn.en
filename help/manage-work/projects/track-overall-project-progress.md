@@ -8,18 +8,10 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
-<<<<<<< Updated upstream
-last-substantial-update: 2024-04-25T00:00:00.000Z
-recommendations: noDisplay,catalog
-jira: KT-10149
-exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-TQID: https://experienceleague.adobe.com/S5J2xPvOjiJOgz8LEv87nr2r90pE5Q9pZxpwhy-gu7Y
-=======
 last-substantial-update: '2024-04-25T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -35,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-06T14:44:38.813Z'
->>>>>>> Stashed changes
 ---
 # Track overall project progress
 

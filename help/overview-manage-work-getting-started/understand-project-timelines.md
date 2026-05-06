@@ -12,10 +12,6 @@ jira: KT-8953
 hide: true
 doc-type: video
 exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
-<<<<<<< Updated upstream
-TQID: https://experienceleague.adobe.com/j4z-WcLu6Fq7f16VrF4ZdklJZjP2xa7JFXxQZwSU81o
-=======
->>>>>>> Stashed changes
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,10 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-<<<<<<< Updated upstream
-=======
 autotag-review: '2026-05-05T19:27:48.210Z'
->>>>>>> Stashed changes
 ---
 # Understand project timelines
 
