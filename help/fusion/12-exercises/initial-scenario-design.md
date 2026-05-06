@@ -9,9 +9,38 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2026-02-19
+<<<<<<< Updated upstream
+last-substantial-update: 2026-02-19T00:00:00.000Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+TQID: https://experienceleague.adobe.com/BDhveGLXPM8PoPFKQIG-ZN5zrWnHNHIYYa8GkX3rIQc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+=======
+last-substantial-update: '2026-02-19T00:00:00.000Z'
+recommendations: noDisplay,catalog
+exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T16:42:35.324Z'
+>>>>>>> Stashed changes
 ---
 # Initial scenario design exercise
 

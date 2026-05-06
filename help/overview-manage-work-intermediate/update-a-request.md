@@ -7,13 +7,45 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-07-10
+<<<<<<< Updated upstream
+last-substantial-update: 2024-07-10T00:00:00.000Z
+=======
+last-substantial-update: '2024-07-10T00:00:00.000Z'
+>>>>>>> Stashed changes
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 9bdd107f-0d4e-4ff3-9731-7c8bb5383c41
+<<<<<<< Updated upstream
+TQID: https://experienceleague.adobe.com/XwNEjQ7ui7ixHOv9dbeUvOECT-GcXXb5MKPSWd0JfuI
+=======
+>>>>>>> Stashed changes
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
+<<<<<<< Updated upstream
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+=======
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T19:05:40.406Z'
+>>>>>>> Stashed changes
 ---
 # Update a request
 

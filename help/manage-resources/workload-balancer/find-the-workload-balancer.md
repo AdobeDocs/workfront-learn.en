@@ -10,6 +10,24 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
+TQID: https://experienceleague.adobe.com/8BZXnjLZfcdqvceDAC9R-9QEh-y-mRAUF2Vi0eem4Rs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+subfeature_v2:
+  - id: c33d85a1-be85-4290-854c-87408c10aa80
+    internal-label: Workload Balancer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Find the [!DNL Workload Balancer]
 

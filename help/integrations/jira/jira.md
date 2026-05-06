@@ -9,6 +9,29 @@ level: Beginner
 team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
+<<<<<<< Updated upstream
+TQID: https://experienceleague.adobe.com/FTJj-vTOrUuVwYEcXeaHniMbmrdf6eYlFQIZcBXYESI
+=======
+>>>>>>> Stashed changes
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+subfeature_v2:
+  - id: b8ea32d4-f1fe-4c71-8871-afe5a702a009
+    internal-label: Adobe Workfront for Jira
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T16:03:35.649Z'
+>>>>>>> Stashed changes
 ---
 # Create visibility with the [!DNL Jira] Integration
 

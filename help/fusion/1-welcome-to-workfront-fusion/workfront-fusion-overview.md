@@ -9,9 +9,38 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
-last-substantial-update: 2026-03-11
+<<<<<<< Updated upstream
+last-substantial-update: 2026-03-11T00:00:00.000Z
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
+TQID: https://experienceleague.adobe.com/xrJeXCftTLR13WyQ3Vy9Irtbn-m4LKVLA44EAnz-IXA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+=======
+last-substantial-update: '2026-03-11T00:00:00.000Z'
+recommendations: noDisplay,catalog
+exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-06T16:48:52.918Z'
+>>>>>>> Stashed changes
 ---
 # Workfront Fusion training overview
 

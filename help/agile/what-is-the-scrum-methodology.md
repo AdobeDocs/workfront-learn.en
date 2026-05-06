@@ -7,6 +7,20 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
+TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # What is the Scrum methodology and how does it work?
 

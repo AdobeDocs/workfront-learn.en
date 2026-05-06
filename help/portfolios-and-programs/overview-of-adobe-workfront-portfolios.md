@@ -7,11 +7,44 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2025-01-09
+<<<<<<< Updated upstream
+last-substantial-update: 2025-01-09T00:00:00.000Z
+=======
+last-substantial-update: '2025-01-09T00:00:00.000Z'
+>>>>>>> Stashed changes
 recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
+<<<<<<< Updated upstream
+TQID: https://experienceleague.adobe.com/rgDhmfhyWMIm-OlHBpDPFzs2LCqeW-UuHd4dzitSx3s
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+=======
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+=======
+autotag-review: '2026-05-06T14:31:13.412Z'
+>>>>>>> Stashed changes
 ---
 # Explore portfolio management and optimization
 

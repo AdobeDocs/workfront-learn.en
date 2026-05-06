@@ -8,10 +8,40 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2023-06-27
+<<<<<<< Updated upstream
+last-substantial-update: 2023-06-27T00:00:00.000Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+TQID: https://experienceleague.adobe.com/oax6KWMm3mRfeZ2l5fMOcstMD2TvwwJmZwuvosNdi-k
+=======
+last-substantial-update: '2023-06-27T00:00:00.000Z'
+jira: KT-13530
+doc-type: video
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+>>>>>>> Stashed changes
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+<<<<<<< Updated upstream
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+=======
+autotag-review: '2026-05-06T14:58:15.610Z'
+>>>>>>> Stashed changes
 ---
 # Master duration types and task constraints
 

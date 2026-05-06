@@ -9,9 +9,45 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
 jira: KT-8830
-last-substantial-update: 2024-01-24
+<<<<<<< Updated upstream
+last-substantial-update: 2024-01-24T00:00:00.000Z
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
+TQID: https://experienceleague.adobe.com/YQJJ5xOmTiXHDIKMbQTpX1JhUT6kb3d97oLwAyCBZO4
+=======
+last-substantial-update: '2024-01-24T00:00:00.000Z'
+exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
+doc-type: video
+>>>>>>> Stashed changes
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+<<<<<<< Updated upstream
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+=======
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+<<<<<<< Updated upstream
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+=======
+autotag-review: '2026-05-05T20:09:06.617Z'
+>>>>>>> Stashed changes
 ---
 # Create an automated workflow template
 

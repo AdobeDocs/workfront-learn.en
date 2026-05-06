@@ -11,6 +11,32 @@ thumbnail: 335123.png
 jira: KT-8823
 exl-id: 661e4b97-4d4e-4859-9688-3ba509629159
 doc-type: video
+<<<<<<< Updated upstream
+TQID: https://experienceleague.adobe.com/dpy8l0ysh1s28tJh-p7ktosutZkvR3dSGvp76cXNHjo
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+=======
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T20:02:20.295Z'
+>>>>>>> Stashed changes
 ---
 # Understand the difference between a document and a proof
 

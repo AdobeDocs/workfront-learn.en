@@ -9,6 +9,32 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
+<<<<<<< Updated upstream
+TQID: https://experienceleague.adobe.com/6kcql4bhx510LNFIrOOpW8R3cutpywmNQtPzUy2thlk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+=======
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+>>>>>>> Stashed changes
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+<<<<<<< Updated upstream
+=======
+autotag-review: '2026-05-05T20:21:10.503Z'
+>>>>>>> Stashed changes
 ---
 # Activate goals
 

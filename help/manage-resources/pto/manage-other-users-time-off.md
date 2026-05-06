@@ -9,6 +9,21 @@ activity: use
 team: Technical Marketing
 jira: KT-10181
 exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
+TQID: https://experienceleague.adobe.com/DauqLO1lgCTEh-S-p0S23ws9gjIZuiIdJ-ftbe2CKMQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource Management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Manage other user's time off
 
