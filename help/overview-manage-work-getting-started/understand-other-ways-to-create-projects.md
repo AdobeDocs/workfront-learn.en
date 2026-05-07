@@ -14,9 +14,7 @@ last-substantial-update: 2024-03-05
 hide: true
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
 TQID: https://experienceleague.adobe.com/HWDNJTwUM-0nmdyJA1vng8CHbbfhpgaZxHCHH78nhD4
-hide: true
 doc-type: video
-exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
