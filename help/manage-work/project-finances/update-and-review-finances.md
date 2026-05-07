@@ -13,8 +13,6 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2026-04-30
 recommendations: noDisplay,catalog
 TQID: https://experienceleague.adobe.com/mqU3PMeLzOIohXLIWUfAGPG821rjKLKmArAW5Oij5m4
-last-substantial-update: '2026-04-30T00:00:00.000Z'
-recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9

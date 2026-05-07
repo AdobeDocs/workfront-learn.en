@@ -14,8 +14,6 @@ last-substantial-update: 2026-04-29
 recommendations: noDisplay,catalog
 doc-type: video
 TQID: https://experienceleague.adobe.com/6vGCO16C1Bs-F1FiFkAQsr6XJBPGIhaj1YgN9CeHUzg
-last-substantial-update: '2026-04-29T00:00:00.000Z'
-recommendations: noDisplay,catalog
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
