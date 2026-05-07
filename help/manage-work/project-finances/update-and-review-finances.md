@@ -12,7 +12,6 @@ jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2026-04-30
 recommendations: noDisplay,catalog
-doc-type: video
 TQID: https://experienceleague.adobe.com/mqU3PMeLzOIohXLIWUfAGPG821rjKLKmArAW5Oij5m4
 last-substantial-update: '2026-04-30T00:00:00.000Z'
 recommendations: noDisplay,catalog

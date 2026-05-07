@@ -12,7 +12,6 @@ jira: KT-8770
 recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05
 hide: true
-doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
 TQID: https://experienceleague.adobe.com/HWDNJTwUM-0nmdyJA1vng8CHbbfhpgaZxHCHH78nhD4
 last-substantial-update: '2024-03-05T00:00:00.000Z'
