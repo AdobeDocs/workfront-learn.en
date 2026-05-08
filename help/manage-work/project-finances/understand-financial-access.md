@@ -57,3 +57,4 @@ The video emphasizes that users can only use their financial access on projects 
 * [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Set up expense types](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Create job roles and rate cards](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)

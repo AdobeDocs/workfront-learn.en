@@ -52,3 +52,4 @@ The video explains how to manage expense types in Workfront, focusing on creatin
 * [Set up task revenue & cost defaults](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)
+* [Create job roles and rate cards](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
