@@ -55,3 +55,4 @@ Learn where the revenue type and cost types are used and how to set up the syste
 * [Set up exchange rates](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Set up expense types](/help/manage-work/project-finances/set-up-expense-types.md)
 * [Understand financial access](/help/manage-work/project-finances/understand-financial-access.md)
+* [Create job roles and rate cards](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
