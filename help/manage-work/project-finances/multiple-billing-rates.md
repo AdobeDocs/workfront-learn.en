@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -43,7 +43,8 @@ The video explains how to manage and customize billing rates for job roles withi
 * **Default Billing Rate:** The system administrator sets a default billing rate for each job role, but it can be customized for individual projects. ​
 * **Flexibility in Billing Rates:** You can create multiple billing rates for the same job role within a project, allowing for tailored adjustments. ​
 * **Time-Specific Rates:** Billing rates can be set for specific time periods by adding start and end dates, ensuring accurate rate application during different phases of the project. ​
-* **Easy Customization:** Changes to billing rates are straightforward—select the job role, input the new rate, and save the updates directly from the "Billing Rates" tab. ​
+* **Easy Customization:** Changes to billing rates are straightforward—select the job role, input the new rate, and save the updates directly from the "Rates" tab. ​
+* **Attach a rate card:** It's easy to attach a rate card if someone has prepared one for the group and company your project is in. Once attached, you can't change any of the billing rates in the rate card, but you can still override them in your project.
 
 ## Recommended tutorials on this topic
 
