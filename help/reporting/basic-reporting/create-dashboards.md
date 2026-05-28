@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: '2025-05-28T00:00:00.000Z'
+last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 product_v2:
@@ -89,3 +89,79 @@ Create this report by making a copy of the "Search Notes" report you created in 
 1. In the **[!UICONTROL Quick link name]** field, type in "Search Notes."
 1. Click **[!UICONTROL Add]**.
 1. From the left panel menu, find Search Notes near the bottom. Click the dots to the left of the name and drag it up to right below Updates.
+
+### Activity 2: My Teams' Open Tasks
+
+Create a [!UICONTROL dashboard] with 3 "open task" reports in it, each filtered by a different team assigned to the tasks. 
+
+Use an existing "open task" report--filtered by a team--if you have one, or create a new one for this dashboard. Copy and edit the report twice for two additional teams, then put them on a single dashboard named **"My Teams' Open Tasks."**
+
+### Answer 2
+
+#### Part 1 - Create an "open tasks" report filtered by one of your teams
+
+1. Select **[!UICONTROL Reports]** from the **[!UICONTROL Main Menu]**.
+1. Click the **[!UICONTROL New Report]** menu and select **[!UICONTROL Task]**.
+1. Name your report "Open Tasks Assigned to the Creative Team" (or any other of your teams).
+1. In **[!UICONTROL Columns (View)]** set up your columns to include:
+
+   ![An image of the screen to create the open tasks report columns](assets/create-dashboards-activity-2-1.png)
+
+   * [!UICONTROL Project] > [!UICONTROL Name]
+   * [!UICONTROL Task] > [!UICONTROL Name] 
+   * [!UICONTROL Task] > [!UICONTROL Assignments]
+   * [!UICONTROL Task] > [!UICONTROL Duration]
+   * [!UICONTROL Task] > [!UICONTROL Planned Hours]
+   * [!UICONTROL Task] > [!UICONTROL Planned Start Date]
+   * [!UICONTROL Task] > [!UICONTROL Planned Completion Date]
+   * [!UICONTROL Task] > [!UICONTROL Percent Complete]
+
+1. Select the **[!UICONTROL Planned Completion Date]** column and change the Sort to **Ascending**.
+
+1. In the **[!UICONTROL Filters]** tab, add filter rules to include:
+
+   ![An image of the screen to create the open tasks report filters](assets/create-dashboards-activity-2-2.png)
+
+   * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Equal] > "Current"
+   * [!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > "Creative"
+   * [!UICONTROL Task] > [!UICONTROL Percent Complete]  > [!UICONTROL Less Than] > "100"
+
+1. Click the **[!UICONTROL Save+Close]** button to save and close your report.
+
+#### Part 2 - Copy the report you just created and create a new report for your second team
+
+   ![An image of the screen to copy a report](assets/create-dashboards-activity-2-3.png)
+
+1. Viewing the report you just created, click **[!UICONTROL Report Actions] > [!UICONTROL Copy]**.
+1. The new report will appear with the name **"(Copy)"** appended in the title. 
+1. Click **[!UICONTROL Report Actions] > [!UICONTROL Edit]**. Then change the filter and the report title to focus on the Orion team (or any other of your teams).
+1. Click on the [!UICONTROL Filters] tab, then change the filter rule 
+**[!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > "Creative"** to 
+**[!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > "Orion"**
+1. In the Report Titile field, change the word **[!UICONTROL "Creative"]** to **[!UICONTROL "Orion"]** and delete the word **"(Copy)"**.
+1. Click the **[!UICONTROL Save+Close]** button to save and close your report.
+
+#### Part 3 - Copy the report again and create a new report for your third team
+
+1. Viewing the report you just created, click **[!UICONTROL Report Actions] > [!UICONTROL Copy]** again. This time change the name of the team in the title and the filter to "Digital Marketing" (or any other of your teams).
+
+#### Part 4 - Create a dashboard showing the open tasks on each of your teams
+
+1. From the main menu, click on **[!UICONTROL Dashboards]**.
+1. Then click on **[!UICONTROL New Dashboard]**.
+
+   ![An image of the screen to create a dashboard](assets/create-dashboards-activity-2-4.png)
+
+1. Name the dashboard **"My Teams' Open Tasks"**.
+1. Start typing the name of your reports in the **[!UICONTROL Search by name]** field.
+1. Since your report names all start out with the same words, you might see them all come up like this:
+
+   ![An image of the dashboard layout screen](assets/create-dashboards-activity-2-5.png)
+
+1. Drag them each over to the layout area, then click Save + Close.
+
+   ![An image of the dashboard layout screen](assets/create-dashboards-activity-2-6.png)
+
+1. Here's the final dashboard:
+
+   ![An image of the dashboard layout screen](assets/create-dashboards-activity-2-7.png)

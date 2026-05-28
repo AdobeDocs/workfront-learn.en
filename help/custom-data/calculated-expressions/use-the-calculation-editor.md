@@ -8,6 +8,7 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 339959.png
+last-substantial-update: '2026-05-27T00:00:00.000Z'
 jira: KT-9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
