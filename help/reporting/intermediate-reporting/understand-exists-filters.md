@@ -7,7 +7,7 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-1880
+jira: KT-18808
 last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
