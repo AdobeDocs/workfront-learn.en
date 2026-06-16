@@ -10,7 +10,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8770
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-03-05T00:00:00.000Z'
+last-substantial-update: '2026-06-15T00:00:00.000Z'
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 product_v2:

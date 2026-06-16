@@ -45,6 +45,6 @@ In this video, you will learn how to:
 
 * [Upload a proof with a basic workflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
-* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)

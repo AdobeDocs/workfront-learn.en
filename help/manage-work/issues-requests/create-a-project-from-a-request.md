@@ -49,7 +49,7 @@ The video demonstrates how to convert an issue or request into a project.
 
 ## Recommended tutorials on this topic
 
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Find and manage requests efficiently](/help/manage-work/issues-requests/find-requests.md)
+* [Convert an issue or request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Handle unplanned work effectively](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

@@ -95,8 +95,8 @@ However, if you're already using the Request Queue status in your organization a
 
 ## Recommended tutorials on this topic
 
-* [Understand request queues](/help/manage-work/request-queues/understand-request-queues.md)
-* [Create a request queue](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Understand settings for a request flow](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Explore request queues in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Create a request queue in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Organize your request flow settings](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Create a system admin feedback request queue](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

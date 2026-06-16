@@ -45,6 +45,6 @@ In this video, you will learn how to:
 
 ## Recommended tutorials on this topic
 
-* [Apply milestones](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+* [Apply milestone paths to projects and tasks](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 * [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 

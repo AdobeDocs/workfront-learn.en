@@ -47,8 +47,8 @@ In this video, you will learn about the most common project settings needed when
 
 ## Recommended tutorials and articles on this topic
 
-* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Create and manage a project from scratch](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
-* [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Get started planning a project](/help/manage-work/projects/getting-started-plan-a-project.md)
+* [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Plan a project effectively in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Edit projects](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

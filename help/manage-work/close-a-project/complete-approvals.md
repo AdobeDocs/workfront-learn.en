@@ -42,7 +42,7 @@ In this video, you will learn:
 ## Recommended tutorials on this topic
 
 * [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 

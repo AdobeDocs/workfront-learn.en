@@ -41,7 +41,7 @@ In this video you will learn about issue statuses and best practices for using t
 
 ## Recommended tutorials on this topic
 
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
+* [Handle unplanned work effectively](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Convert an issue or request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convert an issue or request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Find and manage requests efficiently](/help/manage-work/issues-requests/find-requests.md)

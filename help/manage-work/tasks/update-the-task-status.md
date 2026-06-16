@@ -41,5 +41,5 @@ The video provides a tutorial on how, why, and how often to update the task stat
 
 ## Recommended tutorials on this topic
 
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

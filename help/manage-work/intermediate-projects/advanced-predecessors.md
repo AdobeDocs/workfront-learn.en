@@ -34,7 +34,7 @@ autotag-review: '2026-05-06T14:57:54.939Z'
 
 >[!PREREQUISITES]
 >
->* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [Sequence tasks effectively in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Or you're already comfortable using predecessors in your projects
 
 
@@ -50,6 +50,6 @@ In this video, you will learn about:
 
 For more information about using predecessors see [Use task predecessors](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 
-For more information about task constraints see [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+For more information about task constraints see [Master duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
-For more information about cross-project predecessors see [Understand cross-project predecessors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+For more information about cross-project predecessors see [Establish dependencies with cross-project predecessors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).

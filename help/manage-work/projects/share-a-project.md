@@ -68,8 +68,8 @@ The video emphasizes using teams and templates for efficient sharing management 
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
+* [Manage a project with current status](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects efficiently](/help/manage-work/projects/find-projects.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
-* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
+* [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
 

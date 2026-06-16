@@ -80,7 +80,7 @@ The project page is filled with many features to help you manage your work. Work
 
 ## Recommended tutorials on this topic
 
-* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Create and manage a project from scratch](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Fill in essential project details](/help/manage-work/projects/fill-in-the-project-details.md)
 

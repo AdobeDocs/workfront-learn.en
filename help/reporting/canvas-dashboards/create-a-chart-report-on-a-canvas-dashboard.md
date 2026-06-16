@@ -33,14 +33,14 @@ autotag-review: '2026-05-06T14:15:03.293Z'
 
 >[!PREREQUISITES]
 >
->* [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [Explore Canvas Dashboards in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 The first things you need to do before you can create a Canvas Dashboard **report** are: 
 
 * Enroll in the Canvas Dashboard beta, and 
 * Create a Canvas Dashboard 
 
-[Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) shows you step by step how to do both of these.
+[Explore Canvas Dashboards in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) shows you step by step how to do both of these.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
@@ -50,8 +50,8 @@ The first things you need to do before you can create a Canvas Dashboard **repor
 
 ## Recommended tutorials on this topic
 
-* [Introduction to Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
+* [Explore Canvas Dashboards in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)    
 * [Create a KPI report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Create a table report on a Canvas Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Add conditional formatting to a Canvas Dashboard report ](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [Use an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [Apply an OR filter in a Canvas Dashboard report](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

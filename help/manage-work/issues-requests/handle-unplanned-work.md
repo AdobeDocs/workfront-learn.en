@@ -47,7 +47,7 @@ The video emphasizes the importance of communication in project management and h
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Manage a project with current status](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
+* [Convert an issue or request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convert an issue or request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

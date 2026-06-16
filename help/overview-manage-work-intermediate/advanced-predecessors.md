@@ -35,7 +35,7 @@ autotag-review: '2026-05-05T19:23:55.145Z'
 
 >[!PREREQUISITES]
 >
->* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [Sequence tasks effectively in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Or you're already comfortable using predecessors in your projects
 
 

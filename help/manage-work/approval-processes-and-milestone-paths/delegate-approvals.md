@@ -51,6 +51,6 @@ Delegated approvals are marked in the system, showing who delegated them and to 
 ## Recommended tutorials on this topic
 
 * [Set up event notifications](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Create and manage approval processes](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

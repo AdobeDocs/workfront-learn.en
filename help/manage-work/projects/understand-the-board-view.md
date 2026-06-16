@@ -46,7 +46,7 @@ The video explains the Board view feature in Workfront, which provides an altern
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Manage a project with current status](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
 * [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Understand the [!UICONTROL Gantt] view](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explore the Gantt view for project management](/help/manage-work/projects/understand-the-gantt-view.md)

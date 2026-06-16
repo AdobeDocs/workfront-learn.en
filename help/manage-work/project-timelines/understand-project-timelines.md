@@ -62,7 +62,7 @@ What you'll learn:
 
 ## Recommended tutorials on this topic
 
-* [Track progress from the project timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Track progress using percent complete and progress status](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Understand and manage duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

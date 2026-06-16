@@ -46,7 +46,7 @@ In this video, you will learn about:
 
 ## Recommended tutorials on this topic
 
-* [Understand project timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Track progress from the project timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [Understand and manage duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Explore project timelines in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Track progress using percent complete and progress status](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

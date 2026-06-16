@@ -53,9 +53,9 @@ This video explains how to find and manage requests in Workfront. ​ It covers 
 
 ## Recommended tutorials on this topic
 
-* [Understand request queues](/help/manage-work/request-queues/understand-request-queues.md)
-* [Make a request](/help/manage-work/issues-requests/make-a-request.md)
-* [Update a request](/help/manage-work/issues-requests/update-a-request.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Explore request queues in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Create and manage requests in Workfront](/help/manage-work/issues-requests/make-a-request.md)
+* [Update a request in Workfront](/help/manage-work/issues-requests/update-a-request.md)
+* [Convert an issue or request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convert an issue or request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 

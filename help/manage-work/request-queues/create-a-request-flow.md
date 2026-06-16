@@ -36,8 +36,8 @@ autotag-review: '2026-05-06T14:41:59.860Z'
 
 >[!PREREQUISITES]
 >
->* [Create a request queue](/help/manage-work/request-queues/create-a-request-queue.md)
->* [Understand settings for a request flow](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Create a request queue in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [Organize your request flow settings](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 This video provides a step-by-step guide on creating a request flow by configuring queue topics, topic groups, and routing rules. ​ The process begins with creating routing rules, which define how requests are assigned.​ Next, topic groups are created to organize requests.​ These groups can be added to queues, and there is no limit to the number of topic groups that can be created.
 The video then demonstrates how to create queue topics, which are linked to routing rules, topic groups, custom forms, approval processes, and default durations.

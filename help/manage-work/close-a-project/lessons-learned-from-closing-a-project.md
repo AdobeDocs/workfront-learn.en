@@ -44,6 +44,6 @@ In this video, you will see the beneifts of:
 ## Recommended tutorials on this topic
 
 * [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
-* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
+* [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)

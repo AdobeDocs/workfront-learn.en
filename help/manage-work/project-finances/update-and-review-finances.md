@@ -71,7 +71,7 @@ This video emphasizes the importance of proper setup and tracking to streamline 
 
 ## Recommended tutorials on this topic
 
-* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)
-* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Access and manage financial information for projects and tasks](/help/manage-work/project-finances/find-financial-information.md)
+* [Customize billing rates for job roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

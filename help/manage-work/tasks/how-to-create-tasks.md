@@ -45,6 +45,6 @@ The video provides a tutorial on creating tasks in a Workfront project, covering
 
 ## Recommended tutorials on this topic
 
-* [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Understand parent-child task relationships](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

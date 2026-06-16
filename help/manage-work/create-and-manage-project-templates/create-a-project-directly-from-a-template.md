@@ -47,8 +47,8 @@ The video explains how to create a project from a template. ​ If you have the 
 
 ## Recommended tutorials on this topic
 
-* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copy an existing project efficiently](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Edit the project team in a template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
