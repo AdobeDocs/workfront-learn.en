@@ -36,8 +36,8 @@ autotag-review: '2026-05-06T15:58:59.618Z'
 
 >[!PREREQUISITES]
 >
->* [Create a request flow](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Create a global and a single-use approval process](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Create a request flow in Workfront](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Create and manage approval processes](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 The video explains the process of applying a default approval process when creating a request queue. ​ When a request is created, it starts with the status "New - Pending Approval," and an approval notification is sent to the designated approver. ​ If approved, the status changes to "New," allowing assigned individuals to begin work. ​ If rejected, the status may incorrectly revert to "New" due to a common mistake in the approval process setup. ​
@@ -56,7 +56,7 @@ The video highlights that the approval process is triggered when the status is s
 
 ## Recommended tutorials on this topic
 
-* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Delegate tasks, issues, and approvals effectively](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Create a global and a single-use approval process](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Create and manage approval processes](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

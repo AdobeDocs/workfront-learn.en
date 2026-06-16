@@ -58,8 +58,8 @@ The video emphasizes flexibility in reviewing and approving work, with options t
 
 ## Recommended tutorials on this topic
 
-* [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Create and manage approval processes](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Delegate tasks, issues, and approvals effectively](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!--

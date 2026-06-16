@@ -47,7 +47,7 @@ This video explains the task structure in Workfront. Tasks are essential compone
 
 ## Recommended tutorials on this topic
 
-* [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Create tasks efficiently in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

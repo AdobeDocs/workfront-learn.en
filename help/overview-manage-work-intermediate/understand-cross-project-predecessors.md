@@ -36,7 +36,7 @@ Cross project predecessors are an easy way to establish dependencies between tas
 
 >[!PREREQUISITES]
 >
->* [Learn to sequence tasks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [Sequence tasks effectively in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Or you're already comfortable using predecessors in your projects
 
 

@@ -50,6 +50,6 @@ This video explains the concept of Request Queues in Workfront, their purpose, a
 ## Recommended tutorials on this topic
 
 * [Create a request queue](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Understand settings for a request flow](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Create a request queue in Workfront](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 

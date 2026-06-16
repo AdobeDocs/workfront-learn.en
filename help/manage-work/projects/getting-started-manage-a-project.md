@@ -48,7 +48,7 @@ The video provides an overview of managing a project after its status is changed
 ## Recommended tutorials on this topic
 
 * [Take a project live](/help/manage-work/projects/take-a-project-live.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
+* [Find projects efficiently](/help/manage-work/projects/find-projects.md)
+* [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
-* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
+* [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)

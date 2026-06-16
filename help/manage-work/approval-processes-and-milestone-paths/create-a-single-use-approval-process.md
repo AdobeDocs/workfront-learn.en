@@ -61,8 +61,8 @@ The video demonstrates creating approval processes, setting approvers, configuri
 
 ## Recommended tutorials on this topic
 
-* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Delegate tasks, issues, and approvals effectively](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Create and manage approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

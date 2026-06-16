@@ -62,8 +62,8 @@ The video highlights how Workfront simplifies communication, task management, an
 
 ## Recommended tutorials on this topic
 
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
+* [Manage a project with current status](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Find projects efficiently](/help/manage-work/projects/find-projects.md)
+* [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
 

@@ -45,6 +45,6 @@ This video provides a detailed guide on managing tasks in Workfront. It emphasiz
 
 ## Recommended tutorials on this topic
 
-* [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Understand parent-child task relationships](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)

@@ -34,8 +34,8 @@ autotag-review: '2026-05-06T14:41:28.128Z'
 
 >[!PREREQUISITES]
 >
->* [Create a request queue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [Create a request flow](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [Create a request queue in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [Create a request flow in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Or you're already comfortable with creating a request queue that uses a routing rule and a custom form.
 
 The video provides a step-by-step guide on creating a feedback request queue for system administrators.

@@ -50,7 +50,7 @@ Workfront recommends using durations and predecessors to establish task timeline
 
 ## Recommended tutorials on this topic
 
-* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Sequence tasks effectively in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+* [Estimate task hours with Work Effort](/help/manage-work/tasks/understand-work-effort.md)
 

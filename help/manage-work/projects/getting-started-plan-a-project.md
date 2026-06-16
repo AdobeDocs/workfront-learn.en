@@ -49,10 +49,10 @@ The video highlights the importance of realistic timelines, team availability, a
 
 ## Recommended tutorials on this topic
 
-* [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
+* [Create tasks efficiently in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Sequence tasks effectively in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+* [Estimate task hours with Work Effort](/help/manage-work/tasks/understand-work-effort.md)
