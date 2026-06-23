@@ -47,3 +47,4 @@ In this video, you will see the beneifts of:
 * [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
 * [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
 * [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+

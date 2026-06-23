@@ -60,3 +60,4 @@ The video highlights that the approval process is triggered when the status is s
 * [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Create and manage approval processes](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+

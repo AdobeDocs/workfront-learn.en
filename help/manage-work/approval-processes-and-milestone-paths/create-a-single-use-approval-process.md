@@ -66,3 +66,4 @@ The video demonstrates creating approval processes, setting approvers, configuri
 * [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
+

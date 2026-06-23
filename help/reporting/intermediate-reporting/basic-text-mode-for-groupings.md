@@ -138,3 +138,4 @@ group.0.valueformat=HTML
 
 ![A screen image showing Proof approvals grouped by project name](assets/proof-approvals-grouped-by-doc-name.png)
 
+

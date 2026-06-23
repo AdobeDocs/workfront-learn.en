@@ -54,3 +54,4 @@ For more information about using predecessors see [Use task predecessors](https:
 For more information about task constraints see [Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 For more information about cross-project predecessors see [Understand cross-project predecessors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+

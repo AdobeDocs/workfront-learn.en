@@ -547,3 +547,4 @@ valueformat=HTML
 ```
 
 ![A screen image showing the project and task of a proof approval](assets/proof-approval-project-and-task.png)
+
