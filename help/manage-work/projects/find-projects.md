@@ -51,3 +51,4 @@ In this video, you will learn some quick and easy ways to find projects.
 * [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
 * [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
+

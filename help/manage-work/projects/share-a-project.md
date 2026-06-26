@@ -73,3 +73,4 @@ The video emphasizes using teams and templates for efficient sharing management 
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
 * [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
 
+

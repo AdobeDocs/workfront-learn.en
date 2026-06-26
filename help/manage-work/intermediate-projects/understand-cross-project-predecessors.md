@@ -48,3 +48,4 @@ In this video, you will learn:
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 To learn how to create the **Cross-project predecessors and successors** view and the **Cross-project predecessors and successors** report used in the video,  see the [Explore basic text mode for views in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) tutorial and be sure and take the prerequisite tutorials listed there, if you need to.
+

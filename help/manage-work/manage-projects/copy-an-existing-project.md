@@ -53,3 +53,4 @@ Issues cannot be copied directly during this process as they are not considered 
 * [Create a project directly from a template](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
 * [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+

@@ -51,3 +51,4 @@ The video explains how to access and manage financial information for projects a
 * [Update finances for client projects](/help/manage-work/project-finances/update-and-review-finances.md)
 * [Customize billing rates for job roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 
+
