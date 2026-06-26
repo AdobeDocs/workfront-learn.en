@@ -54,3 +54,4 @@ To create a project template view with an active status column, see the **Projec
 * [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
 * [Edit the project team in a template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

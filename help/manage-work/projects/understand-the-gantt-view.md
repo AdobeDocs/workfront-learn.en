@@ -69,3 +69,4 @@ You can learn more online with the article, [Get started with the Gantt chart](h
 * [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
 * [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Explore the Board view for task management](/help/manage-work/projects/understand-the-board-view.md)
+

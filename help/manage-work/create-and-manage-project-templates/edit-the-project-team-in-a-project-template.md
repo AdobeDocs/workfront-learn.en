@@ -44,3 +44,4 @@ In this video, you will learn:
 * [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
 * [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+

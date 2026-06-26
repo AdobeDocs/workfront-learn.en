@@ -52,3 +52,4 @@ The video demonstrates how to set predecessors for new tasks, ensuring sequentia
 * [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
 * [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
 * [Estimate task hours with Work Effort](/help/manage-work/tasks/understand-work-effort.md)
+

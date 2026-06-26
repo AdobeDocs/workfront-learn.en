@@ -50,3 +50,4 @@ In this video, you will learn what the project team can be used for and how to m
 * [Find projects efficiently](/help/manage-work/projects/find-projects.md)
 * [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Enhance project success through effective communication](/help/manage-work/projects/understand-project-communication.md)
+

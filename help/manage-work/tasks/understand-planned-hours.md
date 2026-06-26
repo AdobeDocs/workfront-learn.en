@@ -56,3 +56,4 @@ They also assist in tracking time spent on tasks, improving future estimates, an
 * [Estimate task hours with Work Effort](/help/manage-work/tasks/understand-work-effort.md)
 * [Timesheets overview](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
 * [Log time](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+

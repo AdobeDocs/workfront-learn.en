@@ -52,3 +52,4 @@ The video provides a step-by-step guide on creating a request queue within Workf
 * [Organize your request flow settings](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 
+

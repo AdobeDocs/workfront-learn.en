@@ -50,3 +50,4 @@ The video explains the Board view feature in Workfront, which provides an altern
 * [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
 * [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Explore the Gantt view for project management](/help/manage-work/projects/understand-the-gantt-view.md)
+
