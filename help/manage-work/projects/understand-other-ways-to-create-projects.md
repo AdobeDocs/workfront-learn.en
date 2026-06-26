@@ -88,3 +88,4 @@ The video emphasizes the flexibility of Workfront in creating projects through t
 * [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
 * [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
 
+

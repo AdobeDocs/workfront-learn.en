@@ -81,3 +81,4 @@ If the blueprint has not yet been installed you can request it from your system 
 * [Copy an existing project efficiently](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deactivate a project template](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Edit the project team in a template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

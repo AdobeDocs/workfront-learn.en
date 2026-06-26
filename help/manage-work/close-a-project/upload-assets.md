@@ -48,3 +48,4 @@ In this video, you will learn how to:
 * [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
 * [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+

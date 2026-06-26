@@ -54,3 +54,4 @@ The video explains how to track project progress using Project Metrics. ​ It d
 * [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Explore the Gantt view for project management](/help/manage-work/projects/understand-the-gantt-view.md)
 * [Explore the Board view for task management](/help/manage-work/projects/understand-the-board-view.md)
+

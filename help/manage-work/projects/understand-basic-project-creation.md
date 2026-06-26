@@ -52,3 +52,4 @@ This video explains how to create and manage a project from scratch. ​ It begi
 * [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Fill in essential project details](/help/manage-work/projects/fill-in-the-project-details.md)
 
+

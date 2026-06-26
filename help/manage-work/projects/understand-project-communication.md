@@ -67,3 +67,4 @@ The video highlights how Workfront simplifies communication, task management, an
 * [Share projects effectively in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
 
+

@@ -45,3 +45,4 @@ In this video, you will learn how to:
 * [Resolve task and issue approvals](/help/manage-work/close-a-project/complete-approvals.md)
 * [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
 * [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+
