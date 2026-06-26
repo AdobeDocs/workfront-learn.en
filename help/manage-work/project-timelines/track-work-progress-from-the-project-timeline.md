@@ -47,3 +47,4 @@ In this video, you will learn about:
 * [Explore project timelines in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 
+

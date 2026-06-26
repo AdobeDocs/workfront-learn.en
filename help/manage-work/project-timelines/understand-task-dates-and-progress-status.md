@@ -50,3 +50,4 @@ In this video, you will learn about:
 * [Track progress using percent complete and progress status](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
+

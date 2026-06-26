@@ -46,3 +46,4 @@ In this video, you will learn:
 * [Upload and manage project assets](/help/manage-work/close-a-project/upload-assets.md)
 * [Record lessons learned for future projects](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+

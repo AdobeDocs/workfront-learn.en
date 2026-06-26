@@ -52,3 +52,4 @@ In this video, you will learn about the most common project settings needed when
 * [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Plan a project effectively in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Edit projects](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+

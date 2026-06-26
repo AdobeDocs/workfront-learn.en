@@ -49,3 +49,4 @@ The video explains how to locate and update requests in Adobe Workfront. ​ Aft
 
 * [Create and manage requests in Workfront](/help/manage-work/issues-requests/make-a-request.md)
 * [Find and manage requests efficiently](/help/manage-work/issues-requests/find-requests.md)
+

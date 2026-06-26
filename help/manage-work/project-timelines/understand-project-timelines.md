@@ -66,3 +66,4 @@ What you'll learn:
 * [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 * [Master duration types and task constraints](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
+
