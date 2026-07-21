@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-11-11T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
