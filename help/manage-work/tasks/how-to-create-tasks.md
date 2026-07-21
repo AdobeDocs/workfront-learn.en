@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
