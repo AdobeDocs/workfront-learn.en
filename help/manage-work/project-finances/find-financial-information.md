@@ -1,18 +1,18 @@
 ---
-title: Access and manage financial information for projects and tasks
-description: Discover how to efficiently access, analyze, and manage financial data for projects and tasks, covering budgets, revenue, costs, and performance metrics at both project and task levels.
+title: Access and manage financial information for project finances
+description: Discover how to access, analyze, and manage financial data for projects and tasks, including budgets, revenue, costs, and performance metrics.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,7 +30,7 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-06T14:52:10.607Z'
 ---
-# Access and manage financial information for projects and tasks
+# Access and manage financial information for project finances
 
 The video explains how to access and manage financial information for projects and tasks. ​It provides a comprehensive overview of navigating and understanding financial data at both project and task levels. ​
 
