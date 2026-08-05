@@ -340,15 +340,6 @@ user-guide-description: A library of training videos and articles designed to he
     + [Sending documents and linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
     + [Maintaining version history](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
-  + G Suite {#g-suite-integrations}
-    + [Enhance your workflow with the G Suite Integration](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
-
-  + Jira {#jira}
-    + [Create visibility with the [!DNL Jira] Integration](/help/integrations/jira/jira.md)
-
-  + Microsoft Outlook {#outlook}
-    + [Install the Microsoft Outlook add-in](/help/integrations/outlook/integrations-microsoft-outlook.md)
-
   + Microsoft Teams {#ms-teams}
     + [Adobe Workfront for Microsoft Teams Overview](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
     + [Install Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
