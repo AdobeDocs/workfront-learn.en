@@ -1,18 +1,18 @@
 ---
 title: Understand planned hours
-description: Optimize project planning in Workfront by leveraging planned hours to estimate durations, manage resources, track time, utilize historical references, and streamline assignments.
-activity: use
+description: Optimize project planning by leveraging planned hours to estimate durations, manage resources, track time, use historical references and streamline assignments.
 feature: Work Management
 thumbnail: 335090.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 299
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2026-08-04T00:00:00.000Z'
+last-substantial-update: '2026-08-04'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -34,10 +34,10 @@ autotag-review: '2026-05-06T14:38:33.224Z'
 
 The video explains the concept of planned hours, which are estimates of the time required to complete tasks.
 Planned hours are crucial for resource management in Workfront, helping identify over- or under-allocation of resources. 
-They also assist in tracking time spent on tasks, improving future estimates, and clarifying expectations with workers.
+They also assist in tracking time spent on tasks, improving future estimates, and clarifying expectations with team members.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?learn=on)
 
 
 ## Key takeaways
@@ -45,8 +45,8 @@ They also assist in tracking time spent on tasks, improving future estimates, an
 * **Planned Hours Importance:** Planned hours help estimate task durations, manage resource allocation, and track time spent, improving future project planning. ​
 * **Accurate Estimation Tips:** Break long tasks into smaller subtasks, track time effectively, and document changes or issues to refine planned hours estimates. ​
 * **Resource Management:** Workfront uses planned hours to identify over- or under-allocation of resources, ensuring efficient task assignments. ​
-* **Historical Reference:** Completed projects should be retained as references for future planning, especially for tasks assigned to new workers. ​
-* **Ease of Use:** Planned hours can be added or edited using Inline Editing, and parent task hours are automatically calculated by summing subtasks. ​ Including planned hours in project templates is recommended. ​
+* **Historical Reference:** Completed projects should be retained as references for future planning, especially for tasks assigned to new team members. ​
+* **Ease of Use:** Planned hours can be added or edited using Inline Editing, and parent task hours are automatically calculated by summing subtasks. ​ Including planned hours in project templates is recommended.
 
 
 ## Recommended tutorials and articles on this topic
