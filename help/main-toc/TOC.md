@@ -185,7 +185,7 @@ user-guide-description: A library of training videos and articles designed to he
     + [Log and review project hours](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Project finances for users {#project-finances-users}
-    + [Access and manage financial information for projects and tasks](/help/manage-work/project-finances/find-financial-information.md)
+    + [Access and manage financial information for project finances](/help/manage-work/project-finances/find-financial-information.md)
     + [Update finances for client projects](/help/manage-work/project-finances/update-and-review-finances.md)
     + [Customize billing rates for job roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 
