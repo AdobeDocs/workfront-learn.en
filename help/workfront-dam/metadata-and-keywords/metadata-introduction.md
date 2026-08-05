@@ -1,6 +1,6 @@
 ---
-title: Understand metadata
-description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 2 Metadata and Keywords course.
+title: Metadata and keywords introduction
+description: Metadata is all of the data used to describe an asset. Keywords are a subset of metadata and contain descriptive terms about the contents of the asset.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -27,7 +27,7 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-06T01:57:17.963Z'
 ---
-# Understand metadata
+# Metadata and keywords introduction
 
 Metadata is all of the data used to describe an asset. Metadata fields have a name, and users can edit or change the information in many of those fields. Some metadata fields are populated by the application or device the asset came from and cannot be edited.
 

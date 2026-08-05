@@ -519,7 +519,7 @@ user-guide-description: A library of training videos and articles designed to he
     + [Customize [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + Metadata and keywords {#metadata-and-keywords}
-    + [Understand metadata](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)  
+    + [Metadata and keywords introduction](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)  
     + [Enable and enforce keyword taxonomy](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [Review the metadata terminology](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [Search for assets using metadata and keywords](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
