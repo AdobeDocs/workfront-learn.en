@@ -1,18 +1,18 @@
 ---
 title: Understand parent-child task relationships
-description: Optimize project management with tasks as the foundation, using parent-child structures, automatic parent task completion, flexible organization tools, and tailored task structuring for efficiency.
-activity: use
+description: Learn how parent-child task structures organize projects in Workfront, including automatic parent completion and flexible, tailored task organization.
 feature: Work Management
 thumbnail: 335087.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 459
 team: Technical Marketing
 recommendations: noDisplay,catalog
-last-substantial-update: '2026-07-28T00:00:00.000Z'
+last-substantial-update: '2026-07-28'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -33,9 +33,9 @@ autotag-review: '2026-05-06T14:38:15.124Z'
 # Understand parent-child task relationships
 
 This video explains the task structure in Workfront. Tasks are essential components of a project, representing the work items needed for completion.​ The video emphasizes the importance of organizing tasks accurately as a key step in project planning and management. It demonstrates how to start working with tasks and explains the parent-child task relationships. 
-​Parent tasks act as organizers, grouping the project into phases, stages, or milestones, and are not assigned to individuals. Child tasks, or subtasks, represent actionable work assigned to team members.
+Parent tasks act as organizers, grouping the project into phases, stages, or milestones, and are not assigned to individuals. Child tasks, or subtasks, represent actionable work assigned to team members.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?learn=on)
 
 ## Key takeaways
 
