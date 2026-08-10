@@ -7,11 +7,14 @@ thumbnail: 336822.png
 type: Tutorial
 role: User
 level: Intermediate
+duration: 382
 team: Technical Marketing
-last-substantial-update: '2025-08-05T00:00:00.000Z'
+last-substantial-update: '2025-08-05'
+nudge-edit:
+  - 2026-08-10
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
