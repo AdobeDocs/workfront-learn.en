@@ -42,8 +42,8 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ## Exercise URLs
 
-* `https://restcountries.com/v2/lang/es`
-* `https://restcountries.com/v2/name/{country name}`
+* `https://countries.dev/lang/es`
+* `https://countries.dev/name/{country name}`
 
 
 
