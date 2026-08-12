@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -42,7 +43,8 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!NOTE]
 >
->After saving your scenario, a new version is available under the three-dot menu should you need to access it in the future. Previously saved scenario versions are only available for 60 days. If you need to access previous versions beyond the 60 days for audit purposes, Workfront recommends saving a blueprint of your scenario and archiving in an agreed location.
+>After saving your scenario, Workfront Fusion retains the previous scenario version for 60 days. The retention period for a version begins when that version is superseded by a newer version, not when the version was originally created.
+>To retain scenario version history beyond 60 days for audit purposes, save and archive a blueprint of the scenario in an agreed-upon location.
 
 
 ## Add to your terminology
