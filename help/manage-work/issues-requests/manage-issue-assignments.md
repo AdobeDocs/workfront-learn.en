@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
