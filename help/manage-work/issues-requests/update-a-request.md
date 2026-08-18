@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog

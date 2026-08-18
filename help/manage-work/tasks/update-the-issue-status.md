@@ -5,7 +5,7 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-09-03T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
