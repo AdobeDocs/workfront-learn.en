@@ -559,8 +559,8 @@ user-guide-description: A library of training videos and articles designed to he
   + [Remove, add, and rearrange widgets in Home](/help/workfront-home/remove-add-and-rearrange-widgets.md)
 
 + Priorities {#priorities}
-  + [Focus your day using Priorities](/help/priorities/focus_your_day_using_priorities.md)
-  + [Taking action and showing your work](/help/priorities/taking_action_and_showing_your_work.md)
+  + [Focus your day using Priorities](/help/priorities/focus-your-day-using-priorities.md)
+  + [Taking action and showing your work](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + Agile {#agile}
