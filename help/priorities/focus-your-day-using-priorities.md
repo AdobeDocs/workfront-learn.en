@@ -21,7 +21,7 @@ When using Priorities, keep in mind:
 2. Tasks from projects in a current or equivalent status appear here.
 3. This tool is for personal organization and does not modify shared project plans or team priorities.
 
-### Key features
+## Key features
 
 1. **Work list and filters**
    Use built-in filters, such as the "Ready to Start" filter, to focus on tasks that are available now or coming up soon. You can also use Smart Filters to apply natural language queries, like "show me overdue tasks on Project X."
@@ -29,7 +29,7 @@ When using Priorities, keep in mind:
 2. **My Focus**
    My Focus allows you to set personal priorities for tasks without altering the official project data. For example, mark a task as urgent to address immediate needs while maintaining the overall project priority.
 
-### Daily workflow tips
+## Daily workflow tips
 
 1. At the end of your day, review completed tasks, update changes, and reset My Focus for the next day.
 2. Start each day by checking Priorities to focus on your most important work items.
