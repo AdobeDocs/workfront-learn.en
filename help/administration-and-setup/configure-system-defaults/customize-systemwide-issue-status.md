@@ -28,7 +28,7 @@ topic_v2:
 ---
 # Customize system-wide statuses
 
-[!DNL Workfront] provides a variety of default statues to accommodate your organization’s issue management workflows. These statuses can be renamed to match your organization’s terminology. And statuses can be assigned to specific issue types. 
+[!DNL Workfront] provides a variety of default statuses to accommodate your organization’s issue management workflows. These statuses can be renamed to match your organization’s terminology. And statuses can be assigned to specific issue types. 
 
 Additional statuses can be created, if needed. Only system administrators can create system-wide statuses. In addition, system administrators control which statuses can be edited by group administrators.
 
