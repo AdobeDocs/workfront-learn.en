@@ -30,11 +30,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create and mange job roles
+# Create and manage job roles
 
 In this video, you will learn:
 
-* What job roles are.
+* About job roles.
 * How to create job roles.
 * How to apply job roles to users so they can be assigned to the correct work.
 
