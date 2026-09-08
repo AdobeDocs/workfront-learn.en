@@ -33,16 +33,4 @@ autotag-review: '2026-05-05T19:05:40.406Z'
 ---
 # Update a request
 
-In this video, you will learn how to:
-
-* Find requests you've submitted
-* Make an update in the Summary panel
-* Open the request page
-* Update a request in the [!UICONTROL Updates] panel
-
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Make a request](/help/manage-work/issues-requests/make-a-request.md)
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
+{{$include /help/_includes/update-a-request.md}}

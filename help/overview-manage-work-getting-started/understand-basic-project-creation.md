@@ -33,17 +33,4 @@ autotag-review: '2026-05-05T19:29:36.461Z'
 ---
 # Understand basic project creation
 
-In this video, you will learn:
-
-* The definition of a project in Workfront
-* Basic steps to get a project up and running
-* A little about tasks and issues
-* Best practice for starting out with creating projects
-
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
-* [Learn four ways to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-basic-project-creation.md}}

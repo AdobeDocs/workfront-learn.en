@@ -32,31 +32,4 @@ autotag-review: '2026-05-05T19:12:05.478Z'
 ---
 # Review and approve digital work
 
-In this video, you will learn how to:
-
-* Find approvals in [!DNL Workfront Home]
-* Make approvals for projects, tasks, and issues
-* Make approvals for documents
-* Make approvals for proofs
-
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
-
-
->[!NOTE]
->
->Documents, proofs, and work items (projects, tasks and issues) that require approvals can be found in projects and custom reports in addition to [!DNL Workfront Home].
-
-## Recommended tutorials on this topic
-
-* [Create a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-
-
-<!--
-learn more URLS
-Approving work
-Home area for Reviewers
-Guides
-Home overview for Reviewers
-Issue page overview
--->
+{{$include /help/_includes/review-and-approve-digital-work.md}}

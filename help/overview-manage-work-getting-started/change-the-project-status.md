@@ -32,17 +32,4 @@ autotag-review: '2026-05-05T19:37:00.304Z'
 ---
 # Change the project status to complete
 
-In this video, you will learn:
-
-* How to change the project status to [!UICONTROL Complete]
-* Why to change the project status to [!UICONTROL Complete]
-* What to do if you can't change the project status to [!UICONTROL Complete]
-
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
-* [Upload assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
+{{$include /help/_includes/change-the-project-status.md}}

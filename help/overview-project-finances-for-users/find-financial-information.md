@@ -31,8 +31,4 @@ autotag-review: '2026-05-05T19:03:25.349Z'
 ---
 # Find financial information
 
-In this video, you will learn how to:
-
-* Find financial information about a project and understand where it came from.
-
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+{{$include /help/_includes/find-financial-information.md}}

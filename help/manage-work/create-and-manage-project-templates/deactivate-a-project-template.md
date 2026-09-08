@@ -32,26 +32,4 @@ autotag-review: '2026-05-06T14:59:01.715Z'
 ---
 # Deactivate a project template
 
-In this video, you will learn:
-
-* How to share a project template granting rights to activate and deactivate it.
-* How to activate and deactivate a project template.
-
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->If you decide to delete a template, any project you created using that template will not be affected. Deleted templates will be moved to the Recycle Bin for 30 days and can be recovered only by the system administrator.
-
-
-
-## Learn how to create a custom view to see and edit the active status of project templates
-
-To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
-
-## Recommended tutorials on this topic
-
-* [Create a project template and explore Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Edit the project team in a template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/deactivate-a-project-template.md}}

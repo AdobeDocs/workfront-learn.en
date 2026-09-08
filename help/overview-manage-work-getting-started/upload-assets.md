@@ -32,20 +32,4 @@ autotag-review: '2026-05-05T19:24:06.686Z'
 ---
 # Upload assets
 
-In this video, you will learn how to:
-
-* Check approvals on proofs
-* Check approvals on documents  
-* Upload a document
-* Find training on uploading proofs
-
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Upload a proof with a basic workflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-* [Change the project status to complete](/help/manage-work/projects/change-the-project-status.md)
-* [Complete approvals](/help/manage-work/close-a-project/complete-approvals.md)
-* [Record lessons learned](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Log and review hours](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/upload-assets.md}}

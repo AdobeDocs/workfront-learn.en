@@ -32,19 +32,4 @@ autotag-review: '2026-05-06T14:48:39.713Z'
 ---
 # Track progress using percent complete and progress status
 
-Make sure tasks are progressing the way they should to hit project deadlines. 
-
-In this video, you will learn about:
-
-* Percent complete
-* Progress status
-
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
-
-
-## Recommended tutorials on this topic
-
-* [Explore project timelines in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Understand date types and progress status](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-
-
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

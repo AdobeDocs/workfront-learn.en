@@ -32,25 +32,4 @@ autotag-review: '2026-05-05T19:27:31.448Z'
 ---
 # Understand project communication
 
-In this video, you will learn how to communicate with all project stakeholders using:
-
-* Good project planning
-* Updates
-* Task status and percent complete
-* Issues
-* Reports
-
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->To create the Note Search report shown in the video, see the activity in the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial.
->
->To add the Note Search report to your project panel, see the activity in the [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) tutorial.
-
-## Recommended tutorials on this topic
-
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
-* [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
+{{$include /help/_includes/understand-project-communication.md}}

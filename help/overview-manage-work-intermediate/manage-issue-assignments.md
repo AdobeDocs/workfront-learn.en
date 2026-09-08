@@ -34,20 +34,4 @@ autotag-review: '2026-05-05T19:13:29.079Z'
 ---
 # Manage issue assignments
 
-Managing issues is an important responsibility of the project manager and those assigned to work on the issues. 
-
-In this video, you will learn how to:
-
-* Assign an issue
-* Find an issue assignment
-* Update progress on issues
-* Update the issue status
-
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/manage-issue-assignments.md}}

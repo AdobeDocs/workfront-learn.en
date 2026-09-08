@@ -31,16 +31,4 @@ autotag-review: '2026-05-05T19:23:18.240Z'
 ---
 # Convert an issue/request to a task
 
-In this video, you will learn how to convert an issue or request to a task.
-
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->You cannot add issues to the project timeline, since they represent "unplanned work." The project timeline is for "planned work," meaning tasks.
-
-## Recommended tutorials on this topic
-
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

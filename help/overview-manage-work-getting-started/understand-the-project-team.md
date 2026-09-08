@@ -33,15 +33,4 @@ autotag-review: '2026-05-05T19:24:57.327Z'
 ---
 # Understand the project team
 
-In this video, you will learn:
-
-* What the project team can be used for and how to maintain it
-
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
-* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/understand-the-project-team.md}}

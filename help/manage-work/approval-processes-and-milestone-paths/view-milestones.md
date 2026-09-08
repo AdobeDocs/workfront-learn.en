@@ -32,20 +32,4 @@ autotag-review: '2026-05-06T15:03:56.827Z'
 ---
 # View milestones in your projects
 
-In this video, you will learn how to:
-
-* View milestones in a specific project
-* Read the milestone view in a list of projects
-
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->For information on how to create a Milestone view, see the Milestone view activity in [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Recommended tutorials on this topic
-
-* [Apply milestone paths to projects and tasks](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-* [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-
-
+{{$include /help/_includes/view-milestones.md}}
