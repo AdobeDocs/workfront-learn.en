@@ -33,19 +33,4 @@ autotag-review: '2026-05-05T19:18:38.976Z'
 ---
 # Deactivate a project template
 
-In this video, you will learn:
-
-* How to share a project template granting rights to activate and deactivate it.
-* How to activate and deactivate a project template.
-
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
-
-## Learn how to create a custom view to see and edit the active status of project templates
-
-To create a project template view with an active status column, see the **Project template active status view** activity in [Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
-
-## Recommended tutorials on this topic
-
-* [Create a project template and learn about Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Share a project template](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Edit the project team in a project template](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+{{$include /help/_includes/deactivate-a-project-template.md}}

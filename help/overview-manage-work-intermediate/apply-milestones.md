@@ -33,20 +33,4 @@ autotag-review: '2026-05-05T19:22:30.706Z'
 ---
 # Apply milestones
 
-In this video, you will learn how to:
-
-* Apply a milestone path to a project
-* Add a milestone to a task
-* Best practices for applying milestones
-
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->For information on how to create a Milestone view, see the Milestone view activity in [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Recommended tutorials on this topic
-
-* [View milestones](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Create milestones](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Milestone view activity in Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/apply-milestones.md}}

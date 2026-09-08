@@ -31,13 +31,4 @@ autotag-review: '2026-05-05T19:22:53.898Z'
 ---
 # Attach and edit existing approval processes
 
-In this video, you will learn how to:
-
-* Use an existing approval process
-* Edit an existing approval process for a specific project, task, or issue
-
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
-
-<!--
-learn more URLS
--->
+{{$include /help/_includes/attach-and-edit-existing-approval-processes.md}}

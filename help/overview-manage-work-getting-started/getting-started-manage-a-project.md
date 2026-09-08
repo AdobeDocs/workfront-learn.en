@@ -33,18 +33,4 @@ autotag-review: '2026-05-05T19:34:47.354Z'
 ---
 # Get started managing a project
 
-In this video, you will learn:
-
-* How to monitor project progress
-* How to drill down to see task details
-* How to communicate with stakeholders
-
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Take a project live](/help/manage-work/projects/take-a-project-live.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
-* [Understand the project team](/help/manage-work/projects/understand-the-project-team.md)
-* [Understand project communication](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

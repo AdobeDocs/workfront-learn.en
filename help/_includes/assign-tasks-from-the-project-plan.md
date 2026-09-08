@@ -1,0 +1,22 @@
+# Assign tasks from the project plan - SHARED
+
+The video explains various methods for assigning tasks in a project plan. It emphasizes using tools like filters, templates, and resource management features to streamline task assignments and optimize project workflows.
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+
+## Key takeaways
+
+* **Inline Editing for Quick Assignments:** Easily assign tasks by typing a name and selecting from a list, with type-ahead functionality for faster selection. ​
+* **Bulk Editing for Efficiency:** Assign multiple tasks to the same person by selecting tasks, using bulk edit, and choosing the name from the list. ​
+* **Job Roles for Streamlined Assignments:** Use job roles to facilitate task assignments, especially with project templates. ​ Job roles are recorded separately for resource management and capacity planning. ​
+* **Team Assignments for Collaboration:** Assign tasks to teams by selecting the team name, visible with a team icon. ​ Team members can self-assign tasks or team leads can reassign them, while retaining the team name for reporting. ​
+* **Resource Management Integration:** Job roles and team assignments support resource capacity and availability calculations, enhancing project planning and execution. ​
+
+
+## Recommended tutorials on this topic
+
+* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
+* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)

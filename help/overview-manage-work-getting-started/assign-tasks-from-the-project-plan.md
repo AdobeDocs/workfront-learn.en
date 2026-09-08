@@ -35,28 +35,4 @@ autotag-review: '2026-05-05T19:37:33.273Z'
 ---
 # Assign tasks from the project plan
 
-In this video, you will:
-
-* Learn how to assign a task using inline edit
-* Learn how to assign multiple tasks to the same person
-* Understand the value of job roles when assigning tasks
-* Understand the value of project templates when assigning tasks
-* Understand the value of assigning tasks to teams
-
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
-
-<!--
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
--->
-
-## Recommended tutorials on this topic
-
-* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/assign-tasks-from-the-project-plan.md}}

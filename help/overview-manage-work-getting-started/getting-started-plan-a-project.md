@@ -32,21 +32,4 @@ autotag-review: '2026-05-05T19:34:31.389Z'
 ---
 # Get started planning a project
 
-In this video, you will learn:
-
-* The five main components of a project
-* What the Planning status signifies
-* How a [!UICONTROL View] can help you see the information you need
-* How to set the start or completion date
-
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Create tasks](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
-* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/getting-started-plan-a-project.md}}

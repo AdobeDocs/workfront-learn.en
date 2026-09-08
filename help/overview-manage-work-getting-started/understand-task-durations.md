@@ -35,17 +35,4 @@ autotag-review: '2026-05-05T19:27:00.215Z'
 ---
 # Understand task durations
 
-In this video, you will learn:
-
-* What a task duration is in [!DNL Workfront]
-* How durations affect start and completion dates of tasks
-* How durations factor into project timelines
-* Best practice recommendations for using task durations
-
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Learn to sequence tasks](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/understand-task-durations.md}}

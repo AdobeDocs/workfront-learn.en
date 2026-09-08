@@ -34,16 +34,4 @@ autotag-review: '2026-05-05T19:23:39.556Z'
 ---
 # Work with tasks
 
-In this video, you will learn:
-
-* How to edit existing tasks in a project
-* Ways to add and delete tasks
-* How to change the task order
-
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
+{{$include /help/_includes/work-with-tasks.md}}

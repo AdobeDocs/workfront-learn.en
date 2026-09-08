@@ -32,19 +32,4 @@ autotag-review: '2026-05-05T19:30:48.728Z'
 ---
 # Track overall project progress
 
-In this video, you will learn how to track project progress using:
-
-* Percent complete
-* Projected dates
-* Condition and Progress status
-* Open issues
-* The Condition Update column
-
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Understand the [!UICONTROL Gantt] view](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/track-overall-project-progress.md}}

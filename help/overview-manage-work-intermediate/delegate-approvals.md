@@ -32,20 +32,4 @@ autotag-review: '2026-05-05T19:19:24.972Z'
 ---
 # Delegate tasks, issues, and approvals
 
-Learn how to delegate task and issue assignments, and approvals for projects, tasks, and issues, to another Workfront user.
-
-In this video, you will learn how to:
-
-* Enable delegation in Setup
-* Delegate task and issue assignments
-* Delegate approvals for projects, tasks, issues
-* Identify delegated approvals
-
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Set up event notifications](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Create a global and a single-use approval process](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-
+{{$include /help/_includes/delegate-approvals.md}}

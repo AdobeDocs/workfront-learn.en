@@ -34,17 +34,4 @@ autotag-review: '2026-05-05T19:20:37.203Z'
 ---
 # Convert an issue/request to a project
 
-In this video, you will learn how to:
-
-* Initiate the conversion from request to project
-* Select the appropriate project template
-* Complete the conversion from request to project
-
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
-
-
-## Recommended tutorials on this topic
-
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Handle Unplanned Work](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/create-a-project-from-a-request.md}}

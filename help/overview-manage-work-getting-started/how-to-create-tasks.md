@@ -32,15 +32,4 @@ autotag-review: '2026-05-05T19:33:22.173Z'
 ---
 # Create tasks
 
-In this video, you will learn:
-
-* The long way to create a task in a Workfront project
-* A few handy shortcuts for creating tasks
-
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Understand parent-child tasks](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Work with tasks](/help/manage-work/tasks/work-with-tasks.md)
-* [Assign tasks from the project plan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/how-to-create-tasks.md}}

@@ -32,14 +32,4 @@ autotag-review: '2026-05-05T19:31:02.064Z'
 ---
 # Take a project live
 
-In this video, you will learn how to:
-
-* Take your project live using the project status
-
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Find projects](/help/manage-work/projects/find-projects.md)
-* [Share a project](/help/manage-work/projects/share-a-project.md)
+{{$include /help/_includes/take-a-project-live.md}}

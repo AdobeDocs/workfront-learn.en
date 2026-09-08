@@ -33,9 +33,4 @@ autotag-review: '2026-05-05T19:04:49.686Z'
 ---
 # View milestones
 
-In this video, you will learn how to:
-
-* View milestones in a specific project
-* Read the milestone view in the [!UICONTROL Project] area
-
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+{{$include /help/_includes/view-milestones.md}}

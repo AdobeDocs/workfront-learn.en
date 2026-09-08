@@ -35,28 +35,4 @@ autotag-review: '2026-05-05T19:33:39.240Z'
 ---
 # Learn to sequence tasks
 
-In this video, you will learn:
-
-* What a predecessor is in Workfront
-* How to use durations and predecessors to create a timeline
-* How predecessors sequence tasks in a project
-* How setting a task start date will affect the task constraint
-* How to enter predecessors
-
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
-
-<!--
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
--->
-
-## Recommended tutorials on this topic
-
-* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Understand [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/learn-to-sequence-tasks.md}}

@@ -32,18 +32,4 @@ autotag-review: '2026-05-05T19:25:17.227Z'
 ---
 # Understand [!UICONTROL Work Effort]
 
-In this video, you will learn:
-
-* What Work Effort is and how it can help you manage projects
-* How to use Work Effort
-* How to create a Work Effort task view
-
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
-
-For more information on [!UICONTROL Work Effort], see the [Work Effort overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) article.
-
-## Recommended tutorials on this topic
-
-* [Understand task durations](/help/manage-work/tasks/understand-task-durations.md)
-* [Understand planned hours](/help/manage-work/tasks/understand-planned-hours.md)
-* [Create a basic view](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/understand-work-effort.md}}

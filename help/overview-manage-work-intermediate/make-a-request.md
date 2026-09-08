@@ -33,23 +33,4 @@ autotag-review: '2026-05-05T19:16:08.741Z'
 ---
 # Make a request
 
-At many organizations, the first step in kicking off a new project, developing a new product, or creating a deliverable is making a request in Workfront. You can track the progress on the request and provide additional information when needed.
-
-In this video, you will learn how to:
-
-* Navigate to the request area
-* Make a request
-* View submitted requests
-* Copy a request
-* Find a draft of a request
-* See the last three request paths
-
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Understand request queues](/help/manage-work/request-queues/understand-request-queues.md)
-* [Find and manage requests](/help/manage-work/issues-requests/find-requests.md)
-* [Update a request](/help/manage-work/issues-requests/update-a-request.md)
-* [Convert an issue/request to a project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convert an issue/request to a task](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/make-a-request.md}}

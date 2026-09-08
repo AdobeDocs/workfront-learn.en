@@ -32,18 +32,4 @@ autotag-review: '2026-05-05T19:26:09.573Z'
 ---
 # Understand the [!UICONTROL Gantt] view
 
-In this video, you will learn how to use:
-
-* The project Gantt chart
-* The task Gantt chart
-
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
-
-You can learn more online with the article, [Get started with the Gantt chart](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
-
-## Recommended tutorials on this topic
-
-* [Get started managing a project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Track overall project progress](/help/manage-work/projects/track-overall-project-progress.md)
-* [Track work progress with project metrics](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Understand the [!UICONTROL Board] view](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/understand-the-gantt-view.md}}

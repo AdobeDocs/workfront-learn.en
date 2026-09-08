@@ -34,17 +34,4 @@ autotag-review: '2026-05-05T19:29:12.110Z'
 ---
 # Learn four ways to create a project
 
-In this video, you will learn how to:
-
-* Create a project from a template
-* Create a project from scratch
-* Copy an existing project
-* Import a [!DNL Microsoft Project] file
-
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
-
-## Recommended tutorials on this topic
-
-* [Understand basic project creation](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Navigate the project page](/help/manage-work/projects/navigate-the-project-page.md)
-* [Fill in the project details](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-other-ways-to-create-projects.md}}
