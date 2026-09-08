@@ -2,7 +2,7 @@
 
 The project page is filled with many features to help you manage your work. Work with your system administrator if there is an option you need but don't see in your instance of [!DNL Workfront]. Here are a few of the main project page features to make note of.
 
-![Project page](assets/project-page-graphic-for-planner.png)
+![Project page](/help/manage-work/projects/assets/project-page-graphic-for-planner.png)
 
 1. **Breadcrumb trail:** Navigate through the program and portfolio hierarchy behind the project.
 2. **Object type:** Showing the object type on the landing page helps you identify what you're looking at in [!DNL Workfront]. The "project" term is customizable by your [!DNL Workfront] system administrator.
