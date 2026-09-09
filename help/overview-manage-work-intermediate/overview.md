@@ -55,19 +55,21 @@ Dig deeper to learn even more about getting the most out of Workfront.
 
 Learn how to create and use project templates.
 
-* [Create a project template and learn about Blueprints](create-a-project-template.md) - Learn to create a project template from scratch and from an existing template.
+* [Create a project template and explore Blueprints](create-a-project-template.md) - Learn to create a project template from scratch and from an existing template.
+* [Install and use a Blueprint](install-and-use-a-blueprint.md) - Learn how an Administrator installs a blueprint and how a user puts it to use.
 * [Create a project directly from a template](create-a-project-directly-from-a-template.md) - Learn how to create a project by starting with a template already built in Adobe Workfront.
-* [Share a project template](share-a-project-template.md) - Learn to share a project template and projects created from a template.
-* [Copy an existing project](/help/manage-work/manage-projects/copy-an-existing-project.md) - Learn how to make a copy of an existing project in Adobe Workfront.
+* [Share a project template effectively](share-a-project-template.md) - Learn to share a project template and projects created from a template.
+* [Copy an existing project efficiently](/help/manage-work/manage-projects/copy-an-existing-project.md) - Learn how to make a copy of an existing project in Adobe Workfront.
 * [Deactivate a project template](deactivate-a-project-template.md) - Learn how to activate and deactivate a project template.
-* [Edit the project team in a project template](edit-the-project-team-in-a-project-template.md) - Learn how to avoid unintentionally including **non** project team members in a template project team, and how to edit the template project team.
+* [Edit the project team in a template](edit-the-project-team-in-a-project-template.md) - Learn how to avoid unintentionally including **non** project team members in a template project team, and how to edit the template project team.
 
 ## How to create and use approval processes
 
 Learn how to create approval processes, attach them to workflows, review digital work, and delegate approvals.
 
-* [Create a global and a single-use approval process](create-a-single-use-approval-process.md) - Learn how to create a global and a single-use approval process on a project, task, or issue.
+* [Create and manage approval processes](create-a-single-use-approval-process.md) - Learn how to create a global and a single-use approval process on a project, task, or issue.
 * [Understand group-specific approval processes](group-specific-approval-processes.md) - Learn how group administrators can create or edit approval processes for the groups they manage.
+* [Apply an issue approval process in a request queue](apply-an-issue-approval-process-in-a-request-queue.md) - Implement a default approval process to streamline request workflows.
 * [Review and approve digital work](review-and-approve-digital-work.md) - Learn how to find, review, and make approvals for projects, tasks, issues, documents, and proofs.
 * [Delegate tasks, issues, and approvals](delegate-approvals.md) - Learn how to delegate approvals for projects, tasks, issues, and timecards to another Adobe Workfront user.
 
@@ -75,27 +77,28 @@ Learn how to create approval processes, attach them to workflows, review digital
 
 Learn how to create milestone paths, apply the milestones to tasks, and view milestone reports.
 
-* [Create milestones](creating-milestones.md) - Learn what milestone paths are, how to create milestone paths, and how to add milestone steps to a project.
-* [Apply milestones](apply-milestones.md) - Learn how to a apply milestone path to a project and associate key tasks as milestone steps within the project.
-* [View milestones](view-milestones.md) - Learn how to view milestones in an Adobe Workfront project, plus use the milestone view in the project area.
+* [Create milestone paths and steps](creating-milestones.md) - Learn what milestone paths are, how to create milestone paths, and how to add milestone steps to a project.
+* [Apply milestone paths to projects and tasks](apply-milestones.md) - Learn how to a apply milestone path to a project and associate key tasks as milestone steps within the project.
+* [View milestones in your projects](view-milestones.md) - Learn how to view milestones in an Adobe Workfront project, plus use the milestone view in the project area.
 
 ## How to work with issues
 
 Learn how to handle unplanned work with issues, convert issues to other work items, manage issue assignments and report on issues.
 
-* [Handle Unplanned Work](handle-unplanned-work.md) - Learn how to handle unplanned work in your organization.
-* [Make a request](make-a-request.md) - Learn how to navigate to the request area, make a request, view submitted requests, copy a request, find a draft of a request, and see the last three request paths.
-* [Find and manage requests](find-requests.md) - Learn how to find requests you're assigned to, requests you've created, and requests that you manage.
-* [Manage issue assignments](manage-issue-assignments.md) - Learn how to assign an issue to an individual user, multiple users, or a team so the issue will get resolved.
-* [Update a request](update-a-request.md) - Learn how to find requests you've submitted and make an update.
-* [Convert an issue/request to a project](create-a-project-from-a-request.md) - Learn how to initiate the conversion from request to project and select the appropriate project template.
-* [Convert an issue/request to a task](convert-issues-to-other-work-items.md) - Learn how to convert an issue to a task.
-* [Report on issues](report-on-issues.md) - Learn how to create an issue report showing resolving objects and a project report showing converted issue information.
+* [Handle unplanned work effectively](handle-unplanned-work.md) - Learn how to handle unplanned work in your organization.
+* [Create and manage requests in Workfront](make-a-request.md) - Learn how to navigate to the request area, make a request, view submitted requests, copy a request, find a draft of a request, and see the last three request paths.
+* [Find and manage requests efficiently](find-requests.md) - Learn how to find requests you're assigned to, requests you've created, and requests that you manage.
+* [Manage issue assignments effectively](manage-issue-assignments.md) - Learn how to assign an issue to an individual user, multiple users, or a team so the issue will get resolved.
+* [Update a request in Workfront](update-a-request.md) - Learn how to find requests you've submitted and make an update.
+* [Convert an issue or request to a project](create-a-project-from-a-request.md) - Learn how to initiate the conversion from request to project and select the appropriate project template.
+* [Convert an issue or request to a task](convert-issues-to-other-work-items.md) - Learn how to convert an issue to a task.
+* [Create custom reports for issue management](report-on-issues.md) - Learn how to create an issue report showing resolving objects and a project report showing converted issue information.
 
 ## Digging deeper
 
 Get an in depth understanding of various project management tools in Workfront, along with some pro tips and best practices.    
 
-* [Understand and manage duration types and task constraints](understand-and-manage-duration-types-and-task-constraints.md) - Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.
-* [Understand cross-project predecessors](understand-cross-project-predecessors.md) - Learn how to use and keep track of predecessor tasks across 2 or more projects.
-* [Advanced predecessors](advanced-predecessors.md) - Learn about predecessor dependency types, lag types, enforced predecessors, dependency loop errors, and some short cuts and best practices.
+* [Master duration types and task constraints](understand-and-manage-duration-types-and-task-constraints.md) - Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.
+* [Master Project Tracking with Baselines, Snapshots, and Automated Reports](baselines-snapshots-and-automated-reports.md) - Learn to track historical task data using baselines, capturing snapshots, and setting up automated task‑report emails.
+* [Establish dependencies with cross-project predecessors](understand-cross-project-predecessors.md) - Learn how to use and keep track of predecessor tasks across 2 or more projects.
+* [Master advanced task dependencies](advanced-predecessors.md) - Learn about predecessor dependency types, lag types, enforced predecessors, dependency loop errors, and some short cuts and best practices.

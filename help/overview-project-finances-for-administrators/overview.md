@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-09-03T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -44,4 +44,5 @@ Learn how to establish system-wide financial settings to ensure consistency in b
 * [Set up task revenue & cost defaults](set-up-task-revenue-and-cost-defaults.md) - Learn how the revenue type and cost type are used to calculate the planned and actual financial information for a task.
 * [Set up exchange rates](set-up-exchange-rates.md) - Learn how exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
 * [Set up expense types](set-up-expense-types.md) - Learn how to use pre-built expense types and create new ones.
+* [Create job roles and rate cards](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md) - Learn how to create a job role and a rate card, and how to attach and remove a rate card from a project.
 * [Understand financial access](understand-financial-access.md) - Learn how financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.

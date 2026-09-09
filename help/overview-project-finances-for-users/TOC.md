@@ -12,7 +12,7 @@ index: true
 
 + [Project finances for users](overview.md)
 + Project finances for users {#project-finances-for-users}
-  + [Update and review finances](update-and-review-finances.md)
-  + [Find financial information](find-financial-information.md)
-  + [Understand multiple billing rates](multiple-billing-rates.md)
+  + [Access and manage financial information for project finances](find-financial-information.md)
+  + [Update finances for client projects](update-and-review-finances.md)
+  + [Customize billing rates for job roles](multiple-billing-rates.md)
 

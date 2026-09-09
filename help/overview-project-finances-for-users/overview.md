@@ -42,6 +42,6 @@ Adobe Workfront is not meant to replace any financial tracking or billing softwa
 >* Standard license type with rights to edit financial data
 
 
-* [Update and review finances](update-and-review-finances.md) - Learn how to review the financial information associated with a project.
-* [Find financial information](find-financial-information.md) - Learn how to find financial information about a project and understand where it came from.
-* [Understand multiple billing rates](multiple-billing-rates.md) - Learn how to override system billing rates within a specific project.
+* [Access and manage financial information for project finances](find-financial-information.md) - Learn how to find financial information about a project and understand where it came from.
+* [Update finances for client projects](update-and-review-finances.md) - Learn how to review the financial information associated with a project.
+* [Customize billing rates for job roles](multiple-billing-rates.md) - Learn how to override system billing rates within a specific project.

@@ -16,6 +16,7 @@ index: true
   + [Set up task revenue & cost defaults](set-up-task-revenue-and-cost-defaults.md)
   + [Set up exchange rates](set-up-exchange-rates.md)
   + [Set up expense types](set-up-expense-types.md)
+  + [Create job roles and rate cards](create-job-roles-and-rate-cards.md)
   + [Understand financial access](understand-financial-access.md)
 
 
