@@ -30,7 +30,7 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-06T14:30:09.369Z'
 ---
-# Project finances for users overview
+# Project finances for users
 
 Learn how to track financial information for projects, set cost and revenue types, and override billing rates. This tutorial is designed for users who will be tracking the financial data related to a project.
 
