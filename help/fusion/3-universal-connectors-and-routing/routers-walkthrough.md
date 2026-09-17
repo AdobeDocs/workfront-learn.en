@@ -10,6 +10,7 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -42,9 +43,9 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ## Exercise URLs
 
-* Superhero API website: `https://www.superheroapi.com/`
-* First URL for exercise: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* Second URL for exercise: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* Superhero API website: `https://superheroapi.com/`
+* First URL for exercise: `https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Second URL for exercise: `https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253588. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
 

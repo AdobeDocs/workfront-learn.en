@@ -10,6 +10,7 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -63,14 +64,14 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
    **Next, you're going to change the mapped values in the new cloned modules.**
 
-1. Go to <https://www.superheroapi.com/> and use your Facebook account to get an access token.
+1. Go to <https://superheroapi.com/> and click **Login with GitHub** to get an access token.
 
     >[!NOTE]
     >
     >If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253588. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
 
-1. Open the settings for the Get superhero appearance and change the URL to `https://www.superheroapi.com/api/[access- token]/332/appearance`. Be sure to include your access token in the URL. Click OK.
-1. Open the settings for the Get superhero abilities and change the URL to `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Be sure to include your access token in the URL. Click OK.
+1. Open the settings for the Get superhero appearance and change the URL to `https://superheroapi.com/api/[access- token]/332/appearance`. Be sure to include your access token in the URL. Click OK.
+1. Open the settings for the Get superhero abilities and change the URL to `https://superheroapi.com/api/[access- token]/332/powerstats`. Be sure to include your access token in the URL. Click OK.
 1. Right-click each superhero module and select Run this module only. This will generate the data structure you need to see for mapping.
 1. After you run both, change the number "332" in each URL field to Column 4 mapped from the Parse CSV module.
 
@@ -78,7 +79,7 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
     **Now you can click into the Set multiple variables module in the superhero path and update the name, height, weight, and abilities.**
 
-1. Update the Name and Abilities fields from the Get superhero abilities module--Module 8.
+1. Update the Name field and the abilities fields from the Get superhero abilities module--Module 8.
 
    ![Routers Image 5](../12-exercises/assets/routers-walkthrough-5.png)
 
