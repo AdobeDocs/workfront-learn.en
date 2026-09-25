@@ -18,6 +18,8 @@ product_v2:
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: d3382524-5489-431b-bde9-271ab257bc37
     internal-label: Workfront Scenario Planner
@@ -29,6 +31,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # A Moment with Product: Introduction to [!DNL Scenario Planner]
 

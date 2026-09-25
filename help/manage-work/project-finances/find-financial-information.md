@@ -13,6 +13,7 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
 doc-type: Feature Video
+autotag-review: '2026-05-06T14:52:10.607Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -28,7 +29,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-autotag-review: '2026-05-06T14:52:10.607Z'
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Access and manage financial information for project finances
 

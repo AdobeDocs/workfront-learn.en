@@ -7,10 +7,16 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+TQID: 'https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

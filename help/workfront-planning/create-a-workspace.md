@@ -10,13 +10,18 @@ duration: 180
 last-substantial-update: 2025-02-27T00:00:00.000Z
 jira: KT-17209
 exl-id: 22a08739-2842-41c7-917c-506b4d9ebf46
-TQID: https://experienceleague.adobe.com/fCDNT7Uk4IiAwb2vIc73K4vKyEY9UtxruQnZFHArr6Q
+TQID: 'https://experienceleague.adobe.com/fCDNT7Uk4IiAwb2vIc73K4vKyEY9UtxruQnZFHArr6Q'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: eb361af2-3e4f-4a79-b5f3-7a344ac5794c
+    internal-label: Workfront Planning
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

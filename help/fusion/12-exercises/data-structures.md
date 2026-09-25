@@ -11,13 +11,13 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+autotag-review: '2026-05-06T16:44:39.897Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
-subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
     internal-label: Workfront Fusion
 role_v2:
@@ -26,7 +26,6 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-autotag-review: '2026-05-06T16:44:39.897Z'
 ---
 # Data structures exercise
 

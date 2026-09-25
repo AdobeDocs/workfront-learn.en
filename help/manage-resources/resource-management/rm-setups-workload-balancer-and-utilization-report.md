@@ -10,13 +10,13 @@ team: Technical Marketing
 thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
-TQID: https://experienceleague.adobe.com/UKw3Mhb6lKzEFgOL9aq6QmpM3NjAnQffmYja9R96ETA
+TQID: 'https://experienceleague.adobe.com/UKw3Mhb6lKzEFgOL9aq6QmpM3NjAnQffmYja9R96ETA'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
+    internal-label: Resource management
 subfeature_v2:
   - id: c33d85a1-be85-4290-854c-87408c10aa80
     internal-label: Workload Balancer
@@ -30,6 +30,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Resource management setups, Workload Balancer, and utilization report
 

@@ -12,6 +12,7 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
+autotag-review: '2026-05-05T19:20:03.459Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -23,6 +24,8 @@ feature_v2:
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
     internal-label: Projects
+  - id: b04e3dc0-3a59-45b1-aa02-b0b6d5f87eff
+    internal-label: Approvals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -31,7 +34,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-autotag-review: '2026-05-05T19:20:03.459Z'
 ---
 # Create a global and a single-use approval process
 
