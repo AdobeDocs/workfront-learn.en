@@ -11,13 +11,13 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-TQID: https://experienceleague.adobe.com/xqa0b-3ApGd1QiIJh1s4Y0btYfdkgZXDQQ1kAiBWp3I
+TQID: 'https://experienceleague.adobe.com/xqa0b-3ApGd1QiIJh1s4Y0btYfdkgZXDQQ1kAiBWp3I'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
+    internal-label: Resource management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -26,6 +26,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # View by job role in the [!DNL Resource Planner]
 

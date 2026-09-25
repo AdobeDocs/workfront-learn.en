@@ -11,7 +11,7 @@ jira: KT-12448
 doc-type: video
 last-substantial-update: 2023-03-27T00:00:00.000Z
 exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
-TQID: https://experienceleague.adobe.com/26-D31PjlO1Ook65JyHEhnmYoRLBNmNVvgXfeBuMXSw
+TQID: 'https://experienceleague.adobe.com/26-D31PjlO1Ook65JyHEhnmYoRLBNmNVvgXfeBuMXSw'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -19,7 +19,9 @@ feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
+    internal-label: Resource management
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

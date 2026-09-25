@@ -13,6 +13,7 @@ last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+autotag-review: '2026-05-06T15:58:59.618Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -24,13 +25,14 @@ feature_v2:
 subfeature_v2:
   - id: c10f2e93-7a58-4212-aa24-684c265ebe76
     internal-label: Requests
+  - id: b04e3dc0-3a59-45b1-aa02-b0b6d5f87eff
+    internal-label: Approvals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-autotag-review: '2026-05-06T15:58:59.618Z'
 ---
 # Apply an issue approval process in a request queue
 

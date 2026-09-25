@@ -6,13 +6,18 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10910
 exl-id: 0554b393-ca51-443c-97e9-98af017a0586
-TQID: https://experienceleague.adobe.com/PthLPRi613hvysqXe0hhj1rlfeQrgdNfhSsNO8uE8qk
+TQID: 'https://experienceleague.adobe.com/PthLPRi613hvysqXe0hhj1rlfeQrgdNfhSsNO8uE8qk'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
     internal-label: Integrations
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

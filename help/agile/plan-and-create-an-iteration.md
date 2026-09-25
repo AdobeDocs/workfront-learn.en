@@ -8,10 +8,16 @@ jira: KT-10874
 thumbnail: 346284.jpeg
 exl-id: 338ce8aa-3dec-43d2-92e2-2e48e6e65947
 doc-type: video
-TQID: https://experienceleague.adobe.com/xiY9ODS6NIJGAN-tyYLtAv2iq5JoOOBf9-Qb6QckSSg
+TQID: 'https://experienceleague.adobe.com/xiY9ODS6NIJGAN-tyYLtAv2iq5JoOOBf9-Qb6QckSSg'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

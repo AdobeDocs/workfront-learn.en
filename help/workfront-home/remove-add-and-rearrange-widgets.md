@@ -10,13 +10,15 @@ last-substantial-update: 2023-09-25T00:00:00.000Z
 jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
-TQID: https://experienceleague.adobe.com/d7iOATkngeflxKkV4gicbHHJVFArlhjpR9aHNsBltWU
+TQID: 'https://experienceleague.adobe.com/d7iOATkngeflxKkV4gicbHHJVFArlhjpR9aHNsBltWU'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: be65ef36-43e4-48e1-a062-caa3778e15be
     internal-label: Agile

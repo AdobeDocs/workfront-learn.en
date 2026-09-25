@@ -11,10 +11,16 @@ last-substantial-update: 2024-09-23T00:00:00.000Z
 jira: KT-14099
 thumbnail: 3425935.jpeg
 exl-id: e9563b1d-e0e4-4d48-97b1-57f154df4ae2
-TQID: https://experienceleague.adobe.com/P75aT83GhdJd-7df0U1BjBnRoFFzxYs-30r2SNjymso
+TQID: 'https://experienceleague.adobe.com/P75aT83GhdJd-7df0U1BjBnRoFFzxYs-30r2SNjymso'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: d87de1f9-8e24-4c4d-aa4c-a403075091a1
+    internal-label: Custom forms
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

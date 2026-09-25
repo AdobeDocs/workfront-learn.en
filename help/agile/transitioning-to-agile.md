@@ -7,10 +7,16 @@ level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-TQID: https://experienceleague.adobe.com/6IUD-XvNYXT1aAB1ZHXqyA0lDo8OVlkCv19ICAD1ZHQ
+TQID: 'https://experienceleague.adobe.com/6IUD-XvNYXT1aAB1ZHXqyA0lDo8OVlkCv19ICAD1ZHQ'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

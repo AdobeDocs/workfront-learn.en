@@ -12,10 +12,16 @@ last-substantial-update: 2024-09-23T00:00:00.000Z
 jira: KT-8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
 doc-type: video
-TQID: https://experienceleague.adobe.com/pugyPp54xwplTnQ1S6XWDR9I8VF45fhYcsmikRFGYLY
+TQID: 'https://experienceleague.adobe.com/pugyPp54xwplTnQ1S6XWDR9I8VF45fhYcsmikRFGYLY'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: d87de1f9-8e24-4c4d-aa4c-a403075091a1
+    internal-label: Custom forms
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

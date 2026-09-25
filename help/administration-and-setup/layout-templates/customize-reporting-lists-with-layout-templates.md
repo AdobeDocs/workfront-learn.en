@@ -11,13 +11,15 @@ thumbnail: 335079.png
 jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
-TQID: https://experienceleague.adobe.com/4oQGDsriqoRtNj-BLTr0uICny49ZrzOoKs4zhZfWu0I
+TQID: 'https://experienceleague.adobe.com/4oQGDsriqoRtNj-BLTr0uICny49ZrzOoKs4zhZfWu0I'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
     internal-label: Administration
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
