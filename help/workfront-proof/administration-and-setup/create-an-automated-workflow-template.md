@@ -12,12 +12,13 @@ jira: KT-8830
 last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
+autotag-review: '2026-05-05T20:09:06.617Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-    internal-label: Resource Management
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
     internal-label: Workfront Proof
@@ -29,7 +30,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-autotag-review: '2026-05-05T20:09:06.617Z'
 ---
 # Create an automated workflow template
 
