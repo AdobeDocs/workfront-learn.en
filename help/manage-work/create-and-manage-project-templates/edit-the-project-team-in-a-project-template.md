@@ -7,7 +7,7 @@ thumbnail: 3426803.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-01-09T00:00:00.000Z'
+last-substantial-update: '2026-10-13T00:00:00.000Z'
 recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14755

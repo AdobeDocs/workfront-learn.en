@@ -7,7 +7,7 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2026-2-12
+last-substantial-update: '2026-10-13T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
