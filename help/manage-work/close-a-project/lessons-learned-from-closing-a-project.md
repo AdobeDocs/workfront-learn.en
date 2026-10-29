@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-12-12T00:00:00.000Z'
+last-substantial-update: '2026-10-29T00:00:00.000Z'
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
