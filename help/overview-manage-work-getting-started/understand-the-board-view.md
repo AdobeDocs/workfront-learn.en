@@ -1,6 +1,6 @@
 ---
-title: Understand the [!UICONTROL Board] view
-description: Learn how to use the [!UICONTROL Board] view on the project landing page.
+title: Explore the Board view for task management
+description: Streamline task management in Workfront with the [!UICONTROL Board] view's [!DNL Kanban] interface, offering task sorting, creation, customization, and seamless integration with the task list view for efficient project organization.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -30,6 +30,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
 ---
-# Understand the [!UICONTROL Board] view
+# Explore the Board view for task management
 
 {{$include /help/_includes/understand-the-board-view.md}}

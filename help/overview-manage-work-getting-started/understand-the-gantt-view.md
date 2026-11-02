@@ -1,6 +1,6 @@
 ---
-title: Understand the [!UICONTROL Gantt] view
-description: Learn how to use the Gantt chart to quickly see your tasks and projects from a high level with a surprising amount of detail.
+title: Explore the [!UICONTROL Gantt] view for project management
+description: Maximize project efficiency with Gantt charts, offering big-picture views, progress tracking, milestone management, predecessor insights, and customizable options to streamline task and resource management.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -30,6 +30,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
 ---
-# Understand the [!UICONTROL Gantt] view
+# Explore the [!UICONTROL Gantt] view for project management
 
 {{$include /help/_includes/understand-the-gantt-view.md}}

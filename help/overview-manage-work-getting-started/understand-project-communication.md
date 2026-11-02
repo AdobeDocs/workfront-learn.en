@@ -1,6 +1,6 @@
 ---
-title: Understand project communication
-description: Learn how to communicate about project work using good project planning, updates, task status,  percent complete, issues, and reports.
+title: Enhance project success through effective communication
+description: Enhance project success with effective stakeholder communication, task clarity, centralized discussions, accurate status reporting, and proactive issue resolution to maintain alignment and efficiency.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-05T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
@@ -30,6 +30,7 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:27:31.448Z'
 ---
-# Understand project communication
+# Enhance project success through effective communication
 
 {{$include /help/_includes/understand-project-communication.md}}
+

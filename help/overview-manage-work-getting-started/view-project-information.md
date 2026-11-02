@@ -1,6 +1,6 @@
 ---
-title: View project information
-description: Learn how Filters, Views, and Groupings can make project information easily viewable to help you manage projects.
+title: Explore filters, views, and groupings for project management
+description: Streamline project workflows with customizable filters, detailed views, efficient groupings, task management tools, and issue tracking features for enhanced organization and clarity.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -32,6 +32,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# View project information
+# Explore filters, views, and groupings for project management
 
 {{$include /help/_includes/view-project-information.md}}

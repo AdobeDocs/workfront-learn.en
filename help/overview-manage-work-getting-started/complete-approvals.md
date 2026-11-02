@@ -1,6 +1,6 @@
 ---
-title: Complete approvals
-description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL  Workfront].
+title: Resolve task and issue approvals
+description: Learn how to identify incomplete approvals and resolve them so you can close your project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-08-05T00:00:00.000Z'
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
@@ -31,6 +31,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:36:38.984Z'
 ---
-# Complete approvals
+# Resolve task and issue approvals
 
 {{$include /help/_includes/complete-approvals.md}}

@@ -1,6 +1,6 @@
 ---
-title: Find projects
-description: Learn some quick and easy ways to find projects.
+title: Find projects efficiently
+description: Simplify project management with filters, search tools, recents lists, favorites, pinned projects, and custom reports or dashboards for quick and organized access to projects.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -33,6 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Find projects
+# Find projects efficiently
 
 {{$include /help/_includes/find-projects.md}}
+

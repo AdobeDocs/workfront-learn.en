@@ -1,6 +1,6 @@
 ---
-title: Upload assets
-description: Upload documents, proofs, and other assets to the project before closing it to ensure all relevant data is associated with the project.
+title: Upload and manage project assets
+description: Upload documents and proofs to the project before closing it to ensure all relevant data is associated with the project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10138
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 product_v2:
@@ -30,6 +31,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:06.686Z'
 ---
-# Upload assets
+# Upload and manage project assets
 
 {{$include /help/_includes/upload-assets.md}}

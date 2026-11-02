@@ -1,6 +1,6 @@
 ---
-title: Record lessons learned
-description: Learn how you can include a "lessons learned" task to identify what went well and what can improve the next time.
+title: Record lessons learned for future projects
+description: Learn how to benefit from "lessons learned" when closing a project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-29T00:00:00.000Z'
 jira: KT-10135
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
 product_v2:
@@ -30,6 +31,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:59.903Z'
 ---
-# Record lessons learned
+# Record lessons learned for future projects
 
 {{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

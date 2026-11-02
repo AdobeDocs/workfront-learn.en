@@ -1,6 +1,6 @@
 ---
-title: Log and review hours
-description: Record outstanding hours and review logged hours before closing a project in [!DNL  Workfront].
+title: Log and review project hours
+description: Record outstanding hours and review logged hours before closing a project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -30,6 +30,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
 ---
-# Log and review hours
+# Log and review project hours
 
 {{$include /help/_includes/log-and-review-hours.md}}

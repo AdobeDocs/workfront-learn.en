@@ -1,6 +1,6 @@
 ---
 title: Understand the project team
-description: Learn what the project team can be used for and how to maintain it.
+description: Effectively manage project teams in Workfront with automatic team population, manual updates, centralized communication, email notifications, and tracking project involvement for streamlined collaboration.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial

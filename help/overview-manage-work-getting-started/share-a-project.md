@@ -1,6 +1,6 @@
 ---
-title: Share a project
-description: Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using [!DNL  Workfront].
+title: Share projects effectively in Workfront
+description: Simplify project sharing in Workfront with automatic access rights, flexible options, team-based management, template sharing, and customizable system defaults for streamlined collaboration.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-07-21T00:00:00.000Z'
+last-substantial-update: '2026-07-06T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
@@ -30,6 +30,7 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:31:33.943Z'
 ---
-# Share a project
+# Share projects effectively in Workfront
 
 {{$include /help/_includes/share-a-project.md}}
+

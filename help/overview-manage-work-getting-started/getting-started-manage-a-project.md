@@ -1,6 +1,6 @@
 ---
-title: Get started managing a project
-description: Learn how to monitor project progress, drill down to see task details, and how to communicate with stakeholders.
+title: Manage a project with current status
+description: Track project progress effectively with reports, manage dependencies through Gantt views, monitor tasks and approvals, enhance team communication, and ensure smooth workflows with frequent updates.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -33,6 +33,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Get started managing a project
+# Manage a project with current status
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}
