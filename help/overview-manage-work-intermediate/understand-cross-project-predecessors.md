@@ -1,5 +1,5 @@
 ---
-title: Understand cross-project predecessors
+title: Establish dependencies with cross-project predecessors
 description: Learn how to use and keep track of predecessor tasks across 2 or more projects.
 feature: Work Management
 thumbnail: 3422123.jpg
@@ -30,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:09:16.844Z'
 ---
-# Understand cross-project predecessors
+# Establish dependencies with cross-project predecessors
 
 {{$include /help/_includes/understand-cross-project-predecessors.md}}

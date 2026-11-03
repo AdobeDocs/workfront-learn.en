@@ -1,6 +1,6 @@
 ---
-title: Apply milestones
-description: Learn how to apply milestone paths to an [!DNL  Workfront] project and associate key tasks as milestone steps within the project.
+title: Apply milestone paths to projects and tasks
+description: Learn how to apply milestone paths to a project and associate key tasks as milestone steps within the project.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,11 +9,11 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: '2023-06-20T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8933
 hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
-recommendations: noDisplay,catalog
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -31,6 +31,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:22:30.706Z'
 ---
-# Apply milestones
+# Apply milestone paths to projects and tasks
 
 {{$include /help/_includes/apply-milestones.md}}

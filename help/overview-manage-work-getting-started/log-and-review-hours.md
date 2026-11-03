@@ -1,6 +1,6 @@
 ---
 title: Log and review project hours
-description: Record outstanding hours and review logged hours before closing a project.
+description: Learn how to review, log, edit, and approve project hours in Workfront. This beginner-friendly tutorial shows how to use the Hours section, Log Time, in-line-edit, and hour approvals.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-11-2T00:00:00.000Z'
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14

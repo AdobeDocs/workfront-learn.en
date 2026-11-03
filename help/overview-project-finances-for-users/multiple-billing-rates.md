@@ -1,6 +1,6 @@
 ---
-title: Understand multiple billing rates
-description: Learn how to override system billing rates within a project.
+title: Customize billing rates for job roles
+description: Customize and manage billing rates for job roles at the project level.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,8 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10048
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 hide: true
 exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
 product_v2:
@@ -28,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:00:23.025Z'
 ---
-# Understand multiple billing rates
+# Customize billing rates for job roles
 
 {{$include /help/_includes/multiple-billing-rates.md}}

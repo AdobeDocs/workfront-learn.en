@@ -1,14 +1,15 @@
 ---
-title: Find financial information
-description: Learn how to find financial information about a project and understand where it came from.
+title: Access and manage financial information for project finances
+description: Discover how to access, analyze, and manage financial data for projects and tasks, including budgets, revenue, costs, and performance metrics.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
@@ -29,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:03:25.349Z'
 ---
-# Find financial information
+# Access and manage financial information for project finances
 
 {{$include /help/_includes/find-financial-information.md}}

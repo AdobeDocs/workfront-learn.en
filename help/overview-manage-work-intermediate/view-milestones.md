@@ -1,6 +1,6 @@
 ---
-title: View milestones
-description: Learn how to view milestones in an [!DNL  Workfront] project, plus use the milestone view in the [!UICONTROL Project] area.
+title: View milestones in your projects
+description: Learn how to view milestones in a project, plus use the milestone view in the [!UICONTROL Project] area.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -8,6 +8,8 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: '2024-10-09T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8946
 hide: true
 doc-type: video
@@ -31,6 +33,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:04:49.686Z'
 ---
-# View milestones
+# View milestones in your projects
 
 {{$include /help/_includes/view-milestones.md}}

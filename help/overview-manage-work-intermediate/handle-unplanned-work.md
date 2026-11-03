@@ -1,6 +1,6 @@
 ---
-title: Handle Unplanned Work
-description: Learn how to handle unplanned work with Adobe Workfront.
+title: Handle unplanned work effectively
+description: Improve project management in Workfront by effectively tracking and resolving issues, utilizing logging tools, implementing best practices, fostering communication, and seamlessly converting issues into tasks for streamlined execution.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
@@ -32,6 +32,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:15:26.822Z'
 ---
-# Handle unplanned work
+# Handle unplanned work effectively
 
 {{$include /help/_includes/handle-unplanned-work.md}}

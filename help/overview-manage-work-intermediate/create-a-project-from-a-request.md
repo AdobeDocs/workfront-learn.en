@@ -1,6 +1,6 @@
 ---
-title: Convert an issue/request to a project
-description: Learn how to initiate the conversion from request to project, select the appropriate project template, and complete the conversion.
+title: Convert an issue or request to a project
+description: Streamline project management in Workfront by converting issues into projects with templates, customizing project details, managing issue resolution options, and ensuring visibility and access for seamless workflows.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -32,6 +33,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
 ---
-# Convert an issue/request to a project
+# Convert an issue or request to a project
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

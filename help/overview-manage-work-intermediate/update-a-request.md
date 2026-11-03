@@ -1,13 +1,13 @@
 ---
-title: Update a request
-description: Learn how to find the requests you've submitted and make an update on those requests in [!DNL  Workfront].
+title: Update a request in Workfront
+description: Simplify request management in Workfront by using filters to locate requests, efficiently updating status and details, accessing full information, and fostering centralized collaboration for streamlined workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -33,6 +33,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Update a request
+# Update a request in Workfront
 
 {{$include /help/_includes/update-a-request.md}}

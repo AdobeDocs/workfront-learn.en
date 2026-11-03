@@ -1,6 +1,6 @@
 ---
-title: Share a project template
-description: Learn to share a project template and projects created from a template.
+title: Share a project template effectively
+description: Learn how to share a project template and how to share projects created from a template.
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -8,10 +8,11 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: '2026-10-13T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8951
 hide: true
 doc-type: video
-recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -30,6 +31,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:12:39.523Z'
 ---
-# Share a project template
+# Share a project template effectively
 
 {{$include /help/_includes/share-a-project-template.md}}

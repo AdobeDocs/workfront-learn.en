@@ -1,6 +1,6 @@
 ---
-title: Report on Issues
-description: Learn how to create reports showing open issues and conversion information.
+title: Create custom reports for issue management
+description: Learn how to create custom reports for issue and project management, including how to centralize and track open issues, customize columns and filters, and optimize project and issue management.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -32,6 +32,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:14:42.100Z'
 ---
-# Report on issues
+# Create custom reports for issue management
 
 {{$include /help/_includes/report-on-issues.md}}

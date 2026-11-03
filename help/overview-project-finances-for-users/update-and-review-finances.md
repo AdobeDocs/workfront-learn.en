@@ -1,6 +1,6 @@
 ---
-title: Update and review finances
-description: Learn how to review the financial information associated with a project in [!DNL  Workfront].
+title: Update finances for client projects
+description: Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,8 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10137
+last-substantial-update: 2026-04-30
+recommendations: noDisplay,catalog
 hide: true
 exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
 product_v2:
@@ -28,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T18:57:32.878Z'
 ---
-# Update and review finances
+# Update finances for client projects
 
 {{$include /help/_includes/update-and-review-finances.md}}

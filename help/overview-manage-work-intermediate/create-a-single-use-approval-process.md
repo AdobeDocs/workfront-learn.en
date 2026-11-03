@@ -1,6 +1,6 @@
 ---
-title: Create a global and a single-use approval process
-description: Learn how to create a global and a single-use approval process on a project, task, or issue.
+title: Create and manage approval processes
+description: Enhance approval workflows by leveraging both global and single-use approval processes for tasks, projects, or issues, implementing multi-level staged approvals, and promoting efficiency through reusability in project templates.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,6 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: '2025-03-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
@@ -35,6 +37,6 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Create a global and a single-use approval process
+# Create and manage approval processes
 
 {{$include /help/_includes/create-a-single-use-approval-process.md}}

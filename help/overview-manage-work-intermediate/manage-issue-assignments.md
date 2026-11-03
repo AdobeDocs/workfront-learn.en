@@ -1,6 +1,6 @@
 ---
-title: Manage issue assignments
-description: Learn how to assign out an issue to an individual user, multiple users, or a team so the issue will get resolved.
+title: Manage issue assignments effectively
+description: Effectively manage issues in Workfront by using inline editing and the workload balancer for assignments, tracking and updating progress, changing issue statuses, and adhering to team-specific workflows for seamless project execution.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
@@ -32,6 +32,6 @@ level_v2:
     internal-label: Beginner
 autotag-review: '2026-05-05T19:13:29.079Z'
 ---
-# Manage issue assignments
+# Manage issue assignments effectively
 
 {{$include /help/_includes/manage-issue-assignments.md}}

@@ -1,13 +1,13 @@
 ---
-title: Convert an issue/request to a task
-description: Learn how to convert an issue or request to a task.
+title: Convert an issue or request to a task
+description: Effortlessly convert issues into tasks in Workfront with editable names, seamless custom form attachment, flexible project selection, conversion options, and synchronized status updates for streamlined workflows.
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
@@ -29,6 +29,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:18.240Z'
 ---
-# Convert an issue/request to a task
+# Convert an issue or request to a task
 
 {{$include /help/_includes/convert-issues-to-other-work-items.md}}

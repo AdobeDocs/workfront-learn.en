@@ -1,6 +1,6 @@
 ---
-title: Make a request
-description: Learn how to find the [!UICONTROL Requests] area and make a request. Then learn how to view submitted and draft requests.
+title: Create and manage requests in Workfront
+description: Enhance efficiency in Workfront with streamlined request creation, customizable workflows, draft autosave, tracking and filtering tools, and the ability to copy and reuse requests.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -33,6 +33,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Make a request
+# Create and manage requests in Workfront
 
 {{$include /help/_includes/make-a-request.md}}

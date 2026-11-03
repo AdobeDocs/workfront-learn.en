@@ -1,6 +1,6 @@
 ---
-title: Copy an existing project
-description: Learn how to make a copy of an existing project.
+title: Copy an existing project efficiently
+description: Easily duplicate projects by using the "Copy" option in the three-dot menu, renaming and setting the status to "Planning," copying custom data and forms, and transferring issues separately via the Issues tab for tailored project setups.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,8 +8,9 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-10155
+last-substantial-update: '2025-03-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-10155
 hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
 product_v2:
@@ -29,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:21:23.208Z'
 ---
-# Copy an existing project
+# Copy an existing project efficiently
 
 {{$include /help/_includes/copy-an-existing-project.md}}

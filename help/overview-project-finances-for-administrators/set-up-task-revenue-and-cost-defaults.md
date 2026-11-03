@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10066
+recommendations: noDisplay,catalog
 hide: true
 exl-id: 4245eb13-0436-429b-a956-ff13c3c824c3
 product_v2:

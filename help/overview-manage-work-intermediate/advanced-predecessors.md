@@ -1,5 +1,5 @@
 ---
-title: Advanced predecessors
+title: Master advanced task dependencies
 description: Learn about predecessor dependency types, lag types, enforced predecessors, dependency loop errors, and some short cuts and best practices.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -30,6 +30,6 @@ level_v2:
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:55.145Z'
 ---
-# Advanced predecessors
+# Master advanced task dependencies
 
 {{$include /help/_includes/advanced-predecessors.md}}

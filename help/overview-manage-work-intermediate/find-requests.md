@@ -1,6 +1,6 @@
 ---
-title: Find and manage requests
-description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
+title: Find and manage requests efficiently
+description: Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of "my" in different contexts for effective request management.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -33,6 +33,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Find and manage requests
+# Find and manage requests efficiently
 
 {{$include /help/_includes/find-requests.md}}
