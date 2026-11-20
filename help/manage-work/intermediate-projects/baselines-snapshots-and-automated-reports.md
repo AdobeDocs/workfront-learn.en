@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2026-04-20T00:00:00.000Z
+last-substantial-update: 2026-11-20T00:00:00.000Z
 jira: KT-20256
 doc-type: video
 product_v2:

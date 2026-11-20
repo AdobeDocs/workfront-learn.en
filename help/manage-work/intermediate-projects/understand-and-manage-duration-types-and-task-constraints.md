@@ -8,7 +8,7 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2023-06-27T00:00:00.000Z'
+last-substantial-update: '2026-11-16T00:00:00.000Z'
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
